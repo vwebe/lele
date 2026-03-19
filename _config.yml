@@ -1,3 +1,5 @@
-title: My Blog
-description: My personal blog
-theme: minima
+title: "Lele Aesthetic"
+description: "A soft modern blog built with Jekyll"
+theme: null
+markdown: kramdown
+permalink: /:year/:month/:day/:title.html
