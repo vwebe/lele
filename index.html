@@ -1,11 +1,405 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>My Blog</title>
+  <style>
+    :root {
+      --bg: #f4f4f2;
+      --card: #ffffff;
+      --text: #1c1c1c;
+      --muted: #666666;
+      --accent: #222831;
+      --accent-2: #393e46;
+      --line: #e4e4e4;
+      --tag: #efefef;
+      --shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+      --radius: 18px;
+      --max: 1100px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    img {
+      width: 100%;
+      display: block;
+      border-radius: 14px;
+    }
+
+    .container {
+      width: min(92%, var(--max));
+      margin: 0 auto;
+    }
+
+    header {
+      background: var(--accent);
+      color: white;
+      padding: 18px 0;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .logo {
+      font-size: 1.2rem;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 16px;
+      font-size: 0.95rem;
+    }
+
+    .nav-links a {
+      color: #f2f2f2;
+      opacity: 0.9;
+    }
+
+    .nav-links a:hover {
+      opacity: 1;
+    }
+
+    .hero {
+      padding: 36px 0 24px;
+    }
+
+    .hero-box {
+      background: linear-gradient(135deg, #ffffff, #ececec);
+      border-radius: 24px;
+      padding: 28px 20px;
+      box-shadow: var(--shadow);
+      border: 1px solid var(--line);
+    }
+
+    .hero-text small {
+      display: inline-block;
+      background: var(--tag);
+      color: var(--accent);
+      padding: 8px 12px;
+      border-radius: 999px;
+      margin-bottom: 14px;
+      font-weight: bold;
+      font-size: 0.8rem;
+    }
+
+    .hero-text h1 {
+      font-size: 2rem;
+      line-height: 1.2;
+      margin-bottom: 12px;
+      color: var(--accent);
+    }
+
+    .hero-text p {
+      color: var(--muted);
+      margin-bottom: 18px;
+      max-width: 600px;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 12px 16px;
+      border-radius: 12px;
+      font-weight: bold;
+      transition: 0.2s ease;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: var(--accent-2);
+    }
+
+    .btn-secondary {
+      background: white;
+      border: 1px solid var(--line);
+      color: var(--accent);
+    }
+
+    .section-title {
+      margin: 30px 0 16px;
+      font-size: 1.4rem;
+      color: var(--accent);
+    }
+
+    .featured {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 18px;
+    }
+
+    .featured-card,
+    .post-card,
+    .about-box {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .featured-card-content,
+    .post-card-content,
+    .about-content {
+      padding: 18px;
+    }
+
+    .meta {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+
+    .featured-card h2,
+    .post-card h3 {
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+
+    .featured-card p,
+    .post-card p,
+    .about-content p {
+      color: var(--muted);
+    }
+
+    .tags {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-top: 14px;
+    }
+
+    .tag {
+      background: var(--tag);
+      color: var(--accent);
+      padding: 6px 10px;
+      border-radius: 999px;
+      font-size: 0.8rem;
+    }
+
+    .posts-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 18px;
+      margin-top: 10px;
+    }
+
+    .post-card img {
+      aspect-ratio: 16 / 10;
+      object-fit: cover;
+    }
+
+    .read-more {
+      display: inline-block;
+      margin-top: 14px;
+      color: var(--accent);
+      font-weight: bold;
+    }
+
+    .about {
+      margin: 34px 0;
+    }
+
+    .about-content h2 {
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+
+    footer {
+      margin-top: 36px;
+      padding: 26px 0 40px;
+      color: var(--muted);
+      text-align: center;
+      font-size: 0.95rem;
+    }
+
+    @media (min-width: 700px) {
+      .hero-box {
+        padding: 40px;
+      }
+
+      .hero-text h1 {
+        font-size: 2.8rem;
+      }
+
+      .featured {
+        grid-template-columns: 1.4fr 1fr;
+      }
+
+      .posts-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (min-width: 980px) {
+      .posts-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
+    @media (max-width: 560px) {
+      .nav {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .nav-links {
+        flex-wrap: wrap;
+      }
+
+      .hero-text h1 {
+        font-size: 1.7rem;
+      }
+    }
+  </style>
 </head>
 <body>
-  <h1>Hello from my blog</h1>
-  <p>My GitHub Pages site is working.</p>
+  <header>
+    <div class="container nav">
+      <div class="logo">My Blog</div>
+      <nav class="nav-links">
+        <a href="#">Home</a>
+        <a href="#">Articles</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div class="hero-box">
+        <div class="hero-text">
+          <small>Fresh stories & ideas</small>
+          <h1>A simple, elegant blog homepage for your writing</h1>
+          <p>
+            Share your thoughts, tutorials, life updates, and creative work with a clean responsive design that feels light, modern, and easy to read.
+          </p>
+          <div class="hero-buttons">
+            <a href="#" class="btn btn-primary">Read Latest Post</a>
+            <a href="#" class="btn btn-secondary">View All Articles</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <h2 class="section-title">Featured Post</h2>
+    <section class="featured">
+      <article class="featured-card">
+        <img src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=80" alt="Laptop and coffee on desk" />
+        <div class="featured-card-content">
+          <div class="meta">March 19, 2026 • 5 min read</div>
+          <h2>How I started building my first blog with GitHub Pages</h2>
+          <p>
+            A beginner-friendly look at creating a blog, publishing it online, and making it look modern without spending money.
+          </p>
+          <div class="tags">
+            <span class="tag">GitHub</span>
+            <span class="tag">HTML</span>
+            <span class="tag">Beginner</span>
+          </div>
+          <a class="read-more" href="#">Read article →</a>
+        </div>
+      </article>
+
+      <aside class="about-box">
+        <div class="about-content">
+          <h2>About This Blog</h2>
+          <p>
+            Welcome to my blog. I write about web design, coding, personal projects, and simple ideas that help me learn and grow.
+          </p>
+          <div class="tags">
+            <span class="tag">Design</span>
+            <span class="tag">Coding</span>
+            <span class="tag">Lifestyle</span>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <h2 class="section-title">Latest Posts</h2>
+    <section class="posts-grid">
+      <article class="post-card">
+        <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80" alt="Working on a laptop" />
+        <div class="post-card-content">
+          <div class="meta">March 17, 2026 • 4 min read</div>
+          <h3>Three easy ways to make a homepage look better</h3>
+          <p>Small design changes can make your page feel cleaner, more modern, and easier to read.</p>
+          <a class="read-more" href="#">Read more →</a>
+        </div>
+      </article>
+
+      <article class="post-card">
+        <img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?auto=format&fit=crop&w=900&q=80" alt="Notebook and workspace" />
+        <div class="post-card-content">
+          <div class="meta">March 14, 2026 • 3 min read</div>
+          <h3>Why simple blog design often works best</h3>
+          <p>Minimal layouts can help readers focus on your words instead of too many visual distractions.</p>
+          <a class="read-more" href="#">Read more →</a>
+        </div>
+      </article>
+
+      <article class="post-card">
+        <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80" alt="Writing desk by the window" />
+        <div class="post-card-content">
+          <div class="meta">March 10, 2026 • 6 min read</div>
+          <h3>My writing setup for blogging on a small screen</h3>
+          <p>A practical setup for writing and checking your site from a phone in portrait mode.</p>
+          <a class="read-more" href="#">Read more →</a>
+        </div>
+      </article>
+    </section>
+
+    <section class="about">
+      <div class="about-box">
+        <div class="about-content">
+          <h2>Start writing today</h2>
+          <p>
+            This homepage is ready for your own blog title, your post names, and your personal content. You can edit the text, images, and links anytime in GitHub.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>© 2026 My Blog • Built with HTML and GitHub Pages</p>
+    </div>
+  </footer>
 </body>
 </html>
