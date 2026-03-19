@@ -276,3 +276,13 @@ a {
     font-size: 1.65rem;
   }
 }
+.hero-logo {
+  margin-bottom: 14px;
+}
+
+.hero-logo img {
+  max-width: 120px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
