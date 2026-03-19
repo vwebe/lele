@@ -3,7 +3,7 @@ layout: post
 title: "Liburan ke Gunung Bromo: Destinasi Indah yang Wajib Dikunjungi"
 ---
 
-![Pemandangan Gunung Bromo]({{ '/assets/images/bromo.jpg' | relative_url }})
+![Pemandangan Gunung Bromo]({{ '/assets/images/bromo.webp' | relative_url }})
 
 Gunung Bromo adalah salah satu destinasi wisata paling terkenal di Indonesia. Terletak di Jawa Timur, tempat ini menawarkan pemandangan alam yang sangat indah, udara yang sejuk, dan pengalaman liburan yang sulit dilupakan.
 
@@ -13,7 +13,7 @@ Salah satu hal yang paling menarik dari Gunung Bromo adalah pemandangan matahari
 
 Selain itu, hamparan pasir luas yang dikenal sebagai **Lautan Pasir** juga menjadi daya tarik utama. Pengunjung bisa berjalan kaki, naik kuda, atau menggunakan jeep untuk menjelajahi area ini.
 
-![Lautan Pasir Bromo]({{ '/assets/images/bromo-laut-pasir.jpg' | relative_url }})
+![Lautan Pasir Bromo]({{ '/assets/images/bromo2.webp' | relative_url }})
 
 ## Aktivitas yang Bisa Dilakukan
 
