@@ -466,3 +466,15 @@ a {
   margin-bottom: 12px;
   color: var(--primary-dark);
 }
+.post-content a {
+  background: var(--accent);
+  padding: 4px 10px;
+  border-radius: 999px;
+  color: var(--primary-dark);
+  font-weight: 600;
+}
+
+.post-content a:hover {
+  background: var(--primary);
+  color: white;
+}
