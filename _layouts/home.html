@@ -2,49 +2,131 @@
 layout: default
 ---
 
-<section class="hero">
-  <div class="hero-logo">
-    <img src="{{ '/lele.gif' | relative_url }}" alt="Lele Aesthetic Logo">
-  </div>
-  <h1>Lele Aesthetic</h1>
-  <p>
-    Blog pribadi tentang travel, cerita, inspirasi, dan hal-hal sederhana yang menarik untuk dibagikan.
-  </p>
-</section>
+{% assign featured_post = site.posts.first %}
 
-<section class="section-head">
-  <h2>Artikel Terbaru</h2>
-</section>
-
-<section class="post-grid">
-  {% for post in site.posts %}
-    <article class="post-card">
-      {% if post.image %}
-        <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
-        </a>
-      {% endif %}
-
-      <div class="post-meta">
-        {{ post.date | date: "%d %B %Y" }}
+<section class="premium-hero">
+  <div class="premium-hero__inner">
+    <div class="premium-hero__content">
+      <div class="premium-badge">
+        <span>Lele Aesthetic</span>
       </div>
-
-      <h3>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h3>
-
+      <h1>Catatan travel, inspirasi, dan cerita yang dibuat dengan rasa.</h1>
       <p>
-        {{ post.description | default: post.excerpt | strip_html | truncate: 120 }}
+        Selamat datang di Lele Aesthetic. Ruang kecil yang berisi artikel travel,
+        pengalaman personal, dan hal-hal sederhana yang layak dinikmati pelan-pelan.
       </p>
+      <div class="premium-actions">
+        {% if featured_post %}
+          <a class="premium-btn premium-btn--primary" href="{{ featured_post.url | relative_url }}">
+            Baca artikel terbaru
+          </a>
+        {% endif %}
+        <a class="premium-btn premium-btn--soft" href="{{ '/about.html' | relative_url }}">
+          Tentang blog
+        </a>
+      </div>
+    </div>
 
-      <a class="read-more" href="{{ post.url | relative_url }}">Baca selengkapnya →</a>
-    </article>
-  {% endfor %}
+    <div class="premium-hero__visual">
+      {% if featured_post and featured_post.image %}
+        <a href="{{ featured_post.url | relative_url }}" class="premium-featured-image-link">
+          <img
+            src="{{ featured_post.image | relative_url }}"
+            alt="{{ featured_post.title }}"
+            class="premium-featured-image"
+            width="1200"
+            height="800"
+            decoding="async"
+          >
+        </a>
+      {% else %}
+        <div class="premium-placeholder">
+          <img src="{{ '/lele.gif' | relative_url }}" alt="Lele Aesthetic logo" width="160" height="160">
+        </div>
+      {% endif %}
+    </div>
+  </div>
 </section>
 
-<section class="page-card">
-  <h2>Tentang Blog Ini</h2>
+{% if featured_post %}
+<section class="featured-post">
+  <div class="section-title-wrap">
+    <p class="section-kicker">Pilihan utama</p>
+    <h2>Featured Post</h2>
+  </div>
+
+  <article class="featured-card">
+    <div class="featured-card__meta">
+      <span>{{ featured_post.date | date: "%d %B %Y" }}</span>
+    </div>
+
+    <h3>
+      <a href="{{ featured_post.url | relative_url }}">{{ featured_post.title }}</a>
+    </h3>
+
+    <p>
+      {{ featured_post.description | default: featured_post.excerpt | strip_html | truncate: 170 }}
+    </p>
+
+    <a class="featured-link" href="{{ featured_post.url | relative_url }}">
+      Baca selengkapnya →
+    </a>
+  </article>
+</section>
+{% endif %}
+
+<section class="latest-posts">
+  <div class="section-title-wrap">
+    <p class="section-kicker">Artikel terbaru</p>
+    <h2>Jelajahi tulisan terbaru</h2>
+  </div>
+
+  <div class="premium-post-grid">
+    {% for post in site.posts %}
+      <article class="premium-post-card">
+        {% if post.image %}
+          <a href="{{ post.url | relative_url }}" class="premium-post-card__thumb">
+            <img
+              src="{{ post.image | relative_url }}"
+              alt="{{ post.title }}"
+              width="1200"
+              height="800"
+              loading="lazy"
+              decoding="async"
+            >
+          </a>
+        {% endif %}
+
+        <div class="premium-post-card__body">
+          <div class="premium-post-card__meta">
+            <span>{{ post.date | date: "%d %B %Y" }}</span>
+          </div>
+
+          <h3>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+
+          <p>
+            {{ post.description | default: post.excerpt | strip_html | truncate: 120 }}
+          </p>
+
+          <a class="premium-readmore" href="{{ post.url | relative_url }}">
+            Baca artikel →
+          </a>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="premium-about-box">
+  <div class="section-title-wrap">
+    <p class="section-kicker">Tentang</p>
+    <h2>Lele Aesthetic</h2>
+  </div>
+
   <p>
-    Selamat datang di <strong>Lele Aesthetic</strong>. Ini adalah ruang kecil di internet untuk berbagi cerita perjalanan, pengalaman pribadi, dan inspirasi visual dengan gaya yang ringan dan nyaman dibaca.
+    Blog ini dibuat untuk membagikan cerita perjalanan, panduan ringan, dan inspirasi visual
+    dengan tampilan yang lembut, terang, dan nyaman dibaca di desktop maupun mobile.
   </p>
 </section>
