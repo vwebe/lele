@@ -120,7 +120,22 @@ Kalau kamu mencari destinasi wisata alam di Indonesia yang mudah dijangkau tapi 
 <p>Jaket tebal, sepatu nyaman, masker, dan kamera.</p>
 
 <p>
-Baca juga: <a href="{{ '/2026/03/20/biaya-ke-gunung-bromo.html' | relative_url }}">
+Baca juga:
+<a href="{{ '/2026/03/20/biaya-ke-gunung-bromo.html' | relative_url }}">
 Biaya ke Gunung Bromo
+</a>
+</p>
+
+<p>
+Baca juga:
+<a href="{{ '/2026/03/20/tips-ke-gunung-bromo.html' | relative_url }}">
+Tips ke Gunung Bromo
+</a>
+</p>
+
+<p>
+Baca juga:
+<a href="{{ '/2026/03/20/2026-03-20-itinerary-ke-gunung-bromo.html' | relative_url }}">
+Itinerary ke Gunung Bromo
 </a>
 </p>
