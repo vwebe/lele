@@ -13,7 +13,7 @@ Salah satu hal yang paling menarik dari Gunung Bromo adalah pemandangan matahari
 
 Selain itu, hamparan pasir luas yang dikenal sebagai **Lautan Pasir** juga menjadi daya tarik utama. Pengunjung bisa berjalan kaki, naik kuda, atau menggunakan jeep untuk menjelajahi area ini.
 
-![Lautan Pasir Bromo]({{ '/assets/images/bromo2.webp' | relative_url }})
+![Lautan Pasir Bromo]({{ '/assets/images/gurun-pasir-bromo.webp' | relative_url }})
 
 ## Aktivitas yang Bisa Dilakukan
 
