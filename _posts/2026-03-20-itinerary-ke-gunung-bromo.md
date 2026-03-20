@@ -93,7 +93,7 @@ Biaya ke Gunung Bromo
 
 <p>
 Baca juga:
-<a href="{{ '/2026/03/21/tips-ke-gunung-bromo.html' | relative_url }}">
+<a href="{{ '/2026/03/20/tips-ke-gunung-bromo.html' | relative_url }}">
 Tips ke Gunung Bromo
 </a>
 </p>
