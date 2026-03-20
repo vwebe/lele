@@ -3,3 +3,11 @@ description: "A soft modern blog built with Jekyll"
 theme: null
 markdown: kramdown
 permalink: /:year/:month/:day/:title.html
+
+url: "https://vwebe.github.io"
+baseurl: "/lele"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
