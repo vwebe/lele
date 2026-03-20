@@ -3,7 +3,7 @@ layout: post
 title: "Biaya ke Gunung Bromo: Estimasi Lengkap untuk Liburan Hemat"
 description: "Panduan biaya ke Gunung Bromo terbaru, mulai dari tiket masuk, jeep, penginapan, hingga tips liburan hemat di Bromo."
 keywords: "biaya ke gunung bromo, harga tiket bromo, biaya jeep bromo, wisata bromo murah"
-image: "/assets/images/jeep-bromo.webp"
+image: "assets/images/jeep-bromo.webp"
 ---
 
 <p class="post-intro">
