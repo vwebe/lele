@@ -3,7 +3,7 @@ layout: post
 title: "Liburan ke Gunung Bromo: Tips, Waktu Terbaik, dan Tempat Wisata"
 description: "Panduan liburan ke Gunung Bromo lengkap: sunrise, lautan pasir, tips perjalanan, biaya, dan waktu terbaik berkunjung di Jawa Timur."
 keywords: "liburan ke gunung bromo, wisata bromo, tips ke bromo, sunrise bromo, biaya ke bromo, wisata jawa timur"
-image: "/assets/images/bromo-berkabut.webp"
+image: "assets/images/bromo-berkabut.webp"
 ---
 
 <p class="post-intro">
