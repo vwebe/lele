@@ -10,7 +10,7 @@ image: "/assets/images/bromo.webp"
 Liburan ke Gunung Bromo adalah salah satu pengalaman wisata paling populer di Indonesia. Terletak di Jawa Timur, Bromo terkenal dengan pemandangan sunrise yang ikonik, lautan pasir yang luas, dan suasana pegunungan yang unik. Tidak heran kalau tempat ini selalu jadi pilihan utama untuk liburan singkat maupun perjalanan santai.
 </p>
 
-<img src="{{ '/assets/images/bromo.webp' | relative_url }}" alt="liburan ke gunung bromo saat sunrise di jawa timur">
+<img src="{{ '/assets/images/bromo-berkabut.webp' | relative_url }}" alt="liburan ke gunung bromo saat sunrise di jawa timur">
 
 <p>
 Bagi banyak orang, perjalanan ke Bromo bukan sekadar wisata biasa. Ada sensasi berangkat dini hari, udara yang sangat dingin, dan momen ketika langit perlahan berubah warna saat matahari terbit. Pengalaman ini sederhana, tapi justru yang paling membekas.
@@ -120,5 +120,7 @@ Kalau kamu mencari destinasi wisata alam di Indonesia yang mudah dijangkau tapi 
 <p>Jaket tebal, sepatu nyaman, masker, dan kamera.</p>
 
 <p>
-Baca juga: <a href="{{ '/' | relative_url }}">artikel lainnya di Lele Aesthetic</a>
+Baca juga: <a href="{{ '/2026/03/20/biaya-ke-gunung-bromo.html' | relative_url }}">
+Biaya ke Gunung Bromo
+</a>
 </p>
