@@ -135,7 +135,7 @@ Tips ke Gunung Bromo
 
 <p>
 Baca juga:
-<a href="{{ '/2026/03/20/2026-03-20-itinerary-ke-gunung-bromo.html' | relative_url }}">
+<a href="{{ '/2026-03-20/itinerary-ke-gunung-bromo.html' | relative_url }}">
 Itinerary ke Gunung Bromo
 </a>
 </p>
