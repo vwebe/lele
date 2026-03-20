@@ -4,29 +4,47 @@ layout: default
 
 <section class="hero">
   <div class="hero-logo">
-  <img src="{{ '/lele.gif' | relative_url }}" alt="Lele Aesthetic Logo">
-</div>
-  <h1>Welcome to {{ site.title }}</h1>
+    <img src="{{ '/lele.gif' | relative_url }}" alt="Lele Aesthetic Logo">
+  </div>
+  <h1>Lele Aesthetic</h1>
   <p>
-    A personal space for thoughts, stories, inspiration, and everyday beauty.
+    Blog pribadi tentang travel, cerita, inspirasi, dan hal-hal sederhana yang menarik untuk dibagikan.
   </p>
 </section>
 
-<section class="posts-section">
-  <div class="section-head">
-    <h2>Latest Posts</h2>
-  </div>
+<section class="section-head">
+  <h2>Artikel Terbaru</h2>
+</section>
 
-  <div class="post-grid">
-    {% for post in site.posts %}
-      <article class="post-card">
-        <div class="post-meta">{{ post.date | date: "%B %d, %Y" }}</div>
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        <p>
-          {{ post.excerpt | strip_html | truncate: 120 }}
-        </p>
-        <a class="read-more" href="{{ post.url | relative_url }}">Read post →</a>
-      </article>
-    {% endfor %}
-  </div>
+<section class="post-grid">
+  {% for post in site.posts %}
+    <article class="post-card">
+      {% if post.image %}
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+        </a>
+      {% endif %}
+
+      <div class="post-meta">
+        {{ post.date | date: "%d %B %Y" }}
+      </div>
+
+      <h3>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+
+      <p>
+        {{ post.description | default: post.excerpt | strip_html | truncate: 120 }}
+      </p>
+
+      <a class="read-more" href="{{ post.url | relative_url }}">Baca selengkapnya →</a>
+    </article>
+  {% endfor %}
+</section>
+
+<section class="page-card">
+  <h2>Tentang Blog Ini</h2>
+  <p>
+    Selamat datang di <strong>Lele Aesthetic</strong>. Ini adalah ruang kecil di internet untuk berbagi cerita perjalanan, pengalaman pribadi, dan inspirasi visual dengan gaya yang ringan dan nyaman dibaca.
+  </p>
 </section>
