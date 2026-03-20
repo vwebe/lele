@@ -286,3 +286,32 @@ a {
   display: block;
   margin: 0 auto;
 }
+.post-intro {
+  font-size: 1.08rem;
+  line-height: 1.9;
+  color: #4a3d39;
+}
+
+.single-post img,
+.post-content img {
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  margin: 20px 0;
+}
+
+.single-post h2,
+.post-content h2 {
+  margin-top: 32px;
+  margin-bottom: 12px;
+}
+
+.single-post ul,
+.post-content ul {
+  padding-left: 22px;
+}
+
+.single-post li,
+.post-content li {
+  margin-bottom: 8px;
+}
