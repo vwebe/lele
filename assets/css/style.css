@@ -177,6 +177,14 @@ a {
   padding: 20px;
 }
 
+.post-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 16px;
+  margin-bottom: 14px;
+}
+
 .post-meta,
 .post-date {
   color: var(--muted);
@@ -335,6 +343,19 @@ a {
   overflow-x: auto;
 }
 
+.post-content a {
+  background: var(--accent);
+  padding: 4px 10px;
+  border-radius: 999px;
+  color: var(--primary-dark);
+  font-weight: 600;
+}
+
+.post-content a:hover {
+  background: var(--primary);
+  color: white;
+}
+
 /* Back link */
 .back-link {
   margin-top: 28px;
@@ -355,8 +376,10 @@ a {
   margin: 28px 0;
 }
 
-.page-card h1 {
+.page-card h1,
+.page-card h2 {
   margin-top: 0;
+  margin-bottom: 12px;
   color: var(--primary-dark);
 }
 
@@ -451,313 +474,5 @@ a {
 
   .hero-logo img {
     max-width: 100px;
-  }
-}
-.post-card img {
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-  border-radius: 16px;
-  margin-bottom: 14px;
-}
-
-.page-card h2 {
-  margin-top: 0;
-  margin-bottom: 12px;
-  color: var(--primary-dark);
-}
-.post-content a {
-  background: var(--accent);
-  padding: 4px 10px;
-  border-radius: 999px;
-  color: var(--primary-dark);
-  font-weight: 600;
-}
-
-.post-content a:hover {
-  background: var(--primary);
-  color: white;
-}
-.premium-hero {
-  margin: 28px 0 34px;
-}
-
-.premium-hero__inner {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 22px;
-  padding: 26px;
-  border-radius: 30px;
-  background: linear-gradient(135deg, #fffdfd 0%, #fff5fa 55%, #fff9f3 100%);
-  border: 1px solid #f2dfe8;
-  box-shadow: 0 18px 40px rgba(181, 111, 145, 0.10);
-}
-
-.premium-hero__content {
-  align-self: center;
-}
-
-.premium-badge {
-  display: inline-flex;
-  align-items: center;
-  margin-bottom: 16px;
-  padding: 8px 14px;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.92);
-  border: 1px solid var(--line);
-  color: var(--primary-dark);
-  font-size: 0.86rem;
-  font-weight: 700;
-}
-
-.premium-hero h1 {
-  margin: 0 0 14px;
-  color: var(--primary-dark);
-  font-size: 2.2rem;
-  line-height: 1.12;
-  letter-spacing: -0.02em;
-}
-
-.premium-hero p {
-  margin: 0;
-  max-width: 620px;
-  color: var(--muted);
-  font-size: 1rem;
-}
-
-.premium-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  margin-top: 22px;
-}
-
-.premium-btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 12px 16px;
-  border-radius: 14px;
-  font-weight: 700;
-  border: 1px solid transparent;
-}
-
-.premium-btn--primary {
-  background: linear-gradient(135deg, var(--primary-dark), var(--primary));
-  color: white;
-  box-shadow: 0 10px 24px rgba(185, 96, 132, 0.20);
-}
-
-.premium-btn--primary:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 14px 26px rgba(185, 96, 132, 0.24);
-}
-
-.premium-btn--soft {
-  background: rgba(255, 255, 255, 0.92);
-  color: var(--primary-dark);
-  border-color: var(--line);
-}
-
-.premium-btn--soft:hover {
-  background: var(--bg-soft);
-}
-
-.premium-hero__visual {
-  align-self: stretch;
-}
-
-.premium-featured-image-link,
-.premium-featured-image {
-  display: block;
-  width: 100%;
-  height: 100%;
-}
-
-.premium-featured-image {
-  min-height: 260px;
-  object-fit: cover;
-  border-radius: 24px;
-  box-shadow: 0 14px 34px rgba(130, 90, 110, 0.12);
-}
-
-.premium-placeholder {
-  display: grid;
-  place-items: center;
-  min-height: 260px;
-  border-radius: 24px;
-  background: linear-gradient(135deg, #fff8fb, #fff4f8);
-  border: 1px solid var(--line);
-}
-
-.section-title-wrap {
-  margin: 0 0 16px;
-}
-
-.section-kicker {
-  margin: 0 0 8px;
-  color: var(--primary);
-  font-size: 0.86rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-}
-
-.section-title-wrap h2 {
-  margin: 0;
-  color: var(--primary-dark);
-  font-size: 1.6rem;
-  line-height: 1.2;
-}
-
-.featured-post,
-.latest-posts,
-.premium-about-box {
-  margin: 0 0 34px;
-}
-
-.featured-card,
-.premium-about-box {
-  padding: 24px;
-  background: rgba(255, 255, 255, 0.88);
-  border: 1px solid var(--line);
-  border-radius: 24px;
-  box-shadow: var(--shadow);
-}
-
-.featured-card__meta,
-.premium-post-card__meta {
-  color: var(--muted);
-  font-size: 0.9rem;
-  margin-bottom: 10px;
-}
-
-.featured-card h3 {
-  margin: 0 0 12px;
-  font-size: 1.55rem;
-  line-height: 1.25;
-  color: var(--primary-dark);
-}
-
-.featured-card h3 a:hover,
-.premium-post-card h3 a:hover {
-  color: var(--primary);
-}
-
-.featured-card p,
-.premium-about-box p {
-  margin: 0;
-  color: var(--text);
-}
-
-.featured-link {
-  display: inline-block;
-  margin-top: 16px;
-  color: var(--primary-dark);
-  font-weight: 700;
-}
-
-.featured-link:hover {
-  color: var(--primary);
-}
-
-.premium-post-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 18px;
-}
-
-.premium-post-card {
-  overflow: hidden;
-  background: rgba(255, 255, 255, 0.92);
-  border: 1px solid var(--line);
-  border-radius: 24px;
-  box-shadow: var(--shadow);
-}
-
-.premium-post-card__thumb {
-  display: block;
-}
-
-.premium-post-card__thumb img {
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-}
-
-.premium-post-card__body {
-  padding: 18px;
-}
-
-.premium-post-card h3 {
-  margin: 0 0 10px;
-  font-size: 1.2rem;
-  line-height: 1.3;
-  color: var(--primary-dark);
-}
-
-.premium-post-card p {
-  margin: 0;
-  color: var(--text);
-}
-
-.premium-readmore {
-  display: inline-block;
-  margin-top: 14px;
-  color: var(--primary-dark);
-  font-weight: 700;
-}
-
-.premium-readmore:hover {
-  color: var(--primary);
-}
-
-@media (min-width: 760px) {
-  .premium-hero__inner {
-    grid-template-columns: 1.08fr 0.92fr;
-    padding: 34px;
-  }
-
-  .premium-hero h1 {
-    font-size: 3rem;
-  }
-
-  .premium-post-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (min-width: 1040px) {
-  .premium-post-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  .premium-post-card__thumb img {
-    height: 230px;
-  }
-}
-
-@media (max-width: 560px) {
-  .premium-hero__inner,
-  .featured-card,
-  .premium-about-box {
-    padding: 18px;
-    border-radius: 22px;
-  }
-
-  .premium-hero h1 {
-    font-size: 1.9rem;
-  }
-
-  .section-title-wrap h2 {
-    font-size: 1.35rem;
-  }
-
-  .premium-post-card {
-    border-radius: 20px;
-  }
-
-  .premium-post-card__thumb img {
-    height: 200px;
   }
 }
