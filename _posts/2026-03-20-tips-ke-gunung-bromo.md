@@ -3,14 +3,14 @@ layout: post
 title: "Tips ke Gunung Bromo untuk Pemula: Panduan Lengkap dan Anti Ribet"
 description: "Tips ke Gunung Bromo untuk pemula, mulai dari persiapan, pakaian, waktu terbaik, hingga hal penting yang perlu diperhatikan saat liburan."
 keywords: "tips ke gunung bromo, wisata bromo pemula, persiapan ke bromo, liburan bromo"
-image: "assets/images/bromo-berkawah.webp"
+image: "assets/images/bromo-kawah.webp"
 ---
 
 <p class="post-intro">
 Tips ke Gunung Bromo penting diketahui terutama bagi kamu yang baru pertama kali berkunjung. Meski termasuk destinasi wisata yang cukup mudah diakses, kondisi alam di Bromo cukup berbeda dari tempat wisata biasa. Udara dingin, area berpasir, dan perjalanan dini hari bisa menjadi tantangan jika tidak dipersiapkan dengan baik.
 </p>
 
-<img src="{{ 'assets/images/bromo-berkawah.webp' | relative_url }}" alt="tips ke gunung bromo sunrise jawa timur" loading="lazy" decoding="async">
+<img src="{{ 'assets/images/bromo-kawah.webp' | relative_url }}" alt="tips ke gunung bromo sunrise jawa timur" loading="lazy" decoding="async">
 <h2>1. Datang Lebih Awal untuk Sunrise</h2>
 
 <p>
