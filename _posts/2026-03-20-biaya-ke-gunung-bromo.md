@@ -10,7 +10,7 @@ image: "assets/images/jeep-bromo.webp"
 Biaya ke Gunung Bromo sering menjadi pertanyaan utama sebelum merencanakan liburan. Banyak orang mengira wisata ke Bromo mahal, padahal dengan perencanaan yang tepat, kamu bisa menikmati perjalanan ke Bromo dengan budget yang cukup terjangkau.
 </p>
 
-<img src="{{ '/assets/images/jeep-bromo.webp' | relative_url }}" alt="biaya ke gunung bromo wisata jawa timur">
+<img src="{{ 'assets/images/jeep-bromo.webp' | relative_url }}" alt="biaya ke gunung bromo wisata jawa timur">
 
 <h2>Estimasi Biaya ke Gunung Bromo</h2>
 
