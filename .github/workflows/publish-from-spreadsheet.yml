@@ -1,0 +1,41 @@
+name: Publish from spreadsheet
+
+on:
+  workflow_dispatch:
+  # Aktifkan ini nanti kalau mau auto-publish terjadwal
+  # schedule:
+  #   - cron: "0 2 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Publish posts from spreadsheet
+        run: python scripts/publish_from_spreadsheet.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add _posts data/blog_posts.xlsx
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Publish posts from spreadsheet"
+            git push
+          fi
