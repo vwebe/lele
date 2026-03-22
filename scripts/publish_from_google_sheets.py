@@ -278,12 +278,31 @@ def main():
     skipped_count = 0
 
     for row_index, row in enumerate(rows, start=2):
+        title_raw = str(row.get("title") or "").strip()
         status = str(row.get("status", "")).strip().lower()
+        publish_time_raw = str(row.get("publish_time") or row.get("date") or "").strip()
+        content_raw = str(row.get("content") or "").strip()
+
+        print(
+            f"Row {row_index}: "
+            f"title={title_raw!r}, status={status!r}, publish_time={publish_time_raw!r}"
+        )
+
         if status != "ready":
+            print(f"Row {row_index}: skipped, status is '{status}' not ready")
             skipped_count += 1
             continue
 
-        publish_time_raw = str(row.get("publish_time") or row.get("date") or "").strip()
+        if not title_raw:
+            print(f"Row {row_index}: skipped, missing title")
+            skipped_count += 1
+            continue
+
+        if not content_raw:
+            print(f"Row {row_index}: skipped, missing content")
+            skipped_count += 1
+            continue
+
         if not publish_time_raw:
             print(f"Row {row_index}: skipped, missing publish_time/date")
             skipped_count += 1
@@ -297,18 +316,22 @@ def main():
             continue
 
         if publish_dt > local_now:
-            print(f"Row {row_index}: waiting until {publish_dt.strftime('%Y-%m-%d %H:%M:%S %Z')}")
+            print(
+                f"Row {row_index}: waiting until "
+                f"{publish_dt.strftime('%Y-%m-%d %H:%M:%S %Z')}"
+            )
             skipped_count += 1
             continue
 
         try:
             filename, post_body = make_post_content(row, publish_dt)
         except Exception as e:
-            print(f"Row {row_index}: skipped, {e}")
+            print(f"Row {row_index}: skipped, build error -> {e}")
             skipped_count += 1
             continue
 
         filepath = POSTS_DIR / filename
+
         if filepath.exists():
             print(f"Row {row_index}: file already exists -> {filename}")
         else:
@@ -326,6 +349,7 @@ def main():
                 "output_file": filename,
             },
         )
+
         published_count += 1
 
     print(f"Done. Published: {published_count}, Skipped: {skipped_count}")
