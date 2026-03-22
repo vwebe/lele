@@ -2,12 +2,14 @@ name: Publish from spreadsheet
 
 on:
   workflow_dispatch:
-  # Aktifkan ini nanti kalau mau auto-publish terjadwal
   # schedule:
   #   - cron: "0 2 * * 1"
 
 permissions:
   contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   publish:
@@ -15,15 +17,16 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
+          cache: pip
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: python -m pip install -r requirements.txt
 
       - name: Publish posts from spreadsheet
         run: python scripts/publish_from_spreadsheet.py
