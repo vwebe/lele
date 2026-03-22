@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import traceback
 from pathlib import Path
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -122,42 +123,47 @@ def fetch_pexels_image(query: str, slug: str):
     headers = {"Authorization": PEXELS_API_KEY}
     params = {"query": query, "per_page": 1, "orientation": "landscape"}
 
-    resp = requests.get(endpoint, headers=headers, params=params, timeout=30)
-    if resp.status_code != 200:
-        print(f"Pexels API error: HTTP {resp.status_code}")
+    try:
+        resp = requests.get(endpoint, headers=headers, params=params, timeout=30)
+        if resp.status_code != 200:
+            print(f"Pexels API error: HTTP {resp.status_code}")
+            return None, None
+
+        data = resp.json()
+        photos = data.get("photos") or []
+        if not photos:
+            print(f"No Pexels result for query: {query}")
+            return None, None
+
+        photo = photos[0]
+        image_url = (
+            photo.get("src", {}).get("large2x")
+            or photo.get("src", {}).get("large")
+            or photo.get("src", {}).get("original")
+        )
+        if not image_url:
+            print("No usable image URL in Pexels response.")
+            return None, None
+
+        IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+        local_filename = f"{slug}.jpg"
+        local_path = IMAGES_DIR / local_filename
+
+        if not local_path.exists():
+            img_resp = requests.get(image_url, timeout=60)
+            img_resp.raise_for_status()
+            local_path.write_bytes(img_resp.content)
+            print(f"Downloaded image -> {local_path}")
+        else:
+            print(f"Image already exists -> {local_path}")
+
+        image_path = f"/assets/images/auto/{local_filename}"
+        credit = photo.get("photographer_url") or photo.get("url") or ""
+        return image_path, credit
+
+    except Exception as e:
+        print(f"Pexels fetch failed: {e}")
         return None, None
-
-    data = resp.json()
-    photos = data.get("photos") or []
-    if not photos:
-        print(f"No Pexels result for query: {query}")
-        return None, None
-
-    photo = photos[0]
-    image_url = (
-        photo.get("src", {}).get("large2x")
-        or photo.get("src", {}).get("large")
-        or photo.get("src", {}).get("original")
-    )
-    if not image_url:
-        print("No usable image URL in Pexels response.")
-        return None, None
-
-    IMAGES_DIR.mkdir(parents=True, exist_ok=True)
-    local_filename = f"{slug}.jpg"
-    local_path = IMAGES_DIR / local_filename
-
-    if not local_path.exists():
-        img_resp = requests.get(image_url, timeout=60)
-        img_resp.raise_for_status()
-        local_path.write_bytes(img_resp.content)
-        print(f"Downloaded image -> {local_path}")
-    else:
-        print(f"Image already exists -> {local_path}")
-
-    image_path = f"/assets/images/auto/{local_filename}"
-    credit = photo.get("photographer_url") or photo.get("url") or ""
-    return image_path, credit
 
 
 def build_front_matter(
@@ -231,13 +237,8 @@ def make_post_content(row: dict, publish_dt: datetime):
     )
 
     image_block = f"![{title}]({image})\n\n" if image else ""
-    credit_block = ""
-    if image_credit:
-        credit_block = f"\n\n_Image source: Pexels ({image_credit})_\n"
-
-    keyword_block = ""
-    if ai_keywords:
-        keyword_block = f"<!-- ai_keywords: {ai_keywords} -->\n\n"
+    credit_block = f"\n\n_Image source: Pexels ({image_credit})_\n" if image_credit else ""
+    keyword_block = f"<!-- ai_keywords: {ai_keywords} -->\n\n" if ai_keywords else ""
 
     full_content = f"{front_matter}\n\n{keyword_block}{image_block}{content}{credit_block}\n"
     return filename, full_content
@@ -258,18 +259,46 @@ def get_worksheet():
     return spreadsheet.worksheet(worksheet_name)
 
 
+def get_clean_rows_and_headers(worksheet):
+    raw_headers = worksheet.row_values(1)
+    headers = [str(h).strip() for h in raw_headers]
+
+    all_values = worksheet.get_all_values()
+    data_rows = all_values[1:]
+
+    rows = []
+    for values in data_rows:
+        padded = values + [""] * (len(headers) - len(values))
+        row = {}
+        for i, header in enumerate(headers):
+            if header:
+                row[header] = padded[i]
+        rows.append(row)
+
+    return headers, rows
+
+
 def update_sheet_row(worksheet, headers, row_index, data: dict):
+    normalized_headers = [str(h).strip() for h in headers]
+    updates = []
+
     for key, value in data.items():
-        if key in headers:
-            col_index = headers.index(key) + 1
-            worksheet.update_cell(row_index, col_index, value)
+        key = str(key).strip()
+        if key in normalized_headers:
+            col_index = normalized_headers.index(key) + 1
+            updates.append((row_index, col_index, value))
+
+    for row_i, col_i, value in updates:
+        worksheet.update_cell(row_i, col_i, value)
 
 
 def main():
     POSTS_DIR.mkdir(exist_ok=True)
+
     worksheet = get_worksheet()
-    rows = worksheet.get_all_records()
-    headers = worksheet.row_values(1)
+    headers, rows = get_clean_rows_and_headers(worksheet)
+
+    print(f"Headers: {headers}")
 
     local_now = now_local()
     print(f"Current local time: {local_now.strftime('%Y-%m-%d %H:%M:%S %Z')}")
@@ -356,4 +385,9 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception:
+        print("FATAL ERROR:")
+        traceback.print_exc()
+        raise
