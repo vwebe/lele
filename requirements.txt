@@ -2,3 +2,4 @@ gspread==6.2.1
 google-auth==2.40.3
 python-dateutil==2.9.0.post0
 PyYAML==6.0.2
+requests==2.31.0
