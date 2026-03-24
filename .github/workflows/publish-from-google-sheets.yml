@@ -15,6 +15,11 @@ env:
   GOOGLE_SHEETS_WORKSHEET: ${{ vars.GOOGLE_SHEETS_WORKSHEET }}
   GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
   PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+  LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+  LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+  LLM_MODEL: ${{ vars.LLM_MODEL }}
+  LLM_SITE_URL: ${{ vars.LLM_SITE_URL }}
+  LLM_APP_NAME: ${{ vars.LLM_APP_NAME }}
 
 jobs:
   publish:
