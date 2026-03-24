@@ -1,3 +1,4 @@
+# trigger scheduler
 name: Publish from Google Sheets
 
 on:
