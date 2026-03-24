@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import random
 import traceback
 from pathlib import Path
 from datetime import datetime
@@ -302,7 +303,142 @@ def build_front_matter(
     return "\n".join(lines)
 
 
-def make_post_content(row: dict, publish_dt: datetime):
+def get_google_client():
+    raw_json = os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
+    info = json.loads(raw_json)
+    credentials = Credentials.from_service_account_info(info, scopes=SCOPES)
+    return gspread.authorize(credentials)
+
+
+def get_spreadsheet():
+    spreadsheet_id = os.environ["GOOGLE_SHEETS_SPREADSHEET_ID"]
+    client = get_google_client()
+    return client.open_by_key(spreadsheet_id)
+
+
+def get_worksheet_by_name(spreadsheet, worksheet_name: str):
+    return spreadsheet.worksheet(worksheet_name)
+
+
+def get_clean_rows_and_headers_from_worksheet(worksheet):
+    raw_headers = worksheet.row_values(1)
+    headers = [str(h).strip() for h in raw_headers]
+
+    all_values = worksheet.get_all_values()
+    data_rows = all_values[1:]
+
+    rows = []
+    for values in data_rows:
+        padded = values + [""] * (len(headers) - len(values))
+        row = {}
+        for i, header in enumerate(headers):
+            if header:
+                row[header] = padded[i]
+        rows.append(row)
+
+    return headers, rows
+
+
+def update_sheet_row(worksheet, headers, row_index, data: dict):
+    normalized_headers = [str(h).strip() for h in headers]
+    updates = []
+
+    for key, value in data.items():
+        key = str(key).strip()
+        if key in normalized_headers:
+            col_index = normalized_headers.index(key) + 1
+            updates.append((row_index, col_index, value))
+
+    for row_i, col_i, value in updates:
+        worksheet.update_cell(row_i, col_i, value)
+
+
+def load_anchor_and_urls(spreadsheet):
+    try:
+        ws = get_worksheet_by_name(spreadsheet, "Anchor")
+    except Exception:
+        print("Anchor sheet not found.")
+        return [], []
+
+    anchor_cell = ws.acell("A2").value
+    anchors = [a.strip() for a in str(anchor_cell or "").split(",") if a.strip()]
+
+    urls = []
+    for i in range(2, 500):
+        val = ws.acell(f"B{i}").value
+        if val and str(val).strip():
+            urls.append(str(val).strip())
+
+    print(f"Loaded {len(anchors)} anchors and {len(urls)} URLs.")
+    return anchors, urls
+
+
+def inject_anchor_links(content: str, anchors: list, urls: list, max_links: int = 3):
+    if not content or not anchors or not urls:
+        return content
+
+    updated = content
+    linked_count = 0
+    shuffled_anchors = anchors[:]
+    random.shuffle(shuffled_anchors)
+
+    for anchor in shuffled_anchors:
+        if linked_count >= max_links:
+            break
+
+        chosen_url = random.choice(urls)
+        pattern = re.compile(rf"(?i)\b({re.escape(anchor)})\b")
+
+        def replacer(match):
+            return f"[{match.group(1)}]({chosen_url})"
+
+        updated, replacements = pattern.subn(replacer, updated, count=1)
+
+        if replacements > 0:
+            linked_count += 1
+
+    print(f"Injected {linked_count} anchor link(s).")
+    return updated
+
+
+def load_footer(spreadsheet):
+    try:
+        ws = get_worksheet_by_name(spreadsheet, "Footer")
+    except Exception:
+        print("Footer sheet not found.")
+        return [], ""
+
+    raw_text = str(ws.acell("A2").value or "").strip()
+    footer_url = str(ws.acell("B2").value or "").strip()
+
+    if not raw_text or not footer_url:
+        return [], ""
+
+    footer_texts = [t.strip() for t in raw_text.split(",") if t.strip()]
+    print(f"Loaded {len(footer_texts)} footer text(s).")
+    return footer_texts, footer_url
+
+
+def build_footer_block(footer_texts: list, footer_url: str):
+    if not footer_texts or not footer_url:
+        return ""
+
+    text = random.choice(footer_texts)
+    words = text.split()
+
+    if len(words) < 4:
+        return f"\n\n---\n\n[{text}]({footer_url})\n"
+
+    start = random.randint(1, max(1, len(words) - 3))
+    length = random.randint(2, min(4, len(words) - start))
+    anchor_words = words[start:start + length]
+    anchor_text = " ".join(anchor_words)
+
+    linked_text = text.replace(anchor_text, f"[{anchor_text}]({footer_url})", 1)
+    return f"\n\n---\n\n{linked_text}\n"
+
+
+def make_post_content(row: dict, publish_dt: datetime, anchors=None, urls=None, footer_texts=None, footer_url=None):
     title = (row.get("title") or "").strip()
     if not title:
         raise ValueError("Missing title")
@@ -322,6 +458,9 @@ def make_post_content(row: dict, publish_dt: datetime):
 
     if not content:
         raise ValueError("Missing content")
+
+    if anchors and urls:
+        content = inject_anchor_links(content, anchors, urls, max_links=3)
 
     image_credit = ""
 
@@ -355,63 +494,23 @@ def make_post_content(row: dict, publish_dt: datetime):
         if image_credit else ""
     )
 
-    full_content = f"{front_matter}\n\n{image_block}{content}{credit_block}\n"
+    footer_block = ""
+    if footer_texts and footer_url:
+        footer_block = build_footer_block(footer_texts, footer_url)
+
+    full_content = f"{front_matter}\n\n{image_block}{content}{credit_block}{footer_block}\n"
     return filename, full_content
-
-
-def get_google_client():
-    raw_json = os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
-    info = json.loads(raw_json)
-    credentials = Credentials.from_service_account_info(info, scopes=SCOPES)
-    return gspread.authorize(credentials)
-
-
-def get_worksheet():
-    spreadsheet_id = os.environ["GOOGLE_SHEETS_SPREADSHEET_ID"]
-    worksheet_name = os.environ["GOOGLE_SHEETS_WORKSHEET"]
-    client = get_google_client()
-    spreadsheet = client.open_by_key(spreadsheet_id)
-    return spreadsheet.worksheet(worksheet_name)
-
-
-def get_clean_rows_and_headers(worksheet):
-    raw_headers = worksheet.row_values(1)
-    headers = [str(h).strip() for h in raw_headers]
-
-    all_values = worksheet.get_all_values()
-    data_rows = all_values[1:]
-
-    rows = []
-    for values in data_rows:
-        padded = values + [""] * (len(headers) - len(values))
-        row = {}
-        for i, header in enumerate(headers):
-            if header:
-                row[header] = padded[i]
-        rows.append(row)
-
-    return headers, rows
-
-
-def update_sheet_row(worksheet, headers, row_index, data: dict):
-    normalized_headers = [str(h).strip() for h in headers]
-    updates = []
-
-    for key, value in data.items():
-        key = str(key).strip()
-        if key in normalized_headers:
-            col_index = normalized_headers.index(key) + 1
-            updates.append((row_index, col_index, value))
-
-    for row_i, col_i, value in updates:
-        worksheet.update_cell(row_i, col_i, value)
 
 
 def main():
     POSTS_DIR.mkdir(exist_ok=True)
 
-    worksheet = get_worksheet()
-    headers, rows = get_clean_rows_and_headers(worksheet)
+    spreadsheet = get_spreadsheet()
+    worksheet = get_worksheet_by_name(spreadsheet, os.environ["GOOGLE_SHEETS_WORKSHEET"])
+    headers, rows = get_clean_rows_and_headers_from_worksheet(worksheet)
+
+    anchors, urls = load_anchor_and_urls(spreadsheet)
+    footer_texts, footer_url = load_footer(spreadsheet)
 
     print(f"Headers: {headers}")
 
@@ -469,7 +568,14 @@ def main():
             continue
 
         try:
-            filename, post_body = make_post_content(row, publish_dt)
+            filename, post_body = make_post_content(
+                row,
+                publish_dt,
+                anchors=anchors,
+                urls=urls,
+                footer_texts=footer_texts,
+                footer_url=footer_url,
+            )
         except Exception as e:
             print(f"Row {row_index}: skipped, build error -> {e}")
             skipped_count += 1
