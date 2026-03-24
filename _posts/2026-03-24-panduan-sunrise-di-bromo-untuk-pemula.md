@@ -9,7 +9,7 @@ description: "Tips praktis menikmati sunrise di Bromo untuk pemula, termasuk per
 image: "/assets/images/auto/panduan-sunrise-di-bromo-untuk-pemula.jpg"
 ---
 
-<figure style="margin: 0 0 24px 0; text-align:center;"><img src="{{ "/assets/images/auto/panduan-sunrise-di-bromo-untuk-pemula.jpg" | relative_url }}" alt="Panduan Sunrise di Bromo untuk Pemula" style="max-width:100%; height:auto; border-radius:12px; display:block; margin:0 auto;" /></figure>
+<img src="{{ '/assets/images/auto/panduan-sunrise-di-bromo-untuk-pemula.jpg' | relative_url }}" alt="Panduan Sunrise di Bromo untuk Pemula" loading="lazy" decoding="async">
 
 # Panduan Sunrise di Bromo untuk Pemula: Momen Magis di Atas Awan
 
