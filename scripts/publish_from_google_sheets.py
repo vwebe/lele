@@ -25,11 +25,20 @@ SCOPES = [
 ]
 
 PEXELS_API_KEY = os.environ.get("PEXELS_API_KEY", "").strip()
+
 LLM_API_KEY = os.environ.get("LLM_API_KEY", "").strip()
-LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "https://api.openai.com/v1").strip()
-LLM_MODEL = os.environ.get("LLM_MODEL", "gpt-4.1-mini").strip()
-LLM_SITE_URL = os.environ.get("LLM_SITE_URL", "").strip()
-LLM_APP_NAME = os.environ.get("LLM_APP_NAME", "Lele Blog Generator").strip()
+
+# Detect OpenRouter automatically
+DEFAULT_BASE_URL = "https://openrouter.ai/api/v1"
+LLM_BASE_URL = os.environ.get("LLM_BASE_URL", DEFAULT_BASE_URL).strip()
+
+# Default model for OpenRouter
+DEFAULT_MODEL = "openrouter/auto"
+LLM_MODEL = os.environ.get("LLM_MODEL", DEFAULT_MODEL).strip()
+
+# Optional OpenRouter headers
+LLM_SITE_URL = os.environ.get("LLM_SITE_URL", "https://vwebe.github.io/lele/").strip()
+LLM_APP_NAME = os.environ.get("LLM_APP_NAME", "Lele Blog").strip()
 
 
 def now_local() -> datetime:
