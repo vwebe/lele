@@ -8,6 +8,8 @@ on:
       - main
   schedule:
     - cron: "3,13,23,33,43,53 * * * *"
+      timezone: "Asia/Jakarta"
+
 permissions:
   contents: write
 
