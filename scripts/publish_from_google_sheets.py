@@ -185,10 +185,8 @@ def fetch_pexels_image(query: str, slug: str):
 
 
 def get_openai_client():
-    if not LLM_API_KEY:
-        raise RuntimeError("LLM_API_KEY is not set")
-
     extra_headers = {}
+
     if "openrouter.ai" in LLM_BASE_URL:
         if LLM_SITE_URL:
             extra_headers["HTTP-Referer"] = LLM_SITE_URL
