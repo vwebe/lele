@@ -7,7 +7,6 @@ on:
       - main
   schedule:
     - cron: "*/5 * * * *"
-      timezone: "Asia/Jakarta"
 
 permissions:
   contents: write
@@ -27,8 +26,6 @@ env:
   LLM_MODEL: ${{ vars.LLM_MODEL }}
   LLM_SITE_URL: ${{ vars.LLM_SITE_URL }}
   LLM_APP_NAME: ${{ vars.LLM_APP_NAME }}
-  PUBLISH_GRACE_MINUTES: "15"
-  PUBLISH_OLD_READY_ROWS: "true"
 
 jobs:
   publish:
