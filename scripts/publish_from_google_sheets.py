@@ -12,7 +12,7 @@ import requests
 from google.oauth2.service_account import Credentials
 from openai import OpenAI
 
-TIMEZONE = os.environ.get("TZ", "Asia/Phnom_Penh").strip() or "Asia/Phnom_Penh"
+TIMEZONE = os.environ.get("TZ", "Asia/Jakarta").strip() or "Asia/Jakarta"
 DEFAULT_LAYOUT = "post"
 DEFAULT_CATEGORY = "blog"
 DEFAULT_LANGUAGE = "id"
