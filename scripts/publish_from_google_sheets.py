@@ -196,109 +196,37 @@ def get_openai_client():
     )
 
 
-def generate_article(row: dict):
-    title = str(row.get("title") or "").strip()
-    prompt = str(row.get("prompt") or "").strip()
-    category = str(row.get("category") or DEFAULT_CATEGORY).strip()
-    tags = split_csv(row.get("tags", ""))
-    excerpt = str(row.get("excerpt") or "").strip()
-    description = str(row.get("description") or "").strip()
-    language = str(row.get("language") or DEFAULT_LANGUAGE).strip().lower()
-    min_words_raw = str(row.get("min_words") or DEFAULT_MIN_WORDS).strip()
-
-    try:
-        min_words = max(700, int(min_words_raw))
-    except ValueError:
-        min_words = DEFAULT_MIN_WORDS
-
-    if not prompt and not title:
-        raise ValueError("Missing title/prompt for article generation")
-
-    lang_name = "Bahasa Indonesia" if language in {"id", "indonesian", "bahasa indonesia"} else language
-
-    system_prompt = f"""
-You are a skilled human travel blogger and editor.
-
-Write in {lang_name} with a natural, believable, non-robotic style.
-The article must feel like it was written by a real Indonesian blogger who has practical travel awareness.
-
-Writing style rules:
-- Sound natural, warm, and specific.
-- Avoid generic filler, cliché travel phrases, and empty motivational lines.
-- Avoid sounding like a template or AI-generated article.
-- Do not write meta introductions like "Tentu", "Berikut artikelnya", "Artikel ini akan membahas", or similar.
-- Start directly with a strong opening paragraph.
-- Vary sentence length naturally.
-- Use short-to-medium paragraphs.
-- Use markdown headings naturally, but do not over-structure the article.
-- Do not force numbered sections unless they fit naturally.
-- Do not overuse transition phrases like "selain itu", "di samping itu", "oleh karena itu".
-- Avoid repetitive wording.
-- Avoid sounding too formal or textbook-like.
-- Do not mention AI, prompts, drafts, or generated content.
-- Do not invent exact prices, regulations, or factual claims unless implied by the prompt.
-- Focus on practical usefulness and readability.
-""".strip()
-
-    user_prompt = f"""
-Tulis artikel blog perjalanan dalam {lang_name}.
-
-Data artikel:
-- Judul: {title}
-- Kategori: {category}
-- Tags: {", ".join(tags) if tags else "-"}
-- Excerpt: {excerpt or "-"}
-- Deskripsi SEO: {description or "-"}
-- Brief/topik utama: {prompt or title}
-
-Target hasil:
-- Panjang minimal sekitar {min_words} kata.
-- Gaya tulisan harus terasa bersih, hidup, dan enak dibaca.
-- Artikel harus terasa seperti blog travel asli, bukan konten generik.
-- Isi harus relevan dengan judul.
-- Jika topiknya berupa panduan, berikan tips yang konkret.
-- Jika topiknya berupa itinerary atau destinasi, beri gambaran suasana dan hal yang benar-benar berguna untuk pembaca.
-- Jika topiknya berupa packing list atau tips, buat penjelasan realistis dan tidak bertele-tele.
-
-Struktur yang diinginkan:
-- Pembuka yang langsung menarik
-- Beberapa subjudul yang relevan dan natural
-- Isi utama yang informatif
-- Tips praktis atau hal yang perlu diperhatikan
-- Penutup singkat yang terasa alami
-
-Yang harus dihindari:
-- pembuka seperti "Tentu", "Berikut", "Artikel ini membahas"
-- bahasa terlalu formal
-- kalimat klise dan berulang
-- penjelasan yang terlalu umum
-- daftar poin pendek yang tidak bernilai
-- kesimpulan yang terdengar seperti template
-
-Keluaran:
-- hanya artikel dalam format markdown
-- tanpa penjelasan tambahan
-- tanpa komentar pembuka
-""".strip()
-
-    client = get_openai_client()
-    response = client.chat.completions.create(
-        model=LLM_MODEL,
-        temperature=0.95,
-        top_p=0.9,
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ],
-    )
-
-    content = response.choices[0].message.content or ""
-    content = clean_generated_article(content.strip())
-
+def clean_generated_article(content: str) -> str:
     if not content:
-        raise RuntimeError("LLM returned empty content")
+        return content
 
-    return content
+    unwanted_openings = [
+        r"^Tentu[,!\s]*",
+        r"^Berikut( adalah)? .*?:\s*",
+        r"^Ini adalah .*?:\s*",
+        r"^Artikel berikut .*?:\s*",
+        r"^Baik[,!\s]*",
+    ]
+
+    for pattern in unwanted_openings:
+        content = re.sub(pattern, "", content, flags=re.IGNORECASE)
+
+    content = re.sub(r"\n{3,}", "\n\n", content)
+
+    replacements = {
+        "Selain itu,": "Di sisi lain,",
+        "Tidak hanya itu,": "Yang sering terlupa,",
+        "Pada dasarnya,": "",
+        "Perlu diketahui bahwa": "",
+        "Dengan demikian,": "Jadi,",
+        "Sebagai penutup,": "",
+        "Sebagai kesimpulan,": "",
+    }
+
+    for old, new in replacements.items():
+        content = content.replace(old, new)
+
+    return content.strip()
 
 
 def build_front_matter(
