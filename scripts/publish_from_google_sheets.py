@@ -344,11 +344,10 @@ def make_post_content(row: dict, publish_dt: datetime):
 
     image_block = ""
     if image:
+        image_path_for_html = image.lstrip("/")
         image_block = (
-            f'<figure style="margin: 0 0 24px 0; text-align:center;">'
-            f'<img src="{{{{ "{image}" | relative_url }}}}" alt="{title}" '
-            f'style="max-width:100%; height:auto; border-radius:12px; display:block; margin:0 auto;" />'
-            f'</figure>\n\n'
+            f'<img src="{{{{ "{image_path_for_html}" | relative_url }}}}" '
+            f'alt="{title}" loading="lazy" decoding="async">\n\n'
         )
 
     credit_block = (
