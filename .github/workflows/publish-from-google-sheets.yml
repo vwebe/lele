@@ -1,4 +1,3 @@
-# force scheduler refresh
 name: Publish from Google Sheets
 
 on:
