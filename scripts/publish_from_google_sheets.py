@@ -12,14 +12,14 @@ import requests
 from google.oauth2.service_account import Credentials
 from openai import OpenAI
 
-TIMEZONE = "Asia/Phnom_Penh"
+TIMEZONE = os.environ.get("TZ", "Asia/Phnom_Penh").strip() or "Asia/Phnom_Penh"
 DEFAULT_LAYOUT = "post"
 DEFAULT_CATEGORY = "blog"
 DEFAULT_LANGUAGE = "id"
 DEFAULT_MIN_WORDS = 1200
 
-POSTS_DIR = Path("_posts")
-IMAGES_DIR = Path("assets/images/auto")
+POSTS_DIR = Path(os.environ.get("POSTS_DIR", "_posts"))
+IMAGES_DIR = Path(os.environ.get("IMAGES_DIR", "assets/images/auto"))
 
 SCOPES = [
     "https://www.googleapis.com/auth/spreadsheets",
@@ -28,15 +28,34 @@ SCOPES = [
 PEXELS_API_KEY = os.environ.get("PEXELS_API_KEY", "").strip()
 LLM_API_KEY = os.environ.get("LLM_API_KEY", "").strip()
 DEFAULT_BASE_URL = "https://openrouter.ai/api/v1"
-LLM_BASE_URL = os.environ.get("LLM_BASE_URL", DEFAULT_BASE_URL).strip()
+LLM_BASE_URL = os.environ.get("LLM_BASE_URL", DEFAULT_BASE_URL).strip() or DEFAULT_BASE_URL
 DEFAULT_MODEL = "openrouter/auto"
-LLM_MODEL = os.environ.get("LLM_MODEL", DEFAULT_MODEL).strip()
-LLM_SITE_URL = os.environ.get("LLM_SITE_URL", "https://vwebe.github.io/lele/").strip()
-LLM_APP_NAME = os.environ.get("LLM_APP_NAME", "Lele Blog").strip()
+LLM_MODEL = os.environ.get("LLM_MODEL", DEFAULT_MODEL).strip() or DEFAULT_MODEL
+LLM_SITE_URL = os.environ.get("LLM_SITE_URL", "https://example.com").strip()
+LLM_APP_NAME = os.environ.get("LLM_APP_NAME", "Auto Blog Publisher").strip()
+
+
+REQUIRED_ENV_VARS = [
+    "GOOGLE_SHEETS_SPREADSHEET_ID",
+    "GOOGLE_SHEETS_WORKSHEET",
+    "GOOGLE_SERVICE_ACCOUNT_JSON",
+]
 
 
 def now_local() -> datetime:
     return datetime.now(ZoneInfo(TIMEZONE))
+
+
+def require_env(name: str) -> str:
+    value = os.environ.get(name, "").strip()
+    if not value:
+        raise RuntimeError(f"Missing required environment variable: {name}")
+    return value
+
+
+def validate_required_env() -> None:
+    for name in REQUIRED_ENV_VARS:
+        require_env(name)
 
 
 def slugify(text: str) -> str:
@@ -47,26 +66,40 @@ def slugify(text: str) -> str:
 
 
 def parse_publish_time(value: str):
-    value = (value or "").strip()
-    if not value:
+    raw = str(value or "").strip()
+    if not raw:
         return None
 
-    formats = [
+    normalized = raw.replace("T", " ")
+    normalized = re.sub(r"\s+", " ", normalized).strip()
+
+    fmts = [
         "%Y-%m-%d %H:%M:%S",
         "%Y-%m-%d %H:%M",
         "%Y-%m-%d",
+        "%d/%m/%Y %H:%M:%S",
+        "%d/%m/%Y %H:%M",
+        "%d/%m/%Y",
     ]
 
-    for fmt in formats:
+    for fmt in fmts:
         try:
-            dt = datetime.strptime(value, fmt)
+            dt = datetime.strptime(normalized, fmt)
             return dt.replace(tzinfo=ZoneInfo(TIMEZONE))
         except ValueError:
             pass
 
+    try:
+        dt = datetime.fromisoformat(normalized)
+        if dt.tzinfo is None:
+            return dt.replace(tzinfo=ZoneInfo(TIMEZONE))
+        return dt.astimezone(ZoneInfo(TIMEZONE))
+    except ValueError:
+        pass
+
     raise ValueError(
-        f"Invalid publish_time format: '{value}'. "
-        "Use YYYY-MM-DD HH:MM:SS or YYYY-MM-DD HH:MM or YYYY-MM-DD."
+        f"Invalid publish_time format: '{raw}'. "
+        "Use YYYY-MM-DD HH:MM:SS, YYYY-MM-DD HH:MM, YYYY-MM-DD, or ISO format."
     )
 
 
@@ -202,7 +235,7 @@ def fetch_pexels_image(query: str, slug: str):
         else:
             print(f"Image already exists -> {local_path}")
 
-        image_path = f"/assets/images/auto/{local_filename}"
+        image_path = f"/{IMAGES_DIR.as_posix()}/{local_filename}"
         credit = photo.get("photographer_url") or photo.get("url") or ""
         return image_path, credit
 
@@ -253,7 +286,7 @@ def generate_article(row: dict):
 You are a skilled human travel blogger and editor.
 
 Write in {lang_name} with a natural, believable, non-robotic style.
-The article must feel like it was written by a real Indonesian blogger who has practical travel awareness.
+The article must feel like it was written by a real blogger with practical travel awareness.
 
 Writing style rules:
 - Sound natural, warm, and specific.
@@ -265,7 +298,7 @@ Writing style rules:
 - Use short-to-medium paragraphs.
 - Use markdown headings naturally, but do not over-structure the article.
 - Do not force numbered sections unless they fit naturally.
-- Do not overuse transition phrases like "selain itu", "di samping itu", "oleh karena itu".
+- Do not overuse transition phrases.
 - Avoid repetitive wording.
 - Avoid sounding too formal or textbook-like.
 - Do not mention AI, prompts, drafts, or generated content.
@@ -293,21 +326,6 @@ Target hasil:
 - Jika topiknya berupa itinerary atau destinasi, beri gambaran suasana dan hal yang benar-benar berguna untuk pembaca.
 - Jika topiknya berupa packing list atau tips, buat penjelasan realistis dan tidak bertele-tele.
 
-Struktur yang diinginkan:
-- Pembuka yang langsung menarik
-- Beberapa subjudul yang relevan dan natural
-- Isi utama yang informatif
-- Tips praktis atau hal yang perlu diperhatikan
-- Penutup singkat yang terasa alami
-
-Yang harus dihindari:
-- pembuka seperti "Tentu", "Berikut", "Artikel ini membahas"
-- bahasa terlalu formal
-- kalimat klise dan berulang
-- penjelasan yang terlalu umum
-- daftar poin pendek yang tidak bernilai
-- kesimpulan yang terdengar seperti template
-
 Keluaran:
 - hanya artikel dalam format markdown
 - tanpa penjelasan tambahan
@@ -334,21 +352,11 @@ Keluaran:
     return content
 
 
-def build_front_matter(
-    *,
-    title: str,
-    publish_dt: datetime,
-    layout: str,
-    category: str,
-    tags: list,
-    excerpt: str,
-    description: str,
-    image: str,
-):
+def build_front_matter(*, title: str, publish_dt: datetime, layout: str, category: str, tags: list, excerpt: str, description: str, image: str):
     lines = [
         "---",
         f"layout: {layout}",
-        f"title: {quote_yaml(title)}",
+        f'title: {quote_yaml(title)}',
         f"date: {publish_dt.strftime('%Y-%m-%d %H:%M:%S %z')}",
     ]
 
@@ -357,25 +365,25 @@ def build_front_matter(
     if tags:
         lines.append("tags: [" + ", ".join(tags) + "]")
     if excerpt:
-        lines.append(f"excerpt: {quote_yaml(excerpt)}")
+        lines.append(f'excerpt: {quote_yaml(excerpt)}')
     if description:
-        lines.append(f"description: {quote_yaml(description)}")
+        lines.append(f'description: {quote_yaml(description)}')
     if image:
-        lines.append(f"image: {quote_yaml(image)}")
+        lines.append(f'image: {quote_yaml(image)}')
 
     lines.append("---")
     return "\n".join(lines)
 
 
 def get_google_client():
-    raw_json = os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
+    raw_json = require_env("GOOGLE_SERVICE_ACCOUNT_JSON")
     info = json.loads(raw_json)
     credentials = Credentials.from_service_account_info(info, scopes=SCOPES)
     return gspread.authorize(credentials)
 
 
 def get_spreadsheet():
-    spreadsheet_id = os.environ["GOOGLE_SHEETS_SPREADSHEET_ID"]
+    spreadsheet_id = require_env("GOOGLE_SHEETS_SPREADSHEET_ID")
     client = get_google_client()
     return client.open_by_key(spreadsheet_id)
 
@@ -406,11 +414,18 @@ def get_clean_rows_and_headers_from_worksheet(worksheet):
 def update_sheet_row(worksheet, headers, row_index, data: dict):
     normalized_headers = [str(h).strip() for h in headers]
 
+    updates = []
     for key, value in data.items():
         key = str(key).strip()
         if key in normalized_headers:
             col_index = normalized_headers.index(key) + 1
-            worksheet.update_cell(row_index, col_index, value)
+            updates.append({
+                "range": gspread.utils.rowcol_to_a1(row_index, col_index),
+                "values": [[value]],
+            })
+
+    if updates:
+        worksheet.batch_update(updates, value_input_option="USER_ENTERED")
 
 
 def load_anchor_and_urls(spreadsheet):
@@ -515,7 +530,7 @@ def make_post_content(row: dict, publish_dt: datetime, anchors=None, urls=None, 
 
     slug = (row.get("slug") or "").strip() or slugify(title)
     layout = (row.get("layout") or DEFAULT_LAYOUT).strip() or DEFAULT_LAYOUT
-    category = (row.get("category") or DEFAULT_CATEGORY).strip()
+    category = (row.get("category") or DEFAULT_CATEGORY).strip() or DEFAULT_CATEGORY
     tags = split_csv(row.get("tags", ""))
     excerpt = (row.get("excerpt") or "").strip()
     description = (row.get("description") or "").strip()
@@ -573,19 +588,24 @@ def make_post_content(row: dict, publish_dt: datetime, anchors=None, urls=None, 
 
 
 def main():
-    POSTS_DIR.mkdir(exist_ok=True)
+    validate_required_env()
+
+    POSTS_DIR.mkdir(parents=True, exist_ok=True)
 
     spreadsheet = get_spreadsheet()
-    worksheet = get_worksheet_by_name(spreadsheet, os.environ["GOOGLE_SHEETS_WORKSHEET"])
+    worksheet_name = require_env("GOOGLE_SHEETS_WORKSHEET")
+    worksheet = get_worksheet_by_name(spreadsheet, worksheet_name)
     headers, rows = get_clean_rows_and_headers_from_worksheet(worksheet)
 
     anchors, urls = load_anchor_and_urls(spreadsheet)
     footer_texts, footer_url = load_footer(spreadsheet)
 
+    print(f"Worksheet: {worksheet_name}")
     print(f"Headers: {headers}")
 
     local_now = now_local()
     print(f"Current local time: {local_now.strftime('%Y-%m-%d %H:%M:%S %Z')}")
+    print("Rule: publish every row where status=ready and publish_time <= now")
 
     published_count = 0
     skipped_count = 0
@@ -598,8 +618,7 @@ def main():
         prompt_raw = str(row.get("prompt") or "").strip()
 
         print(
-            f"Row {row_index}: "
-            f"title={title_raw!r}, status={status!r}, publish_time={publish_time_raw!r}"
+            f"Row {row_index}: title={title_raw!r}, status={status!r}, publish_time={publish_time_raw!r}"
         )
 
         if status != "ready":
@@ -630,10 +649,7 @@ def main():
             continue
 
         if publish_dt > local_now:
-            print(
-                f"Row {row_index}: waiting until "
-                f"{publish_dt.strftime('%Y-%m-%d %H:%M:%S %Z')}"
-            )
+            print(f"Row {row_index}: waiting until {publish_dt.strftime('%Y-%m-%d %H:%M:%S %Z')}")
             skipped_count += 1
             continue
 
@@ -659,7 +675,7 @@ def main():
             filepath.write_text(post_body, encoding="utf-8")
             print(f"Row {row_index}: created -> {filename}")
 
-        published_at = local_now.strftime("%Y-%m-%d %H:%M:%S")
+        published_at = now_local().strftime("%Y-%m-%d %H:%M:%S")
         update_sheet_row(
             worksheet,
             headers,
