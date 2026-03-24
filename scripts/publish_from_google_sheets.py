@@ -360,14 +360,19 @@ def load_anchor_and_urls(spreadsheet):
         print("Anchor sheet not found.")
         return [], []
 
-    anchor_cell = ws.acell("A2").value
-    anchors = [a.strip() for a in str(anchor_cell or "").split(",") if a.strip()]
+    values = ws.get_all_values()
+    if not values or len(values) < 2:
+        return [], []
 
+    # A2 = comma-separated anchors
+    anchor_cell = values[1][0] if len(values[1]) > 0 else ""
+    anchors = [a.strip() for a in str(anchor_cell).split(",") if a.strip()]
+
+    # B2 downward = URLs
     urls = []
-    for i in range(2, 500):
-        val = ws.acell(f"B{i}").value
-        if val and str(val).strip():
-            urls.append(str(val).strip())
+    for row in values[1:]:
+        if len(row) > 1 and str(row[1]).strip():
+            urls.append(str(row[1]).strip())
 
     print(f"Loaded {len(anchors)} anchors and {len(urls)} URLs.")
     return anchors, urls
@@ -408,8 +413,15 @@ def load_footer(spreadsheet):
         print("Footer sheet not found.")
         return [], ""
 
-    raw_text = str(ws.acell("A2").value or "").strip()
-    footer_url = str(ws.acell("B2").value or "").strip()
+    values = ws.get_all_values()
+    if not values or len(values) < 2:
+        return [], ""
+
+    raw_text = values[1][0] if len(values[1]) > 0 else ""
+    footer_url = values[1][1] if len(values[1]) > 1 else ""
+
+    raw_text = str(raw_text).strip()
+    footer_url = str(footer_url).strip()
 
     if not raw_text or not footer_url:
         return [], ""
