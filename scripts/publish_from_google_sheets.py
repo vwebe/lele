@@ -346,7 +346,7 @@ def make_post_content(row: dict, publish_dt: datetime):
     if image:
         image_block = (
             f'<figure style="margin: 0 0 24px 0; text-align:center;">'
-            f'<img src="{image}" alt="{title}" '
+            f'<img src="{{{{ "{image}" | relative_url }}}}" alt="{title}" '
             f'style="max-width:100%; height:auto; border-radius:12px; display:block; margin:0 auto;" />'
             f'</figure>\n\n'
         )
