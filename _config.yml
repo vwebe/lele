@@ -1,5 +1,9 @@
 title: "Travel Zynelion"
-description: "Catatan travel, itinerary, dan tips perjalanan yang ringan dibaca."
+description: "Catatan travel, itinerary, dan tips perjalanan ke seluruh dunia — praktis, jujur, dan bebas lebay."
+tagline: "Jelajahi Dunia Bersama Zynelion"
+author: "Zynelion Travel"
+lang: id
+
 theme: null
 markdown: kramdown
 permalink: /:year/:month/:day/:title.html
@@ -7,7 +11,20 @@ permalink: /:year/:month/:day/:title.html
 url: "https://travel.zynelion.com"
 baseurl: ""
 
+logo: "/assets/images/logo.png"
+
+twitter:
+  username: zynelion
+
+social:
+  name: Zynelion Travel
+  links:
+    - https://travel.zynelion.com
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+
+seo_tag:
+  image: "/assets/images/logo.png"
