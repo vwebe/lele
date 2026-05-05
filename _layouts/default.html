@@ -5,18 +5,83 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="Ukz7ceHF3UpHTpaIo68QHjc9C7SwEAZjBNprhW_0mgU" />
 
-  {% seo %}
-  {% feed_meta %}
+  <!-- SEO Meta -->
+  <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }} | {{ site.description }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="Zynelion Travel">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
+  <!-- Open Graph -->
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ page.url | prepend: site.url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.url }}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:locale" content="id_ID">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.image %}{{ page.image | prepend: site.url }}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}">
+
+  {% if page.layout == 'post' %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:author" content="Zynelion Travel">
+  {% endif %}
+
+  <!-- Favicons -->
+  <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/favicon-180x180.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/images/favicon-192x192.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="512x512" href="{{ '/assets/images/favicon-512x512.png' | relative_url }}">
+  <meta name="theme-color" content="#0a0a0a">
+  <meta name="msapplication-TileColor" content="#f5a800">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+
+  {% feed_meta %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "{% if page.layout == 'post' %}BlogPosting{% else %}WebSite{% endif %}",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}",
+    "description": "{{ site.description }}",
+    "logo": "{{ '/assets/images/logo.png' | prepend: site.url }}",
+    {% if page.layout == 'post' %}
+    "headline": "{{ page.title }}",
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "image": "{% if page.image %}{{ page.image | prepend: site.url }}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}",
+    "author": { "@type": "Organization", "name": "Zynelion Travel" },
+    {% endif %}
+    "publisher": {
+      "@type": "Organization",
+      "name": "Zynelion Travel",
+      "logo": { "@type": "ImageObject", "url": "{{ '/assets/images/logo.png' | prepend: site.url }}" }
+    }
+  }
+  </script>
 </head>
 <body>
-  <header class="site-header">
+  <header class="site-header" id="site-header">
     <div class="wrap header-inner">
-      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <a class="site-title" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Zynelion Travel Logo" class="header-logo" width="40" height="40">
+        <span class="site-title-text">Travel <em>Zynelion</em></span>
+      </a>
       <nav class="site-nav">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/about.html' | relative_url }}">About</a>
+        <a href="{{ '/' | relative_url }}">🏠 Home</a>
+        <a href="{{ '/about.html' | relative_url }}">✦ About</a>
       </nav>
     </div>
   </header>
@@ -27,8 +92,34 @@
 
   <footer class="site-footer">
     <div class="wrap footer-inner">
-      <p>© 2026 {{ site.title }}</p>
+      <div class="footer-logo">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Zynelion" width="52" height="52">
+      </div>
+      <p class="footer-brand">Travel <strong>Zynelion</strong></p>
+      <p class="footer-desc">Catatan perjalanan, itinerary, dan tips wisata dari seluruh dunia.</p>
+      <div class="footer-links">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <span>·</span>
+        <a href="{{ '/about.html' | relative_url }}">About</a>
+        <span>·</span>
+        <a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a>
+      </div>
+      <p class="footer-copy">© 2026 Zynelion Travel · All rights reserved</p>
     </div>
   </footer>
+
+  <script>
+    const header = document.getElementById('site-header');
+    window.addEventListener('scroll', () => {
+      header.classList.toggle('scrolled', window.scrollY > 40);
+    }, { passive: true });
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(e => {
+        if (e.isIntersecting) { e.target.classList.add('visible'); observer.unobserve(e.target); }
+      });
+    }, { threshold: 0.06 });
+    document.querySelectorAll('.post-card, .single-post, .page-card').forEach(el => observer.observe(el));
+  </script>
 </body>
 </html>

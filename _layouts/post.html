@@ -3,16 +3,57 @@ layout: default
 ---
 
 <article class="single-post">
-  <div class="post-top">
-    <div class="post-date">{{ page.date | date: "%B %d, %Y" }}</div>
-    <h1>{{ page.title }}</h1>
+  {% if page.image %}
+  <div class="post-hero-img">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" width="1200" height="700" loading="eager">
+    <div class="post-hero-overlay">
+      <div class="post-hero-badge">✈ Travel Zynelion</div>
+    </div>
   </div>
+  {% endif %}
+
+  <div class="post-top">
+    <div class="post-date">
+      <span>📅 {{ page.date | date: "%d %B %Y" }}</span>
+    </div>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="post-lead">{{ page.description }}</p>
+    {% endif %}
+  </div>
+
+  <div class="post-divider"></div>
 
   <div class="post-content">
     {{ content }}
   </div>
 
-  <p class="back-link">
-    <a href="{{ '/' | relative_url }}">← Back to home</a>
-  </p>
+  <div class="post-footer-bar">
+    <a class="back-btn" href="{{ '/' | relative_url }}">
+      ← Kembali ke Beranda
+    </a>
+    <div class="post-share-hint">📤 Bagikan artikel ini!</div>
+  </div>
 </article>
+
+<section class="related-heading">
+  <h2>✦ Artikel Lainnya</h2>
+</section>
+<section class="post-grid related-grid">
+  {% assign related = site.posts | where_exp: "p", "p.url != page.url" | limit: 3 %}
+  {% for post in related %}
+    <article class="post-card">
+      {% if post.image %}
+        <a href="{{ post.url | relative_url }}" class="post-card-img-link">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" width="800" height="500" loading="lazy" decoding="async">
+          <div class="post-card-img-overlay"></div>
+        </a>
+      {% endif %}
+      <div class="post-card-body">
+        <div class="post-meta"><span class="post-meta-date">📅 {{ post.date | date: "%d %B %Y" }}</span></div>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <a class="read-more" href="{{ post.url | relative_url }}">Baca selengkapnya <span class="read-more-arrow">→</span></a>
+      </div>
+    </article>
+  {% endfor %}
+</section>

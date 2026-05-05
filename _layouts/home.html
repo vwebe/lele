@@ -4,23 +4,32 @@ layout: default
 
 <section class="hero">
   <div class="hero-logo">
-    <img src="{{ '/lele.gif' | relative_url }}" alt="Logo Travel Zynelion" width="120" height="120">
+    <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Logo Travel Zynelion" width="110" height="110">
   </div>
-  <h1>Travel Zynelion</h1>
+  <div class="hero-badge">✈ World Travel Guide</div>
+  <h1>Jelajahi Dunia<br><em>Bersama Zynelion</em></h1>
   <p>
-    Catatan travel, itinerary, dan tips perjalanan yang praktis untuk dibaca sebelum berangkat.
+    Catatan travel, itinerary, dan tips perjalanan yang praktis — dari Asia Tenggara hingga ujung Eropa.
   </p>
+  <div class="hero-stats">
+    <div class="stat"><span class="stat-num">100+</span><span class="stat-label">Artikel</span></div>
+    <div class="stat-divider"></div>
+    <div class="stat"><span class="stat-num">30+</span><span class="stat-label">Destinasi</span></div>
+    <div class="stat-divider"></div>
+    <div class="stat"><span class="stat-num">5+</span><span class="stat-label">Benua</span></div>
+  </div>
 </section>
 
 <section class="section-head">
-  <h2>Artikel Terbaru</h2>
+  <h2>✦ Artikel Terbaru</h2>
+  <p class="section-sub">Temukan destinasi impian dan tips perjalananmu</p>
 </section>
 
 <section class="post-grid">
   {% for post in site.posts %}
     <article class="post-card">
       {% if post.image %}
-        <a href="{{ post.url | relative_url }}">
+        <a href="{{ post.url | relative_url }}" class="post-card-img-link">
           <img
             src="{{ post.image | relative_url }}"
             alt="{{ post.title }}"
@@ -29,34 +38,38 @@ layout: default
             loading="lazy"
             decoding="async"
           >
+          <div class="post-card-img-overlay"></div>
         </a>
       {% endif %}
 
-      <div class="post-meta">
-        {{ post.date | date: "%d %B %Y" }}
+      <div class="post-card-body">
+        <div class="post-meta">
+          <span class="post-meta-date">📅 {{ post.date | date: "%d %B %Y" }}</span>
+        </div>
+
+        <h3>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+
+        <p>
+          {{ post.description | default: post.excerpt | strip_html | truncate: 110 }}
+        </p>
+
+        <a class="read-more" href="{{ post.url | relative_url }}">
+          Baca selengkapnya <span class="read-more-arrow">→</span>
+        </a>
       </div>
-
-      <h3>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h3>
-
-      <p>
-        {{ post.description | default: post.excerpt | strip_html | truncate: 120 }}
-      </p>
-
-      <a class="read-more" href="{{ post.url | relative_url }}">
-        Baca selengkapnya →
-      </a>
     </article>
   {% endfor %}
 </section>
 
-<section class="page-card">
-  <h2>Tentang Blog Ini</h2>
-  <p>
-    Travel Zynelion adalah ruang kecil untuk menyimpan catatan perjalanan, itinerary, dan tips liburan yang mudah dipakai.
-  </p>
-  <p>
-    Di sini kamu bisa menemukan ide destinasi, panduan singkat, dan artikel travel dengan tampilan bersih.
-  </p>
+<section class="page-card about-strip">
+  <div class="about-strip-icon">🌏</div>
+  <div class="about-strip-text">
+    <h2>Tentang Blog Ini</h2>
+    <p>
+      Travel Zynelion adalah ruang kecil untuk menyimpan catatan perjalanan, itinerary, dan tips liburan — praktis, jujur, dan bebas lebay. Temukan ide destinasi dan panduan singkat untuk petualanganmu berikutnya.
+    </p>
+    <a class="btn-ghost" href="{{ '/about.html' | relative_url }}">Selengkapnya →</a>
+  </div>
 </section>
