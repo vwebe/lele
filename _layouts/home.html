@@ -6,6 +6,7 @@ layout: default
      FEATURED SLIDER (latest 5 posts with images)
 ═══════════════════════════════════════ -->
 <section class="slider-section">
+  <div class="wrap">
   <div class="slider-wrap">
     <div class="slider-track" id="sliderTrack">
       {% assign slider_posts = site.posts | where_exp: "p", "p.image != nil" | limit: 6 %}
@@ -29,7 +30,8 @@ layout: default
       <button class="dot {% if forloop.first %}active{% endif %}" data-index="{{ forloop.index0 }}" aria-label="Slide {{ forloop.index }}"></button>
       {% endfor %}
     </div>
-  </div>
+  </div><!-- .slider-wrap -->
+  </div><!-- .wrap -->
 </section>
 
 <!-- ═══════════════════════════════════════
