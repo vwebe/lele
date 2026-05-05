@@ -1,1 +1,400 @@
+ó
 
+    ­bùiJ]  ã            	       ó   • S r SSKrSSKrSSKrSSKrSSKrSSKrSSKrSSKrSSK	J	r	J
+r
+  SSKJr  SSK
+Jr  SSKrSSKrSSKJr  SSKJr  S\S	\S
+\4S jr\R0                  R3                  SS
+5      =(       d    S
+r\R0                  R3                  SS5      =(       d    SR7                  S5      rSrSrSr\" SS5      r \" SS5      r!\" SS5      r"\" SS5      r#\" SS5      r$\" S5      r%\" S5      r&S /r'\R0                  R3                  S!S"5      RQ                  5       r)\R0                  R3                  S#S"5      RQ                  5       r*\R0                  R3                  S$S%5      RQ                  5       r+\R0                  R3                  S&S'5      RQ                  5       r,\R0                  R3                  S(\5      RQ                  5       r-\R0                  R3                  S)S*5      RQ                  5       r./ S+Qr/1 S,kr0S-r1S.\S
+S4S/ jr2S
+\	4S0 jr3S1\S
+\4S2 jr4S3\S
+\4S4 jr5S5 r6S6\	S
+\4S7 jr7S8\4S9 jr8S8\S
+\4S: jr9S;\S
+\4S< jr:S=\S
+\4S> jr;S? r<S@\=4SA jr>SB\SC\4SD jr?SE r@SeS@\=SF\SG\S
+\4SH jjrAS@\=S
+\4SI jrBSJ rCSK\S
+\4SL jrDSM rESfS=\SN\FSO\FSP\4SQ jjrGSR rHSS\FST\4SU jrISgS@\=SV\	4SW jjrJSX rKSY rLSZ rMS[ rNS\\=4S] jrOS^ rPS_ rQS` rR\SSa:X  a	   \R" 5         gg! \T a-    \U" SbScSd9  \R¬                  " 5         \R®                  " S5         gf = f)haì  Publish Jekyll posts from Google Sheets.
+
+Required GitHub secrets / variables:
+- secrets.GOOGLE_SERVICE_ACCOUNT_JSON
+- vars.GOOGLE_SHEETS_SPREADSHEET_ID
+- vars.GOOGLE_SHEETS_WORKSHEET, default Posts
+- secrets.LLM_API_KEY, optional if every row already has content
+- secrets.PEXELS_API_KEY, optional
+
+Sheet columns supported:
+title, slug, publish_time, category, tags, excerpt, description, image_query,
+image, prompt, language, min_words, content, status, published_at, output_file, post_url
+é    N)ÚdatetimeÚ	timedelta)ÚPath)ÚZoneInfo)ÚCredentials)ÚOpenAIÚnameÚdefaultÚreturnc           
+      ó  • [         R                  R                  U S5      n [        U5      R	                  5       (       a"  [        [        U5      R	                  5       5      $ U$ ! [         a    [        SU  SU< SU S3SS9  Us $ f = f)NÚ zInvalid integer for Ú=z; using Ú.T©Úflush)ÚosÚenvironÚgetÚstrÚstripÚintÚ
+ValueErrorÚprint)r	   r
+   Úraws      ÚZ/mnt/data/travel_oldstyle_work/travel-zynelion-fixed/scripts/publish_from_google_sheets.pyÚenv_intr   !   sz   € Ü
+*‰*.‰.˜˜rÓ
+"€CðÜ(+¨C«¯©×(8Ñ(8Œs”3s“8—>‘>Ó#Ó$ÐE¸gÐEøÜó Ü
+Ð$ T F¨!¨C©7°(¸7¸)À1ÐEÈTÒRØŠðús   ¢?A$ Á"A$ Á$!BÂBÚTIMEZONEzAsia/JakartaÚSITE_URLzhttps://travel.zynelion.comÚ/ÚpostÚtravelÚidÚDEFAULT_MIN_WORDSi°  ÚMIN_ACCEPTABLE_WORDSi¼  ÚPUBLISH_INTERVAL_MINUTESéZ   ÚMAX_POSTS_PER_RUNé   ÚLLM_RETRIESé   Ú_postszassets/images/autoz,https://www.googleapis.com/auth/spreadsheetsÚPEXELS_API_KEYr
+   ÚLLM_API_KEYÚLLM_BASE_URLzhttps://openrouter.ai/api/v1Ú	LLM_MODELzopenrouter/autoÚLLM_SITE_URLÚLLM_APP_NAMEúTravel Zynelion)ÚtitleÚslugÚpublish_timeÚcategoryÚtagsÚexcerptÚdescriptionÚimage_queryÚimageÚpromptÚlanguageÚ	min_wordsÚcontentÚstatusÚpublished_atÚoutput_fileÚpost_url>   r
+   ÚdraftÚreadyÚpendingÚ	publishedÚmessagec                 ó   • [        U SS9  g )NTr   )r   )rH   s    r   ÚlogrJ   J   s   € Ü	ˆ'˜Óó    c                  óH   • [         R                  " [        [        5      5      $ )N)r   Únowr   r   © rK   r   Ú	now_localrO   N   s   € Ü<Š<œ¤Ó*Ó+Ð+rK   Úheaderc                 óÔ   • [        U =(       d    S5      R                  5       R                  5       n[        R                  " SSU5      nSSSSSS	S
+SSSSSSS.
+nUR                  X5      $ )
+Nr
+   z\s+Ú_r3   r;   r5   r7   rC   Úsearch_console_statusÚsearch_console_submitted_atrA   )
+ÚkeywordÚ	image_urlÚ	posted_atÚlabelsÚurl_postrS   rT   ÚdaterG   ÚurlÚlinkÚlinksÚlinkssss)r   r   ÚlowerÚreÚsubr   )rP   ÚkeyÚaliasess      r   Únormalize_headerrd   R   ss   € Ü
+
+ˆfl˜Ó
+×
+!Ñ
+!Ó
+#×
+)Ñ
+)Ó
++€CÜ
+&Š&˜˜cÓ
+"€CàØØ#ØØØ!8Ø'DØØ#ØØØØñ€Gð ;‰;sÓ Ð rK   Útextc                 ób  • [        U =(       d    S5      R                  5       R                  5       n [        R                  " SU 5      R                  SS5      R
+                  S5      n [        R                  " SSU 5      n [        R                  " SSU 5      n U R                  S5      =(       d    S$ )	Nr
+   ÚNFKDÚasciiÚignorez[^a-z0-9\s-]z[\s_-]+Ú-r    )	r   r   r_   ÚunicodedataÚ	normalizeÚencodeÚdecoder`   ra   )re   s    r   Úslugifyro   g   sƒ   € Üˆtzr‹?× Ñ Ó"×(Ñ(Ó*€DÜ× Ò  ¨Ó.×5Ñ5°g¸xÓH×OÑOÐPWÓX€DÜ
+6Š6/ 2 tÓ,€DÜ
+6Š6*˜c 4Ó(€DØ:‰:c‹?×$˜fÐ$rK   c                 ó†  • U c  g [        U 5      R                  5       n U (       d  g [        R                  " SU 5      (       a0  [	        U 5      n[        SSS[
+        [        5      S9nU[        US9-   $ / SQnU H6  n [
+        R                  " X5      nUR                  [
+        [        5      S9s  $     [
+        R                  " U 5      nUR                  c  UR                  [
+        [        5      S9$ UR                  [
+        [        5      5      $ ! [         a     M¥  f = f! [         a  n[        SU < 35      UeS nAff = f)	Nz\d+(\.\d+)?ik  é   é   )Útzinfo)Údays)ú%Y-%m-%d %H:%M:%Sz%Y-%m-%d %H:%Mú%Y-%m-%dz%Y/%m/%d %H:%M:%Sz%Y/%m/%d %H:%Mz%d/%m/%Y %H:%M:%Sz%d/%m/%Y %H:%Mz%d/%m/%YzInvalid publish_time/date: )r   r   r`   Ú	fullmatchÚfloatr   r   r   r   ÚstrptimeÚreplacer   Ú
+fromisoformatrs   Ú
+astimezoneÚ	Exception)ÚvalueÚserialÚbaseÚformatsÚfmtÚdtÚexcs          r   Úparse_publish_timer…   o   s'  € Ø}ØÜ‹J×ÑÓ€EÞØô 
+‡|‚|N E×*Ñ*Üu“ˆÜ˜˜b "¬X´hÓ-?Ñ@ˆØ”i VÑ,Ñ,Ð,ò	€Gó ˆð	Ü×"Ò" 5Ó.ˆBØ—:‘:¤X¬hÓ%7:Ð8Ò8ñ ðKÜ
+×
+#Ò
+# EÓ
+*ˆØ
+9‰9ÑØ—:‘:¤X¬hÓ%7:Ð8Ð8Ø}‰}œX¤hÓ/Ó0Ð0øô ó 	Úð	ûô ó KÜÐ6°u±iÐ@ÓAÀsÐJûðKús0   Á<1DÂ3>D! Ã2D! Ä
+DÄDÄ!
+E Ä+D;Ä;E rƒ   c                 ó\   • U R                  [        [        5      5      R                  S5      $ )Nru   )r|   r   r   Ústrftime)rƒ   s    r   Úformat_sheet_dtrˆ   –   s"   € Ø
+=‰=œ¤(Ó+Ó,×5Ñ5Ð6IÓJÐJrK   r~   c                 ó¼   • U (       d  / $ [        U 5      R                  S5       Vs/ s H)  oR                  5       (       d  M  UR                  5       PM+     sn$ s  snf )NÚ,)r   Úsplitr   )r~   Úitems     r   Ú	split_csvr   š   sA   € ÞØˆ	Ü%(¨£Z×%5Ñ%5°cÔ%:ÓKÒ%:˜T¿j¹j¿l‹LˆDJ‰JŽLÑ%:ÑKÐKùÒKs   ¦AÁAc                 óv   • [        U =(       d    S5      R                  SS5      R                  SS5      n SU  S3$ )Nr
+   Ú\z\\Ú"z\")r   rz   )r~   s    r   Ú
+quote_yamlr‘       s8   € Ü—˜Ó×$Ñ$ T¨6Ó2×:Ñ:¸3ÀÓF€EØ
+ˆuˆgQˆ<ÐrK   Úmarkdownc                 óþ   • [         R                  " SSU =(       d    S[         R                  S9n[         R                  " SSU5      n[         R                  " SSU5      n[        [         R                  " SU5      5      $ )Nz	```.*?```Ú r
+   ©Úflagsz<[^>]+>z
+[#>*_`\[\]()]u   [A-Za-zÃ€-á»¹0-9]+)r`   ra   ÚSÚlenÚfindall)r’   re   s     r   Úcount_wordsrš   ¥   sZ   € Ü
+6Š6,  X§^°¼2¿4¹4Ñ@€DÜ
+6Š6*˜c 4Ó(€DÜ
+6Š6Ð" C¨Ó.€DÜŒrzŠzÐ/°Ó6Ó7Ð7rK   r?   c                 ób  • U =(       d    SR                  5       n [        R                  " SSU [        R                  S9n [        R                  " SSU 5      n / SQnU H(  n[        R                  " USU [        R                  S9n M*     [        R                  " SSU 5      n U R                  5       $ )Nr
+   z^```(?:markdown)?\s*r•   z\s*```$)z
+^Tentu[,!\s]*z^Berikut(?: adalah)?[^\n:]*:\s*z^Ini adalah[^\n:]*:\s*z^Artikel berikut[^\n:]*:\s*z^Baik[,!\s]*z\n{3,}ú
+
+)r   r`   ra   ÚI)r?   Úunwanted_openingsÚpatterns      r   Úclean_generated_articler    ¬   s‰   € Ø}˜"×#Ñ#Ó%€GÜfŠfÐ,¨b°'ÄÇÁÑF€GÜfŠfZ  WÓ-€GòÐó %ˆÜ—&’&˜ " g´R·T±TÑ:Šñ %äfŠfY ¨Ó0€GØ=‰=‹?ÐrK   c                 ó"  • [        5       n/ nU  H|  n[        U=(       d    S5      R                  5       R                  5       nU(       d  M<  XA;  d  MC  UR	                  U5        UR                  [        U5      R                  5       5        M~     U$ )Nr
+   )Úsetr   r_   r   ÚaddÚappend)ÚitemsÚseenÚoutrŒ   rb   s        r   Údedupe_keep_orderr¨   ½   si   € Ü‹5€DØ
+€CÛˆÜ$—*˜"‹o×#Ñ#Ó%×+Ñ+Ó-ˆßˆ33•?ØH‰HSŒMØJ‰J”s˜4“y—‘Ó(Ö)ñ	 ð
+ €JrK   Úrowc                 ó\  • [        U R                  S5      =(       d    S5      R                  5       nU(       a  U$ U R                  S5      U R                  S5      /nUR                  [	        U R                  SS5      5      5        [        U R                  S5      =(       d    S5      R                  5       nU(       a)  UR                  [
+        R                  " SU5      S S 5        [        U Vs/ s H
+  oD(       d  M  UPM     sn5      nU(       a  S	R                  US S
+ 5      $ S$ s  snf )Nr:   r
+   r3   r6   r7   r8   u   [A-Za-zÃ€-á»¹0-9]{4,}é   r”   é   ztravel landscape)	r   r   r   Úextendr   r`   r™   r¨   Újoin)r©   r:   Úchunksr8   ÚcÚkeywordss         r   Úbuild_search_keywordsr²   È   sä   € Üc—g‘g˜mÓ,×2°Ó3×9Ñ9Ó;€KÞØÐØg‰ggÓ §¡¨
+Ó 3Ð
+4€FØ
+‡MM”)˜CŸG™G F¨BÓ/Ó0Ô1Ü#—'‘'˜)Ó$×*¨Ó+×1Ñ1Ó3€GÞØ
+‰
+”b—j’jÐ!9¸7ÓCÀBÀQÐGÔHÜ ©VÓ!9ªV¨³q§!©VÑ!9Ó:€HÞ%-ˆ38‰8H˜R˜aLÓ!ÐEÐ3EÐEùò ":s   Ã1
+D)Ã?D)Úqueryr4   c                 óâ  • [         (       d  [        S5        g [        R                  " SS[         0U SSS.SS	9nUR                  S
+:w  a  [        SUR                   S35        gUR                  5       R                  S
+5      =(       d    / nU(       d  [        SU  35        gUS   nUR                  S0 5      R                  S5      =(       dI    UR                  S0 5      R                  S5      =(       d!    UR                  S0 5      R                  S5      nU(       d  g[        R                  SSS9  [        U S3-  nUR                  5       (       dN  [        R                  " USS9nUR                  5         UR                  UR                  5        [        SU 35        SUR                   3UR                  S5      =(       d    S4$ ! [         a  n[        SU 35         S nAgS nAff = f)Nz,PEXELS_API_KEY not set; image fetch skipped.)r
+   r
+   z https://api.pexels.com/v1/searchÚ
+Authorizationr(   Ú	landscape)r³   Úper_pageÚorientationrr   )ÚheadersÚparamsÚtimeoutéÈ   zPexels HTTP z; image fetch skipped.ÚphotoszNo Pexels image found for: r   ÚsrcÚlarge2xÚlargeÚoriginalT)ÚparentsÚexist_okz.jpgé<   )r»   zDownloaded image: z/assets/images/auto/r[   r
+   zPexels fetch failed: )r,   rJ   Úrequestsr   Ústatus_codeÚjsonÚ
+IMAGES_DIRÚmkdirÚexistsÚraise_for_statusÚwrite_bytesr?   r	   r}   )	r³   r4   Úrespr½   ÚphotorV   Ú
+local_pathÚimgr„   s	            r   Úfetch_pexels_imagerÑ   Õ   s¼  € ßŠ>ÜÐ:Ô;Øð Ü|Š|Ø.Ø$¤nÐ5Ø"°À+ÑNØñ	
+ˆð ×Ñ˜sÓ"Ü,˜t×/Ñ/Ð0Ð0FÐGÔHØØ—‘“—‘ Ó*×0¨bˆÞÜÐ-¨e¨WÐ5Ô6ØØq‘	ˆàI‰Ie˜RÓ ×$Ñ$ YÓ/÷ 
+4Øy‰y˜ Ó#×'Ñ'¨Ó0÷
+4ày‰y˜ Ó#×'Ñ'¨
+Ó3ð 	ö
+ ØÜ×Ñ °ÐÑ5Ü T F¨$ -Ñ/ˆ
+Ø× Ñ ×"Ñ"Ü—,’,˜y°"Ñ5ˆCØ× Ñ Ô"Ø×"Ñ" 3§;¡;Ô/ÜÐ$ Z LÐ1Ô2Ø% j§o¡oÐ%6Ð7¸¿¹À5Ó9I×9OÈRÐOÐOøÜó ÜÐ# C 5Ð)Ô*Üûðús,   ™A
+G Á$=G Â"A=G Ä B+G Ç
+G.ÇG)Ç)G.c                  óÎ   • [         (       d  [        S5      e0 n S[        ;   a(  [        =(       d    [        U S'   [
+        =(       d    SU S'   [
+        [         [        U =(       d    S S9$ )Nz2LLM_API_KEY is not set and this row has no contentz
+openrouter.aizHTTP-Refererr2   zX-Title)Úapi_keyÚbase_urlÚdefault_headers)r-   ÚRuntimeErrorr.   r0   r   r1   r   )r¹   s    r   Úget_openai_clientr×   ý   sS   € ßŠ;ÜÐOÓPÐPØ€GØœ,Ó&Ü".×":´(ˆÑÜ)×>Ð->ˆ	ÑÜœ+´ÈgÏoÐY]Ñ^Ð^rK   r>   Úprevious_issuec                 óª  • [        U R                  S5      =(       d    S5      R                  5       n[        U R                  S5      =(       d    S5      R                  5       =(       d    Un[        U R                  S5      =(       d    [        5      R                  5       n[	        U R                  SS5      5      n[        U R                  S5      =(       d    S5      R                  5       n[        U R                  S5      =(       d    S5      R                  5       n[        U R                  S5      =(       d    [
+        5      R                  5       R
+                  5       n	U	S	;   a  S
+OU	n
+U(       a  SU S3OSnS
+U
+ S3R                  5       nSU
+ SU SU SU(       a  SR                  U5      OS SU=(       d    S SU=(       d    S SU SU SU S3R                  5       n
+[        5       nUR                  R                  R                  [        SSSUS.SU
+S./S 9n[        UR                  S!   R                  R                   =(       d    S5      $ )"Nr3   r
+   r<   r6   r7   r8   r9   r=   >   r"   Ú
+indonesianúbahasa indonesiazBahasa Indonesiaz
+Catatan revisi: Ú
+z=
+You are a skilled human travel blogger and editor.
+Write in a  . Output only the final article in markdown.
+The article must be practical, readable, specific, and relevant to the title.
+Do not mention AI, prompts, drafts, or that you are generating content.
+Avoid generic filler, fake exact facts, fake prices, and template-like conclusions.
+z!
+Tulis artikel blog travel dalam z.
+
+Data artikel:
+- Judul: z
+- Kategori: z	
+- Tags: ú, rj   z
+- Excerpt: z
+- Deskripsi SEO: z
+- Brief/topik utama: z
+
+Target wajib:
+- Minimal a   kata.
+- Mulai langsung dengan paragraf pembuka, bukan kalimat meta.
+- Gunakan subjudul markdown yang natural.
+- Berikan tips konkret dan relevan.
+- Jangan membuat klaim harga, jadwal, aturan, atau data spesifik jika tidak ada di brief.
+- Jangan keluar dari topik judul.
+z"
+Keluaran hanya artikel markdown.
+g…ëQ¸…ë?gÍÌÌÌÌÌì?Úsystem)Úroler?   Úuser)ÚmodelÚtemperatureÚtop_pÚmessagesr   )r   r   r   ÚDEFAULT_CATEGORYr   ÚDEFAULT_LANGUAGEr_   r®   r×   ÚchatÚcompletionsÚcreater/   r    ÚchoicesrH   r?   )r©   r>   rØ   r3   r<   r6   r7   r8   r9   r=   Ú	lang_nameÚrepair_noteÚ
+system_promptÚuser_promptÚclientÚresponses                   r   Úgenerate_article_oncerñ     s5  € Ü—‘˜Ó ×& BÓ'×-Ñ-Ó/€EÜ
+—‘˜Ó"×( bÓ
+)×
+/Ñ
+/Ó
+1×
+:°U€FÜ3—7‘7˜:Ó&×:Ô*:Ó;×AÑAÓC€HÜS—W‘W˜V RÓ(Ó)€DÜ#—'‘'˜)Ó$×*¨Ó+×1Ñ1Ó3€GÜc—g‘g˜mÓ,×2°Ó3×9Ñ9Ó;€KÜ3—7‘7˜:Ó&×:Ô*:Ó;×AÑAÓC×IÑIÓK€HØ&.Ð2ZÓ&ZÑ"Ð`h€Iæ=KÐ& ~Ð&6°bÑ9ÐQS€Kð
+à
+ˆð ð÷ 
+EƒGð
+ ð!Ø!* ð ,
+ð ˆð 
+Ø
+ˆJð 	Þ ˆ‰4Œ cÐ*ð +ØNsÐð Ø×$ Ð%ð &ØXð ð ˆ+ð ð 
+€
+ð ð%÷( 
+EƒGð) ô* Ó
+ €FØ{‰{×&Ñ&×-Ñ-ÜØØà¨-Ñ8Ø¨Ñ4ð
+ð	 .ð €Hô # 8×#3Ñ#3°AÑ#6×#>Ñ#>×#FÑ#F×#LÈ"ÓMÐMrK   c           
+      ó:  • [        U R                  S5      =(       d    S5      R                  5       nU(       dA  [        U R                  S5      =(       d    S5      R                  5       (       d  [        S5      e [	        [
+        [
+        [        U R                  S5      =(       d    [        5      R                  5       5      5      nSnSnSn[        S[        S-   5       Ho  n[        SU S	[         S
+U 35        [        XU5      n[        U5      n[        SU 35        X„:”  a  XxpCX‚:¼  a  Us  $ SU S
+U S3n[        R                  " S5        Mq     U[
+        :¼  a  [        SU SU S[
+         S35        U$ [        SU S35      e! [         a	    [        n NÒf = f)Nr3   r
+   r<   zmissing title/promptr>   r   r(   zGenerating article attempt r   z: zGenerated word count: z!Versi sebelumnya terlalu pendek (z+ kata). Tulis ulang lebih lengkap, minimal z kata.zUsing best acceptable article: z words (< requested z, >= floor z).z*Generated article too thin after retries: ú words)r   r   r   r   Úmaxr$   r   r#   Úranger)   rJ   rñ   rš   ÚtimeÚsleeprÖ   )	r©   r3   r>   ÚbestÚ
+best_countÚissueÚattemptr?   Úwcs	            r   Úgenerate_articlerý   ;  s„  € Ü—‘˜Ó ×& BÓ'×-Ñ-Ó/€EÞœ˜SŸW™W XÓ.×4°"Ó5×;Ñ;×=Ñ=ÜÐ/Ó0Ð0ð&ÜÔ,¬c´#°c·g±g¸kÓ6J×6_ÔN_Ó2`×2fÑ2fÓ2hÓ.iÓjˆ	ð €DØ€JØ€EÜ˜œK¨!™OÖ,ˆÜÐ)¨'¨°!´K°=ÀÀ5À'ÐJÔKÜ'¨¸Ó>ˆÜ
+˜Ó
+!ˆÜÐ$ R DÐ)Ô*Ø
+‹?Ø&*Ø
+‹?ØŠNØ3°B°4Ð7bÐclÐbmÐmsÐtˆÜ
+Š
+1Ž
+ñ -ð Ô)Ó)ÜÐ-¨j¨\Ð9MÈiÈ[ÐXcÔdxÐcyÐy{Ð|Ô}ØˆÜ
+ÐCÀJÀ<ÈvÐVÓ
+WÐWøô+ ó &Ü%Š	ð&ús   Á;AF ÆFÆFc                 óÀ  • SSU=(       d    [          3S[        U 5       3SUR                  S5       3/nU(       a0  UR                  SSR	                  [        U5      /5      -   S-   5        U(       aZ  U V	s/ s H   n	[        U	5      (       d  M  [        U	5      PM"     n
+n	U
+(       a&  UR                  S	SR	                  U
+5      -   S-   5        U(       a  UR                  S
+[        U5       35        U(       a  UR                  S[        U5       35        U(       a  UR                  S[        U5       35        UR                  S5        S
+R	                  U5      $ s  sn	f )Nz---zlayout: ztitle: zdate: z%Y-%m-%d %H:%M:%S %zz
+categories: [rÝ   Ú]ztags: [z	excerpt: z
+description: zimage: rÜ   )ÚDEFAULT_LAYOUTr‘   r‡   r¤   r®   ro   )r3   Ú
+publish_dtÚlayoutr6   r7   r8   r9   r;   ÚlinesÚtÚ
+clean_tagss              r   Úbuild_front_matterr  Y  s(  € à
+Ø
+6×+œ^Ð,Ð-Ø
+”*˜UÓ#Ð$Ð%Ø
+×$Ñ$Ð%;Ó<Ð=Ð>ð	
+€Eö Ø
+‰_ t§y¡y´'¸(Ó2CÐ1DÓ'EÑEÈÑKÔLÞÙ*.Ó=ª$ Q´'¸!·*“j”g˜a–j©$ˆ
+Ð=ÞØL‰L˜ T§Y¡Y¨zÓ%:Ñ:¸SÑ@ÔAÞØ
+‰y¤¨GÓ!4Ð 5Ð6Ô7ÞØ
+‰}¤Z°Ó%<Ð$=Ð>Ô?ÞØ
+‰wœz¨%Ó0Ð1Ð2Ô3Ø	‡LLÔØ9‰9UÓÐùò >s   Á7EÂEÚfilenamec           
+      ó¤   • [         R                  " SU 5      nU(       d  [         SU  3$ UR                  5       u  p#pE[         SU SU SU SU S3
+$ )Nz"^(\d{4})-(\d{2})-(\d{2})-(.+)\.md$r   z.html)r`   Úmatchr   Úgroups)r  ÚmÚyÚmoÚdr4   s         r   Ú
+make_post_urlr  p  s[   € Ü
+ŠÐ6¸ÓA€AÞÜ˜1˜X˜JÐ'Ð'Ø—X‘X“ZN€Aˆ1ÜˆZq˜˜˜1˜R˜D  !  A d V¨5Ð1Ð1rK   c           
+      ó   • S GH¨  n U R                  U5      nUR                  5       nU(       d  M/  / n/ nU(       a  US    Vs/ s H  n[        U5      PM     snO/ nUSS   Hñ  n[        U5      S:”  a  [	        US   5      R                  5       OSn	[        U5      S:”  a  [	        US   5      R                  5       OSn
+U	(       ad  SUS S ;   d  US:w  aU  UR
+                  U	R                  S5       Vs/ s H)  o»R                  5       (       d  M  UR                  5       PM+     sn5        U
+R                  S5      (       d  Mà  UR                  U
+5        Mó     [        U5      n[        U5      nU(       a6  U(       a,  [        S	[        U5       S
+[        U5       SU S35        XE4s  $ GM¨  GM«     / / 4$ s  snf s  snf ! [         a     GMÉ  f = f)
+N)ÚExternal_LinksÚAnchorÚAnchorsÚConfigr   r(   r
+   Úanchorr  rŠ   ÚhttpzLoaded z
+ anchors and z URLs from r   )
+Ú	worksheetÚget_all_valuesrd   r˜   r   r   r­   r‹   Ú
+startswithr¤   r¨   rJ   r}   )Úspreadsheetr	   ÚwsÚvaluesÚanchorsÚurlsÚhr¹   r©   ÚfirstÚsecondÚas               r   Úload_anchor_and_urlsr#  x  s˜  € ÜAˆð	Ø×&Ñ& tÓ,ˆBØ×&Ñ&Ó(ˆFÞÙØˆGØˆDÞBH°F¸1²IÓ>²I¨qÔ'¨Ö*±IÒ>ÈbˆGØ˜a˜b“zÜ/2°3«x¸!«|œ˜C ™F›×)Ñ)Ô+ÀÜ03°C³¸1³œ˜S ™V›×*Ñ*Ô,À"Þ˜h¨'°"°1¨+Ó5¸ÀÓ9IØ—N‘N°u·{±{À3Ô7GÓ#UÒ7G°!Ï7É7Ï9£I A§G¡G¦IÑ7GÑ#UÔVØ×$Ñ$ V×,Ó,Ø—K‘K Ö'ñ
+ "ô (¨Ó0ˆGÜ$ TÓ*ˆDÞž4Ügœc '›l˜^¨=¼¸T»¸À;ÈtÈfÐTUÐVÔWØ}Ò$ò  Šwñ% Bð. ˆrˆ6€Mùò ?ùò
+ $Vøô ó 	Ûð	úsB   ˆ(F>²F>ÁF4ÁBF>Ã4F9ÄF9Ä$F>ÅA"F>Æ4
+F>Æ>
+G
+ÇG
+r  r  Ú	max_linksc                 ó4  ^	• U (       a  U(       a  U(       d  U $ U nSn[         R                  " U[        [        U5      US-  5      S9 H½  nXS:¼  a    O·SU;   aE  [        R
+                  " S[        R                  " U5       S3U[        R                  5      (       a  MU  [         R                  " U5      m	[        R                  " S[        R                  " U5       S35      nUR                  U	4S	 jUS
+S9u  pHXX(       a  S
+OS-
+  nM¿     [        SU S
+35        U$ )Nr   r*   )Úkú](z\[[^\]]*z
+[^\]]*\]\(z(?<![\]\[])(?i:\bz\b)c                 ó4   >• SU R                  S5       ST S3$ )NÚ[r   r'  Ú))Úgroup)r  Ú
+chosen_urls    €r   Ú<lambda>Ú%inject_anchor_links.<locals>.<lambda>Ÿ  s   ø€ ¨a°·±¸³
+¨|¸2¸j¸\ÈÑ,KrK   r(   )Úcountz	Injected z anchor link(s).)ÚrandomÚsampleÚminr˜   r`   ÚsearchÚescaper   ÚchoiceÚcompileÚsubnrJ   )
+r?   r  r  r$  ÚupdatedÚlinked_countr  rŸ   Únr,  s
+            @r   Úinject_anchor_linksr;  “  sî   ø€ Þž'®ØˆØ€GØ€LÜ—-’- ¬3¬s°7«|¸YÈ¹]Ó+KÔLˆØÓ$ÙØ
+GÓ¤§	¢	¨X´b·i²iÀÓ6GÐ5HÈ
+Ð*SÐU\Ô^`×^bÑ^b× cÑ cÙÜ—]’] 4Ó(ˆ
+Ü—*’*Ð 1´"·)²)¸FÓ2CÐ1DÀCÐHÓIˆØ—\‘\Ô"KÈWÐ\]\Ð^‰
+ˆØQ™ AÑ%Šñ Mô ˆ)L>Ð!1Ð2Ô3Ø€NrK   c                 ó¾  •  U R                  S5      nUR                  5       n/ nSnUSS   H˜  n[        U5      S:”  a  [	        US   5      R                  5       OSn[        U5      S:”  a  [	        US   5      R                  5       OSnU(       a  UR
+                  U5        UR                  S5      (       d  M  U(       a  M–  UnMš     X44$ ! [         a    / S4s $ f = f)NÚFooterr
+   r(   r   r  )r  r  r}   r˜   r   r   r¤   r  )r  r  r  Úfooter_textsÚ
+footer_urlr©   re   r[   s           r   Úload_footerr@  ¥  sÓ   € ðØ
+×
+"Ñ
+" 8Ó
+,ˆØ×"Ñ"Ó$ˆð €LØ€JØab‹zˆÜ&)¨#£h°£lŒs3q‘6‹{× Ñ Ô"¸ˆÜ%(¨£X°£\Œc#a‘&‹k×ÑÔ!°rˆÞØ×Ñ Ô%Ø>‰>˜&×!Ó!¯*¨*ØŠJñ
+ ð Ð#Ð#øô ó Ø2ˆvŠ
+ðús   ‚!C ÃCÃCr>  r?  c           	      óÖ  • U (       a  U(       d  g[         R                  " U 5      R                  5       nUR                  5       n[	        U5      S:  a	  SU SU S3$ [         R
+                  " S[
+        S[	        U5      S-
+  5      5      n[         R
+                  " S[        S[	        U5      U-
+  5      5      nS	R                  X4XE-    5      nUR                  US
+U SU S3S5      nS
+U S3$ )Nr
+   é   z
+
+---
+
+[r'  z)
+r   r*   é   r”   r)  r*  r(   z
+
+---
+
+rÜ   )
+r0  r5  r   r‹   r˜   Úrandintrô   r2  r®   rz   )r>  r?  re   ÚwordsÚstartÚlengthÚanchor_textÚlinked_texts           r   Úbuild_footer_blockrJ  ·  sÐ   € ÞžzØÜ=Š=˜Ó&×,Ñ,Ó.€DØJ‰J‹L€EÜ
+ˆ5ƒzAƒ~Ø˜d˜V 2 j \°Ð5Ð5ÜNŠN˜1œc !¤S¨£Z°!¡^Ó4Ó5€EÜ
+^Š^˜Aœs 1¤c¨%£j°5Ñ&8Ó9Ó
+:€FØ—(‘(˜5 u¡~Ð6Ó7€KØ—,‘,˜{¨a°¨}¸B¸z¸lÈ!Ð,LÈaÓP€KØ
+˜˜
+ RÐ(Ð(rK   r  c           
+      ó¶  • [        U R                  S5      =(       d    S5      R                  5       nU(       d  [        S5      e[        U R                  S5      =(       d    S5      R                  5       n[	        U=(       d    U5      n[        U R                  S5      =(       d    [
+        5      R                  5       =(       d    [
+        n	[        U R                  S5      =(       d    [        5      R                  5       n
+[        U R                  SS5      5      n[        U R                  S5      =(       d    S5      R                  5       n[        U R                  S	5      =(       d    S5      R                  5       n
+[        U R                  S
+5      =(       d    S5      R                  5       n[        U R                  S5      =(       d    S5      R                  5       nU(       d  [        U 5      n[        U5      [        :  a  [        S[        U5       S
+35      eU(       a  U(       a  [        XòUSS9nSnU(       d  [        [        U 5      U5      u  nnUR                  S5       SU S3n[        XaXšX¼XÞ5      nSnU(       a  UR!                  S5      nSU SU S3nU(       a  SU S3OSn[#        U=(       d    / U=(       d    S5      nUU SU U U U S34$ )Nr3   r
+   z
+missing titler4   r  r6   r7   r8   r9   r;   r?   zcontent too thin: ró   r*   )r$  rv   rj   z.mdr   z<img src="{{ "z" | relative_url }}" alt="z$" loading="lazy" decoding="async">
+
+z4
+
+<p class="image-credit"><em>Image source: Pexels (z)</em></p>
+rœ   rÜ   )r   r   r   r   ro   r   rå   r   rý   rš   r$   r;  rÑ   r²   r‡   r  ÚlstriprJ  )r©   r  r  r  r>  r?  r3   Úraw_slugr4   r  r6   r7   r8   r9   r;   r?   Úimage_creditr  Úfront_matterÚimage_blockÚimage_path_for_htmlÚcredit_blockÚfooter_blocks                          r   Úmake_post_contentrT  Å  s`  € Ü—‘˜Ó ×& BÓ'×-Ñ-Ó/€EÞÜ˜Ó)Ð)Ü3—7‘7˜6“?×( bÓ)×/Ñ/Ó1€HÜ8×$˜uÓ%€DÜ
+—‘˜Ó"×4¤nÓ
+5×
+;Ñ
+;Ó
+=×
+OÄ€FÜ3—7‘7˜:Ó&×:Ô*:Ó;×AÑAÓC€HÜS—W‘W˜V RÓ(Ó)€DÜ#—'‘'˜)Ó$×*¨Ó+×1Ñ1Ó3€GÜc—g‘g˜mÓ,×2°Ó3×9Ñ9Ó;€KÜ—‘˜Ó ×& BÓ'×-Ñ-Ó/€EÜ#—'‘'˜)Ó$×*¨Ó+×1Ñ1Ó3€GæÜ" 3Ó'ˆÜ7ÓÔ2Ó2ÜÐ-¬k¸'Ó.BÐ-CÀ6ÐJÓKÐKæ–4Ü% g¸ÈÑJˆà€LÞÜ0Ô1FÀsÓ1KÈTÓRÑˆˆ|à×%Ñ% jÓ1Ð2°!°D°6¸Ð=€HÜ% e¸È4ÐZeÓm€LØ€KÞØ#Ÿl™l¨3Ó/ÐØ(Ð)<Ð(=Ð=YÐZ_ÐY`ð  aGð  HˆÞjvÐKÈLÈ>ÐYeÑfÐ|~€LÜ% l×&8°b¸*×:JÈÓK€LØ˜~ T¨+¨°w°iÀ¸~ÈlÈ^Ð[]Ð^Ð^Ð^rK   c                  ó  • [         R                  R                  SS5      R                  5       n U (       d  [	        S5      e[
+        R                  " U 5      n[        R                  " U[        S9n[        R                  " U5      $ )NÚGOOGLE_SERVICE_ACCOUNT_JSONr
+   z*Missing GOOGLE_SERVICE_ACCOUNT_JSON secret)Úscopes)r   r   r   r   rÖ   rÇ   Úloadsr   Úfrom_service_account_infoÚSCOPESÚgspreadÚ	authorize)Úraw_jsonÚinfoÚcredentialss      r   Úget_google_clientr`  ê  s`   € Üz‰z~‰~Ð;¸RÓ@×FÑFÓH€HÞÜÐGÓHÐHÜ:Š:hÓ€DÜ×7Ò7¸ÄVÑL€KÜ×Ò˜[Ó)Ð)rK   c                  ó´   • [         R                  R                  SS5      R                  5       n U (       d  [	        S5      e[        5       R
+                  U 5      $ )NÚGOOGLE_SHEETS_SPREADSHEET_IDr
+   z-Missing GOOGLE_SHEETS_SPREADSHEET_ID variable)r   r   r   r   rÖ   r`  Úopen_by_key)Úspreadsheet_ids    r   Úget_spreadsheetre  ó  sC   € Ü—Z‘Z—^‘^Ð$BÀBÓG×MÑMÓO€NÞÜÐJÓKÐKÜÓ×*Ñ*¨>Ó:Ð:rK   c           	      óœ  • U R                  S5      nU Vs/ s H  n[        U5      PM     nn[        U5      (       d  U R                  S[        /5        [        $ Sn[         H  nXS;  d  M
+  UR                  U5        SnM     U(       d  X1S [
+        U5       :w  a,  U R                  S[        S[
+        U5      -   5       S3U/5        U$ s  snf )Nr(   zA1:Q1FTzA1:é@   Ú1)Ú
+row_valuesrd   ÚanyÚupdateÚREQUIRED_HEADERSr¤   r˜   Úchr)r  Úcurrentr  Ú
+normalizedÚchangedrP   s         r   Úensure_headersrq  ú  sÂ   € Ø×"Ñ" 1Ó%€GÙ/6Ó7ªw¨!Ô" 1Ö%©w€JÐ7Üˆz?‰?Ø×Ñ˜Ô#3Ð"4Ô5ÜÐØ€Gß"ˆØÕ#Ø×Ñ˜fÔ%ØŠGñ #ö *Ð(8¬¨Z«Ð 9Ó9Ø×Ñ˜3œs 2¬¨J«Ñ#7Ó8Ð9¸Ð;¸j¸\ÔJØÐùò 8s   –C	c                 ó  • U R                  5       n/ nUSS   Hk  nUS/[        U5      [        U5      -
+  -  -   nUR                  [        [        U5      5       Vs0 s H  oaU   U[        U5      :  a  XV   OS_M     sn5        Mm     U$ s  snf )Nr(   r
+   )r  r˜   r¤   rõ   )r  r¹   r  ÚrowsÚ
+values_rowÚpaddedÚis          r   Úget_rowsrw  
+  sŽ   € Ø
+×
+%Ñ
+%Ó
+'€FØ
+€DØ˜Q˜R“jˆ
+Ø˜r˜d¤c¨'£l´S¸³_Ñ&DÑEÑEˆØ‰ÌuÔUXÐY`ÓUaÔObÓcÒObÈ!˜Q‘Z¨a´#°f³+«o ¢À2ÒEÑObÑcÖdñ !ð €Kùò ds   Á"B	
+Údatac                 ó  • / nUR                  5        H^  u  pV[        U5      nXQ;   d  M  UR                  U5      S-   nUR                  [        R
+                  R
+                  X'5      U//S.5        M`     U(       a  U R                  USS9  g g )Nr(   )rõ   r  ÚUSER_ENTERED)Úvalue_input_option)r¥   rd   Úindexr¤   r[  ÚutilsÚrowcol_to_a1Úbatch_update)r  r¹   Ú	row_indexrx  Úupdatesrb   r~   Úcols           r   Úupdate_sheet_rowrƒ    s   € Ø€GØ—j‘j–l‰
+ˆÜ˜sÓ#ˆØ>Ø—-‘- Ó$ qÑ(ˆCØN‰N¤W§]¡]×%?Ñ%?À	Ó%OÐ]bÐ\cÐ[dÑeÖfñ	 #ö
+ Ø×Ñ˜w¸>ÐÒJð rK   c                 óÎ   • S nU  HK  n [        UR                  S5      =(       d    UR                  S5      5      nU(       d  M?  Ub  X1:”  d  MI  UnMM     U$ ! [         a     M^  f = f)Nr5   rZ   )r…   r   r}   )rs  Úlatestr©   rƒ   s       r   Úlatest_publish_time_from_sheetr†    se   € Ø
+€FÛˆð	Ü# C§G¡G¨NÓ$;×$N¸s¿w¹wÀv»ÓOˆB÷ ˆ26‘> R¥[ØŠFñ
+ ð €Møô	 ó 	Úð	ús   ‰2AÁ
+A$Á#A$c                 óT   • [        U 5      nUc  U$ U[        [        S9-   nX1:  a  U$ U$ )N©Úminutes)r†  r   r%   )rs  Ú	local_nowr…  Ú	candidates       r   Únext_auto_publish_timerŒ  *  s9   € Ü
++¨DÓ
+1€FØ
+~ØÐØœÔ+CÑDÑD€IØÓØÐØÐrK   c            
+      ón  • [         R                  SS9  [        5       n [        R                  R                  SS5      R
+                  5       =(       d    Sn U R                  U5      n[        U5      n[        X#5      n[        U 5      u  pV[        U 5      u  px[        5       n	[        S[         35        [        S[!        U	5       S["         35        S	n
+S	n[%        XI5      n['        US
+S9 GH˜  u  pÞU
+[(        :¼  a    GOŠ[+        UR                  S5      =(       d    S
+5      R
+                  5       nU(       d  US-
+  nMR  [+        UR                  S5      =(       d    S
+5      R
+                  5       R-                  5       nU[.        :X  a  US-
+  nM¢  U[0        ;  a  [        SU
+ SU< 35        US-
+  nMÅ  [+        UR                  S5      =(       d    S
+5      R
+                  5       (       d:  [+        UR                  S5      =(       d    S
+5      R
+                  5       (       d  XþS'   [+        UR                  S5      =(       d    UR                  S5      =(       d    S
+5      R
+                  5       nU(       a
+   [3        U5      nO*UnU[7        [8        S9-   n[;        X#U
+S[!        U5      05        UU	:”  a"  [        SU
+ S[!        U5       35        US-
+  nGMä   [=        UUXVXx5      u  nn[         U-  nUR?                  5       (       a  [        SU
+ SU S35        O!URA                  USS9  [        SU
+ SU 35        [;        UUU
+[C        UR                  S5      =(       d    U5      [.        [!        U	5      U[E        U5      S.5        U
+S-
+  n
+GM›     [        S#U
+ S$U 35        g ! [         a    U R                  S5      n GNPf = f! [4         a"  n[        SU
+ SU 35        US-
+  n S nAGMø  S nAff = f! [         a@  n[        SU
+ S U 35        [;        X#U
+SS![+        U5      S S"  305        US-
+  n S nAGME  S nAff = f)%NT)rÃ   ÚGOOGLE_SHEETS_WORKSHEETÚSheet1ÚPostsz
+Site URL: zCurrent local time: r”   r   rC  )rF  r3   r
+   r(   r@   zRow z: skipped, status=r?   r<   r5   rZ   z: skipped, rˆ  z: waiting until z: file already exists -> z; marking published.zutf-8)Úencodingz
+: created -> r4   )r4   r@   rA   rB   rC   z: error -> zerror: éP   zDone. Published: z, skipped/waiting: )#Ú	POSTS_DIRrÉ   re  r   r   r   r   r  r}   rq  rw  r#  r@  rO   rJ   r   rˆ   r   rŒ  Ú	enumerater'   r   r_   ÚSTATUS_PUBLISHEDÚSTATUS_READYr…   r   r   r%   rƒ  rT  rÊ   Ú
+write_textro   r  )r  Úworksheet_namer  r¹   rs  r  r  r>  r?  rŠ  Úpublished_countÚ
+skipped_countÚ	auto_timer€  r©   r3   r@   Úpublish_rawr  r„   r  Ú	post_bodyÚfilepaths                          r   ÚmainrŸ  4  sú  € Ü
+‡OO˜T€OÑ"Ü!Ó#€KÜ—Z‘Z—^‘^Ð$=¸xÓH×NÑNÓP×\ÐT\€Nð3Ø×)Ñ)¨.Ó9ˆ	ô ˜YÓ'€GÜIÓ'€DÜ(¨Ó5M€GÜ*¨;Ó7Ñ€LÜ“€IÜˆ*”XJÐÔ ÜÐ
+œ¨yÓ9Ð:¸!¼H¸:ÐFÔGà€OØ€MÜ& tÓ7€Iä# D°Õ2‰ˆ	ØÔ/Ó/ÚÜC—G‘G˜GÓ$×*¨Ó+×1Ñ1Ó3ˆÞØ˜QÑˆMÙÜS—W‘W˜XÓ&×,¨"Ó-×3Ñ3Ó5×;Ñ;Ó=ˆØÔ%Ó%Ø˜QÑˆMÙØœÓ%Ü$ykÐ!3°F±:Ð>Ô?Ø˜QÑˆMÙÜ3—7‘7˜9Ó%×+¨Ó,×2Ñ2×4Ñ4¼SÀÇÁÈÓAR×AXÐVXÓ=Y×=_Ñ=_×=aÑ=aà!‰Mä˜#Ÿ'™' .Ó1×J°S·W±W¸V³_×JÈÓK×QÑQÓSˆÞð
+Ü/°Ó<‘
+ð #ˆJØ!¤IÔ6NÑ$OÑOˆIÜ˜Y°¸^Ì_Ð]gÓMhÐ<iÔjà˜	Ó!Ü$ykÐ!1´/À*Ó2MÐ1NÐOÔPØ˜QÑˆMÚð	Ü"3°C¸ÀWÐT`Ó"mÑˆHiÜ  8Ñ+ˆHØ‰× Ñ Üd˜9˜+Ð%>¸x¸jÐH\Ð]Õ^à×#Ñ# I¸Ð#Ñ@Üd˜9˜+ ]°8°*Ð=Ô>ÜØØØä# C§G¡G¨F£O×$<°uÓ=Ü.Ü$3°IÓ$>Ø#+Ü -¨hÓ 7ñô	
+ð 
+˜qÑ ‹Oñs 3ô@ Ð
+˜OÐ,Ð,?À
+¸ÐOÕPøô] ó 3Ø×)Ñ)¨'Ó2‹	ð3ûôJ ó 
+Üd˜9˜+ [°°Ð6Ô7Ø Ñ"
+Þûð
+ûôF ó 	Ü$yk ¨S¨EÐ2Ô3Ü˜Y°¸XÈÔQTÐUXÓQYÐZ]Ð[]ÐQ^ÐP_ÐG`Ð<aÔbØ˜QÑˆMÞûð		úsC   ÁN É0N;ËB3O*ÎN8Î7N8Î;
+O'ÏO"Ï"O'Ï*
+P4Ï44P/Ð/P4Ú__main__zFATAL ERROR:Tr   )r
+   )r*   )NNNN)XÚ__doc__rÇ   r   r0  r`   Úsysrö   Ú	tracebackrk   r   r   Úpathlibr   Úzoneinfor   r[  rÅ   Úgoogle.oauth2.service_accountr   Úopenair   r   r   r   r   r   r   Úrstripr   r   rå   ræ   r#   r$   r%   r'   r)   r“  rÈ   rZ  r   r,   r-   r.   r/   r0   r1   rl  r–  r•  rJ   rO   rd   ro   r…   rˆ   r   r‘   rš   r    r¨   Údictr²   rÑ   r×   rñ   rý   r  r  r#  Úlistr;  r@  rJ  rT  r`  re  rq  rw  rƒ  r†  rŒ  rŸ  Ú__name__r}   r   Ú	print_excÚexitrN   rK   r   Ú<module>r®     sÍ  ðñó Û 	Û 
+Û 	Û 
+Û Û Û ß (Ý Ý ã Û Ý 5Ý ð#ð  ð ¨ô ð :‰:>‰>˜* nÓ5×G¸€ØJ‰JN‰N˜:Ð'DÓE×fÐIf×nÑnÐorÓs€Ø€ØÐ ØÐ ÙÐ/°Ó6Ð ÙÐ5°sÓ;Ð Ù"Ð#=¸rÓBÐ ÙÐ/°Ó3Ð Ùm QÓ'€á‹N€	Ù
+Ð&Ó
+'€
+Ø
+8Ð	9€à—‘—‘Ð 0°"Ó5×;Ñ;Ó=€Øj‰jn‰n˜]¨BÓ/×5Ñ5Ó7€Øz‰z~‰~˜nÐ.LÓM×SÑSÓU€ØJ‰JN‰N˜;Ð(9Ó:×@Ñ@ÓB€	Øz‰z~‰~˜n¨hÓ7×=Ñ=Ó?€Øz‰z~‰~˜nÐ.?Ó@×FÑFÓH€òÐ ò 1€ØÐ ðð ˜ô ð,8ô ,ð!˜Sð ! Sô !ð*%#ð %˜#ô %ò$KðNK˜ð K Sô KðLSô Lðcð ˜cô ð
+8˜#ð 8 #ô 8ð Sð ¨Sô ò"ð
+F˜tô 
+Fð%˜cð %¨ô %òP_ñ1N˜tð 1N°ð 1NÀSð 1NÐRUõ 1NðhX˜$ð X 3ô Xò<ð.2˜Cð 2 Cô 2òñ6 ð ¨tð ¸4ð ÈCõ ò$$ð$) Tð )°sô )ñ"_˜4ð "_¨Xõ "_òJ*ò;ò
+ò ðK¸$ô Kò	òòTQðn ˆzÓðÙð øð ó Ù
+ˆn DÒ)Ø×ÒÔØŠŽðús   ËK Ë0L
+ÌL
+
