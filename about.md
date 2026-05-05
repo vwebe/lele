@@ -4,27 +4,18 @@ title: About
 permalink: /about.html
 ---
 
-# Tentang Lele Aesthetic
+# Tentang Travel Zynelion
 
-Lele Aesthetic adalah blog pribadi yang berisi cerita, pengalaman, dan inspirasi seputar perjalanan, gaya hidup, dan hal-hal sederhana yang menarik untuk dibagikan.
+Travel Zynelion berisi catatan perjalanan, itinerary, dan tips liburan yang ringan dibaca sebelum berangkat.
 
 Blog ini dibuat untuk:
-- berbagi pengalaman traveling
-- menulis cerita personal
-- mendokumentasikan ide dan inspirasi
-- membuat konten yang ringan tapi bermakna
+- menyimpan ide destinasi
+- berbagi itinerary praktis
+- merangkum tips perjalanan
+- membuat referensi travel yang bersih dan mudah dipahami
 
-Semua tulisan di sini dibuat dengan gaya santai, jujur, dan mudah dipahami.
-
-## Kenapa blog ini dibuat?
-
-Saya ingin punya ruang sendiri di internet, tempat untuk menulis tanpa batasan, dan berbagi hal-hal yang saya sukai.
-
-## Kontak
-
-Kalau ingin terhubung atau bertanya, kamu bisa menghubungi melalui:
-- Email: your@email.com
+Semua tulisan disusun dengan gaya santai, jelas, dan langsung ke hal yang berguna untuk pembaca.
 
 ---
 
-Terima kasih sudah berkunjung ke **Lele Aesthetic** ✨
+Terima kasih sudah berkunjung ke **Travel Zynelion**.

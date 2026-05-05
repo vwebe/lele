@@ -1,11 +1,11 @@
-title: "Lele Aesthetic"
-description: "A soft modern blog built with Jekyll"
+title: "Travel Zynelion"
+description: "Catatan travel, itinerary, dan tips perjalanan yang ringan dibaca."
 theme: null
 markdown: kramdown
 permalink: /:year/:month/:day/:title.html
 
-url: "https://vwebe.github.io"
-baseurl: "/lele"
+url: "https://travel.zynelion.com"
+baseurl: ""
 
 plugins:
   - jekyll-sitemap
