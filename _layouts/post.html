@@ -2,58 +2,127 @@
 layout: default
 ---
 
-<article class="single-post">
-  {% if page.image %}
-  <div class="post-hero-img">
-    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" width="1200" height="700" loading="eager">
-    <div class="post-hero-overlay">
-      <div class="post-hero-badge">✈ Travel Zynelion</div>
-    </div>
-  </div>
-  {% endif %}
+<div class="wrap layout-post">
 
-  <div class="post-top">
-    <div class="post-date">
-      <span>📅 {{ page.date | date: "%d %B %Y" }}</span>
-    </div>
-    <h1>{{ page.title }}</h1>
-    {% if page.description %}
-    <p class="post-lead">{{ page.description }}</p>
-    {% endif %}
-  </div>
+  <!-- POST CONTENT -->
+  <article class="single-post anim">
 
-  <div class="post-divider"></div>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
-
-  <div class="post-footer-bar">
-    <a class="back-btn" href="{{ '/' | relative_url }}">
-      ← Kembali ke Beranda
-    </a>
-    <div class="post-share-hint">📤 Bagikan artikel ini!</div>
-  </div>
-</article>
-
-<section class="related-heading">
-  <h2>✦ Artikel Lainnya</h2>
-</section>
-<section class="post-grid related-grid">
-  {% assign related = site.posts | where_exp: "p", "p.url != page.url" | limit: 3 %}
-  {% for post in related %}
-    <article class="post-card">
-      {% if post.image %}
-        <a href="{{ post.url | relative_url }}" class="post-card-img-link">
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" width="800" height="500" loading="lazy" decoding="async">
-          <div class="post-card-img-overlay"></div>
-        </a>
-      {% endif %}
-      <div class="post-card-body">
-        <div class="post-meta"><span class="post-meta-date">📅 {{ post.date | date: "%d %B %Y" }}</span></div>
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        <a class="read-more" href="{{ post.url | relative_url }}">Baca selengkapnya <span class="read-more-arrow">→</span></a>
+    <!-- Hero Image -->
+    {% if page.image %}
+    <div class="post-hero">
+      <img src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ page.image | relative_url }}{% endif %}"
+           alt="{{ page.title }}" width="1200" height="650" loading="eager">
+      <div class="post-hero-overlay">
+        <span class="post-hero-badge">Travel Zynelion</span>
       </div>
-    </article>
-  {% endfor %}
-</section>
+    </div>
+    {% endif %}
+
+    <!-- Post Header -->
+    <div class="post-header">
+      <div class="post-header-meta">
+        <span class="post-cat">{{ page.categories | first | default: "Travel" }}</span>
+        <span class="post-date-sep">·</span>
+        <span class="post-date">{{ page.date | date: "%d %B %Y" }}</span>
+      </div>
+      <h1 class="post-title">{{ page.title }}</h1>
+      {% if page.description %}
+      <p class="post-lead">{{ page.description }}</p>
+      {% endif %}
+      <div class="post-divider"></div>
+    </div>
+
+    <!-- Post Body -->
+    <div class="post-body">
+      {{ content }}
+    </div>
+
+    <!-- Post Footer -->
+    {% if page.tags and page.tags.size > 0 %}
+    <div class="post-tags">
+      <span class="post-tags-label">Tags:</span>
+      {% for tag in page.tags %}
+      <a href="{{ '/' | relative_url }}" class="post-tag">#{{ tag }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <div class="post-nav-bar">
+      <a class="back-btn" href="{{ '/' | relative_url }}">&#8592; Kembali ke Beranda</a>
+    </div>
+
+  </article>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+
+    <!-- Widget: About -->
+    <div class="widget widget-about anim">
+      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Zynelion Travel" width="70" height="70">
+      <h3>Travel Zynelion</h3>
+      <p>Blog perjalanan dengan catatan itinerary, panduan wisata, dan tips praktis dari seluruh penjuru dunia.</p>
+      <a class="widget-about-btn" href="{{ '/about.html' | relative_url }}">Tentang Kami</a>
+    </div>
+
+    <!-- Widget: Popular Posts -->
+    <div class="widget anim">
+      <div class="widget-header">
+        <h3 class="widget-title">Artikel Populer</h3>
+      </div>
+      <ul class="popular-list">
+        {% assign popular = site.posts | where_exp: "p", "p.url != page.url" | limit: 5 %}
+        {% for post in popular %}
+        <li class="popular-item">
+          {% if post.image %}
+          <a href="{{ post.url | relative_url }}" class="popular-thumb">
+            <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
+                 alt="{{ post.title }}" width="70" height="70" loading="lazy">
+          </a>
+          {% endif %}
+          <div class="popular-info">
+            <a href="{{ post.url | relative_url }}" class="popular-title">{{ post.title | truncate: 55 }}</a>
+            <span class="popular-date">{{ post.date | date: "%d %b %Y" }}</span>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- Widget: Labels -->
+    <div class="widget anim">
+      <div class="widget-header">
+        <h3 class="widget-title">Label / Kategori</h3>
+      </div>
+      <div class="label-cloud">
+        <a href="{{ '/' | relative_url }}" class="label-tag">Travel</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Itinerary</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Budget Travel</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Asia</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Eropa</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Tips</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Bali</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Bromo</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Backpacker</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Kuliner</a>
+      </div>
+    </div>
+
+    <!-- Widget: Related Posts -->
+    <div class="widget anim">
+      <div class="widget-header">
+        <h3 class="widget-title">Artikel Terkait</h3>
+      </div>
+      <ul class="recent-list">
+        {% assign related = site.posts | where_exp: "p", "p.url != page.url" | limit: 6 %}
+        {% for post in related %}
+        <li class="recent-item">
+          <span class="recent-date">{{ post.date | date: "%d %b" }}</span>
+          <a href="{{ post.url | relative_url }}" class="recent-title">{{ post.title | truncate: 50 }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </aside>
+
+</div>

@@ -2,74 +2,198 @@
 layout: default
 ---
 
-<section class="hero">
-  <div class="hero-logo">
-    <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Logo Travel Zynelion" width="110" height="110">
-  </div>
-  <div class="hero-badge">✈ World Travel Guide</div>
-  <h1>Jelajahi Dunia<br><em>Bersama Zynelion</em></h1>
-  <p>
-    Catatan travel, itinerary, dan tips perjalanan yang praktis — dari Asia Tenggara hingga ujung Eropa.
-  </p>
-  <div class="hero-stats">
-    <div class="stat"><span class="stat-num">100+</span><span class="stat-label">Artikel</span></div>
-    <div class="stat-divider"></div>
-    <div class="stat"><span class="stat-num">30+</span><span class="stat-label">Destinasi</span></div>
-    <div class="stat-divider"></div>
-    <div class="stat"><span class="stat-num">5+</span><span class="stat-label">Benua</span></div>
-  </div>
-</section>
-
-<section class="section-head">
-  <h2>✦ Artikel Terbaru</h2>
-  <p class="section-sub">Temukan destinasi impian dan tips perjalananmu</p>
-</section>
-
-<section class="post-grid">
-  {% for post in site.posts %}
-    <article class="post-card">
-      {% if post.image %}
-        <a href="{{ post.url | relative_url }}" class="post-card-img-link">
-          <img
-            src="{{ post.image | relative_url }}"
-            alt="{{ post.title }}"
-            width="1200"
-            height="800"
-            loading="lazy"
-            decoding="async"
-          >
-          <div class="post-card-img-overlay"></div>
-        </a>
-      {% endif %}
-
-      <div class="post-card-body">
-        <div class="post-meta">
-          <span class="post-meta-date">📅 {{ post.date | date: "%d %B %Y" }}</span>
+<!-- ═══════════════════════════════════════
+     FEATURED SLIDER (latest 5 posts with images)
+═══════════════════════════════════════ -->
+<section class="slider-section">
+  <div class="slider-wrap">
+    <div class="slider-track" id="sliderTrack">
+      {% assign slider_posts = site.posts | where_exp: "p", "p.image != nil" | limit: 6 %}
+      {% for post in slider_posts %}
+      <div class="slide {% if forloop.first %}active{% endif %}">
+        <div class="slide-bg" style="background-image: url('{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}')"></div>
+        <div class="slide-overlay"></div>
+        <div class="slide-content">
+          <div class="slide-meta">{% if post.categories %}{{ post.categories | first | upcase }}{% else %}TRAVEL{% endif %}</div>
+          <h2 class="slide-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <p class="slide-date">{{ post.date | date: "%d %B %Y" }}</p>
+          <a class="slide-btn" href="{{ post.url | relative_url }}">Baca Artikel</a>
         </div>
-
-        <h3>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h3>
-
-        <p>
-          {{ post.description | default: post.excerpt | strip_html | truncate: 110 }}
-        </p>
-
-        <a class="read-more" href="{{ post.url | relative_url }}">
-          Baca selengkapnya <span class="read-more-arrow">→</span>
-        </a>
       </div>
-    </article>
-  {% endfor %}
-</section>
-
-<section class="page-card about-strip">
-  <div class="about-strip-icon">🌏</div>
-  <div class="about-strip-text">
-    <h2>Tentang Blog Ini</h2>
-    <p>
-      Travel Zynelion adalah ruang kecil untuk menyimpan catatan perjalanan, itinerary, dan tips liburan — praktis, jujur, dan bebas lebay. Temukan ide destinasi dan panduan singkat untuk petualanganmu berikutnya.
-    </p>
-    <a class="btn-ghost" href="{{ '/about.html' | relative_url }}">Selengkapnya →</a>
+      {% endfor %}
+    </div>
+    <button class="slider-arrow slider-prev" id="sliderPrev" aria-label="Previous">&#8592;</button>
+    <button class="slider-arrow slider-next" id="sliderNext" aria-label="Next">&#8594;</button>
+    <div class="slider-dots" id="sliderDots">
+      {% for post in slider_posts %}
+      <button class="dot {% if forloop.first %}active{% endif %}" data-index="{{ forloop.index0 }}" aria-label="Slide {{ forloop.index }}"></button>
+      {% endfor %}
+    </div>
   </div>
 </section>
+
+<!-- ═══════════════════════════════════════
+     MAIN CONTENT + SIDEBAR
+═══════════════════════════════════════ -->
+<div class="wrap layout-main">
+
+  <!-- LEFT: Posts Grid -->
+  <div class="content-area">
+
+    <div class="section-title-bar anim">
+      <h2 class="section-title">Artikel Terbaru</h2>
+      <span class="section-title-line"></span>
+    </div>
+
+    <div class="post-grid">
+      {% for post in site.posts %}
+      <article class="post-card anim">
+        {% if post.image %}
+        <a href="{{ post.url | relative_url }}" class="post-card-thumb">
+          <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
+               alt="{{ post.title }}" width="800" height="500" loading="lazy" decoding="async">
+          <div class="post-card-thumb-overlay"></div>
+        </a>
+        {% endif %}
+        <div class="post-card-body">
+          <div class="post-card-meta">
+            <span class="post-card-cat">{{ post.categories | first | default: "Travel" }}</span>
+            <span class="post-card-date">{{ post.date | date: "%d %b %Y" }}</span>
+          </div>
+          <h3 class="post-card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p class="post-card-excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 100 }}</p>
+          <a class="post-card-readmore" href="{{ post.url | relative_url }}">Baca Selengkapnya <span>&rarr;</span></a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+
+  </div><!-- .content-area -->
+
+  <!-- RIGHT: Sidebar -->
+  <aside class="sidebar">
+
+    <!-- Widget: About -->
+    <div class="widget widget-about anim">
+      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Zynelion Travel" width="70" height="70">
+      <h3>Travel Zynelion</h3>
+      <p>Blog perjalanan dengan catatan itinerary, panduan wisata, dan tips praktis dari seluruh penjuru dunia.</p>
+      <a class="widget-about-btn" href="{{ '/about.html' | relative_url }}">Tentang Kami</a>
+    </div>
+
+    <!-- Widget: Popular Posts (latest 5 as proxy) -->
+    <div class="widget anim">
+      <div class="widget-header">
+        <h3 class="widget-title">Artikel Populer</h3>
+      </div>
+      <ul class="popular-list">
+        {% assign popular = site.posts | limit: 5 %}
+        {% for post in popular %}
+        <li class="popular-item">
+          {% if post.image %}
+          <a href="{{ post.url | relative_url }}" class="popular-thumb">
+            <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
+                 alt="{{ post.title }}" width="70" height="70" loading="lazy">
+          </a>
+          {% endif %}
+          <div class="popular-info">
+            <a href="{{ post.url | relative_url }}" class="popular-title">{{ post.title | truncate: 55 }}</a>
+            <span class="popular-date">{{ post.date | date: "%d %b %Y" }}</span>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- Widget: Categories/Labels -->
+    <div class="widget anim">
+      <div class="widget-header">
+        <h3 class="widget-title">Label / Kategori</h3>
+      </div>
+      <div class="label-cloud">
+        {% assign all_cats = site.posts | map: "categories" | join: "," | split: "," | uniq | sort %}
+        {% for cat in all_cats %}
+          {% unless cat == "" %}
+          <a href="{{ '/' | relative_url }}" class="label-tag">{{ cat | strip }}</a>
+          {% endunless %}
+        {% endfor %}
+        <a href="{{ '/' | relative_url }}" class="label-tag">Itinerary</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Budget Travel</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Asia</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Eropa</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Tips</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Bali</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Bromo</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Jogja</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Backpacker</a>
+      </div>
+    </div>
+
+    <!-- Widget: Recent Posts -->
+    <div class="widget anim">
+      <div class="widget-header">
+        <h3 class="widget-title">Artikel Terbaru</h3>
+      </div>
+      <ul class="recent-list">
+        {% assign recent = site.posts | limit: 6 %}
+        {% for post in recent %}
+        <li class="recent-item">
+          <span class="recent-date">{{ post.date | date: "%d %b" }}</span>
+          <a href="{{ post.url | relative_url }}" class="recent-title">{{ post.title | truncate: 50 }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- Widget: Archive by Month -->
+    <div class="widget anim">
+      <div class="widget-header">
+        <h3 class="widget-title">Arsip</h3>
+      </div>
+      <ul class="archive-list">
+        {% assign posts_by_month = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+        {% for month in posts_by_month limit: 8 %}
+        <li class="archive-item">
+          <a href="{{ '/' | relative_url }}" class="archive-link">
+            <span class="archive-month">{{ month.name }}</span>
+            <span class="archive-count">{{ month.items | size }}</span>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </aside><!-- .sidebar -->
+
+</div><!-- .layout-main -->
+
+<script>
+(function() {
+  var track = document.getElementById('sliderTrack');
+  var slides = track ? track.querySelectorAll('.slide') : [];
+  var dots = document.querySelectorAll('.dot');
+  var prev = document.getElementById('sliderPrev');
+  var next = document.getElementById('sliderNext');
+  var cur = 0, timer;
+
+  function goTo(n) {
+    slides[cur].classList.remove('active');
+    dots[cur].classList.remove('active');
+    cur = (n + slides.length) % slides.length;
+    slides[cur].classList.add('active');
+    dots[cur].classList.add('active');
+  }
+
+  function autoPlay() { timer = setInterval(function(){ goTo(cur + 1); }, 5000); }
+  function resetTimer() { clearInterval(timer); autoPlay(); }
+
+  if (slides.length > 0) {
+    if (prev) prev.addEventListener('click', function(){ goTo(cur - 1); resetTimer(); });
+    if (next) next.addEventListener('click', function(){ goTo(cur + 1); resetTimer(); });
+    dots.forEach(function(d) {
+      d.addEventListener('click', function(){ goTo(+this.dataset.index); resetTimer(); });
+    });
+    autoPlay();
+  }
+})();
+</script>

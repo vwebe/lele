@@ -5,47 +5,38 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="Ukz7ceHF3UpHTpaIo68QHjc9C7SwEAZjBNprhW_0mgU" />
 
-  <!-- SEO Meta -->
   <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }} | {{ site.description }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="author" content="Zynelion Travel">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
-  <!-- Open Graph -->
   <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ page.url | prepend: site.url }}">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.url }}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}">
+  <meta property="og:image" content="{% if page.image %}{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ page.image | prepend: site.url }}{% endif %}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:locale" content="id_ID">
-
-  <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.image %}{{ page.image | prepend: site.url }}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.image %}{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ page.image | prepend: site.url }}{% endif %}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}">
 
   {% if page.layout == 'post' %}
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
   <meta property="article:author" content="Zynelion Travel">
   {% endif %}
 
-  <!-- Favicons -->
   <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/favicon-180x180.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/images/favicon-192x192.png' | relative_url }}">
-  <link rel="icon" type="image/png" sizes="512x512" href="{{ '/assets/images/favicon-512x512.png' | relative_url }}">
   <meta name="theme-color" content="#0a0a0a">
-  <meta name="msapplication-TileColor" content="#f5a800">
 
-  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
 
   {% feed_meta %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -57,11 +48,10 @@
     "name": "{{ site.title }}",
     "url": "{{ site.url }}",
     "description": "{{ site.description }}",
-    "logo": "{{ '/assets/images/logo.png' | prepend: site.url }}",
     {% if page.layout == 'post' %}
-    "headline": "{{ page.title }}",
+    "headline": "{{ page.title | escape }}",
     "datePublished": "{{ page.date | date_to_xmlschema }}",
-    "image": "{% if page.image %}{{ page.image | prepend: site.url }}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}",
+    "image": "{% if page.image %}{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ page.image | prepend: site.url }}{% endif %}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}",
     "author": { "@type": "Organization", "name": "Zynelion Travel" },
     {% endif %}
     "publisher": {
@@ -73,53 +63,82 @@
   </script>
 </head>
 <body>
+
+  <!-- TOP BAR -->
+  <div class="topbar">
+    <div class="wrap topbar-inner">
+      <span class="topbar-text">✈ Selamat datang di Travel Zynelion — Panduan perjalanan terbaik untuk kamu!</span>
+    </div>
+  </div>
+
+  <!-- HEADER -->
   <header class="site-header" id="site-header">
     <div class="wrap header-inner">
       <a class="site-title" href="{{ '/' | relative_url }}">
-        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Zynelion Travel Logo" class="header-logo" width="40" height="40">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Zynelion" class="header-logo" width="42" height="42">
         <span class="site-title-text">Travel <em>Zynelion</em></span>
       </a>
       <nav class="site-nav">
-        <a href="{{ '/' | relative_url }}">🏠 Home</a>
-        <a href="{{ '/about.html' | relative_url }}">✦ About</a>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about.html' | relative_url }}">About</a>
       </nav>
     </div>
   </header>
 
-  <main class="wrap">
+  <main class="site-main">
     {{ content }}
   </main>
 
+  <!-- FOOTER -->
   <footer class="site-footer">
-    <div class="wrap footer-inner">
-      <div class="footer-logo">
-        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Zynelion" width="52" height="52">
+    <div class="footer-top">
+      <div class="wrap footer-top-inner">
+        <div class="footer-col footer-brand-col">
+          <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Zynelion" width="60" height="60" class="footer-logo-img">
+          <p class="footer-brand-name">Travel <strong>Zynelion</strong></p>
+          <p class="footer-tagline">Catatan perjalanan, itinerary, dan tips wisata dari seluruh dunia — praktis dan jujur.</p>
+        </div>
+        <div class="footer-col">
+          <h4 class="footer-heading">Navigasi</h4>
+          <ul class="footer-links">
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/about.html' | relative_url }}">About</a></li>
+            <li><a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a></li>
+            <li><a href="{{ '/sitemap.xml' | relative_url }}">Sitemap</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4 class="footer-heading">Topik Populer</h4>
+          <ul class="footer-links">
+            <li><a href="{{ '/' | relative_url }}">Itinerary</a></li>
+            <li><a href="{{ '/' | relative_url }}">Budget Travel</a></li>
+            <li><a href="{{ '/' | relative_url }}">Tips Perjalanan</a></li>
+            <li><a href="{{ '/' | relative_url }}">Asia Tenggara</a></li>
+            <li><a href="{{ '/' | relative_url }}">Eropa</a></li>
+          </ul>
+        </div>
       </div>
-      <p class="footer-brand">Travel <strong>Zynelion</strong></p>
-      <p class="footer-desc">Catatan perjalanan, itinerary, dan tips wisata dari seluruh dunia.</p>
-      <div class="footer-links">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <span>·</span>
-        <a href="{{ '/about.html' | relative_url }}">About</a>
-        <span>·</span>
-        <a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a>
+    </div>
+    <div class="footer-bottom">
+      <div class="wrap footer-bottom-inner">
+        <p>© 2026 <strong>Zynelion Travel</strong>. All rights reserved.</p>
+        <p class="footer-built">Built with Jekyll &amp; ❤ by Zynelion</p>
       </div>
-      <p class="footer-copy">© 2026 Zynelion Travel · All rights reserved</p>
     </div>
   </footer>
 
   <script>
+    // Sticky header shadow on scroll
     const header = document.getElementById('site-header');
     window.addEventListener('scroll', () => {
-      header.classList.toggle('scrolled', window.scrollY > 40);
+      header.classList.toggle('scrolled', window.scrollY > 50);
     }, { passive: true });
 
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(e => {
-        if (e.isIntersecting) { e.target.classList.add('visible'); observer.unobserve(e.target); }
-      });
-    }, { threshold: 0.06 });
-    document.querySelectorAll('.post-card, .single-post, .page-card').forEach(el => observer.observe(el));
+    // Animate on scroll
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); } });
+    }, { threshold: 0.05 });
+    document.querySelectorAll('.anim').forEach(el => io.observe(el));
   </script>
 </body>
 </html>
