@@ -7,7 +7,7 @@
 
   <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }} | {{ site.description }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="author" content="Zynelion Travel">
+  <meta name="author" content="Lele Nyasar">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
@@ -25,7 +25,7 @@
 
   {% if page.layout == 'post' %}
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-  <meta property="article:author" content="Zynelion Travel">
+  <meta property="article:author" content="Lele Nyasar">
   {% endif %}
 
   <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
@@ -52,11 +52,11 @@
     "headline": "{{ page.title | escape }}",
     "datePublished": "{{ page.date | date_to_xmlschema }}",
     "image": "{% if page.image %}{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ page.image | prepend: site.url }}{% endif %}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}",
-    "author": { "@type": "Organization", "name": "Zynelion Travel" },
+    "author": { "@type": "Organization", "name": "Lele Nyasar" },
     {% endif %}
     "publisher": {
       "@type": "Organization",
-      "name": "Zynelion Travel",
+      "name": "Lele Nyasar",
       "logo": { "@type": "ImageObject", "url": "{{ '/assets/images/logo.png' | prepend: site.url }}" }
     }
   }
@@ -67,7 +67,7 @@
   <!-- TOP BAR -->
   <div class="topbar">
     <div class="wrap topbar-inner">
-      <span class="topbar-text">✈ Selamat datang di Travel Zynelion — Panduan perjalanan terbaik untuk kamu!</span>
+      <span class="topbar-text">✈ Selamat datang di Lele Nyasar — Panduan perjalanan terbaik untuk kamu!</span>
     </div>
   </div>
 
@@ -76,7 +76,7 @@
     <div class="wrap header-inner">
       <a class="site-title" href="{{ '/' | relative_url }}">
         <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Zynelion" class="header-logo" width="42" height="42">
-        <span class="site-title-text">Travel <em>Zynelion</em></span>
+        <span class="site-title-text">Lele <em>Nyasar</em></span>
       </a>
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}">Home</a>
@@ -95,7 +95,7 @@
       <div class="wrap footer-top-inner">
         <div class="footer-col footer-brand-col">
           <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Zynelion" width="60" height="60" class="footer-logo-img">
-          <p class="footer-brand-name">Travel <strong>Zynelion</strong></p>
+          <p class="footer-brand-name">Lele <strong>Nyasar</strong></p>
           <p class="footer-tagline">Catatan perjalanan, itinerary, dan tips wisata dari seluruh dunia — praktis dan jujur.</p>
         </div>
         <div class="footer-col">
@@ -121,8 +121,8 @@
     </div>
     <div class="footer-bottom">
       <div class="wrap footer-bottom-inner">
-        <p>© 2026 <strong>Zynelion Travel</strong>. All rights reserved.</p>
-        <p class="footer-built">Built with Jekyll &amp; ❤ by Zynelion</p>
+        <p>© 2026 <strong>Lele Nyasar</strong>. All rights reserved.</p>
+        <p class="footer-built">Built with Jekyll &amp; ❤ by Lele Nyasar</p>
       </div>
     </div>
   </footer>
