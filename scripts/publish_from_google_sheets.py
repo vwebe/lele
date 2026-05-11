@@ -60,6 +60,9 @@ LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "https://openrouter.ai/api/v1").st
 LLM_MODEL = os.environ.get("LLM_MODEL", "openrouter/auto").strip()
 LLM_SITE_URL = os.environ.get("LLM_SITE_URL", SITE_URL).strip()
 LLM_APP_NAME = os.environ.get("LLM_APP_NAME", "Travel Zynelion").strip()
+DEFAULT_IMAGE_URL = os.environ.get("DEFAULT_IMAGE_URL", "").strip()
+PEXELS_RESULTS_PER_QUERY = env_int("PEXELS_RESULTS_PER_QUERY", 20)
+PEXELS_MAX_PAGES = env_int("PEXELS_MAX_PAGES", 3)
 
 REQUIRED_HEADERS = [
     "title", "slug", "publish_time", "category", "tags", "excerpt", "description",
@@ -210,44 +213,124 @@ def build_search_keywords(row: dict):
     return " ".join(keywords[:5]) if keywords else "travel landscape"
 
 
-def fetch_pexels_image(query: str, slug: str):
+def normalize_search_text(text: str) -> str:
+    text = unicodedata.normalize("NFKD", str(text or "")).encode("ascii", "ignore").decode("ascii")
+    text = re.sub(r"[^A-Za-z0-9\s-]", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def detect_scene_type(text: str) -> str:
+    t = str(text or "").lower()
+    if re.search(r"pantai|beach|island|coast|sea|laut|snorkeling|diving|pier", t):
+        return "beach pier coast"
+    if re.search(r"danau|lake|river|lagoon|fjord", t):
+        return "lake river nature"
+    if re.search(r"desa|village|tradisional|old town", t):
+        return "traditional village culture"
+    if re.search(r"kota|city|urban|downtown|boulevard|street", t):
+        return "city street travel"
+    if re.search(r"gunung|mountain|hill|hiking|highland|alps", t):
+        return "mountain landscape"
+    if re.search(r"hutan|forest|waterfall|alam", t):
+        return "nature forest landscape"
+    if re.search(r"temple|candi|historic|sejarah|culture|museum|castle|palace|cathedral", t):
+        return "cultural landmark"
+    return "travel destination"
+
+
+def build_pexels_query_candidates(row: dict):
+    title = normalize_search_text(row.get("title") or "")
+    image_query = normalize_search_text(row.get("image_query") or "")
+    category = normalize_search_text(row.get("category") or "")
+    tags = [normalize_search_text(t) for t in split_csv(row.get("tags", ""))]
+    combined = " ".join([title, image_query, category, " ".join(tags)])
+    scene = detect_scene_type(combined)
+    queries = [
+        image_query,
+        title,
+        f"{title} {scene}",
+        f"{title} travel",
+        f"{title} tourism",
+        f"{title} landmark",
+        f"{category} {scene}",
+        "travel destination",
+        "city travel",
+        "landscape travel",
+    ]
+    return dedupe_keep_order([normalize_search_text(q) for q in queries if normalize_search_text(q)])
+
+
+def fetch_pexels_image(query_or_row, slug: str):
     if not PEXELS_API_KEY:
         log("PEXELS_API_KEY not set; image fetch skipped.")
-        return "", ""
+        return (DEFAULT_IMAGE_URL, "") if DEFAULT_IMAGE_URL else ("", "")
 
-    try:
-        resp = requests.get(
-            "https://api.pexels.com/v1/search",
-            headers={"Authorization": PEXELS_API_KEY},
-            params={"query": query, "per_page": 1, "orientation": "landscape"},
-            timeout=30,
-        )
-        if resp.status_code != 200:
-            log(f"Pexels HTTP {resp.status_code}; image fetch skipped.")
-            return "", ""
-        photos = resp.json().get("photos") or []
-        if not photos:
-            log(f"No Pexels image found for: {query}")
-            return "", ""
-        photo = photos[0]
-        image_url = (
-            photo.get("src", {}).get("large2x")
-            or photo.get("src", {}).get("large")
-            or photo.get("src", {}).get("original")
-        )
-        if not image_url:
-            return "", ""
-        IMAGES_DIR.mkdir(parents=True, exist_ok=True)
-        local_path = IMAGES_DIR / f"{slug}.jpg"
-        if not local_path.exists():
-            img = requests.get(image_url, timeout=60)
-            img.raise_for_status()
-            local_path.write_bytes(img.content)
-            log(f"Downloaded image: {local_path}")
-        return f"/assets/images/auto/{local_path.name}", photo.get("url") or ""
-    except Exception as exc:
-        log(f"Pexels fetch failed: {exc}")
-        return "", ""
+    if isinstance(query_or_row, dict):
+        queries = build_pexels_query_candidates(query_or_row)
+    else:
+        queries = dedupe_keep_order([normalize_search_text(query_or_row), "travel destination", "city travel"])
+
+    fallback_photo = None
+    last_error = ""
+
+    for query in queries:
+        if not query:
+            continue
+        for page in range(1, PEXELS_MAX_PAGES + 1):
+            try:
+                resp = requests.get(
+                    "https://api.pexels.com/v1/search",
+                    headers={"Authorization": PEXELS_API_KEY},
+                    params={
+                        "query": query,
+                        "per_page": PEXELS_RESULTS_PER_QUERY,
+                        "orientation": "landscape",
+                        "page": page,
+                    },
+                    timeout=30,
+                )
+                if resp.status_code != 200:
+                    last_error = f"Pexels HTTP {resp.status_code} for query={query!r}, page={page}: {resp.text[:250]}"
+                    log(last_error)
+                    continue
+
+                photos = resp.json().get("photos") or []
+                if not photos:
+                    log(f"No Pexels image found for query={query!r}, page={page}")
+                    continue
+
+                random.shuffle(photos)
+                photo = photos[0]
+                if fallback_photo is None:
+                    fallback_photo = photo
+
+                image_url = (
+                    photo.get("src", {}).get("large2x")
+                    or photo.get("src", {}).get("large")
+                    or photo.get("src", {}).get("original")
+                )
+                if not image_url:
+                    continue
+
+                IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+                local_path = IMAGES_DIR / f"{slug}.jpg"
+                if not local_path.exists():
+                    img = requests.get(image_url, timeout=60)
+                    img.raise_for_status()
+                    local_path.write_bytes(img.content)
+                    log(f"Downloaded image: {local_path} from Pexels query={query!r}")
+                return f"/assets/images/auto/{local_path.name}", photo.get("url") or ""
+            except Exception as exc:
+                last_error = f"Pexels fetch failed for query={query!r}, page={page}: {exc}"
+                log(last_error)
+                continue
+
+    if DEFAULT_IMAGE_URL:
+        log(f"Using DEFAULT_IMAGE_URL fallback. Last Pexels issue: {last_error or 'no matching photo'}")
+        return DEFAULT_IMAGE_URL, ""
+
+    log(f"No usable Pexels image found after {len(queries)} queries. Last issue: {last_error}")
+    return "", ""
 
 
 def get_openai_client():
@@ -474,7 +557,7 @@ def make_post_content(row: dict, publish_dt: datetime, anchors=None, urls=None, 
 
     image_credit = ""
     if not image:
-        image, image_credit = fetch_pexels_image(build_search_keywords(row), slug)
+        image, image_credit = fetch_pexels_image(row, slug)
 
     filename = f"{publish_dt.strftime('%Y-%m-%d')}-{slug}.md"
     front_matter = build_front_matter(title, publish_dt, layout, category, tags, excerpt, description, image)
@@ -561,6 +644,50 @@ def next_auto_publish_time(rows, local_now):
     return candidate
 
 
+def resolve_post_file_from_row(row: dict):
+    output_file = str(row.get("output_file") or "").strip()
+    if output_file:
+        path = POSTS_DIR / Path(output_file).name
+        return path
+
+    post_url = str(row.get("post_url") or "").strip()
+    if not post_url:
+        return None
+    relative = re.sub(r"^https?://[^/]+/", "", post_url).split("?")[0].split("#")[0].strip("/")
+    m = re.match(r"^(\d{4})/(\d{2})/(\d{2})/([^/]+?)(?:\.html)?$", relative)
+    if not m:
+        return None
+    y, mo, d, slug = m.groups()
+    return POSTS_DIR / f"{y}-{mo}-{d}-{slug}.md"
+
+
+def handle_delete_row(worksheet, headers, row_index: int, row: dict) -> bool:
+    path = resolve_post_file_from_row(row)
+    if not path:
+        update_sheet_row(worksheet, headers, row_index, {"status": "error: cannot resolve post file for delete"})
+        return False
+    if path.exists():
+        path.unlink()
+        log(f"Row {row_index}: deleted -> {path}")
+    else:
+        log(f"Row {row_index}: delete requested, file already missing -> {path}")
+    update_sheet_row(
+        worksheet,
+        headers,
+        row_index,
+        {"status": "deleted", "post_url": "", "output_file": "", "published_at": ""},
+    )
+    return True
+
+
+def touch_rebuild_file():
+    Path("_rebuild.txt").write_text(
+        "GitHub Pages rebuild trigger\nUpdated at: " + now_local().isoformat() + "\n",
+        encoding="utf-8",
+    )
+    log("Touched _rebuild.txt to force rebuild.")
+
+
 def main():
     POSTS_DIR.mkdir(exist_ok=True)
     spreadsheet = get_spreadsheet()
@@ -589,6 +716,22 @@ def main():
             skipped_count += 1
             continue
         status = str(row.get("status") or "").strip().lower()
+        if status in {"delete", "delete_post", "remove", "trash"}:
+            try:
+                if handle_delete_row(worksheet, headers, row_index, row):
+                    published_count += 1
+                else:
+                    skipped_count += 1
+            except Exception as exc:
+                log(f"Row {row_index}: delete error -> {exc}")
+                update_sheet_row(worksheet, headers, row_index, {"status": f"error: {str(exc)[:80]}"})
+                skipped_count += 1
+            continue
+        if status in {"rebuild", "rebuild_site"}:
+            touch_rebuild_file()
+            update_sheet_row(worksheet, headers, row_index, {"status": "rebuilt"})
+            published_count += 1
+            continue
         if status == STATUS_PUBLISHED:
             skipped_count += 1
             continue
