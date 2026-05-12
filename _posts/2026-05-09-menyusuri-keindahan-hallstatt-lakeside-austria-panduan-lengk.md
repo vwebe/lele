@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menyusuri Keindahan Hallstatt Lakeside Austria: Panduan Lengkap Wisata ke Desa Danau Tersembunyi di Eropa"
-date: 2026-05-09 16:18:11 +0700
-categories: ["hallstatt-lake"]
-tags: ["hallstatt-lake", "austria", "desa-danau", "eropa", "hidden-gem", "travel-guide", "hallstatt-lakeside-austria"]
-image: "https://images.pexels.com/photos/14562794/pexels-photo-14562794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menyusuri Keindahan Hallstatt Lakeside Austria: Panduan Lengkap Wisata ke Desa Danau Tersembunyi di Eropa"
-description: "Hallstatt, sebuah desa kecil yang terletak di tepi Hallstatt Lake di Austria, sering menjadi incaran para pelancong yang mencari hidden gem di Eropa. Dengan..."
-excerpt: "Hallstatt, sebuah desa kecil yang terletak di tepi Hallstatt Lake di Austria, sering menjadi incaran para pelancong yang mencari hidden gem di Eropa. Dengan..."
-keywords: "menyusuri keindahan hallstatt lakeside austria panduan lengkap wisata ke desa danau tersembunyi di eropa, menyusuri keindahan hallstatt lakeside, hallstatt lake, austria, desa danau, eropa, hidden gem, travel guide, hallstatt lakeside austria, wisata menyusuri keindahan hallstatt, panduan menyusuri keindahan hallstatt, tips menyusuri keindahan hallstatt"
-image_alt: "Menyusuri Keindahan Hallstatt Lakeside Austria: Panduan Lengkap Wisata ke Desa Danau Tersembunyi di Eropa"
+keyword: "menyusuri keindahan hallstatt lakeside austria panduan lengk"
+date: 2026-05-09 16:18:11 +0700
+last_modified_at: 2026-05-12 17:49:26 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["hallstatt-lake"]
+tags: ["hallstatt-lake", "austria", "desa-danau", "eropa", "hidden-gem", "travel-guide", "hallstatt-lakeside-austria"]
+description: "Hallstatt memang b"
+excerpt: "Hallstatt memang b"
+keywords: "hallstatt lake, austria, desa danau, eropa, hidden gem, travel guide, hallstatt lakeside austria, menyusuri, keindahan, lengk, wisata hallstatt lake, panduan hallstatt lake"
+image: "https://images.pexels.com/photos/14562794/pexels-photo-14562794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menyusuri Keindahan Hallstatt Lakeside Austria: Panduan Lengkap Wisata ke Desa Danau Tersembunyi di Eropa"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/14562794/pexels-photo-14562794.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menyusuri Keindahan Hallstatt Lakeside Austria: Panduan Lengkap Wisata ke Desa Danau Tersembunyi di Eropa" style="width:100%;height:auto;border-radius:12px;" /></figure>
