@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Itinerary 2 Hari di Siem Reap Selain Angkor Wat"
-date: 2026-03-25 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/itinerary-2-hari-di-siem-reap-selain-angkor-wat.jpg"
 seo_title: "Itinerary 2 Hari di Siem Reap Selain Angkor Wat"
-description: "## Siem Reap Bukan Cuma Angkor Wat: Jelajahi Kehidupan Lokal dalam 2 Hari Siem Reap. Seketika mendengar namanya, yang terlintas di kepala pasti kompleks..."
-excerpt: "## Siem Reap Bukan Cuma Angkor Wat: Jelajahi Kehidupan Lokal dalam 2 Hari Siem Reap. Seketika mendengar namanya, yang terlintas di kepala pasti kompleks..."
-keywords: "itinerary 2 hari di siem reap selain angkor wat, itinerary hari siem reap, travel, wisata itinerary hari siem, panduan itinerary hari siem, tips itinerary hari siem"
-image_alt: "Itinerary 2 Hari di Siem Reap Selain Angkor Wat"
+keyword: "itinerary 2 hari di siem reap selain angkor wat"
+date: 2026-03-25 07:00:00 +0700
+last_modified_at: 2026-05-12 17:32:24 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@kelly)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@kelly)"
+keywords: "travel, itinerary, hari, siem, reap, selain, angkor, wat, wisata itinerary hari siem, panduan itinerary hari siem, tips itinerary hari siem"
+image: "/assets/images/auto/itinerary-2-hari-di-siem-reap-selain-angkor-wat.jpg"
+image_alt: "Itinerary 2 Hari di Siem Reap Selain Angkor Wat"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/itinerary-2-hari-di-siem-reap-selain-angkor-wat.jpg" | relative_url }}" alt="Itinerary 2 Hari di Siem Reap Selain Angkor Wat" loading="lazy" decoding="async">
@@ -81,4 +86,3 @@ Siem Reap adalah kota yang jauh lebih kaya dari sekadar Angkor Wat. Dengan melua
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata [dan hiburan menarik](https://dgxximovie.com/) lainnya untuk mengisi waktu santai Anda.
-
