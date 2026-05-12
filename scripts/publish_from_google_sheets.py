@@ -46,7 +46,7 @@ DEFAULT_CATEGORY = "travel"
 DEFAULT_LANGUAGE = "id"
 DEFAULT_MIN_WORDS = env_int("DEFAULT_MIN_WORDS", 1200)
 MIN_ACCEPTABLE_WORDS = env_int("MIN_ACCEPTABLE_WORDS", 700)
-PUBLISH_INTERVAL_MINUTES = env_int("PUBLISH_INTERVAL_MINUTES", 120)
+PUBLISH_INTERVAL_MINUTES = env_int("PUBLISH_INTERVAL_MINUTES", 90)
 MAX_POSTS_PER_RUN = env_int("MAX_POSTS_PER_RUN", 1)
 LLM_RETRIES = env_int("LLM_RETRIES", 3)
 
@@ -198,6 +198,87 @@ def dedupe_keep_order(items):
             seen.add(key)
             out.append(str(item).strip())
     return out
+
+
+
+
+def strip_html_text(value: str) -> str:
+    value = html.unescape(str(value or ""))
+    value = re.sub(r"<script[\s\S]*?</script>", " ", value, flags=re.I)
+    value = re.sub(r"<style[\s\S]*?</style>", " ", value, flags=re.I)
+    value = re.sub(r"<[^>]+>", " ", value)
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def truncate_meta_text(value: str, max_len: int = 160) -> str:
+    value = strip_html_text(value)
+    for bad in ["Waktu baca", "Wisata Internasional", "Daftar Isi", "Bagikan artikel ini", "Temukan destinasi luar biasa"]:
+        value = value.replace(bad, " ")
+    value = re.sub(r"\s+", " ", value).strip()
+    if len(value) <= max_len:
+        return value
+    cut = value[:max_len + 1]
+    end = max(cut.rfind("."), cut.rfind("!"), cut.rfind("?"))
+    if end >= 90:
+        return cut[:end + 1].strip()
+    return re.sub(r"\s+\S*$", "", cut[:max_len - 3]).strip() + "..."
+
+
+def extract_first_h2_paragraph(content: str) -> str:
+    """SEO description source: paragraph under Daftar Isi sub heading no.1 / first H2."""
+    content = str(content or "")
+    m = re.search(r"<h2\b[^>]*>[\s\S]*?</h2>([\s\S]*)", content, flags=re.I)
+    tail = m.group(1) if m else content
+    p = re.search(r"<p\b[^>]*>([\s\S]*?)</p>", tail, flags=re.I)
+    if p:
+        return truncate_meta_text(p.group(1))
+    return ""
+
+
+def extract_first_h2_text(content: str) -> str:
+    m = re.search(r"<h2\b[^>]*>([\s\S]*?)</h2>", str(content or ""), flags=re.I)
+    return strip_html_text(m.group(1)) if m else ""
+
+
+def normalize_keyword_phrase(value: str) -> str:
+    value = str(value or "").lower().replace("-", " ")
+    value = re.sub(r"[^a-z0-9à-ỹ\s]", " ", value, flags=re.I)
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def build_meta_description_from_content(content: str, fallback: str = "") -> str:
+    return extract_first_h2_paragraph(content) or truncate_meta_text(fallback)
+
+
+def build_meta_keywords_from_source(sheet_keyword: str, tags, first_h2: str = "") -> str:
+    stop = {"yang", "dan", "untuk", "dengan", "dari", "the", "and", "di", "ke", "ini", "itu", "adalah", "wajib", "dikunjungi", "panduan", "lengkap", "wisata"}
+    out = []
+    def add(v):
+        v = normalize_keyword_phrase(v)
+        if len(v) >= 3 and v not in out:
+            out.append(v)
+    clean_tags = [normalize_keyword_phrase(t) for t in (tags or []) if normalize_keyword_phrase(t)]
+    for t in clean_tags:
+        add(t)
+    joined = " ".join(out)
+    kw = normalize_keyword_phrase(sheet_keyword)
+    for word in kw.split():
+        if len(word) > 2 and word not in stop and word not in joined:
+            add(word)
+    phrase = ""
+    for t in clean_tags:
+        if len(t.split()) >= 2 and t in kw:
+            phrase = t
+            break
+    if not phrase:
+        words = [w for w in kw.split() if len(w) > 2 and w not in stop]
+        phrase = " ".join(words[:3])
+    if phrase:
+        add("wisata " + phrase)
+        add("panduan " + phrase)
+        add("tips " + phrase)
+    add(first_h2)
+    return ", ".join(out[:12])
 
 
 def build_search_keywords(row: dict):
@@ -425,27 +506,34 @@ def generate_article(row: dict) -> str:
     raise RuntimeError(f"Generated article too thin after retries: {best_count} words")
 
 
-def build_front_matter(title, publish_dt, layout, category, tags, excerpt, description, image):
+def build_front_matter(title, publish_dt, layout, category, tags, excerpt, description, image, keyword="", content=""):
+    first_h2 = extract_first_h2_text(content)
+    meta_description = build_meta_description_from_content(content, description or excerpt or title)
+    meta_keywords = build_meta_keywords_from_source(keyword or title, tags, first_h2)
     lines = [
         "---",
         f"layout: {layout or DEFAULT_LAYOUT}",
         f"title: {quote_yaml(title)}",
+        f"seo_title: {quote_yaml(title)}",
+        f"keyword: {quote_yaml(normalize_keyword_phrase(keyword or title))}",
         f"date: {publish_dt.strftime('%Y-%m-%d %H:%M:%S %z')}",
         f"last_modified_at: {now_local().strftime('%Y-%m-%d %H:%M:%S %z')}",
         "sitemap: true",
+        "robots: \"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\"",
+        "googlebot: \"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\"",
     ]
     if category:
-        lines.append("categories: [" + ", ".join([slugify(category)]) + "]")
+        lines.append("categories: [" + ", ".join([quote_yaml(slugify(category))]) + "]")
     if tags:
         clean_tags = [slugify(t) for t in tags if slugify(t)]
         if clean_tags:
-            lines.append("tags: [" + ", ".join(clean_tags) + "]")
-    if excerpt:
-        lines.append(f"excerpt: {quote_yaml(excerpt)}")
-    if description:
-        lines.append(f"description: {quote_yaml(description)}")
+            lines.append("tags: [" + ", ".join(quote_yaml(t) for t in clean_tags) + "]")
+    lines.append(f"description: {quote_yaml(meta_description)}")
+    lines.append(f"excerpt: {quote_yaml(meta_description)}")
+    lines.append(f"keywords: {quote_yaml(meta_keywords)}")
     if image:
         lines.append(f"image: {quote_yaml(image)}")
+        lines.append(f"image_alt: {quote_yaml(normalize_keyword_phrase(keyword or title))}")
     lines.append("---")
     return "\n".join(lines)
 
@@ -701,7 +789,7 @@ def make_post_content(row: dict, publish_dt: datetime, anchors=None, urls=None, 
         image, image_credit = fetch_pexels_image(row, slug)
 
     filename = f"{publish_dt.strftime('%Y-%m-%d')}-{slug}.md"
-    front_matter = build_front_matter(title, publish_dt, layout, category, tags, excerpt, description, image)
+    front_matter = build_front_matter(title, publish_dt, layout, category, tags, excerpt, description, image, row.get("keyword") or row.get("title"), content)
     # The image is stored in front matter and rendered once by _layouts/post.html as the hero.
     # Do not inject the same image into the article body.
     credit_block = f'\n\n<p class="image-credit"><em>Image source: Pexels ({image_credit})</em></p>\n' if image_credit else ""
@@ -762,39 +850,25 @@ def update_sheet_row(worksheet, headers, row_index, data: dict):
 
 
 def latest_publish_time_from_sheet(rows):
-    """Return the latest real published time.
-
-    Important: this function is intentionally based only on rows already marked
-    published. Blank/READY rows must never receive future schedule times during
-    auto-run. The next publish decision is simply:
-    latest published time + interval <= now.
-    """
     latest = None
     for row in rows:
-        status = str(row.get("status") or "").strip().lower()
-        post_url = str(row.get("post_url") or "").strip()
-        output_file = str(row.get("output_file") or "").strip()
-        if status != STATUS_PUBLISHED and not post_url and not output_file:
+        try:
+            dt = parse_publish_time(row.get("publish_time") or row.get("date"))
+        except Exception:
             continue
-        for key in ("published_at", "publish_time", "date"):
-            try:
-                dt = parse_publish_time(row.get(key))
-            except Exception:
-                dt = None
-            if dt and (latest is None or dt > latest):
-                latest = dt
-                break
+        if dt and (latest is None or dt > latest):
+            latest = dt
     return latest
 
 
-def can_auto_publish_now(rows, local_now):
+def next_auto_publish_time(rows, local_now):
     latest = latest_publish_time_from_sheet(rows)
     if latest is None:
-        return True, local_now, "no previous published row"
-    next_allowed = latest + timedelta(minutes=PUBLISH_INTERVAL_MINUTES)
-    if local_now >= next_allowed:
-        return True, local_now, f"latest published row was {format_sheet_dt(latest)}"
-    return False, next_allowed, f"waiting until {format_sheet_dt(next_allowed)}"
+        return local_now
+    candidate = latest + timedelta(minutes=PUBLISH_INTERVAL_MINUTES)
+    if candidate < local_now:
+        return local_now
+    return candidate
 
 
 def resolve_post_file_from_row(row: dict):
@@ -859,8 +933,7 @@ def main():
 
     published_count = 0
     skipped_count = 0
-    can_publish, next_allowed, reason = can_auto_publish_now(rows, local_now)
-    log(f"Auto interval check: {reason}. Interval={PUBLISH_INTERVAL_MINUTES} minutes.")
+    auto_time = next_auto_publish_time(rows, local_now)
 
     for row_index, row in enumerate(rows, start=2):
         if published_count >= MAX_POSTS_PER_RUN:
@@ -870,8 +943,6 @@ def main():
             skipped_count += 1
             continue
         status = str(row.get("status") or "").strip().lower()
-
-        # Management actions are allowed immediately. They do not use auto-post timing.
         if status in {"delete", "delete_post", "remove", "trash"}:
             try:
                 if handle_delete_row(worksheet, headers, row_index, row):
@@ -888,7 +959,6 @@ def main():
             update_sheet_row(worksheet, headers, row_index, {"status": "rebuilt"})
             published_count += 1
             continue
-
         if status == STATUS_PUBLISHED:
             skipped_count += 1
             continue
@@ -896,19 +966,27 @@ def main():
             log(f"Row {row_index}: skipped, status={status!r}")
             skipped_count += 1
             continue
-
-        # This is the next eligible auto-post row. Do not fill READY/future time
-        # across the sheet. If 2 hours have not passed, stop here.
-        if not can_publish:
-            log(f"Row {row_index}: next eligible post found, but auto interval is not ready. {reason}")
-            skipped_count += 1
-            break
-
         if not str(row.get("content") or "").strip() and not str(row.get("prompt") or "").strip():
             # Title-only rows are valid: use title as prompt.
             row["prompt"] = title
 
-        publish_dt = local_now
+        publish_raw = str(row.get("publish_time") or row.get("date") or "").strip()
+        if publish_raw:
+            try:
+                publish_dt = parse_publish_time(publish_raw)
+            except ValueError as exc:
+                log(f"Row {row_index}: skipped, {exc}")
+                skipped_count += 1
+                continue
+        else:
+            publish_dt = auto_time
+            auto_time = auto_time + timedelta(minutes=PUBLISH_INTERVAL_MINUTES)
+            update_sheet_row(worksheet, headers, row_index, {"publish_time": format_sheet_dt(publish_dt)})
+
+        if publish_dt > local_now:
+            log(f"Row {row_index}: waiting until {format_sheet_dt(publish_dt)}")
+            skipped_count += 1
+            continue
 
         try:
             filename, post_body = make_post_content(row, publish_dt, anchors, urls, footer_texts, footer_url)
@@ -925,7 +1003,6 @@ def main():
                 {
                     "slug": slugify(row.get("slug") or title),
                     "status": STATUS_PUBLISHED,
-                    "publish_time": format_sheet_dt(local_now),
                     "published_at": format_sheet_dt(local_now),
                     "output_file": filename,
                     "post_url": make_post_url(filename),
