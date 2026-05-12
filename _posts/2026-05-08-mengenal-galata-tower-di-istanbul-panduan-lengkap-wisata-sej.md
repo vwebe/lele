@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Mengenal Galata Tower di Istanbul: Panduan Lengkap Wisata Sejarah & Hidden Gem Turki"
-date: 2026-05-08 21:03:22 +0700
-categories: ["galata-tower"]
-tags: ["galata-tower", "istanbul", "turki", "city-landmark", "wisata-sejarah", "travel-guide", "hidden-gem"]
-image: "https://images.pexels.com/photos/4514742/pexels-photo-4514742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Mengenal Galata Tower di Istanbul: Panduan Lengkap Wisata Sejarah & Hidden Gem Turki"
-description: "Galata Tower, menara menakjubkan yang berdiri megmeg dalam siluet Kota Istanbul, menjadi salah satu landmark paling ikonik yang wajib dikunjungi bagi setiap..."
-excerpt: "Galata Tower, menara menakjubkan yang berdiri megmeg dalam siluet Kota Istanbul, menjadi salah satu landmark paling ikonik yang wajib dikunjungi bagi setiap..."
-keywords: "mengenal galata tower di istanbul panduan lengkap wisata sejarah hidden gem turki, mengenal galata tower istanbul, galata tower, istanbul, turki, city landmark, wisata sejarah, travel guide, hidden gem, wisata mengenal galata tower, panduan mengenal galata tower, tips mengenal galata tower"
-image_alt: "Mengenal Galata Tower di Istanbul: Panduan Lengkap Wisata Sejarah & Hidden Gem Turki"
+keyword: "mengenal galata tower di istanbul panduan lengkap wisata sej"
+date: 2026-05-08 21:03:22 +0700
+last_modified_at: 2026-05-12 17:47:13 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["galata-tower"]
+tags: ["galata-tower", "istanbul", "turki", "city-landmark", "wisata-sejarah", "travel-guide", "hidden-gem"]
+description: "Seperti..."
+excerpt: "Seperti..."
+keywords: "galata tower, istanbul, turki, city landmark, wisata sejarah, travel guide, hidden gem, mengenal, wisata galata tower, panduan galata tower, tips galata tower, sejarah sejarah seperti"
+image: "https://images.pexels.com/photos/4514742/pexels-photo-4514742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Mengenal Galata Tower di Istanbul: Panduan Lengkap Wisata Sejarah & Hidden Gem Turki"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/4514742/pexels-photo-4514742.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Galata Tower di Istanbul: Panduan Lengkap Wisata Sejarah &amp; Hidden Gem Turki" style="width:100%;height:auto;border-radius:12px;" /></figure>
