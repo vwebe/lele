@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata di Amerika Serikat"
-date: 2026-04-08 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-di-amerika-serikat.jpg"
 seo_title: "Tempat Wisata di Amerika Serikat"
-description: "## Menelusuri Keajaiban Amerika Serikat: Dari Kota Megah hingga Gurun Sunyi Udara sejuk di pagi Seattle, deru ombak di pantai Miami, serta cahaya senja yang..."
-excerpt: "## Menelusuri Keajaiban Amerika Serikat: Dari Kota Megah hingga Gurun Sunyi Udara sejuk di pagi Seattle, deru ombak di pantai Miami, serta cahaya senja yang..."
-keywords: "tempat wisata di amerika serikat, tempat wisata amerika serikat, travel, wisata tempat wisata amerika, panduan tempat wisata amerika, tips tempat wisata amerika"
-image_alt: "Tempat Wisata di Amerika Serikat"
+keyword: "tempat wisata di amerika serikat"
+date: 2026-04-08 20:30:00 +0700
+last_modified_at: 2026-05-12 17:35:44 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@daniele-riva-2153958500)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@daniele-riva-2153958500)"
+keywords: "travel, tempat, amerika, serikat, wisata tempat amerika serikat, panduan tempat amerika serikat, tips tempat amerika serikat"
+image: "/assets/images/auto/tempat-wisata-di-amerika-serikat.jpg"
+image_alt: "Tempat Wisata di Amerika Serikat"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-amerika-serikat.jpg" | relative_url }}" alt="Tempat Wisata di Amerika Serikat" loading="lazy" decoding="async">
@@ -187,4 +192,3 @@ Semoga catatan ini membantu Anda merencanakan perjalanan yang lebih matang, seka
 ---
 
 Perjalanan Anda belum berakhir [di sini. Temukan juga](https://dgxximovie.com/) berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
