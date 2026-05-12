@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Liburan ke Kanada"
-date: 2026-04-09 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-liburan-ke-kanada.jpg"
 seo_title: "Panduan Liburan ke Kanada"
-description: "# Panduan Liburan ke Kanada Kebanyakan orang menganggap Kanada hanya sekadar “es dan salju”, tapi di sana ada pulau-pulau berwarna-warni, kota-kota..."
-excerpt: "# Panduan Liburan ke Kanada Kebanyakan orang menganggap Kanada hanya sekadar “es dan salju”, tapi di sana ada pulau-pulau berwarna-warni, kota-kota..."
-keywords: "panduan liburan ke kanada, panduan liburan kanada, travel, wisata panduan liburan kanada, panduan panduan liburan kanada, tips panduan liburan kanada"
-image_alt: "Panduan Liburan ke Kanada"
+keyword: "panduan liburan ke kanada"
+date: 2026-04-09 07:00:00 +0700
+last_modified_at: 2026-05-12 17:35:52 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@line-knipst-574109081)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@line-knipst-574109081)"
+keywords: "travel, liburan, kanada, wisata liburan kanada, panduan liburan kanada, tips liburan kanada"
+image: "/assets/images/auto/panduan-liburan-ke-kanada.jpg"
+image_alt: "Panduan Liburan ke Kanada"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-kanada.jpg" | relative_url }}" alt="Panduan Liburan ke Kanada" loading="lazy" decoding="async">
@@ -138,4 +143,3 @@ Selamat berpetualang—Kanada menunggu dengan tangan terbuka dan langit yang lua
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi [wisata dan hiburan menarik](https://dgxximovie.com/) lainnya untuk mengisi waktu santai Anda.
-
