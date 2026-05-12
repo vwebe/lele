@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Liburan ke Vietnam: Rencana 5 Hari Hemat"
-date: 2026-03-29 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/liburan-ke-vietnam-rencana-5-hari-hemat.jpg"
 seo_title: "Liburan ke Vietnam: Rencana 5 Hari Hemat"
-description: "# [Liburan](https://lelenime.blogspot.com/2026/03/fakta-menarik-gojo-satoru-jujutsu.html) ke Vietnam: Rencana 5 Hari Hemat yang Seru Siapa bilang liburan ke..."
-excerpt: "# [Liburan](https://lelenime.blogspot.com/2026/03/fakta-menarik-gojo-satoru-jujutsu.html) ke Vietnam: Rencana 5 Hari Hemat yang Seru Siapa bilang liburan ke..."
-keywords: "liburan ke vietnam rencana 5 hari hemat, liburan vietnam rencana hari, travel, wisata liburan vietnam rencana, panduan liburan vietnam rencana, tips liburan vietnam rencana"
-image_alt: "Liburan ke Vietnam: Rencana 5 Hari Hemat"
+keyword: "liburan ke vietnam rencana 5 hari hemat"
+date: 2026-03-29 07:00:00 +0700
+last_modified_at: 2026-05-12 17:33:29 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@quang-nguyen-vinh-222549)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@quang-nguyen-vinh-222549)"
+keywords: "travel, liburan, vietnam, rencana, hari, hemat, wisata liburan vietnam rencana, panduan liburan vietnam rencana, tips liburan vietnam rencana"
+image: "/assets/images/auto/liburan-ke-vietnam-rencana-5-hari-hemat.jpg"
+image_alt: "Liburan ke Vietnam: Rencana 5 Hari Hemat"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/liburan-ke-vietnam-rencana-5-hari-hemat.jpg" | relative_url }}" alt="Liburan ke Vietnam: Rencana 5 Hari Hemat" loading="lazy" decoding="async">
@@ -111,4 +116,3 @@ Liburan ke Vietnam selama 5 hari dengan budget terbatas bukanlah mimpi. Dengan p
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga [berbagai inspirasi wisata](https://dgxximovie.com/) dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
