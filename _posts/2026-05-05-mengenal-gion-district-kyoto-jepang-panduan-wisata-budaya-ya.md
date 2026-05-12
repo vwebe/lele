@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Mengenal Gion District Kyoto, Jepang: Panduan Wisata Budaya yang Memukau"
-date: 2026-05-05 22:19:28 +0700
-categories: ["gion-kyoto"]
-tags: ["gion-kyoto", "jepang", "wisata-budaya", "geisha-district", "asia", "travel-guide", "gion-district-kyoto"]
-image: "https://images.pexels.com/photos/27979598/pexels-photo-27979598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Mengenal Gion District Kyoto, Jepang: Panduan Wisata Budaya yang Memukau"
-description: "Gion District di Kyoto, Jepang, adalah salah satu destinasi wisata budaya paling ikonik di Asia. Terkenal sebagai kawasan geisha yang memancarkan aura..."
-excerpt: "Gion District di Kyoto, Jepang, adalah salah satu destinasi wisata budaya paling ikonik di Asia. Terkenal sebagai kawasan geisha yang memancarkan aura..."
-keywords: "mengenal gion district kyoto jepang panduan wisata budaya yang memukau, mengenal gion district kyoto, gion kyoto, jepang, wisata budaya, geisha district, asia, travel guide, gion district kyoto, wisata mengenal gion district, panduan mengenal gion district, tips mengenal gion district"
-image_alt: "Mengenal Gion District Kyoto, Jepang: Panduan Wisata Budaya yang Memukau"
+keyword: "mengenal gion district kyoto jepang panduan wisata budaya ya"
+date: 2026-05-05 22:19:28 +0700
+last_modified_at: 2026-05-12 17:39:02 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["gion-kyoto"]
+tags: ["gion-kyoto", "jepang", "wisata-budaya", "geisha-district", "asia", "travel-guide", "gion-district-kyoto"]
+description: "Gion pertama kali muncul pada abad ke‑16 sebagai kawasan hiburan bagi para pedagang dan samurai. Nama \"Gion\" sendiri diambil dari nama kuil Gion Shoja yang..."
+excerpt: "Gion pertama kali muncul pada abad ke‑16 sebagai kawasan hiburan bagi para pedagang dan samurai. Nama \"Gion\" sendiri diambil dari nama kuil Gion Shoja yang..."
+keywords: "gion kyoto, jepang, wisata budaya, geisha district, asia, travel guide, gion district kyoto, mengenal, wisata wisata budaya, panduan wisata budaya, tips wisata budaya, sejarah dan keunikan gion"
+image: "https://images.pexels.com/photos/27979598/pexels-photo-27979598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Mengenal Gion District Kyoto, Jepang: Panduan Wisata Budaya yang Memukau"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/27979598/pexels-photo-27979598.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Gion District Kyoto, Jepang: Panduan Wisata Budaya yang Memukau" style="width:100%;height:auto;border-radius:12px;" /></figure>
