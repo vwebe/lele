@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Wisata di Slovakia"
-date: 2026-04-14 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-wisata-di-slovakia.jpg"
 seo_title: "Destinasi Wisata di Slovakia"
-description: "## Menyelam ke Pesona Slovakia: Dari Kastil Bersejarah hingga Puncak Bersalju Langkah pertama saya menjejakkan kaki di Bratislava terasa seperti membuka..."
-excerpt: "## Menyelam ke Pesona Slovakia: Dari Kastil Bersejarah hingga Puncak Bersalju Langkah pertama saya menjejakkan kaki di Bratislava terasa seperti membuka..."
-keywords: "destinasi wisata di slovakia, destinasi wisata slovakia, travel, wisata destinasi wisata slovakia, panduan destinasi wisata slovakia, tips destinasi wisata slovakia"
-image_alt: "Destinasi Wisata di Slovakia"
+keyword: "destinasi wisata di slovakia"
+date: 2026-04-14 16:30:00 +0700
+last_modified_at: 2026-05-12 17:37:10 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@jan-brndiar-809427026)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@jan-brndiar-809427026)"
+keywords: "travel, destinasi, slovakia, wisata destinasi slovakia, panduan destinasi slovakia, tips destinasi slovakia"
+image: "/assets/images/auto/destinasi-wisata-di-slovakia.jpg"
+image_alt: "Destinasi Wisata di Slovakia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-slovakia.jpg" | relative_url }}" alt="Destinasi Wisata di Slovakia" loading="lazy" decoding="async">
@@ -137,4 +142,3 @@ Jika Anda mencari [destinasi](#REF!) yang belum dipenuhi turis massal, namun tet
 ---
 
 Perjalanan Anda belum berakhir di [sini. Temukan juga](https://dgxximovie.com/) berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
