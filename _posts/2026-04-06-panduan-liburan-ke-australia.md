@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Liburan ke Australia"
-date: 2026-04-06 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-liburan-ke-australia.jpg"
 seo_title: "Panduan Liburan ke Australia"
-description: "# Panduan [Liburan](https://vwebe.github.io/lele/2026/04/03/tips-cari-tiket-murah-internasional.html) ke Australia: Dari Persiapan Sampai Jalan‑Jalan..."
-excerpt: "# Panduan [Liburan](https://vwebe.github.io/lele/2026/04/03/tips-cari-tiket-murah-internasional.html) ke Australia: Dari Persiapan Sampai Jalan‑Jalan..."
-keywords: "panduan liburan ke australia, panduan liburan australia, travel, wisata panduan liburan australia, panduan panduan liburan australia, tips panduan liburan australia"
-image_alt: "Panduan Liburan ke Australia"
+keyword: "panduan liburan ke australia"
+date: 2026-04-06 16:30:00 +0700
+last_modified_at: 2026-05-12 17:35:25 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@lara-jameson)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@lara-jameson)"
+keywords: "travel, liburan, australia, wisata liburan australia, panduan liburan australia, tips liburan australia"
+image: "/assets/images/auto/panduan-liburan-ke-australia.jpg"
+image_alt: "Panduan Liburan ke Australia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-australia.jpg" | relative_url }}" alt="Panduan Liburan ke Australia" loading="lazy" decoding="async">
@@ -138,4 +143,3 @@ Jika Anda mempertimbangkan untuk mengunjungi negeri ini, mulai persiapkan dokume
 ---
 
 Perjalanan Anda belum berakhir di sini. [Temukan juga](https://dgxximovie.com/) berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
