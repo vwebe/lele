@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Traveling di Musim Dingin"
-date: 2026-04-09 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-traveling-di-musim-dingin.jpg"
 seo_title: "Tips Traveling di Musim Dingin"
-description: "# Tips Traveling di Musim Dingin: Cara Nikmati [Liburan](#REF!) Tanpa Kedinginan Berlari menembus kabut tipis di atas pegunungan bersalju, menghirup aroma..."
-excerpt: "# Tips Traveling di Musim Dingin: Cara Nikmati [Liburan](#REF!) Tanpa Kedinginan Berlari menembus kabut tipis di atas pegunungan bersalju, menghirup aroma..."
-keywords: "tips traveling di musim dingin, tips traveling musim dingin, travel, wisata tips traveling musim, panduan tips traveling musim, tips tips traveling musim"
-image_alt: "Tips Traveling di Musim Dingin"
+keyword: "tips traveling di musim dingin"
+date: 2026-04-09 20:30:00 +0700
+last_modified_at: 2026-05-12 17:35:54 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@antonhansenphotography)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@antonhansenphotography)"
+keywords: "travel, tips, traveling, musim, dingin, wisata tips traveling musim, panduan tips traveling musim, tips tips traveling musim"
+image: "/assets/images/auto/tips-traveling-di-musim-dingin.jpg"
+image_alt: "Tips Traveling di Musim Dingin"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-di-musim-dingin.jpg" | relative_url }}" alt="Tips Traveling di Musim Dingin" loading="lazy" decoding="async">
@@ -117,4 +122,3 @@ Musim dingin memang menantang, tapi dengan persiapan yang tepat, liburan dapat m
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi [waktu santai](https://dgxximovie.com/) Anda.
-
