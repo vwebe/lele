@@ -4,8 +4,14 @@ title: "Menjelajah Hidden Gem Montmartre, Paris: Panduan Lengkap untuk Wisatawan
 date: 2026-05-05 11:00:47 +0700
 categories: ["montmartre"]
 tags: ["montmartre", "paris", "prancis", "eropa", "hidden-gem", "wisata-eropa", "travel-guide", "city-walk"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Paris memang selalu masuk dalam daftar destinasi impian, namun tidak semua sudutnya dikenal luas. Salah satu hidden..."
 image: "https://images.pexels.com/photos/30399139/pexels-photo-30399139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajah Hidden Gem Montmartre, Paris: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Paris memang selalu masuk dalam daftar destinasi impian, namun tidak semua sudutnya dikenal luas. Salah satu hidden gem Montmartre Paris menawarkan..."
+excerpt: "Paris memang selalu masuk dalam daftar destinasi impian, namun tidak semua sudutnya dikenal luas. Salah satu hidden gem Montmartre Paris menawarkan..."
+keywords: "menjelajah hidden gem montmartre paris panduan lengkap untuk wisatawan indonesia, menjelajah hidden gem montmartre, montmartre, paris, prancis, eropa, hidden gem, wisata eropa, travel guide, city walk, wisata menjelajah hidden gem, panduan menjelajah hidden gem"
+image_alt: "Menjelajah Hidden Gem Montmartre, Paris: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/30399139/pexels-photo-30399139.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajah Hidden Gem Montmartre, Paris: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

@@ -4,8 +4,14 @@ title: "Panduan Lengkap Jiuzhaigou Valley China: Keajaiban Alam Tersembunyi di A
 date: 2026-05-06 19:17:47 +0700
 categories: ["jiuzhaigou"]
 tags: ["jiuzhaigou", "china", "wisata-alam", "asia", "danau-indah", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Jiuzhaigou Valley di Sichuan, China, menjadi salah satu destinasi wisata alam paling memukau di Asia. Dengan air..."
 image: "https://images.pexels.com/photos/34619137/pexels-photo-34619137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Jiuzhaigou Valley China: Keajaiban Alam Tersembunyi di Asia"
+description: "Jiuzhaigou Valley di Sichuan, China, menjadi salah satu destinasi wisata alam paling memukau di Asia. Dengan air terjun yang menakjubkan, danau berwarna..."
+excerpt: "Jiuzhaigou Valley di Sichuan, China, menjadi salah satu destinasi wisata alam paling memukau di Asia. Dengan air terjun yang menakjubkan, danau berwarna..."
+keywords: "panduan lengkap jiuzhaigou valley china keajaiban alam tersembunyi di asia, panduan lengkap jiuzhaigou valley, jiuzhaigou, china, wisata alam, asia, danau indah, travel guide, wisata panduan lengkap jiuzhaigou, panduan panduan lengkap jiuzhaigou, tips panduan lengkap jiuzhaigou, kenapa jiuzhaigou valley menjadi destinasi impian"
+image_alt: "Panduan Lengkap Jiuzhaigou Valley China: Keajaiban Alam Tersembunyi di Asia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/34619137/pexels-photo-34619137.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Jiuzhaigou Valley China: Keajaiban Alam Tersembunyi di Asia" style="width:100%;height:auto;border-radius:12px;" /></figure>

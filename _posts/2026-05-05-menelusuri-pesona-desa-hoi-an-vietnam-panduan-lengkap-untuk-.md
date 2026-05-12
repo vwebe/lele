@@ -4,8 +4,14 @@ title: "Menelusuri Pesona Desa Hoi An, Vietnam: Panduan Lengkap untuk Wisatawan 
 date: 2026-05-05 12:29:56 +0700
 categories: ["hoi-an"]
 tags: ["hoi-an", "vietnam", "kota-tua", "wisata-asia", "budaya-vietnam", "hidden-gem", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Jika Anda mencari destinasi yang memadukan keindahan arsitektur klasik, budaya yang kaya, dan suasana yang tenang,..."
 image: "https://images.pexels.com/photos/34277270/pexels-photo-34277270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menelusuri Pesona Desa Hoi An, Vietnam: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Jika Anda mencari destinasi yang memadukan keindahan arsitektur klasik, budaya yang kaya, dan suasana yang tenang, desa Hoi An, Vietnam adalah pilihan yang..."
+excerpt: "Jika Anda mencari destinasi yang memadukan keindahan arsitektur klasik, budaya yang kaya, dan suasana yang tenang, desa Hoi An, Vietnam adalah pilihan yang..."
+keywords: "menelusuri pesona desa hoi an vietnam panduan lengkap untuk wisatawan indonesia, menelusuri pesona desa hoi, hoi an, vietnam, kota tua, wisata asia, budaya vietnam, hidden gem, travel guide, wisata menelusuri pesona desa, panduan menelusuri pesona desa, tips menelusuri pesona desa"
+image_alt: "Menelusuri Pesona Desa Hoi An, Vietnam: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/34277270/pexels-photo-34277270.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menelusuri Pesona Desa Hoi An, Vietnam: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

@@ -4,8 +4,14 @@ title: "Menyusuri Keindahan Arashiyama Bamboo Forest di Kyoto: Panduan Lengkap u
 date: 2026-05-06 11:48:55 +0700
 categories: ["arashiyama"]
 tags: ["arashiyama", "kyoto", "jepang", "bamboo-forest", "wisata-alam", "asia", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Jika Anda mencari pengalaman alam yang menakjubkan sekaligus nuansa budaya Jepang yang kental, Arashiyama Bamboo..."
 image: "https://images.pexels.com/photos/36544770/pexels-photo-36544770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menyusuri Keindahan Arashiyama Bamboo Forest di Kyoto: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Jika Anda mencari pengalaman alam yang menakjubkan sekaligus nuansa budaya Jepang yang kental, Arashiyama Bamboo Forest di Kyoto menjadi pilihan yang tak..."
+excerpt: "Jika Anda mencari pengalaman alam yang menakjubkan sekaligus nuansa budaya Jepang yang kental, Arashiyama Bamboo Forest di Kyoto menjadi pilihan yang tak..."
+keywords: "menyusuri keindahan arashiyama bamboo forest di kyoto panduan lengkap untuk wisatawan indonesia, menyusuri keindahan arashiyama bamboo, arashiyama, kyoto, jepang, bamboo forest, wisata alam, asia, travel guide, wisata menyusuri keindahan arashiyama, panduan menyusuri keindahan arashiyama, tips menyusuri keindahan arashiyama"
+image_alt: "Menyusuri Keindahan Arashiyama Bamboo Forest di Kyoto: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/36544770/pexels-photo-36544770.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menyusuri Keindahan Arashiyama Bamboo Forest di Kyoto: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

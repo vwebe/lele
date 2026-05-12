@@ -4,8 +4,14 @@ title: "Panduan Lengkap Pamukkale, Turki: Keajaiban Kolam Putih yang Wajib Dikun
 date: 2026-05-06 23:48:01 +0700
 categories: ["pamukkale"]
 tags: ["pamukkale", "turki", "wisata-alam", "kolam-putih", "travel-guide", "eropa-asia", "hidden-gem"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Pamukkale, yang berarti “Istana Kapas” dalam bahasa Turki, adalah salah satu keajaiban alam paling menakjubkan di..."
 image: "https://images.pexels.com/photos/23322327/pexels-photo-23322327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Pamukkale, Turki: Keajaiban Kolam Putih yang Wajib Dikunjungi"
+description: "Pamukkale, yang berarti “Istana Kapas” dalam bahasa Turki, adalah salah satu keajaiban alam paling menakjubkan di dunia yang terletak di provinsi Denizli..."
+excerpt: "Pamukkale, yang berarti “Istana Kapas” dalam bahasa Turki, adalah salah satu keajaiban alam paling menakjubkan di dunia yang terletak di provinsi Denizli..."
+keywords: "panduan lengkap pamukkale turki keajaiban kolam putih yang wajib dikunjungi, panduan lengkap pamukkale turki, pamukkale, turki, wisata alam, kolam putih, travel guide, eropa asia, hidden gem, wisata panduan lengkap pamukkale, panduan panduan lengkap pamukkale, tips panduan lengkap pamukkale"
+image_alt: "Panduan Lengkap Pamukkale, Turki: Keajaiban Kolam Putih yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/23322327/pexels-photo-23322327.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Pamukkale, Turki: Keajaiban Kolam Putih yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>

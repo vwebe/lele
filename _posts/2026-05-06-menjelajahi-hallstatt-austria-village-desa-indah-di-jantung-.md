@@ -4,8 +4,14 @@ title: "Menjelajahi Hallstatt Austria Village: Desa Indah di Jantung Eropa yang 
 date: 2026-05-06 02:47:38 +0700
 categories: ["hallstatt"]
 tags: ["hallstatt", "austria", "desa-indah", "eropa", "wisata-alam", "travel-guide", "hidden-gem"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Jika Anda mencari destinasi hidden gem di Eropa yang memadukan keindahan alam, sejarah yang kental, dan suasana yang..."
 image: "https://images.pexels.com/photos/35801184/pexels-photo-35801184.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Hallstatt Austria Village: Desa Indah di Jantung Eropa yang Wajib Dikunjungi"
+description: "Jika Anda mencari destinasi hidden gem di Eropa yang memadukan keindahan alam, sejarah yang kental, dan suasana yang tenang, Hallstatt Austria Village..."
+excerpt: "Jika Anda mencari destinasi hidden gem di Eropa yang memadukan keindahan alam, sejarah yang kental, dan suasana yang tenang, Hallstatt Austria Village..."
+keywords: "menjelajahi hallstatt austria village desa indah di jantung eropa yang wajib dikunjungi, menjelajahi hallstatt austria village, hallstatt, austria, desa indah, eropa, wisata alam, travel guide, hidden gem, wisata menjelajahi hallstatt austria, panduan menjelajahi hallstatt austria, tips menjelajahi hallstatt austria"
+image_alt: "Menjelajahi Hallstatt Austria Village: Desa Indah di Jantung Eropa yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/35801184/pexels-photo-35801184.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Hallstatt Austria Village: Desa Indah di Jantung Eropa yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>

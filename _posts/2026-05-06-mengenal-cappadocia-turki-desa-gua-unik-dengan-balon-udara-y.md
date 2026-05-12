@@ -4,8 +4,14 @@ title: "Mengenal Cappadocia, Turki: Desa Gua Unik dengan Balon Udara yang Memuka
 date: 2026-05-06 22:17:39 +0700
 categories: ["cappadocia"]
 tags: ["cappadocia", "turki", "desa-unik", "balon-udara", "eropa-asia", "travel-guide", "europe-asia"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Cappadocia, yang terletak di jantung Turki, adalah destinasi yang jarang disebutkan dalam itinerary standar..."
 image: "https://images.pexels.com/photos/32447623/pexels-photo-32447623.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Mengenal Cappadocia, Turki: Desa Gua Unik dengan Balon Udara yang Memukau"
+description: "Cappadocia, yang terletak di jantung Turki, adalah destinasi yang jarang disebutkan dalam itinerary standar wisatawan Indonesia, namun menyimpan keajaiban..."
+excerpt: "Cappadocia, yang terletak di jantung Turki, adalah destinasi yang jarang disebutkan dalam itinerary standar wisatawan Indonesia, namun menyimpan keajaiban..."
+keywords: "mengenal cappadocia turki desa gua unik dengan balon udara yang memukau, mengenal cappadocia turki desa, cappadocia, turki, desa unik, balon udara, eropa asia, travel guide, europe asia, wisata mengenal cappadocia turki, panduan mengenal cappadocia turki, tips mengenal cappadocia turki"
+image_alt: "Mengenal Cappadocia, Turki: Desa Gua Unik dengan Balon Udara yang Memukau"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/32447623/pexels-photo-32447623.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Cappadocia, Turki: Desa Gua Unik dengan Balon Udara yang Memukau" style="width:100%;height:auto;border-radius:12px;" /></figure>

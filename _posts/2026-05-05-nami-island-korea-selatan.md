@@ -4,8 +4,14 @@ title: "nami island korea selatan"
 date: 2026-05-05 23:47:51 +0700
 categories: ["nami-island"]
 tags: ["nami-island", "korea-selatan", "wisata-alam", "wisata-korea", "asia", "travel-guide", "honeymoon", ""]
-excerpt: "Waktu baca: 1 menitWisata Internasional ... Bagikan artikel iniTemukan destinasi luar biasa? Bagikan ke teman perjalananmu. Rekomendasi TravelTemukan ide..."
 image: "https://images.pexels.com/photos/35571467/pexels-photo-35571467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "nami island korea selatan"
+description: "... ? Bagikan ke teman perjalananmu. Temukan ide perjalanan berikutnya dari rekomendasi wisata pilihan kami. Baca rekomendasi lainnya"
+excerpt: "... ? Bagikan ke teman perjalananmu. Temukan ide perjalanan berikutnya dari rekomendasi wisata pilihan kami. Baca rekomendasi lainnya"
+keywords: "nami island korea selatan, nami island, korea selatan, wisata alam, wisata korea, asia, travel guide, honeymoon, wisata nami island korea, panduan nami island korea, tips nami island korea"
+image_alt: "nami island korea selatan"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/35571467/pexels-photo-35571467.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="nami island korea selatan" style="width:100%;height:auto;border-radius:12px;" /></figure>

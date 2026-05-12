@@ -4,8 +4,14 @@ title: "Panduan Lengkap Ban Gioc Waterfall Vietnam: Hidden Gem Asia yang Wajib D
 date: 2026-05-06 17:47:30 +0700
 categories: ["ban-gioc-waterfall"]
 tags: ["ban-gioc-waterfall", "vietnam", "air-terjun", "asia", "wisata-alam", "hidden-gem", "travel-guide"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Jika Anda mencari destinasi alam yang memesona sekaligus jarang dijamah turis mainstream, Ban Gioc Waterfall di..."
 image: "https://images.pexels.com/photos/12759057/pexels-photo-12759057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Ban Gioc Waterfall Vietnam: Hidden Gem Asia yang Wajib Dikunjungi"
+description: "Jika Anda mencari destinasi alam yang memesona sekaligus jarang dijamah turis mainstream, Ban Gioc Waterfall di Vietnam layak masuk dalam daftar impian..."
+excerpt: "Jika Anda mencari destinasi alam yang memesona sekaligus jarang dijamah turis mainstream, Ban Gioc Waterfall di Vietnam layak masuk dalam daftar impian..."
+keywords: "panduan lengkap ban gioc waterfall vietnam hidden gem asia yang wajib dikunjungi, panduan lengkap ban gioc, ban gioc waterfall, vietnam, air terjun, asia, wisata alam, hidden gem, travel guide, wisata panduan lengkap ban, panduan panduan lengkap ban, tips panduan lengkap ban"
+image_alt: "Panduan Lengkap Ban Gioc Waterfall Vietnam: Hidden Gem Asia yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/12759057/pexels-photo-12759057.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Ban Gioc Waterfall Vietnam: Hidden Gem Asia yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>

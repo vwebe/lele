@@ -4,8 +4,14 @@ title: "Mengenal Notting Hill, London, Inggris: Panduan Lengkap untuk Wisatawan 
 date: 2026-05-05 18:40:18 +0700
 categories: ["notting-hill"]
 tags: ["notting-hill", "london", "inggris", "eropa", "wisata-kota", "hidden-gem", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Jika Anda mencari kombinasi antara keanggunan klasik Inggris, atmosfer bohemian, dan spot-spot Instagramable,..."
 image: "https://images.pexels.com/photos/30847189/pexels-photo-30847189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Mengenal Notting Hill, London, Inggris: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Jika Anda mencari kombinasi antara keanggunan klasik Inggris, atmosfer bohemian, dan spot-spot Instagramable, Notting Hill di London, Inggris, adalah..."
+excerpt: "Jika Anda mencari kombinasi antara keanggunan klasik Inggris, atmosfer bohemian, dan spot-spot Instagramable, Notting Hill di London, Inggris, adalah..."
+keywords: "mengenal notting hill london inggris panduan lengkap untuk wisatawan indonesia, mengenal notting hill london, notting hill, london, inggris, eropa, wisata kota, hidden gem, travel guide, wisata mengenal notting hill, panduan mengenal notting hill, tips mengenal notting hill"
+image_alt: "Mengenal Notting Hill, London, Inggris: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/30847189/pexels-photo-30847189.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Notting Hill, London, Inggris: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

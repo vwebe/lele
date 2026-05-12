@@ -4,8 +4,14 @@ title: "Menjelajahi Plaka, Athena: Surga Tersembunyi di Jantung Kota Tua Yunani"
 date: 2026-05-06 08:48:55 +0700
 categories: ["plaka"]
 tags: ["plaka", "athena", "yunani", "kota-tua", "eropa", "wisata-sejarah", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Plaka, kawasan paling ikonik di Athena, menawarkan perpaduan sempurna antara sejarah kuno, arsitektur khas Eropa,..."
 image: "https://images.pexels.com/photos/6032163/pexels-photo-6032163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Plaka, Athena: Surga Tersembunyi di Jantung Kota Tua Yunani"
+description: "Plaka, kawasan paling ikonik di Athena , menawarkan perpaduan sempurna antara sejarah kuno, arsitektur khas Eropa, dan kehidupan modern yang hidup . Bagi..."
+excerpt: "Plaka, kawasan paling ikonik di Athena , menawarkan perpaduan sempurna antara sejarah kuno, arsitektur khas Eropa, dan kehidupan modern yang hidup . Bagi..."
+keywords: "menjelajahi plaka athena surga tersembunyi di jantung kota tua yunani, menjelajahi plaka athena surga, plaka, athena, yunani, kota tua, eropa, wisata sejarah, travel guide, wisata menjelajahi plaka athena, panduan menjelajahi plaka athena, tips menjelajahi plaka athena"
+image_alt: "Menjelajahi Plaka, Athena: Surga Tersembunyi di Jantung Kota Tua Yunani"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/6032163/pexels-photo-6032163.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Plaka, Athena: Surga Tersembunyi di Jantung Kota Tua Yunani" style="width:100%;height:auto;border-radius:12px;" /></figure>
