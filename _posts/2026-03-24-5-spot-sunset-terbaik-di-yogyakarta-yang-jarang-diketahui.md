@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui"
-date: 2026-03-24 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/5-spot-sunset-terbaik-di-yogyakarta-yang-jarang-diketahui.jpg"
 seo_title: "5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui"
-description: "# 5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui Yogyakarta. Kota ini selalu punya cara untuk memikat hati. Bukan cuma soal sejarah, budaya, atau..."
-excerpt: "# 5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui Yogyakarta. Kota ini selalu punya cara untuk memikat hati. Bukan cuma soal sejarah, budaya, atau..."
-keywords: "5 spot sunset terbaik di yogyakarta yang jarang diketahui, spot sunset terbaik yogyakarta, travel, wisata spot sunset terbaik, panduan spot sunset terbaik, tips spot sunset terbaik"
-image_alt: "5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui"
+keyword: "5 spot sunset terbaik di yogyakarta yang jarang diketahui"
+date: 2026-03-24 20:30:00 +0700
+last_modified_at: 2026-05-12 17:32:04 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@egonshotsphotos)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@egonshotsphotos)"
+keywords: "travel, spot, sunset, terbaik, yogyakarta, jarang, diketahui, wisata spot sunset terbaik, panduan spot sunset terbaik, tips spot sunset terbaik"
+image: "/assets/images/auto/5-spot-sunset-terbaik-di-yogyakarta-yang-jarang-diketahui.jpg"
+image_alt: "5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/5-spot-sunset-terbaik-di-yogyakarta-yang-jarang-diketahui.jpg" | relative_url }}" alt="5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui" loading="lazy" decoding="async">
@@ -95,4 +100,3 @@ Menemukan tempat-tempat seperti ini adalah bagian dari petualangan itu sendiri. 
 ---
 
 Perjalanan Anda [belum berakhir di sini.](https://dgxximovie.com/) Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
