@@ -46,7 +46,7 @@ DEFAULT_CATEGORY = "travel"
 DEFAULT_LANGUAGE = "id"
 DEFAULT_MIN_WORDS = env_int("DEFAULT_MIN_WORDS", 1200)
 MIN_ACCEPTABLE_WORDS = env_int("MIN_ACCEPTABLE_WORDS", 700)
-PUBLISH_INTERVAL_MINUTES = env_int("PUBLISH_INTERVAL_MINUTES", 90)
+PUBLISH_INTERVAL_MINUTES = env_int("PUBLISH_INTERVAL_MINUTES", 120)
 MAX_POSTS_PER_RUN = env_int("MAX_POSTS_PER_RUN", 1)
 LLM_RETRIES = env_int("LLM_RETRIES", 3)
 
@@ -762,25 +762,39 @@ def update_sheet_row(worksheet, headers, row_index, data: dict):
 
 
 def latest_publish_time_from_sheet(rows):
+    """Return the latest real published time.
+
+    Important: this function is intentionally based only on rows already marked
+    published. Blank/READY rows must never receive future schedule times during
+    auto-run. The next publish decision is simply:
+    latest published time + interval <= now.
+    """
     latest = None
     for row in rows:
-        try:
-            dt = parse_publish_time(row.get("publish_time") or row.get("date"))
-        except Exception:
+        status = str(row.get("status") or "").strip().lower()
+        post_url = str(row.get("post_url") or "").strip()
+        output_file = str(row.get("output_file") or "").strip()
+        if status != STATUS_PUBLISHED and not post_url and not output_file:
             continue
-        if dt and (latest is None or dt > latest):
-            latest = dt
+        for key in ("published_at", "publish_time", "date"):
+            try:
+                dt = parse_publish_time(row.get(key))
+            except Exception:
+                dt = None
+            if dt and (latest is None or dt > latest):
+                latest = dt
+                break
     return latest
 
 
-def next_auto_publish_time(rows, local_now):
+def can_auto_publish_now(rows, local_now):
     latest = latest_publish_time_from_sheet(rows)
     if latest is None:
-        return local_now
-    candidate = latest + timedelta(minutes=PUBLISH_INTERVAL_MINUTES)
-    if candidate < local_now:
-        return local_now
-    return candidate
+        return True, local_now, "no previous published row"
+    next_allowed = latest + timedelta(minutes=PUBLISH_INTERVAL_MINUTES)
+    if local_now >= next_allowed:
+        return True, local_now, f"latest published row was {format_sheet_dt(latest)}"
+    return False, next_allowed, f"waiting until {format_sheet_dt(next_allowed)}"
 
 
 def resolve_post_file_from_row(row: dict):
@@ -845,7 +859,8 @@ def main():
 
     published_count = 0
     skipped_count = 0
-    auto_time = next_auto_publish_time(rows, local_now)
+    can_publish, next_allowed, reason = can_auto_publish_now(rows, local_now)
+    log(f"Auto interval check: {reason}. Interval={PUBLISH_INTERVAL_MINUTES} minutes.")
 
     for row_index, row in enumerate(rows, start=2):
         if published_count >= MAX_POSTS_PER_RUN:
@@ -855,6 +870,8 @@ def main():
             skipped_count += 1
             continue
         status = str(row.get("status") or "").strip().lower()
+
+        # Management actions are allowed immediately. They do not use auto-post timing.
         if status in {"delete", "delete_post", "remove", "trash"}:
             try:
                 if handle_delete_row(worksheet, headers, row_index, row):
@@ -871,6 +888,7 @@ def main():
             update_sheet_row(worksheet, headers, row_index, {"status": "rebuilt"})
             published_count += 1
             continue
+
         if status == STATUS_PUBLISHED:
             skipped_count += 1
             continue
@@ -878,27 +896,19 @@ def main():
             log(f"Row {row_index}: skipped, status={status!r}")
             skipped_count += 1
             continue
+
+        # This is the next eligible auto-post row. Do not fill READY/future time
+        # across the sheet. If 2 hours have not passed, stop here.
+        if not can_publish:
+            log(f"Row {row_index}: next eligible post found, but auto interval is not ready. {reason}")
+            skipped_count += 1
+            break
+
         if not str(row.get("content") or "").strip() and not str(row.get("prompt") or "").strip():
             # Title-only rows are valid: use title as prompt.
             row["prompt"] = title
 
-        publish_raw = str(row.get("publish_time") or row.get("date") or "").strip()
-        if publish_raw:
-            try:
-                publish_dt = parse_publish_time(publish_raw)
-            except ValueError as exc:
-                log(f"Row {row_index}: skipped, {exc}")
-                skipped_count += 1
-                continue
-        else:
-            publish_dt = auto_time
-            auto_time = auto_time + timedelta(minutes=PUBLISH_INTERVAL_MINUTES)
-            update_sheet_row(worksheet, headers, row_index, {"publish_time": format_sheet_dt(publish_dt)})
-
-        if publish_dt > local_now:
-            log(f"Row {row_index}: waiting until {format_sheet_dt(publish_dt)}")
-            skipped_count += 1
-            continue
+        publish_dt = local_now
 
         try:
             filename, post_body = make_post_content(row, publish_dt, anchors, urls, footer_texts, footer_url)
@@ -915,6 +925,7 @@ def main():
                 {
                     "slug": slugify(row.get("slug") or title),
                     "status": STATUS_PUBLISHED,
+                    "publish_time": format_sheet_dt(local_now),
                     "published_at": format_sheet_dt(local_now),
                     "output_file": filename,
                     "post_url": make_post_url(filename),
