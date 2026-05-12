@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menyusuri Haji Lane, Singapore: Hidden Gem Penuh Seni Jalanan untuk Wisatawan Indonesia"
-date: 2026-05-07 22:19:27 +0700
-categories: ["haji-lane"]
-tags: ["haji-lane", "singapore", "hidden-gem", "street-art", "wisata-kota", "travel-guide"]
-image: "https://images.pexels.com/photos/34821411/pexels-photo-34821411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menyusuri Haji Lane, Singapore: Hidden Gem Penuh Seni Jalanan untuk Wisatawan Indonesia"
-description: "Singapore, negara kota kecil yang terkenal dengan kebersihan, keamanan, dan gedung pencakar langitnya, menyimpan banyak hidden gem yang belum banyak..."
-excerpt: "Singapore, negara kota kecil yang terkenal dengan kebersihan, keamanan, dan gedung pencakar langitnya, menyimpan banyak hidden gem yang belum banyak..."
-keywords: "menyusuri haji lane singapore hidden gem penuh seni jalanan untuk wisatawan indonesia, menyusuri haji lane singapore, haji lane, singapore, hidden gem, street art, wisata kota, travel guide, wisata menyusuri haji lane, panduan menyusuri haji lane, tips menyusuri haji lane, mengapa haji lane menjadi pilihan utama"
-image_alt: "Menyusuri Haji Lane, Singapore: Hidden Gem Penuh Seni Jalanan untuk Wisatawan Indonesia"
+keyword: "menyusuri haji lane singapore hidden gem penuh seni jalanan"
+date: 2026-05-07 22:19:27 +0700
+last_modified_at: 2026-05-12 17:47:03 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["haji-lane"]
+tags: ["haji-lane", "singapore", "hidden-gem", "street-art", "wisata-kota", "travel-guide"]
+description: "Berbeda dengan kawasan Marina Bay yang megah atau Orchard Road yang penuh pusat perbelanjaan, Haji Lane menawarkan atmosfer retro‑hipster yang terasa sangat..."
+excerpt: "Berbeda dengan kawasan Marina Bay yang megah atau Orchard Road yang penuh pusat perbelanjaan, Haji Lane menawarkan atmosfer retro‑hipster yang terasa sangat..."
+keywords: "haji lane, singapore, hidden gem, street art, wisata kota, travel guide, menyusuri, penuh, seni, jalanan, wisata haji lane, panduan haji lane"
+image: "https://images.pexels.com/photos/34821411/pexels-photo-34821411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menyusuri Haji Lane, Singapore: Hidden Gem Penuh Seni Jalanan untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/34821411/pexels-photo-34821411.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menyusuri Haji Lane, Singapore: Hidden Gem Penuh Seni Jalanan untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
