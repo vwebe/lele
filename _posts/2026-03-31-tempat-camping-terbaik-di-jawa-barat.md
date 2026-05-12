@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Camping Terbaik di Jawa Barat"
-date: 2026-03-31 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-camping-terbaik-di-jawa-barat.jpg"
 seo_title: "Tempat Camping Terbaik di Jawa Barat"
-description: "# Tempat Camping Terbaik di Jawa Barat yang Bikin Betah Suara gemericik air, aroma tanah basah setelah hujan, dan langit bertabur bintang yang tak terhalang..."
-excerpt: "# Tempat Camping Terbaik di Jawa Barat yang Bikin Betah Suara gemericik air, aroma tanah basah setelah hujan, dan langit bertabur bintang yang tak terhalang..."
-keywords: "tempat camping terbaik di jawa barat, tempat camping terbaik jawa, travel, wisata tempat camping terbaik, panduan tempat camping terbaik, tips tempat camping terbaik"
-image_alt: "Tempat Camping Terbaik di Jawa Barat"
+keyword: "tempat camping terbaik di jawa barat"
+date: 2026-03-31 07:00:00 +0700
+last_modified_at: 2026-05-12 17:33:46 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@trileafu)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@trileafu)"
+keywords: "travel, tempat, camping, terbaik, jawa, barat, wisata tempat camping terbaik, panduan tempat camping terbaik, tips tempat camping terbaik"
+image: "/assets/images/auto/tempat-camping-terbaik-di-jawa-barat.jpg"
+image_alt: "Tempat Camping Terbaik di Jawa Barat"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-camping-terbaik-di-jawa-barat.jpg" | relative_url }}" alt="Tempat Camping Terbaik di Jawa Barat" loading="lazy" decoding="async">
@@ -131,4 +136,3 @@ Camping itu bukan cuma soal berkemah, tapi tentang bagaimana kita terkoneksi kem
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga [berbagai inspirasi](https://dgxximovie.com/) wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
