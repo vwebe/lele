@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Liburan ke Belanda"
-date: 2026-04-12 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-liburan-ke-belanda.jpg"
 seo_title: "Panduan Liburan ke Belanda"
-description: "# Panduan [Liburan](#REF!) ke Belanda: Dari Persiapan Sampai Menikmati Kincir Angin Belanda tak sekadar kanal dan sepeda; ada rasa kehangatan yang terasa di..."
-excerpt: "# Panduan [Liburan](#REF!) ke Belanda: Dari Persiapan Sampai Menikmati Kincir Angin Belanda tak sekadar kanal dan sepeda; ada rasa kehangatan yang terasa di..."
-keywords: "panduan liburan ke belanda, panduan liburan belanda, travel, wisata panduan liburan belanda, panduan panduan liburan belanda, tips panduan liburan belanda"
-image_alt: "Panduan Liburan ke Belanda"
+keyword: "panduan liburan ke belanda"
+date: 2026-04-12 20:30:00 +0700
+last_modified_at: 2026-05-12 17:36:56 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@pixabay)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@pixabay)"
+keywords: "travel, liburan, belanda, wisata liburan belanda, panduan liburan belanda, tips liburan belanda"
+image: "/assets/images/auto/panduan-liburan-ke-belanda.jpg"
+image_alt: "Panduan Liburan ke Belanda"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-belanda.jpg" | relative_url }}" alt="Panduan Liburan ke Belanda" loading="lazy" decoding="async">
@@ -179,4 +184,3 @@ Jika kamu masih ragu untuk menyiapkan rencana perjalanan, ambil satu tiket, siap
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya [untuk mengisi waktu santai](https://dgxximovie.com/) Anda.
-
