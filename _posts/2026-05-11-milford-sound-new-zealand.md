@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Milford Sound Selandia Baru: Surga Tersembunyi yang Wajib Masuk Daftar Wisata Akhir Tahunmu!"
-date: 2026-05-11 23:33:31 +0700
-categories: ["milford-sound"]
-tags: ["milford-sound", "selandia-baru", "fjord", "wisata-alam", "travel-guide", "new-zealand", "hidden-gem"]
-image: "https://images.pexels.com/photos/19733323/pexels-photo-19733323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Milford Sound Selandia Baru: Surga Tersembunyi yang Wajib Masuk Daftar Wisata Akhir Tahunmu!"
-description: "Halo para wanderlusters Indonesia! Siapa nih yang akhir-akhir ini lagi merencanakan liburan impian ke luar negeri? Kalau kamu termasuk pencinta alam sejati..."
-excerpt: "Halo para wanderlusters Indonesia! Siapa nih yang akhir-akhir ini lagi merencanakan liburan impian ke luar negeri? Kalau kamu termasuk pencinta alam sejati..."
-keywords: "milford sound selandia baru surga tersembunyi yang wajib masuk daftar wisata akhir tahunmu, milford sound selandia baru, milford sound, selandia baru, fjord, wisata alam, travel guide, new zealand, hidden gem, wisata milford sound selandia, panduan milford sound selandia, tips milford sound selandia"
-image_alt: "Milford Sound Selandia Baru: Surga Tersembunyi yang Wajib Masuk Daftar Wisata Akhir Tahunmu!"
+keyword: "milford sound new zealand"
+date: 2026-05-11 23:33:31 +0700
+last_modified_at: 2026-05-12 17:50:58 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["milford-sound"]
+tags: ["milford-sound", "selandia-baru", "fjord", "wisata-alam", "travel-guide", "new-zealand", "hidden-gem"]
+description: "Milford Sound, atau dalam bahasa Maori disebut Piopiotahi, adalah sebuah fjord yang terletak di pesisir barat daya Pulau Selatan Selandia Baru. Berada di..."
+excerpt: "Milford Sound, atau dalam bahasa Maori disebut Piopiotahi, adalah sebuah fjord yang terletak di pesisir barat daya Pulau Selatan Selandia Baru. Berada di..."
+keywords: "milford sound, selandia baru, fjord, wisata alam, travel guide, new zealand, hidden gem, wisata milford sound, panduan milford sound, tips milford sound, menyingkap keajaiban milford sound fjord paling memukau di dunia"
+image: "https://images.pexels.com/photos/19733323/pexels-photo-19733323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Milford Sound Selandia Baru: Surga Tersembunyi yang Wajib Masuk Daftar Wisata Akhir Tahunmu!"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/19733323/pexels-photo-19733323.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Milford Sound Selandia Baru: Surga Tersembunyi yang Wajib Masuk Daftar Wisata Akhir Tahunmu!" style="width:100%;height:auto;border-radius:12px;" /></figure>
