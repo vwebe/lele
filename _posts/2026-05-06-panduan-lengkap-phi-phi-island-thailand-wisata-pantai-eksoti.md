@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Phi Phi Island, Thailand: Wisata Pantai Eksotis di Asia untuk Traveler Indonesia"
-date: 2026-05-06 13:19:46 +0700
-categories: ["phi-phi-island"]
-tags: ["phi-phi-island", "thailand", "wisata-pantai", "asia", "snorkeling", "travel-guide"]
-image: "https://images.pexels.com/photos/28581876/pexels-photo-28581876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Phi Phi Island, Thailand: Wisata Pantai Eksotis di Asia untuk Traveler Indonesia"
-description: "Phi Phi Island, atau lebih dikenal dengan Phi Phi Island Thailand , adalah surga pantai yang terletak di perairan Andaman, Provinsi Krabi, Thailand..."
-excerpt: "Phi Phi Island, atau lebih dikenal dengan Phi Phi Island Thailand , adalah surga pantai yang terletak di perairan Andaman, Provinsi Krabi, Thailand..."
-keywords: "panduan lengkap phi phi island thailand wisata pantai eksotis di asia untuk traveler indonesia, panduan lengkap phi phi, phi phi island, thailand, wisata pantai, asia, snorkeling, travel guide, wisata panduan lengkap phi, panduan panduan lengkap phi, tips panduan lengkap phi, lokasi dan gambaran umum"
-image_alt: "Panduan Lengkap Phi Phi Island, Thailand: Wisata Pantai Eksotis di Asia untuk Traveler Indonesia"
+keyword: "panduan lengkap phi phi island thailand wisata pantai eksoti"
+date: 2026-05-06 13:19:46 +0700
+last_modified_at: 2026-05-12 17:45:39 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["phi-phi-island"]
+tags: ["phi-phi-island", "thailand", "wisata-pantai", "asia", "snorkeling", "travel-guide"]
+description: "Pulau ini terdiri dari dua pulau utama: Koh Phi Phi Don, yang berpenghuni, dan Koh Phi Phi Leh, yang sebagian besar masih alami. Kedua pulau ini hanya..."
+excerpt: "Pulau ini terdiri dari dua pulau utama: Koh Phi Phi Don, yang berpenghuni, dan Koh Phi Phi Leh, yang sebagian besar masih alami. Kedua pulau ini hanya..."
+keywords: "phi phi island, thailand, wisata pantai, asia, snorkeling, travel guide, eksoti, wisata phi phi island, panduan phi phi island, tips phi phi island, lokasi dan gambaran umum"
+image: "https://images.pexels.com/photos/28581876/pexels-photo-28581876.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Phi Phi Island, Thailand: Wisata Pantai Eksotis di Asia untuk Traveler Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/28581876/pexels-photo-28581876.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Phi Phi Island, Thailand: Wisata Pantai Eksotis di Asia untuk Traveler Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
