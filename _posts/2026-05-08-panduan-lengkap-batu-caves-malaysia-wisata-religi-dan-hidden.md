@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Batu Caves, Malaysia: Wisata Religi dan Hidden Gem Asia yang Wajib Dikunjungi"
-date: 2026-05-08 02:47:47 +0700
-categories: ["batu-caves"]
-tags: ["batu-caves", "malaysia", "wisata-religi", "kuil-hindu", "travel-guide", "asia", "hidden-gem"]
-image: "https://images.pexels.com/photos/35445967/pexels-photo-35445967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Batu Caves, Malaysia: Wisata Religi dan Hidden Gem Asia yang Wajib Dikunjungi"
-description: "Batu Caves adalah salah satu destinasi wisata religi paling ikonik di Asia Tenggara, terletak tak jauh dari ibu kota Kuala Lumpur. Bagi traveler Indonesia..."
-excerpt: "Batu Caves adalah salah satu destinasi wisata religi paling ikonik di Asia Tenggara, terletak tak jauh dari ibu kota Kuala Lumpur. Bagi traveler Indonesia..."
-keywords: "panduan lengkap batu caves malaysia wisata religi dan hidden gem asia yang wajib dikunjungi, panduan lengkap batu caves, batu caves, malaysia, wisata religi, kuil hindu, travel guide, asia, hidden gem, wisata panduan lengkap batu, panduan panduan lengkap batu, tips panduan lengkap batu"
-image_alt: "Panduan Lengkap Batu Caves, Malaysia: Wisata Religi dan Hidden Gem Asia yang Wajib Dikunjungi"
+keyword: "panduan lengkap batu caves malaysia wisata religi dan hidden"
+date: 2026-05-08 02:47:47 +0700
+last_modified_at: 2026-05-12 17:47:30 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["batu-caves"]
+tags: ["batu-caves", "malaysia", "wisata-religi", "kuil-hindu", "travel-guide", "asia", "hidden-gem"]
+description: "Indonesia dikenal dengan keragaman budaya dan agama, sehingga wisata religi ke luar negeri menjadi cara menarik untuk memperluas wawasan. Batu Caves menawarkan:"
+excerpt: "Indonesia dikenal dengan keragaman budaya dan agama, sehingga wisata religi ke luar negeri menjadi cara menarik untuk memperluas wawasan. Batu Caves menawarkan:"
+keywords: "batu caves, malaysia, wisata religi, kuil hindu, travel guide, asia, hidden gem, wisata batu caves, panduan batu caves, tips batu caves, kenapa batu caves menjadi pilihan utama wisatawan indonesia"
+image: "https://images.pexels.com/photos/35445967/pexels-photo-35445967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Batu Caves, Malaysia: Wisata Religi dan Hidden Gem Asia yang Wajib Dikunjungi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/35445967/pexels-photo-35445967.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Batu Caves, Malaysia: Wisata Religi dan Hidden Gem Asia yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>
