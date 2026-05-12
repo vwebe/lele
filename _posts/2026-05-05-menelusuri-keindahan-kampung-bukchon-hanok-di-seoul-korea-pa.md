@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menelusuri Keindahan Kampung Bukchon Hanok di Seoul, Korea: Panduan Lengkap untuk Wisatawan Indonesia"
-date: 2026-05-05 16:36:41 +0700
-categories: ["bukchon-hanok-village"]
-tags: ["bukchon-hanok-village", "seoul", "korea-selatan", "desa-tradisional", "wisata-korea", "budaya-korea", "travel-guide"]
-image: "https://images.pexels.com/photos/33019244/pexels-photo-33019244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menelusuri Keindahan Kampung Bukchon Hanok di Seoul, Korea: Panduan Lengkap untuk Wisatawan Indonesia"
-description: "Mengenal Kampung Bukchon Hanok Kampung Bukchon Hanok Seoul Korea adalah salah satu permata tersembunyi di jantung ibu kota Korea Selatan. Terletak di antara..."
-excerpt: "Mengenal Kampung Bukchon Hanok Kampung Bukchon Hanok Seoul Korea adalah salah satu permata tersembunyi di jantung ibu kota Korea Selatan. Terletak di antara..."
-keywords: "menelusuri keindahan kampung bukchon hanok di seoul korea panduan lengkap untuk wisatawan indonesia, menelusuri keindahan kampung bukchon, bukchon hanok village, seoul, korea selatan, desa tradisional, wisata korea, budaya korea, travel guide, wisata menelusuri keindahan kampung, panduan menelusuri keindahan kampung, tips menelusuri keindahan kampung"
-image_alt: "Menelusuri Keindahan Kampung Bukchon Hanok di Seoul, Korea: Panduan Lengkap untuk Wisatawan Indonesia"
+keyword: "menelusuri keindahan kampung bukchon hanok di seoul korea pa"
+date: 2026-05-05 16:36:41 +0700
+last_modified_at: 2026-05-12 17:38:58 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["bukchon-hanok-village"]
+tags: ["bukchon-hanok-village", "seoul", "korea-selatan", "desa-tradisional", "wisata-korea", "budaya-korea", "travel-guide"]
+description: "Kampung Bukchon Hanok Seoul Korea adalah salah satu permata tersembunyi di jantung ibu kota Korea Selatan. Terletak di antara istana Gyeongbokgung dan..."
+excerpt: "Kampung Bukchon Hanok Seoul Korea adalah salah satu permata tersembunyi di jantung ibu kota Korea Selatan. Terletak di antara istana Gyeongbokgung dan..."
+keywords: "bukchon hanok village, seoul, korea selatan, desa tradisional, wisata korea, budaya korea, travel guide, menelusuri, keindahan, kampung, wisata menelusuri keindahan kampung, panduan menelusuri keindahan kampung"
+image: "https://images.pexels.com/photos/33019244/pexels-photo-33019244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menelusuri Keindahan Kampung Bukchon Hanok di Seoul, Korea: Panduan Lengkap untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/33019244/pexels-photo-33019244.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menelusuri Keindahan Kampung Bukchon Hanok di Seoul, Korea: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
