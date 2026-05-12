@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Jelajahi Keindahan Tersembunyi: Louvre Courtyard Paris, Permata Budaya yang Wajib Dikunjungi"
-date: 2026-05-12 10:02:49 +0700
-categories: ["louvre"]
-tags: ["louvre", "paris", "prancis", "wisata-sejarah", "museum", "travel-guide", "louvre-courtyard-paris"]
-image: "https://images.pexels.com/photos/16496454/pexels-photo-16496454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Jelajahi Keindahan Tersembunyi: Louvre Courtyard Paris, Permata Budaya yang Wajib Dikunjungi"
-description: "Halo para petualang! Siapa di antara Anda yang bermimpi menjelajahi keajaiban dunia? Paris, kota cinta yang selalu memikat hati, menyimpan begitu banyak..."
-excerpt: "Halo para petualang! Siapa di antara Anda yang bermimpi menjelajahi keajaiban dunia? Paris, kota cinta yang selalu memikat hati, menyimpan begitu banyak..."
-keywords: "jelajahi keindahan tersembunyi louvre courtyard paris permata budaya yang wajib dikunjungi, jelajahi keindahan tersembunyi louvre, louvre, paris, prancis, wisata sejarah, museum, travel guide, louvre courtyard paris, wisata jelajahi keindahan tersembunyi, panduan jelajahi keindahan tersembunyi, tips jelajahi keindahan tersembunyi"
-image_alt: "Jelajahi Keindahan Tersembunyi: Louvre Courtyard Paris, Permata Budaya yang Wajib Dikunjungi"
+keyword: "louvre courtyard paris"
+date: 2026-05-12 10:02:49 +0700
+last_modified_at: 2026-05-12 17:51:24 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["louvre"]
+tags: ["louvre", "paris", "prancis", "wisata-sejarah", "museum", "travel-guide", "louvre-courtyard-paris"]
+description: "Ketika membicarakan Museum Louvre, yang terlintas di benak kita mungkin adalah Piramida Kaca yang megah atau koleksi seni kelas dunia seperti Monalisa dan..."
+excerpt: "Ketika membicarakan Museum Louvre, yang terlintas di benak kita mungkin adalah Piramida Kaca yang megah atau koleksi seni kelas dunia seperti Monalisa dan..."
+keywords: "louvre, paris, prancis, wisata sejarah, museum, travel guide, louvre courtyard paris, wisata louvre courtyard paris, panduan louvre courtyard paris, tips louvre courtyard paris, louvre courtyard paris lebih dari sekadar pintu masuk museum"
+image: "https://images.pexels.com/photos/16496454/pexels-photo-16496454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Jelajahi Keindahan Tersembunyi: Louvre Courtyard Paris, Permata Budaya yang Wajib Dikunjungi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/16496454/pexels-photo-16496454.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Jelajahi Keindahan Tersembunyi: Louvre Courtyard Paris, Permata Budaya yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>
