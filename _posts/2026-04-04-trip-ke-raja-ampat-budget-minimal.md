@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Trip ke Raja Ampat Budget Minimal"
-date: 2026-04-04 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/trip-ke-raja-ampat-budget-minimal.jpg"
 seo_title: "Trip ke Raja Ampat Budget Minimal"
-description: "# Raja Ampat Sehemat Mungkin: Mitos atau Fakta? Siapa yang tidak kenal Raja Ampat? Surga bawah lautnya Indonesia, impian para penyelam dan penikmat..."
-excerpt: "# Raja Ampat Sehemat Mungkin: Mitos atau Fakta? Siapa yang tidak kenal Raja Ampat? Surga bawah lautnya Indonesia, impian para penyelam dan penikmat..."
-keywords: "trip ke raja ampat budget minimal, trip raja ampat budget, travel, wisata trip raja ampat, panduan trip raja ampat, tips trip raja ampat"
-image_alt: "Trip ke Raja Ampat Budget Minimal"
+keyword: "trip ke raja ampat budget minimal"
+date: 2026-04-04 12:30:00 +0700
+last_modified_at: 2026-05-12 17:34:49 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@tima-miroshnichenko)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@tima-miroshnichenko)"
+keywords: "travel, trip, raja, ampat, budget, minimal, wisata trip raja ampat, panduan trip raja ampat, tips trip raja ampat"
+image: "/assets/images/auto/trip-ke-raja-ampat-budget-minimal.jpg"
+image_alt: "Trip ke Raja Ampat Budget Minimal"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-raja-ampat-budget-minimal.jpg" | relative_url }}" alt="Trip ke Raja Ampat Budget Minimal" loading="lazy" decoding="async">
@@ -107,4 +112,3 @@ Raja Ampat dengan budget minimal memang bukan tentang kemewahan, tapi tentang pe
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk [mengisi waktu santai](https://dgxximovie.com/) Anda.
-
