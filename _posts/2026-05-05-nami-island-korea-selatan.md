@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "nami island korea selatan"
-date: 2026-05-05 23:47:51 +0700
-categories: ["nami-island"]
-tags: ["nami-island", "korea-selatan", "wisata-alam", "wisata-korea", "asia", "travel-guide", "honeymoon", ""]
-image: "https://images.pexels.com/photos/35571467/pexels-photo-35571467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "nami island korea selatan"
-description: "... ? Bagikan ke teman perjalananmu. Temukan ide perjalanan berikutnya dari rekomendasi wisata pilihan kami. Baca rekomendasi lainnya"
-excerpt: "... ? Bagikan ke teman perjalananmu. Temukan ide perjalanan berikutnya dari rekomendasi wisata pilihan kami. Baca rekomendasi lainnya"
-keywords: "nami island korea selatan, nami island, korea selatan, wisata alam, wisata korea, asia, travel guide, honeymoon, wisata nami island korea, panduan nami island korea, tips nami island korea"
-image_alt: "nami island korea selatan"
+keyword: "nami island korea selatan"
+date: 2026-05-05 23:47:51 +0700
+last_modified_at: 2026-05-12 17:39:11 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["nami-island"]
+tags: ["nami-island", "korea-selatan", "wisata-alam", "wisata-korea", "asia", "travel-guide", "honeymoon", ""]
+description: ""
+excerpt: ""
+keywords: "nami island, korea selatan, wisata alam, wisata korea, asia, travel guide, honeymoon, wisata nami island, panduan nami island, tips nami island"
+image: "https://images.pexels.com/photos/35571467/pexels-photo-35571467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "nami island korea selatan"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/35571467/pexels-photo-35571467.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="nami island korea selatan" style="width:100%;height:auto;border-radius:12px;" /></figure>
