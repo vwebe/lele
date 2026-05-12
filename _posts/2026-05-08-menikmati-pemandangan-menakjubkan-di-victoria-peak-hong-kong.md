@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menikmati Pemandangan Menakjubkan di Victoria Peak, Hong Kong: Panduan Lengkap untuk Wisatawan Indonesia"
-date: 2026-05-08 07:20:03 +0700
-categories: ["victoria-peak"]
-tags: ["victoria-peak", "hong-kong", "city-view", "wisata-kota", "travel-guide"]
-image: "https://images.pexels.com/photos/7820986/pexels-photo-7820986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menikmati Pemandangan Menakjubkan di Victoria Peak, Hong Kong: Panduan Lengkap untuk Wisatawan Indonesia"
-description: "Victoria Peak, atau yang lebih dikenal dengan sebutan Peak , adalah destinasi wajib bagi siapa saja yang ingin merasakan city view menakjubkan di tengah..."
-excerpt: "Victoria Peak, atau yang lebih dikenal dengan sebutan Peak , adalah destinasi wajib bagi siapa saja yang ingin merasakan city view menakjubkan di tengah..."
-keywords: "menikmati pemandangan menakjubkan di victoria peak hong kong panduan lengkap untuk wisatawan indonesia, menikmati pemandangan menakjubkan victoria, victoria peak, hong kong, city view, wisata kota, travel guide, wisata menikmati pemandangan menakjubkan, panduan menikmati pemandangan menakjubkan, tips menikmati pemandangan menakjubkan, apa yang membuat victoria peak begitu istimewa, suasana dan aktivitas yang bisa dinikmati"
-image_alt: "Menikmati Pemandangan Menakjubkan di Victoria Peak, Hong Kong: Panduan Lengkap untuk Wisatawan Indonesia"
+keyword: "menikmati pemandangan menakjubkan di victoria peak hong kong"
+date: 2026-05-08 07:20:03 +0700
+last_modified_at: 2026-05-12 17:47:19 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["victoria-peak"]
+tags: ["victoria-peak", "hong-kong", "city-view", "wisata-kota", "travel-guide"]
+description: "Berbeda dengan observatorium lain di dunia, Victoria Peak memberikan kombinasi unik antara skyline futuristik, pelabuhan yang sibuk, serta pegunungan hijau..."
+excerpt: "Berbeda dengan observatorium lain di dunia, Victoria Peak memberikan kombinasi unik antara skyline futuristik, pelabuhan yang sibuk, serta pegunungan hijau..."
+keywords: "victoria peak, hong kong, city view, wisata kota, travel guide, menikmati, pemandangan, menakjubkan, wisata victoria peak, panduan victoria peak, tips victoria peak, apa yang membuat victoria peak begitu istimewa"
+image: "https://images.pexels.com/photos/7820986/pexels-photo-7820986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menikmati Pemandangan Menakjubkan di Victoria Peak, Hong Kong: Panduan Lengkap untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/7820986/pexels-photo-7820986.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menikmati Pemandangan Menakjubkan di Victoria Peak, Hong Kong: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
