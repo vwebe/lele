@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Mengenal Little Venice, Surga Tersembunyi di London, Inggris yang Wajib Dikunjungi"
-date: 2026-05-05 16:39:14 +0700
-categories: ["little-venice"]
-tags: ["little-venice", "london", "inggris", "eropa", "hidden-gem", "city-tour", "travel-guide"]
-image: "https://images.pexels.com/photos/33794525/pexels-photo-33794525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Mengenal Little Venice, Surga Tersembunyi di London, Inggris yang Wajib Dikunjungi"
-description: "Jika Anda mencari pengalaman wisata yang berbeda dari keramaian kota besar London, Little Venice adalah destinasi yang tepat. Terletak di jantung London..."
-excerpt: "Jika Anda mencari pengalaman wisata yang berbeda dari keramaian kota besar London, Little Venice adalah destinasi yang tepat. Terletak di jantung London..."
-keywords: "mengenal little venice surga tersembunyi di london inggris yang wajib dikunjungi, mengenal little venice surga, little venice, london, inggris, eropa, hidden gem, city tour, travel guide, wisata mengenal little venice, panduan mengenal little venice, tips mengenal little venice"
-image_alt: "Mengenal Little Venice, Surga Tersembunyi di London, Inggris yang Wajib Dikunjungi"
+keyword: "mengenal little venice surga tersembunyi di london inggris y"
+date: 2026-05-05 16:39:14 +0700
+last_modified_at: 2026-05-12 17:39:04 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["little-venice"]
+tags: ["little-venice", "london", "inggris", "eropa", "hidden-gem", "city-tour", "travel-guide"]
+description: "Little Venice, atau yang secara resmi disebut Regent’s Canal di antara kanal Grand Union dan canal Paddington, merupakan kawasan perairan yang menghubungkan..."
+excerpt: "Little Venice, atau yang secara resmi disebut Regent’s Canal di antara kanal Grand Union dan canal Paddington, merupakan kawasan perairan yang menghubungkan..."
+keywords: "little venice, london, inggris, eropa, hidden gem, city tour, travel guide, mengenal, surga, tersembunyi, wisata little venice, panduan little venice"
+image: "https://images.pexels.com/photos/33794525/pexels-photo-33794525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Mengenal Little Venice, Surga Tersembunyi di London, Inggris yang Wajib Dikunjungi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/33794525/pexels-photo-33794525.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Little Venice, Surga Tersembunyi di London, Inggris yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>
