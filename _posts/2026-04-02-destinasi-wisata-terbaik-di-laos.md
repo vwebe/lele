@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Wisata Terbaik di Laos"
-date: 2026-04-02 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-wisata-terbaik-di-laos.jpg"
 seo_title: "Destinasi Wisata Terbaik di Laos"
-description: "# Menjelajahi Laos: Surga Tersembunyi di Jantung Asia Tenggara Laos, sebuah negara yang sering kali luput dari sorotan utama pariwisata Asia Tenggara..."
-excerpt: "# Menjelajahi Laos: Surga Tersembunyi di Jantung Asia Tenggara Laos, sebuah negara yang sering kali luput dari sorotan utama pariwisata Asia Tenggara..."
-keywords: "destinasi wisata terbaik di laos, destinasi wisata terbaik laos, travel, wisata destinasi wisata terbaik, panduan destinasi wisata terbaik, tips destinasi wisata terbaik"
-image_alt: "Destinasi Wisata Terbaik di Laos"
+keyword: "destinasi wisata terbaik di laos"
+date: 2026-04-02 07:00:00 +0700
+last_modified_at: 2026-05-12 17:34:25 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@homegrounds-co-3480562)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@homegrounds-co-3480562)"
+keywords: "travel, destinasi, terbaik, laos, wisata destinasi terbaik laos, panduan destinasi terbaik laos, tips destinasi terbaik laos"
+image: "/assets/images/auto/destinasi-wisata-terbaik-di-laos.jpg"
+image_alt: "Destinasi Wisata Terbaik di Laos"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-terbaik-di-laos.jpg" | relative_url }}" alt="Destinasi Wisata Terbaik di Laos" loading="lazy" decoding="async">
@@ -96,4 +101,3 @@ Laos adalah destinasi yang menawarkan lebih dari sekadar pemandangan indah. Ia a
 ---
 
 Perjalanan Anda belum berakhir [di sini. Temukan](https://dgxximovie.com/) juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
