@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menjelajahi Keajaiban Asakusa Tokyo: Kuil Senso-ji & Pesona Budaya Jepang"
-date: 2026-05-12 14:37:34 +0700
-categories: ["asakusa"]
-tags: ["asakusa", "tokyo", "jepang", "wisata-budaya", "kuil-jepang", "travel-guide"]
-image: "https://images.pexels.com/photos/31403043/pexels-photo-31403043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menjelajahi Keajaiban Asakusa Tokyo: Kuil Senso-ji & Pesona Budaya Jepang"
-description: "Halo para pencinta jalan-jalan! Siapa di antara kalian yang bermimpi menjelajahi keindahan Jepang? Nah, kali ini kita akan menyelami salah satu permata..."
-excerpt: "Halo para pencinta jalan-jalan! Siapa di antara kalian yang bermimpi menjelajahi keindahan Jepang? Nah, kali ini kita akan menyelami salah satu permata..."
-keywords: "menjelajahi keajaiban asakusa tokyo kuil senso ji pesona budaya jepang, menjelajahi keajaiban asakusa tokyo, asakusa, tokyo, jepang, wisata budaya, kuil jepang, travel guide, wisata menjelajahi keajaiban asakusa, panduan menjelajahi keajaiban asakusa, tips menjelajahi keajaiban asakusa, mengapa asakusa begitu istimewa"
-image_alt: "Menjelajahi Keajaiban Asakusa Tokyo: Kuil Senso-ji & Pesona Budaya Jepang"
+keyword: "asakusa tokyo"
+date: 2026-05-12 14:37:34 +0700
+last_modified_at: 2026-05-12 17:51:06 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["asakusa"]
+tags: ["asakusa", "tokyo", "jepang", "wisata-budaya", "kuil-jepang", "travel-guide"]
+description: "Asakusa adalah salah satu distrik tertua di Tokyo dan masih mempertahankan pesona kota lama Jepang. Berbeda dengan area modern seperti Shibuya atau..."
+excerpt: "Asakusa adalah salah satu distrik tertua di Tokyo dan masih mempertahankan pesona kota lama Jepang. Berbeda dengan area modern seperti Shibuya atau..."
+keywords: "asakusa, tokyo, jepang, wisata budaya, kuil jepang, travel guide, wisata asakusa tokyo, panduan asakusa tokyo, tips asakusa tokyo, mengapa asakusa begitu istimewa"
+image: "https://images.pexels.com/photos/31403043/pexels-photo-31403043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menjelajahi Keajaiban Asakusa Tokyo: Kuil Senso-ji & Pesona Budaya Jepang"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/31403043/pexels-photo-31403043.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Keajaiban Asakusa Tokyo: Kuil Senso-ji &amp; Pesona Budaya Jepang" style="width:100%;height:auto;border-radius:12px;" /></figure>
