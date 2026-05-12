@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Packing Ringan untuk Trip 5 Hari"
-date: 2026-03-28 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-packing-ringan-untuk-trip-5-hari.jpg"
 seo_title: "Tips Packing Ringan untuk Trip 5 Hari"
-description: "# Ringankan Bebanmu: Rahasia Packing Efisien untuk [Perjalanan](https://aestethiclele.blogspot.com/2026/03/tempat-camping-terbaik-di-indonesia.html) 5 Hari..."
-excerpt: "# Ringankan Bebanmu: Rahasia Packing Efisien untuk [Perjalanan](https://aestethiclele.blogspot.com/2026/03/tempat-camping-terbaik-di-indonesia.html) 5 Hari..."
-keywords: "tips packing ringan untuk trip 5 hari, tips packing ringan trip, travel, wisata tips packing ringan, panduan tips packing ringan, tips tips packing ringan"
-image_alt: "Tips Packing Ringan untuk Trip 5 Hari"
+keyword: "tips packing ringan untuk trip 5 hari"
+date: 2026-03-28 07:00:00 +0700
+last_modified_at: 2026-05-12 17:33:25 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@tima-miroshnichenko)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@tima-miroshnichenko)"
+keywords: "travel, tips, packing, ringan, trip, hari, wisata tips packing ringan, panduan tips packing ringan, tips tips packing ringan"
+image: "/assets/images/auto/tips-packing-ringan-untuk-trip-5-hari.jpg"
+image_alt: "Tips Packing Ringan untuk Trip 5 Hari"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-packing-ringan-untuk-trip-5-hari.jpg" | relative_url }}" alt="Tips Packing Ringan untuk Trip 5 Hari" loading="lazy" decoding="async">
@@ -103,4 +108,3 @@ Packing ringan itu bukan tentang menyiksa diri atau hidup serba kekurangan. Ini 
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk [mengisi waktu](https://dgxximovie.com/) santai Anda.
-
