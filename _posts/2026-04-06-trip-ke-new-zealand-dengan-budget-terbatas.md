@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Trip ke New Zealand dengan Budget Terbatas"
-date: 2026-04-06 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/trip-ke-new-zealand-dengan-budget-terbatas.jpg"
 seo_title: "Trip ke New Zealand dengan Budget Terbatas"
-description: "**New Zealand memang jadi impian banyak orang, tapi anggaran terbatas sering bikin ragu.** Aku pernah menjejakkan kaki di tanah Kiwi dengan budget yang jauh..."
-excerpt: "**New Zealand memang jadi impian banyak orang, tapi anggaran terbatas sering bikin ragu.** Aku pernah menjejakkan kaki di tanah Kiwi dengan budget yang jauh..."
-keywords: "trip ke new zealand dengan budget terbatas, trip new zealand budget, travel, wisata trip new zealand, panduan trip new zealand, tips trip new zealand"
-image_alt: "Trip ke New Zealand dengan Budget Terbatas"
+keyword: "trip ke new zealand dengan budget terbatas"
+date: 2026-04-06 20:30:00 +0700
+last_modified_at: 2026-05-12 17:35:31 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@tima-miroshnichenko)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@tima-miroshnichenko)"
+keywords: "travel, trip, new, zealand, budget, terbatas, wisata trip new zealand, panduan trip new zealand, tips trip new zealand"
+image: "/assets/images/auto/trip-ke-new-zealand-dengan-budget-terbatas.jpg"
+image_alt: "Trip ke New Zealand dengan Budget Terbatas"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-new-zealand-dengan-budget-terbatas.jpg" | relative_url }}" alt="Trip ke New Zealand dengan Budget Terbatas" loading="lazy" decoding="async">
@@ -115,4 +120,3 @@ Selamat menyiapkan ransel, dan semoga jejak kaki kamu di Tanah Kiwi menjadi ceri
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan [juga berbagai inspirasi](https://dgxximovie.com/) wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
