@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Stanley Park Vancouver: Permata Hijau di Jantung Kota Kanada yang Wajib Masuk Bucket List Anda!"
-date: 2026-05-11 20:17:17 +0700
-categories: ["stanley-park"]
-tags: ["stanley-park", "vancouver", "kanada", "taman-alam", "wisata-kota", "travel-guide", "wisata-alam", "hidden-gem"]
-image: "https://images.pexels.com/photos/33310360/pexels-photo-33310360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Stanley Park Vancouver: Permata Hijau di Jantung Kota Kanada yang Wajib Masuk Bucket List Anda!"
-description: "Halo para petualang sejati! Siapa di sini yang mendambakan liburan ke luar negeri dengan pengalaman yang tak terlupakan? Kali ini, saya ingin mengajak Anda..."
-excerpt: "Halo para petualang sejati! Siapa di sini yang mendambakan liburan ke luar negeri dengan pengalaman yang tak terlupakan? Kali ini, saya ingin mengajak Anda..."
-keywords: "stanley park vancouver permata hijau di jantung kota kanada yang wajib masuk bucket list anda, stanley park vancouver permata, stanley park, vancouver, kanada, taman alam, wisata kota, travel guide, wisata alam, hidden gem, wisata stanley park vancouver, panduan stanley park vancouver"
-image_alt: "Stanley Park Vancouver: Permata Hijau di Jantung Kota Kanada yang Wajib Masuk Bucket List Anda!"
+keyword: "stanley park vancouver"
+date: 2026-05-11 20:17:17 +0700
+last_modified_at: 2026-05-12 17:51:04 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["stanley-park"]
+tags: ["stanley-park", "vancouver", "kanada", "taman-alam", "wisata-kota", "travel-guide", "wisata-alam", "hidden-gem"]
+description: "Bayangkan ini: Anda berdiri di tengah kota besar yang modern, namun hanya selangkah lagi Anda bisa menemukan diri Anda dikelilingi oleh hutan lebat, pantai..."
+excerpt: "Bayangkan ini: Anda berdiri di tengah kota besar yang modern, namun hanya selangkah lagi Anda bisa menemukan diri Anda dikelilingi oleh hutan lebat, pantai..."
+keywords: "stanley park, vancouver, kanada, taman alam, wisata kota, travel guide, wisata alam, hidden gem, wisata stanley park, panduan stanley park, tips stanley park, pesona stanley park lebih dari sekadar taman kota"
+image: "https://images.pexels.com/photos/33310360/pexels-photo-33310360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Stanley Park Vancouver: Permata Hijau di Jantung Kota Kanada yang Wajib Masuk Bucket List Anda!"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/33310360/pexels-photo-33310360.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Stanley Park Vancouver: Permata Hijau di Jantung Kota Kanada yang Wajib Masuk Bucket List Anda!" style="width:100%;height:auto;border-radius:12px;" /></figure>
