@@ -70,8 +70,14 @@ layout: default
         <h3 class="widget-title">Artikel Populer</h3>
       </div>
       <ul class="popular-list">
-        {% assign popular = site.posts | where_exp: "p", "p.url != page.url" | limit: 5 %}
-        {% for post in popular %}
+        {% assign not_current_posts = site.posts | where_exp: "p", "p.url != page.url" %}
+        {% assign marked_popular = not_current_posts | where_exp: "p", "p.popular == true or p.featured == true" %}
+        {% if marked_popular.size > 0 %}
+          {% assign popular = marked_popular | limit: 5 %}
+        {% else %}
+          {% assign popular = not_current_posts | where_exp: "p", "p.image != nil" | offset: 6 | limit: 5 %}
+        {% endif %}
+        {% for post in popular limit: 5 %}
         <li class="popular-item">
           {% if post.image %}
           <a href="{{ post.url | relative_url }}" class="popular-thumb">
@@ -113,7 +119,7 @@ layout: default
         <h3 class="widget-title">Artikel Terkait</h3>
       </div>
       <ul class="recent-list">
-        {% assign related = site.posts | where_exp: "p", "p.url != page.url" | limit: 6 %}
+        {% assign related = site.posts | where_exp: "p", "p.url != page.url" | limit: 5 %}
         {% for post in related %}
         <li class="recent-item">
           <span class="recent-date">{{ post.date | date: "%d %b" }}</span>

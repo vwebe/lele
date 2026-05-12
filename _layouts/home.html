@@ -70,6 +70,14 @@ layout: default
       {% endfor %}
     </div>
 
+    {% if site.posts.size > 9 %}
+    <nav class="home-pagination anim" aria-label="Navigasi artikel terbaru">
+      <button type="button" class="home-page-btn is-disabled" id="homePrevPage" aria-label="Halaman sebelumnya">&larr; Sebelumnya</button>
+      <span class="home-page-info" id="homePageInfo">Halaman 1</span>
+      <button type="button" class="home-page-btn" id="homeNextPage" aria-label="Halaman berikutnya">Berikutnya &rarr;</button>
+    </nav>
+    {% endif %}
+
   </div><!-- .content-area -->
 
   <!-- RIGHT: Sidebar -->
@@ -89,8 +97,13 @@ layout: default
         <h3 class="widget-title">Artikel Populer</h3>
       </div>
       <ul class="popular-list">
-        {% assign popular = site.posts | limit: 5 %}
-        {% for post in popular %}
+        {% assign marked_popular = site.posts | where_exp: "p", "p.popular == true or p.featured == true" %}
+        {% if marked_popular.size > 0 %}
+          {% assign popular = marked_popular | limit: 5 %}
+        {% else %}
+          {% assign popular = site.posts | where_exp: "p", "p.image != nil" | offset: 6 | limit: 5 %}
+        {% endif %}
+        {% for post in popular limit: 5 %}
         <li class="popular-item">
           {% if post.image %}
           <a href="{{ post.url | relative_url }}" class="popular-thumb">
@@ -137,7 +150,7 @@ layout: default
         <h3 class="widget-title">Artikel Terbaru</h3>
       </div>
       <ul class="recent-list">
-        {% assign recent = site.posts | limit: 6 %}
+        {% assign recent = site.posts | limit: 5 %}
         {% for post in recent %}
         <li class="recent-item">
           <span class="recent-date">{{ post.date | date: "%d %b" }}</span>
@@ -196,6 +209,41 @@ layout: default
       d.addEventListener('click', function(){ goTo(+this.dataset.index); resetTimer(); });
     });
     autoPlay();
+  }
+
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.post-grid .post-card'));
+  var prevPage = document.getElementById('homePrevPage');
+  var nextPage = document.getElementById('homeNextPage');
+  var pageInfo = document.getElementById('homePageInfo');
+  var perPage = 9;
+  var page = 1;
+  var totalPages = Math.max(1, Math.ceil(cards.length / perPage));
+
+  function renderHomePage() {
+    cards.forEach(function(card, index) {
+      var start = (page - 1) * perPage;
+      var end = start + perPage;
+      card.hidden = !(index >= start && index < end);
+    });
+    if (pageInfo) pageInfo.textContent = 'Halaman ' + page + ' dari ' + totalPages;
+    if (prevPage) prevPage.classList.toggle('is-disabled', page <= 1);
+    if (nextPage) nextPage.classList.toggle('is-disabled', page >= totalPages);
+  }
+
+  if (cards.length > perPage) {
+    if (prevPage) prevPage.addEventListener('click', function() {
+      if (page <= 1) return;
+      page--;
+      renderHomePage();
+      document.querySelector('.section-title-bar').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    if (nextPage) nextPage.addEventListener('click', function() {
+      if (page >= totalPages) return;
+      page++;
+      renderHomePage();
+      document.querySelector('.section-title-bar').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    renderHomePage();
   }
 })();
 </script>
