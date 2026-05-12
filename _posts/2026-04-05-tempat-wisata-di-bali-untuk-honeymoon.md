@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata di Bali untuk Honeymoon"
-date: 2026-04-05 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-di-bali-untuk-honeymoon.jpg"
 seo_title: "Tempat Wisata di Bali untuk Honeymoon"
-description: "# Bali untuk Dua Jiwa: Destinasi Honeymoon yang Tak Terlupakan Memilih Bali sebagai destinasi bulan madu adalah keputusan yang manis, tapi dengan begitu..."
-excerpt: "# Bali untuk Dua Jiwa: Destinasi Honeymoon yang Tak Terlupakan Memilih Bali sebagai destinasi bulan madu adalah keputusan yang manis, tapi dengan begitu..."
-keywords: "tempat wisata di bali untuk honeymoon, tempat wisata bali honeymoon, travel, wisata tempat wisata bali, panduan tempat wisata bali, tips tempat wisata bali"
-image_alt: "Tempat Wisata di Bali untuk Honeymoon"
+keyword: "tempat wisata di bali untuk honeymoon"
+date: 2026-04-05 07:00:00 +0700
+last_modified_at: 2026-05-12 17:34:55 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@asadphoto)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@asadphoto)"
+keywords: "travel, tempat, bali, honeymoon, wisata tempat bali honeymoon, panduan tempat bali honeymoon, tips tempat bali honeymoon"
+image: "/assets/images/auto/tempat-wisata-di-bali-untuk-honeymoon.jpg"
+image_alt: "Tempat Wisata di Bali untuk Honeymoon"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-bali-untuk-honeymoon.jpg" | relative_url }}" alt="Tempat Wisata di Bali untuk Honeymoon" loading="lazy" decoding="async">
@@ -103,4 +108,3 @@ Memilih Bali untuk bulan madu adalah pilihan yang tidak akan pernah salah. Denga
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan [juga berbagai inspirasi](https://dgxximovie.com/) wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
