@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Trip ke Nepal untuk Pemula"
-date: 2026-04-08 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/trip-ke-nepal-untuk-pemula.jpg"
 seo_title: "Trip ke Nepal untuk Pemula"
-description: "# Trip ke Nepal untuk Pemula Pernah bermimpi menyusuri jalan setapak yang memotong pegunungan Himalaya, sambil menghirup udara tipis yang masih menyimpan..."
-excerpt: "# Trip ke Nepal untuk Pemula Pernah bermimpi menyusuri jalan setapak yang memotong pegunungan Himalaya, sambil menghirup udara tipis yang masih menyimpan..."
-keywords: "trip ke nepal untuk pemula, trip nepal pemula, travel, wisata trip nepal pemula, panduan trip nepal pemula, tips trip nepal pemula"
-image_alt: "Trip ke Nepal untuk Pemula"
+keyword: "trip ke nepal untuk pemula"
+date: 2026-04-08 07:00:00 +0700
+last_modified_at: 2026-05-12 17:35:48 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@tima-miroshnichenko)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@tima-miroshnichenko)"
+keywords: "travel, trip, nepal, pemula, wisata trip nepal pemula, panduan trip nepal pemula, tips trip nepal pemula"
+image: "/assets/images/auto/trip-ke-nepal-untuk-pemula.jpg"
+image_alt: "Trip ke Nepal untuk Pemula"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-nepal-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Nepal untuk Pemula" loading="lazy" decoding="async">
@@ -131,4 +136,3 @@ Trip ke Nepal untuk pemula memang menantang, tapi dengan persiapan yang matangâ€
 ---
 
 Perjalanan Anda belum [berakhir di sini. Temukan](https://dgxximovie.com/) juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
