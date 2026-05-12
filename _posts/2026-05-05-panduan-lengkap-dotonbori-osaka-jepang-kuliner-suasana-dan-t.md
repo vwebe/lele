@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Dotonbori Osaka Jepang: Kuliner, Suasana, dan Tips Liburan bagi Wisatawan Indonesia"
-date: 2026-05-05 19:18:01 +0700
-categories: ["dotonbori"]
-tags: ["dotonbori", "osaka", "jepang", "wisata-jepang", "kuliner-jepang", "asia", "travel-guide"]
-image: "https://images.pexels.com/photos/35903715/pexels-photo-35903715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Dotonbori Osaka Jepang: Kuliner, Suasana, dan Tips Liburan bagi Wisatawan Indonesia"
-description: "Dotonbori, kawasan hiburan ikonik di jantung Osaka, Jepang , telah menjadi magnet bagi para traveler yang mencari kombinasi antara budaya modern, kuliner..."
-excerpt: "Dotonbori, kawasan hiburan ikonik di jantung Osaka, Jepang , telah menjadi magnet bagi para traveler yang mencari kombinasi antara budaya modern, kuliner..."
-keywords: "panduan lengkap dotonbori osaka jepang kuliner suasana dan tips liburan bagi wisatawan indonesia, panduan lengkap dotonbori osaka, dotonbori, osaka, jepang, wisata jepang, kuliner jepang, asia, travel guide, wisata panduan lengkap dotonbori, panduan panduan lengkap dotonbori, tips panduan lengkap dotonbori"
-image_alt: "Panduan Lengkap Dotonbori Osaka Jepang: Kuliner, Suasana, dan Tips Liburan bagi Wisatawan Indonesia"
+keyword: "panduan lengkap dotonbori osaka jepang kuliner suasana dan t"
+date: 2026-05-05 19:18:01 +0700
+last_modified_at: 2026-05-12 17:39:14 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["dotonbori"]
+tags: ["dotonbori", "osaka", "jepang", "wisata-jepang", "kuliner-jepang", "asia", "travel-guide"]
+description: "Dotonbori terletak di sepanjang kanal Dotonbori, tepat di pusat kota Osaka. Pada awalnya kawasan ini merupakan distrik perdagangan pada era Edo, namun..."
+excerpt: "Dotonbori terletak di sepanjang kanal Dotonbori, tepat di pusat kota Osaka. Pada awalnya kawasan ini merupakan distrik perdagangan pada era Edo, namun..."
+keywords: "dotonbori, osaka, jepang, wisata jepang, kuliner jepang, asia, travel guide, suasana, wisata dotonbori osaka jepang, panduan dotonbori osaka jepang, tips dotonbori osaka jepang, mengenal dotonbori"
+image: "https://images.pexels.com/photos/35903715/pexels-photo-35903715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Dotonbori Osaka Jepang: Kuliner, Suasana, dan Tips Liburan bagi Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/35903715/pexels-photo-35903715.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Dotonbori Osaka Jepang: Kuliner, Suasana, dan Tips Liburan bagi Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
