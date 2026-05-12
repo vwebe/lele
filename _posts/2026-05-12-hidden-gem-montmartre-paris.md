@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Hidden Gem Montmartre Paris: Jelajahi Desa Seniman yang Tak Terlupakan di Kota Cinta"
-date: 2026-05-12 05:33:18 +0700
-categories: ["montmartre"]
-tags: ["montmartre", "paris", "prancis", "hidden-gem", "wisata-eropa", "city-walk", "travel-guide"]
-image: "https://images.pexels.com/photos/30276979/pexels-photo-30276979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Hidden Gem Montmartre Paris: Jelajahi Desa Seniman yang Tak Terlupakan di Kota Cinta"
-description: "Paris, kota cinta yang selalu memikat hati. Siapa yang tidak bermimpi menginjakkan kaki di menara Eiffel, berjalan di sepanjang Sungai Seine, atau menikmati..."
-excerpt: "Paris, kota cinta yang selalu memikat hati. Siapa yang tidak bermimpi menginjakkan kaki di menara Eiffel, berjalan di sepanjang Sungai Seine, atau menikmati..."
-keywords: "hidden gem montmartre paris jelajahi desa seniman yang tak terlupakan di kota cinta, hidden gem montmartre paris, montmartre, paris, prancis, hidden gem, wisata eropa, city walk, travel guide, wisata hidden gem montmartre, panduan hidden gem montmartre, tips hidden gem montmartre"
-image_alt: "Hidden Gem Montmartre Paris: Jelajahi Desa Seniman yang Tak Terlupakan di Kota Cinta"
+keyword: "hidden gem montmartre paris"
+date: 2026-05-12 05:33:18 +0700
+last_modified_at: 2026-05-12 17:51:17 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["montmartre"]
+tags: ["montmartre", "paris", "prancis", "hidden-gem", "wisata-eropa", "city-walk", "travel-guide"]
+description: "Ketika mendengar Montmartre, mungkin yang pertama terlintas adalah Basilique du Sacré-Cœur yang megah berdiri di puncak bukit. Memang benar, basilika putih..."
+excerpt: "Ketika mendengar Montmartre, mungkin yang pertama terlintas adalah Basilique du Sacré-Cœur yang megah berdiri di puncak bukit. Memang benar, basilika putih..."
+keywords: "montmartre, paris, prancis, hidden gem, wisata eropa, city walk, travel guide, wisata hidden gem, panduan hidden gem, tips hidden gem, menjelajahi montmartre lebih dari sekadar sacré cœur"
+image: "https://images.pexels.com/photos/30276979/pexels-photo-30276979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Hidden Gem Montmartre Paris: Jelajahi Desa Seniman yang Tak Terlupakan di Kota Cinta"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/30276979/pexels-photo-30276979.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Hidden Gem Montmartre Paris: Jelajahi Desa Seniman yang Tak Terlupakan di Kota Cinta" style="width:100%;height:auto;border-radius:12px;" /></figure>
