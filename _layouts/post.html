@@ -33,17 +33,8 @@ layout: default
     </div>
 
     <!-- Post Body -->
-    <div class="post-body">
-      {% assign clean_content = content | strip %}
-      {% assign content_start = clean_content | slice: 0, 7 %}
-      {% if page.image and content_start == '<figure' %}
-        {% assign content_parts = clean_content | split: '</figure>' %}
-        {% for part in content_parts offset: 1 %}
-          {{ part }}{% unless forloop.last %}</figure>{% endunless %}
-        {% endfor %}
-      {% else %}
-        {{ content }}
-      {% endif %}
+    <div class="post-body{% if page.image %} has-page-hero{% endif %}">
+      {{ content }}
     </div>
 
     <!-- Post Footer -->

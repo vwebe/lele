@@ -4,7 +4,7 @@ layout: default
 
 <!-- ═══════════════════════════════════════
      FEATURED SLIDER (latest 6 posts with images)
-════════════════════════════════════════ -->
+═══════════════════════════════════════ -->
 <section class="slider-section">
   <div class="wrap">
     <div class="slider-wrap">
@@ -36,10 +36,10 @@ layout: default
 
 <!-- ═══════════════════════════════════════
      MAIN CONTENT + SIDEBAR
-════════════════════════════════════════ -->
+═══════════════════════════════════════ -->
 <div class="wrap layout-main">
 
-  <!-- LEFT: Posts Grid -->
+  <!-- LEFT: Latest posts, real Jekyll pagination -->
   <div class="content-area">
 
     <div class="section-title-bar anim">
@@ -48,8 +48,13 @@ layout: default
     </div>
 
     <div class="post-grid">
-      {% assign homepage_posts = paginator.posts | default: site.posts %}
-      {% for post in homepage_posts limit: 9 %}
+      {% if paginator and paginator.posts %}
+        {% assign latest_posts = paginator.posts %}
+      {% else %}
+        {% assign latest_posts = site.posts | limit: 9 %}
+      {% endif %}
+
+      {% for post in latest_posts %}
       <article class="post-card anim">
         {% if post.image %}
         <a href="{{ post.url | relative_url }}" class="post-card-thumb">
@@ -71,24 +76,20 @@ layout: default
       {% endfor %}
     </div>
 
-    {% if paginator.total_pages and paginator.total_pages > 1 %}
+    {% if paginator and paginator.total_pages > 1 %}
     <nav class="home-pagination anim" aria-label="Navigasi artikel terbaru">
       {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-          <a class="home-page-btn" href="{{ '/' | relative_url }}">&larr; Sebelumnya</a>
-        {% else %}
-          <a class="home-page-btn" href="{{ paginator.previous_page_path | relative_url }}">&larr; Sebelumnya</a>
-        {% endif %}
+      <a class="home-page-btn" href="{{ paginator.previous_page_path | relative_url }}">&larr; Sebelumnya</a>
       {% else %}
-        <span class="home-page-btn is-disabled">&larr; Sebelumnya</span>
+      <span class="home-page-btn is-disabled">&larr; Sebelumnya</span>
       {% endif %}
 
       <span class="home-page-info">Halaman {{ paginator.page }} dari {{ paginator.total_pages }}</span>
 
       {% if paginator.next_page %}
-        <a class="home-page-btn" href="{{ paginator.next_page_path | relative_url }}">Berikutnya &rarr;</a>
+      <a class="home-page-btn" href="{{ paginator.next_page_path | relative_url }}">Berikutnya &rarr;</a>
       {% else %}
-        <span class="home-page-btn is-disabled">Berikutnya &rarr;</span>
+      <span class="home-page-btn is-disabled">Berikutnya &rarr;</span>
       {% endif %}
     </nav>
     {% endif %}
@@ -114,9 +115,9 @@ layout: default
       <ul class="popular-list">
         {% assign marked_popular = site.posts | where_exp: "p", "p.popular == true or p.featured == true" %}
         {% if marked_popular.size > 0 %}
-          {% assign popular_posts = marked_popular %}
+          {% assign popular_posts = marked_popular | limit: 5 %}
         {% else %}
-          {% assign popular_posts = site.posts | where_exp: "p", "p.image != nil" %}
+          {% assign popular_posts = site.posts | where_exp: "p", "p.image != nil" | offset: 6 | limit: 5 %}
         {% endif %}
         {% for post in popular_posts limit: 5 %}
         <li class="popular-item">
@@ -147,6 +148,11 @@ layout: default
           <a href="{{ '/' | relative_url }}" class="label-tag">{{ cat | strip }}</a>
           {% endunless %}
         {% endfor %}
+        <a href="{{ '/' | relative_url }}" class="label-tag">Itinerary</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Budget Travel</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Asia</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Eropa</a>
+        <a href="{{ '/' | relative_url }}" class="label-tag">Tips</a>
       </div>
     </div>
 
@@ -157,7 +163,7 @@ layout: default
       </div>
       <ul class="recent-list">
         {% assign recent_posts = site.posts | limit: 5 %}
-        {% for post in recent_posts %}
+        {% for post in recent_posts limit: 5 %}
         <li class="recent-item">
           <span class="recent-date">{{ post.date | date: "%d %b" }}</span>
           <a href="{{ post.url | relative_url }}" class="recent-title">{{ post.title | truncate: 50 }}</a>
