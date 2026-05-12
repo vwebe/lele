@@ -33,3 +33,11 @@ seo_tag:
 # Homepage pagination
 paginate: 9
 paginate_path: "/page/:num/"
+
+keywords: "travel, wisata, itinerary, tips perjalanan, panduan wisata, liburan luar negeri, destinasi dunia"
+
+locale: "id_ID"
+
+timezone: "Asia/Jakarta"
+
+theme_color: "#0a0a0a"
