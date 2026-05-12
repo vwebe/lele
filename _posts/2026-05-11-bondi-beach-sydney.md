@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Bondi Beach Sydney: Surga Pantai Terkenal di Australia yang Wajib Kamu Kunjungi!"
-date: 2026-05-11 20:28:49 +0700
-categories: ["bondi-beach"]
-tags: ["bondi-beach", "sydney", "australia", "pantai", "wisata-santai", "travel-guide"]
-image: "https://images.pexels.com/photos/21714700/pexels-photo-21714700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Bondi Beach Sydney: Surga Pantai Terkenal di Australia yang Wajib Kamu Kunjungi!"
-description: "Halo para pecinta jalan-jalan! Siapa sih yang tidak ingin merasakan liburan impian di luar negeri? Kali ini, mari kita terbang jauh ke benua kanguru..."
-excerpt: "Halo para pecinta jalan-jalan! Siapa sih yang tidak ingin merasakan liburan impian di luar negeri? Kali ini, mari kita terbang jauh ke benua kanguru..."
-keywords: "bondi beach sydney surga pantai terkenal di australia yang wajib kamu kunjungi, bondi beach sydney surga, bondi beach, sydney, australia, pantai, wisata santai, travel guide, wisata bondi beach sydney, panduan bondi beach sydney, tips bondi beach sydney, mengapa bondi beach begitu istimewa"
-image_alt: "Bondi Beach Sydney: Surga Pantai Terkenal di Australia yang Wajib Kamu Kunjungi!"
+keyword: "bondi beach sydney"
+date: 2026-05-11 20:28:49 +0700
+last_modified_at: 2026-05-12 17:50:50 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["bondi-beach"]
+tags: ["bondi-beach", "sydney", "australia", "pantai", "wisata-santai", "travel-guide"]
+description: "Terletak hanya beberapa kilometer dari pusat kota Sydney, Bondi Beach adalah permata yang mudah diakses namun tetap memancarkan aura eksotis. Pantai ini..."
+excerpt: "Terletak hanya beberapa kilometer dari pusat kota Sydney, Bondi Beach adalah permata yang mudah diakses namun tetap memancarkan aura eksotis. Pantai ini..."
+keywords: "bondi beach, sydney, australia, pantai, wisata santai, travel guide, wisata bondi beach, panduan bondi beach, tips bondi beach, mengapa bondi beach begitu istimewa"
+image: "https://images.pexels.com/photos/21714700/pexels-photo-21714700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Bondi Beach Sydney: Surga Pantai Terkenal di Australia yang Wajib Kamu Kunjungi!"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/21714700/pexels-photo-21714700.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Bondi Beach Sydney: Surga Pantai Terkenal di Australia yang Wajib Kamu Kunjungi!" style="width:100%;height:auto;border-radius:12px;" /></figure>
