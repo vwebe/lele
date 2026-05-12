@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Liburan ke Yunani"
-date: 2026-04-11 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-liburan-ke-yunani.jpg"
 seo_title: "Panduan Liburan ke Yunani"
-description: "## Menyambut Mediterania dengan Langkah Pertama Setibanya di Bandara Eleftherios Venizelos, Athena, saya langsung disapa oleh aroma kopi kuat dan suara..."
-excerpt: "## Menyambut Mediterania dengan Langkah Pertama Setibanya di Bandara Eleftherios Venizelos, Athena, saya langsung disapa oleh aroma kopi kuat dan suara..."
-keywords: "panduan liburan ke yunani, panduan liburan yunani, travel, wisata panduan liburan yunani, panduan panduan liburan yunani, tips panduan liburan yunani"
-image_alt: "Panduan Liburan ke Yunani"
+keyword: "panduan liburan ke yunani"
+date: 2026-04-11 16:30:00 +0700
+last_modified_at: 2026-05-12 17:36:45 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@jeffstapleton)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@jeffstapleton)"
+keywords: "travel, liburan, yunani, wisata liburan yunani, panduan liburan yunani, tips liburan yunani"
+image: "/assets/images/auto/panduan-liburan-ke-yunani.jpg"
+image_alt: "Panduan Liburan ke Yunani"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-yunani.jpg" | relative_url }}" alt="Panduan Liburan ke Yunani" loading="lazy" decoding="async">
@@ -86,4 +91,3 @@ Berjalan menyusuri jalan berbatu Athena, menatap horizon Santorini, dan mendaki 
 ---
 
 Perjalanan Anda belum berakhir [di sini. Temukan juga](https://dgxximovie.com/) berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
