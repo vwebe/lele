@@ -4,8 +4,14 @@ title: "Panduan Lengkap Dubai Marina Walk: Wisata Kota Mewah di UEA yang Wajib D
 date: 2026-05-08 16:18:15 +0700
 categories: ["dubai-marina"]
 tags: ["dubai-marina", "dubai", "uea", "city-walk", "wisata-kota", "travel-guide", "dubai-marina-walk"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Dubai Marina — sebuah kawasan modern yang menampilkan siluet gedung pencakar langit, kanal buatan, dan atmosfer..."
 image: "https://images.pexels.com/photos/1470502/pexels-photo-1470502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Dubai Marina Walk: Wisata Kota Mewah di UEA yang Wajib Dikunjungi"
+description: "Dubai Marina — sebuah kawasan modern yang menampilkan siluet gedung pencakar langit, kanal buatan, dan atmosfer internasional yang memikat. Di..."
+excerpt: "Dubai Marina — sebuah kawasan modern yang menampilkan siluet gedung pencakar langit, kanal buatan, dan atmosfer internasional yang memikat. Di..."
+keywords: "panduan lengkap dubai marina walk wisata kota mewah di uea yang wajib dikunjungi, panduan lengkap dubai marina, dubai marina, dubai, uea, city walk, wisata kota, travel guide, dubai marina walk, wisata panduan lengkap dubai, panduan panduan lengkap dubai, tips panduan lengkap dubai"
+image_alt: "Panduan Lengkap Dubai Marina Walk: Wisata Kota Mewah di UEA yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/1470502/pexels-photo-1470502.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Dubai Marina Walk: Wisata Kota Mewah di UEA yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>

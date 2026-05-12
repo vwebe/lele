@@ -4,8 +4,14 @@ title: "Jelajahi Keindahan Tersembunyi: Louvre Courtyard Paris, Permata Budaya y
 date: 2026-05-12 10:02:49 +0700
 categories: ["louvre"]
 tags: ["louvre", "paris", "prancis", "wisata-sejarah", "museum", "travel-guide", "louvre-courtyard-paris"]
-excerpt: "Waktu baca: 5 menitWisata Internasional Halo para petualang! Siapa di antara Anda yang bermimpi menjelajahi keajaiban dunia? Paris, kota cinta yang selalu..."
 image: "https://images.pexels.com/photos/16496454/pexels-photo-16496454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Jelajahi Keindahan Tersembunyi: Louvre Courtyard Paris, Permata Budaya yang Wajib Dikunjungi"
+description: "Halo para petualang! Siapa di antara Anda yang bermimpi menjelajahi keajaiban dunia? Paris, kota cinta yang selalu memikat hati, menyimpan begitu banyak..."
+excerpt: "Halo para petualang! Siapa di antara Anda yang bermimpi menjelajahi keajaiban dunia? Paris, kota cinta yang selalu memikat hati, menyimpan begitu banyak..."
+keywords: "jelajahi keindahan tersembunyi louvre courtyard paris permata budaya yang wajib dikunjungi, jelajahi keindahan tersembunyi louvre, louvre, paris, prancis, wisata sejarah, museum, travel guide, louvre courtyard paris, wisata jelajahi keindahan tersembunyi, panduan jelajahi keindahan tersembunyi, tips jelajahi keindahan tersembunyi"
+image_alt: "Jelajahi Keindahan Tersembunyi: Louvre Courtyard Paris, Permata Budaya yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/16496454/pexels-photo-16496454.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Jelajahi Keindahan Tersembunyi: Louvre Courtyard Paris, Permata Budaya yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>

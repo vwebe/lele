@@ -4,8 +4,14 @@ title: "Menjelajahi Keajaiban Asakusa Tokyo: Kuil Senso-ji & Pesona Budaya Jepan
 date: 2026-05-12 14:37:34 +0700
 categories: ["asakusa"]
 tags: ["asakusa", "tokyo", "jepang", "wisata-budaya", "kuil-jepang", "travel-guide"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Halo para pencinta jalan-jalan! Siapa di antara kalian yang bermimpi menjelajahi keindahan Jepang? Nah, kali ini..."
 image: "https://images.pexels.com/photos/31403043/pexels-photo-31403043.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Keajaiban Asakusa Tokyo: Kuil Senso-ji & Pesona Budaya Jepang"
+description: "Halo para pencinta jalan-jalan! Siapa di antara kalian yang bermimpi menjelajahi keindahan Jepang? Nah, kali ini kita akan menyelami salah satu permata..."
+excerpt: "Halo para pencinta jalan-jalan! Siapa di antara kalian yang bermimpi menjelajahi keindahan Jepang? Nah, kali ini kita akan menyelami salah satu permata..."
+keywords: "menjelajahi keajaiban asakusa tokyo kuil senso ji pesona budaya jepang, menjelajahi keajaiban asakusa tokyo, asakusa, tokyo, jepang, wisata budaya, kuil jepang, travel guide, wisata menjelajahi keajaiban asakusa, panduan menjelajahi keajaiban asakusa, tips menjelajahi keajaiban asakusa, mengapa asakusa begitu istimewa"
+image_alt: "Menjelajahi Keajaiban Asakusa Tokyo: Kuil Senso-ji & Pesona Budaya Jepang"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/31403043/pexels-photo-31403043.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Keajaiban Asakusa Tokyo: Kuil Senso-ji &amp; Pesona Budaya Jepang" style="width:100%;height:auto;border-radius:12px;" /></figure>

@@ -4,8 +4,14 @@ title: "Panduan Lengkap Jumeirah Beach Dubai: Pantai Mewah di UEA untuk Wisatawa
 date: 2026-05-08 14:52:30 +0700
 categories: ["jumeirah-beach"]
 tags: ["jumeirah-beach", "dubai", "uea", "pantai", "wisata-mewah", "travel-guide", "uae"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Dubai memang dikenal sebagai kota futuristik dengan gedung pencakar langit yang menakjubkan, namun salah satu..."
 image: "https://images.pexels.com/photos/29212684/pexels-photo-29212684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Jumeirah Beach Dubai: Pantai Mewah di UEA untuk Wisatawan Indonesia"
+description: "Dubai memang dikenal sebagai kota futuristik dengan gedung pencakar langit yang menakjubkan, namun salah satu permata tersembunyi yang wajib dikunjungi..."
+excerpt: "Dubai memang dikenal sebagai kota futuristik dengan gedung pencakar langit yang menakjubkan, namun salah satu permata tersembunyi yang wajib dikunjungi..."
+keywords: "panduan lengkap jumeirah beach dubai pantai mewah di uea untuk wisatawan indonesia, panduan lengkap jumeirah beach, jumeirah beach, dubai, uea, pantai, wisata mewah, travel guide, uae, wisata panduan lengkap jumeirah, panduan panduan lengkap jumeirah, tips panduan lengkap jumeirah"
+image_alt: "Panduan Lengkap Jumeirah Beach Dubai: Pantai Mewah di UEA untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/29212684/pexels-photo-29212684.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Jumeirah Beach Dubai: Pantai Mewah di UEA untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

@@ -6,8 +6,14 @@ last_modified_at: 2026-05-12 15:35:35 +0700
 sitemap: true
 categories: ["great-ocean-road"]
 tags: ["great-ocean-road", "australia", "wisata-alam", "coastal-road", "travel-guide", "melbourne"]
-excerpt: "Waktu baca: 6 menitWisata Internasional Halo para petualang! Siapa di sini yang punya impian menjelajahi keindahan alam luar negeri yang memukau? Jika..."
 image: "https://images.pexels.com/photos/2420530/pexels-photo-2420530.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Great Ocean Road Melbourne: Keajaiban Alam Australia yang Wajib Dikunjungi"
+description: "Halo para petualang! Siapa di sini yang punya impian menjelajahi keindahan alam luar negeri yang memukau? Jika jawabannya adalah 'saya!', maka bersiaplah..."
+excerpt: "Halo para petualang! Siapa di sini yang punya impian menjelajahi keindahan alam luar negeri yang memukau? Jika jawabannya adalah 'saya!', maka bersiaplah..."
+keywords: "menjelajahi great ocean road melbourne keajaiban alam australia yang wajib dikunjungi, menjelajahi great ocean road, great ocean road, australia, wisata alam, coastal road, travel guide, melbourne, wisata menjelajahi great ocean, panduan menjelajahi great ocean, tips menjelajahi great ocean, apa yang membuat great ocean road begitu istimewa"
+image_alt: "Menjelajahi Great Ocean Road Melbourne: Keajaiban Alam Australia yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/2420530/pexels-photo-2420530.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Great Ocean Road Melbourne: Keajaiban Alam Australia yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>

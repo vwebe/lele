@@ -4,8 +4,14 @@ title: "Petaling Street Kuala Lumpur: Panduan Lengkap Wisata Belanja, Kuliner, d
 date: 2026-05-08 18:35:06 +0700
 categories: ["petaling-street"]
 tags: ["petaling-street", "kuala-lumpur", "malaysia", "wisata-belanja", "kuliner", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Petaling Street, yang dikenal sebagai Chinatown Kuala Lumpur, adalah destinasi yang tak boleh dilewatkan bagi..."
 image: "https://images.pexels.com/photos/34181888/pexels-photo-34181888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Petaling Street Kuala Lumpur: Panduan Lengkap Wisata Belanja, Kuliner, dan Budaya di Jantung Kota Malaysia"
+description: "Petaling Street, yang dikenal sebagai Chinatown Kuala Lumpur, adalah destinasi yang tak boleh dilewatkan bagi traveler Indonesia yang mengincar pengalaman..."
+excerpt: "Petaling Street, yang dikenal sebagai Chinatown Kuala Lumpur, adalah destinasi yang tak boleh dilewatkan bagi traveler Indonesia yang mengincar pengalaman..."
+keywords: "petaling street kuala lumpur panduan lengkap wisata belanja kuliner dan budaya di jantung kota malaysia, petaling street kuala lumpur, petaling street, kuala lumpur, malaysia, wisata belanja, kuliner, travel guide, wisata petaling street kuala, panduan petaling street kuala, tips petaling street kuala, kenapa petaling street menjadi pilihan utama wisatawan indonesia"
+image_alt: "Petaling Street Kuala Lumpur: Panduan Lengkap Wisata Belanja, Kuliner, dan Budaya di Jantung Kota Malaysia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/34181888/pexels-photo-34181888.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Petaling Street Kuala Lumpur: Panduan Lengkap Wisata Belanja, Kuliner, dan Budaya di Jantung Kota Malaysia" style="width:100%;height:auto;border-radius:12px;" /></figure>

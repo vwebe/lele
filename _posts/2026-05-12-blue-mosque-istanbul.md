@@ -4,8 +4,14 @@ title: "Blue Mosque Istanbul: Pesona Masjid Biru yang Memukau di Jantung Turki"
 date: 2026-05-12 02:32:35 +0700
 categories: ["blue-mosque"]
 tags: ["blue-mosque", "istanbul", "turki", "wisata-religi", "landmark", "travel-guide"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Halo para petualang! Siapa di sini yang punya impian menjelajahi keindahan Turki? Negeri yang kaya akan sejarah dan..."
 image: "https://images.pexels.com/photos/33461796/pexels-photo-33461796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Blue Mosque Istanbul: Pesona Masjid Biru yang Memukau di Jantung Turki"
+description: "Halo para petualang! Siapa di sini yang punya impian menjelajahi keindahan Turki? Negeri yang kaya akan sejarah dan budaya ini selalu punya pesona..."
+excerpt: "Halo para petualang! Siapa di sini yang punya impian menjelajahi keindahan Turki? Negeri yang kaya akan sejarah dan budaya ini selalu punya pesona..."
+keywords: "blue mosque istanbul pesona masjid biru yang memukau di jantung turki, blue mosque istanbul pesona, blue mosque, istanbul, turki, wisata religi, landmark, travel guide, wisata blue mosque istanbul, panduan blue mosque istanbul, tips blue mosque istanbul, menyingkap keindahan arsitektur blue mosque istanbul"
+image_alt: "Blue Mosque Istanbul: Pesona Masjid Biru yang Memukau di Jantung Turki"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/33461796/pexels-photo-33461796.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Blue Mosque Istanbul: Pesona Masjid Biru yang Memukau di Jantung Turki" style="width:100%;height:auto;border-radius:12px;" /></figure>

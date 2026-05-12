@@ -4,8 +4,14 @@ title: "Panduan Lengkap Ximending, Taipei: Surga Kuliner, Belanja, dan Budaya Po
 date: 2026-05-08 10:17:58 +0700
 categories: ["ximending"]
 tags: ["ximending", "taipei", "taiwan", "street-food", "wisata-kota", "travel-guide", "belanja", "kuliner", "budaya-pop"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Jika Anda mencari pengalaman kota yang memadukan street food yang menggugugur, belanja trendi dan budaya pop yang..."
 image: "https://images.pexels.com/photos/16604094/pexels-photo-16604094.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Ximending, Taipei: Surga Kuliner, Belanja, dan Budaya Pop Taiwan"
+description: "Jika Anda mencari pengalaman kota yang memadukan street food yang menggugugur, belanja trendi dan budaya pop yang kental di Asia, Xik"
+excerpt: "Jika Anda mencari pengalaman kota yang memadukan street food yang menggugugur, belanja trendi dan budaya pop yang kental di Asia, Xik"
+keywords: "panduan lengkap ximending taipei surga kuliner belanja dan budaya pop taiwan, panduan lengkap ximending taipei, ximending, taipei, taiwan, street food, wisata kota, travel guide, belanja, kuliner, budaya pop, wisata panduan lengkap ximending"
+image_alt: "Panduan Lengkap Ximending, Taipei: Surga Kuliner, Belanja, dan Budaya Pop Taiwan"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/16604094/pexels-photo-16604094.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Ximending, Taipei: Surga Kuliner, Belanja, dan Budaya Pop Taiwan" style="width:100%;height:auto;border-radius:12px;" /></figure>

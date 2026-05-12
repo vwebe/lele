@@ -4,8 +4,14 @@ title: "Jelajahi Keindahan Jordaan District di Amsterdam: Panduan Lengkap untuk 
 date: 2026-05-09 08:51:11 +0700
 categories: ["jordaan"]
 tags: ["jordaan", "amsterdam", "belanda", "kota-tua", "hidden-gem", "travel-guide", "wisata-budaya", "wisata-alam", "liburan-internasional"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Amsterdam, ibu kota Belanda, memang terkenal dengan kanal-kanalnya yang ikonik, museum kelas dunia, dan suasana..."
 image: "https://images.pexels.com/photos/34217731/pexels-photo-34217731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Jelajahi Keindahan Jordaan District di Amsterdam: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Amsterdam, ibu kota Belanda, memang terkenal dengan kanal-kanalnya yang ikonik, museum kelas dunia, dan suasana liberal yang memikat. Namun, di balik..."
+excerpt: "Amsterdam, ibu kota Belanda, memang terkenal dengan kanal-kanalnya yang ikonik, museum kelas dunia, dan suasana liberal yang memikat. Namun, di balik..."
+keywords: "jelajahi keindahan jordaan district di amsterdam panduan lengkap untuk wisatawan indonesia, jelajahi keindahan jordaan district, jordaan, amsterdam, belanda, kota tua, hidden gem, travel guide, wisata budaya, wisata alam, liburan internasional, wisata jelajahi keindahan jordaan"
+image_alt: "Jelajahi Keindahan Jordaan District di Amsterdam: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/34217731/pexels-photo-34217731.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Jelajahi Keindahan Jordaan District di Amsterdam: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
