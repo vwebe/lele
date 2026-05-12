@@ -1,14 +1,20 @@
 ---
 layout: post
 title: "Liburan ke Gunung Bromo: Tips, Waktu Terbaik, dan Tempat Wisata"
-image: "assets/images/bromo-berkabut.webp"
 seo_title: "Liburan ke Gunung Bromo: Tips, Waktu Terbaik, dan Tempat Wisata"
-description: "Liburan ke Gunung Bromo adalah salah satu pengalaman wisata paling populer di Indonesia. Terletak di Jawa Timur, Bromo terkenal dengan pemandangan sunrise..."
-excerpt: "Liburan ke Gunung Bromo adalah salah satu pengalaman wisata paling populer di Indonesia. Terletak di Jawa Timur, Bromo terkenal dengan pemandangan sunrise..."
-keywords: "liburan ke gunung bromo, wisata bromo, tips ke bromo, sunrise bromo, biaya ke bromo, wisata jawa timur"
-image_alt: "Liburan ke Gunung Bromo: Tips, Waktu Terbaik, dan Tempat Wisata"
+keyword: "liburan ke gunung bromo"
+date: 2026-03-19 00:00:00 +0000
+last_modified_at: 2026-05-12 17:31:54 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+description: "Gunung Bromo punya kombinasi lanskap yang berbeda dari tempat lain. Di satu sisi ada pegunungan yang megah, di sisi lain ada hamparan pasir luas yang..."
+excerpt: "Gunung Bromo punya kombinasi lanskap yang berbeda dari tempat lain. Di satu sisi ada pegunungan yang megah, di sisi lain ada hamparan pasir luas yang..."
+keywords: "liburan, gunung, bromo, wisata liburan gunung bromo, panduan liburan gunung bromo, tips liburan gunung bromo, kenapa gunung bromo selalu jadi favorit"
+image: "assets/images/bromo-berkabut.webp"
+image_alt: "Liburan ke Gunung Bromo: Tips, Waktu Terbaik, dan Tempat Wisata"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <p class="post-intro">
