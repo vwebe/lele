@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Sunrise di Bromo untuk Pemula"
-date: 2026-03-24 08:00:00 +0700
-categories: [travel]
-tags: [bromo, jawa timur, sunrise, indonesia, pemula]
-image: "/assets/images/auto/panduan-sunrise-di-bromo-untuk-pemula.jpg"
 seo_title: "Panduan Sunrise di Bromo untuk Pemula"
-description: "# Panduan Sunrise di Bromo untuk Pemula: Momen Magis di Atas Awan Mendengar kata Bromo, pasti yang terlintas adalah lautan pasir yang luas, kawah berasap..."
-excerpt: "# Panduan Sunrise di Bromo untuk Pemula: Momen Magis di Atas Awan Mendengar kata Bromo, pasti yang terlintas adalah lautan pasir yang luas, kawah berasap..."
-keywords: "panduan sunrise di bromo untuk pemula, panduan sunrise bromo pemula, bromo, jawa timur, sunrise, indonesia, pemula, travel, wisata panduan sunrise bromo, panduan panduan sunrise bromo, tips panduan sunrise bromo"
-image_alt: "Panduan Sunrise di Bromo untuk Pemula"
+keyword: "panduan sunrise di bromo untuk pemula"
+date: 2026-03-24 08:00:00 +0700
+last_modified_at: 2026-05-12 17:32:14 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["bromo"]
+tags: ["bromo", "jawa-timur", "sunrise", "indonesia", "pemula"]
+description: "Image source: Pexels (https://www.pexels.com/@lim-jia-le-1643207804)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@lim-jia-le-1643207804)"
+keywords: "bromo, jawa timur, sunrise, indonesia, pemula, wisata sunrise bromo pemula, panduan sunrise bromo pemula, tips sunrise bromo pemula"
+image: "/assets/images/auto/panduan-sunrise-di-bromo-untuk-pemula.jpg"
+image_alt: "Panduan Sunrise di Bromo untuk Pemula"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ '/assets/images/auto/panduan-sunrise-di-bromo-untuk-pemula.jpg' | relative_url }}" alt="Panduan Sunrise di Bromo untuk Pemula" loading="lazy" decoding="async">
@@ -107,4 +111,3 @@ Menyaksikan *sunrise* di Bromo adalah pengalaman yang benar-benar sekali seumur 
 Jadi, jangan ragu lagi. Rencanakan perjalanan Anda, siapkan perlengkapan Anda, dan bersiaplah untuk terpesona oleh salah satu keajaiban alam terbesar di Indonesia. Bromo menanti untuk memberikan Anda momen *sunrise* yang tak akan pernah Anda lupakan. Selamat bertualang!
 
 <p style="font-size:0.95em; color:#666;"><em>Image source: Pexels (https://www.pexels.com/@lim-jia-le-1643207804)</em></p>
-
