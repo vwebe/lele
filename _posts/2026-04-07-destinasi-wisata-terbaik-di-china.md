@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Wisata Terbaik di China"
-date: 2026-04-07 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-wisata-terbaik-di-china.jpg"
 seo_title: "Destinasi Wisata Terbaik di China"
-description: "## Menyusuri Jejak Keajaiban di Negeri Naga Pagi di Beijing, kabut tipis menyelimuti alun-alun Tiananmen sebelum matahari mengintip dari balik pagoda kuno..."
-excerpt: "## Menyusuri Jejak Keajaiban di Negeri Naga Pagi di Beijing, kabut tipis menyelimuti alun-alun Tiananmen sebelum matahari mengintip dari balik pagoda kuno..."
-keywords: "destinasi wisata terbaik di china, destinasi wisata terbaik china, travel, wisata destinasi wisata terbaik, panduan destinasi wisata terbaik, tips destinasi wisata terbaik"
-image_alt: "Destinasi Wisata Terbaik di China"
+keyword: "destinasi wisata terbaik di china"
+date: 2026-04-07 07:00:00 +0700
+last_modified_at: 2026-05-12 17:35:33 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@egisj)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@egisj)"
+keywords: "travel, destinasi, terbaik, china, wisata destinasi terbaik china, panduan destinasi terbaik china, tips destinasi terbaik china"
+image: "/assets/images/auto/destinasi-wisata-terbaik-di-china.jpg"
+image_alt: "Destinasi Wisata Terbaik di China"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-terbaik-di-china.jpg" | relative_url }}" alt="Destinasi Wisata Terbaik di China" loading="lazy" decoding="async">
@@ -134,4 +139,3 @@ China bukan sekadar destinasi; ia adalah rangkaian pengalaman yang menembus bata
 ---
 
 Perjalanan Anda belum berakhir di [sini. Temukan juga berbagai](https://dgxximovie.com/) inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
