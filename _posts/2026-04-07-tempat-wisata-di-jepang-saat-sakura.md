@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata di Jepang Saat Sakura"
-date: 2026-04-07 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-di-jepang-saat-sakura.jpg"
 seo_title: "Tempat Wisata di Jepang Saat Sakura"
-description: "# [Tempat..."
-excerpt: "# [Tempat..."
-keywords: "tempat wisata di jepang saat sakura, tempat wisata jepang saat, travel, wisata tempat wisata jepang, panduan tempat wisata jepang, tips tempat wisata jepang"
-image_alt: "Tempat Wisata di Jepang Saat Sakura"
+keyword: "tempat wisata di jepang saat sakura"
+date: 2026-04-07 16:30:00 +0700
+last_modified_at: 2026-05-12 17:35:37 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@magda-ehlers-pexels)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@magda-ehlers-pexels)"
+keywords: "travel, tempat, jepang, saat, sakura, wisata tempat jepang saat, panduan tempat jepang saat, tips tempat jepang saat"
+image: "/assets/images/auto/tempat-wisata-di-jepang-saat-sakura.jpg"
+image_alt: "Tempat Wisata di Jepang Saat Sakura"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-jepang-saat-sakura.jpg" | relative_url }}" alt="Tempat Wisata di Jepang Saat Sakura" loading="lazy" decoding="async">
@@ -116,4 +121,3 @@ Menyusuri jalanan Jepang saat sakura mekar memberikan sensasi yang sulit dijelas
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga [berbagai inspirasi wisata dan](https://dgxximovie.com/) hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
