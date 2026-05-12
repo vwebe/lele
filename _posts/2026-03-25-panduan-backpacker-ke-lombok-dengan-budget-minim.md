@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Backpacker ke Lombok dengan Budget Minim"
-date: 2026-03-25 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-backpacker-ke-lombok-dengan-budget-minim.jpg"
 seo_title: "Panduan Backpacker ke Lombok dengan Budget Minim"
-description: "# Panduan Backpacker ke Lombok dengan Budget Minim: Siap Jelajahi Surga Tanpa Bikin Kantong Jebol Lombok. Dengar namanya saja, pasti langsung terbayang..."
-excerpt: "# Panduan Backpacker ke Lombok dengan Budget Minim: Siap Jelajahi Surga Tanpa Bikin Kantong Jebol Lombok. Dengar namanya saja, pasti langsung terbayang..."
-keywords: "panduan backpacker ke lombok dengan budget minim, panduan backpacker lombok budget, travel, wisata panduan backpacker lombok, panduan panduan backpacker lombok, tips panduan backpacker lombok"
-image_alt: "Panduan Backpacker ke Lombok dengan Budget Minim"
+keyword: "panduan backpacker ke lombok dengan budget minim"
+date: 2026-03-25 12:30:00 +0700
+last_modified_at: 2026-05-12 17:32:27 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@ketut-subiyanto)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@ketut-subiyanto)"
+keywords: "travel, backpacker, lombok, budget, minim, wisata backpacker lombok budget, panduan backpacker lombok budget, tips backpacker lombok budget"
+image: "/assets/images/auto/panduan-backpacker-ke-lombok-dengan-budget-minim.jpg"
+image_alt: "Panduan Backpacker ke Lombok dengan Budget Minim"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-backpacker-ke-lombok-dengan-budget-minim.jpg" | relative_url }}" alt="Panduan Backpacker ke Lombok dengan Budget Minim" loading="lazy" decoding="async">
@@ -137,4 +142,3 @@ Perjalanan ini bukan hanya tentang melihat tempat-tempat baru, tapi juga tentang
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan [menarik lainnya untuk](https://dgxximovie.com/) mengisi waktu santai Anda.
-
