@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Wisata Kuliner di Penang"
-date: 2026-03-30 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-wisata-kuliner-di-penang.jpg"
 seo_title: "Panduan Wisata Kuliner di Penang"
-description: "# Penang: Surga Kuliner yang Bikin Ketagihan Siapa yang tidak kenal Penang? Pulau di utara Malaysia ini bukan hanya terkenal dengan mural-mural artistiknya..."
-excerpt: "# Penang: Surga Kuliner yang Bikin Ketagihan Siapa yang tidak kenal Penang? Pulau di utara Malaysia ini bukan hanya terkenal dengan mural-mural artistiknya..."
-keywords: "panduan wisata kuliner di penang, panduan wisata kuliner penang, travel, wisata panduan wisata kuliner, panduan panduan wisata kuliner, tips panduan wisata kuliner"
-image_alt: "Panduan Wisata Kuliner di Penang"
+keyword: "panduan wisata kuliner di penang"
+date: 2026-03-30 12:30:00 +0700
+last_modified_at: 2026-05-12 17:33:37 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@mmg-cancelli)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@mmg-cancelli)"
+keywords: "travel, kuliner, penang, wisata kuliner penang, panduan kuliner penang, tips kuliner penang"
+image: "/assets/images/auto/panduan-wisata-kuliner-di-penang.jpg"
+image_alt: "Panduan Wisata Kuliner di Penang"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-wisata-kuliner-di-penang.jpg" | relative_url }}" alt="Panduan Wisata Kuliner di Penang" loading="lazy" decoding="async">
@@ -104,4 +109,3 @@ Setiap kali saya kembali ke Penang, selalu ada saja rasa penasaran baru yang mun
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk [mengisi waktu santai Anda.](https://dgxximovie.com/)
-
