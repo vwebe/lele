@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Liburan Saat Musim Hujan"
-date: 2026-03-31 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-liburan-saat-musim-hujan.jpg"
 seo_title: "Tips Liburan Saat Musim Hujan"
-description: "# [Liburan](https://lelenime.blogspot.com/2026/03/penjelasan-kekuatan-denji-chainsaw-man.html) di Musim Hujan: Tetap Seru Tanpa Kegalauan Siapa bilang musim..."
-excerpt: "# [Liburan](https://lelenime.blogspot.com/2026/03/penjelasan-kekuatan-denji-chainsaw-man.html) di Musim Hujan: Tetap Seru Tanpa Kegalauan Siapa bilang musim..."
-keywords: "tips liburan saat musim hujan, tips liburan saat musim, travel, wisata tips liburan saat, panduan tips liburan saat, tips tips liburan saat"
-image_alt: "Tips Liburan Saat Musim Hujan"
+keyword: "tips liburan saat musim hujan"
+date: 2026-03-31 16:30:00 +0700
+last_modified_at: 2026-05-12 17:33:48 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@photograph)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@photograph)"
+keywords: "travel, tips, liburan, saat, musim, hujan, wisata tips liburan saat, panduan tips liburan saat, tips tips liburan saat"
+image: "/assets/images/auto/tips-liburan-saat-musim-hujan.jpg"
+image_alt: "Tips Liburan Saat Musim Hujan"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-liburan-saat-musim-hujan.jpg" | relative_url }}" alt="Tips Liburan Saat Musim Hujan" loading="lazy" decoding="async">
@@ -101,4 +106,3 @@ Musim hujan seharusnya tidak menjadi alasan untuk menunda liburan. Dengan sediki
 ---
 
 Perjalanan Anda belum berakhir di [sini. Temukan juga berbagai](https://dgxximovie.com/) inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
