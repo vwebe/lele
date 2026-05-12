@@ -4,8 +4,14 @@ title: "Menjelajahi Keindahan Canal Saint-Martin di Paris: Panduan Lengkap untuk
 date: 2026-05-07 08:49:43 +0700
 categories: ["canal-saint-martin"]
 tags: ["canal-saint-martin", "paris", "prancis", "eropa", "wisata-kota", "hidden-gem", "travel-guide", "canal-saint-martin"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Paris, ibu kota romantis Prancis, terkenal dengan menara Eiffel, Museum Louvre, dan kafe klasiknya. Namun, di balik..."
 image: "https://images.pexels.com/photos/32776115/pexels-photo-32776115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Keindahan Canal Saint-Martin di Paris: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Paris, ibu kota romantis Prancis, terkenal dengan menara Eiffel, Museum Louvre, dan kafe klasiknya. Namun, di balik gemerlapnya, terdapat sebuah hidden gem..."
+excerpt: "Paris, ibu kota romantis Prancis, terkenal dengan menara Eiffel, Museum Louvre, dan kafe klasiknya. Namun, di balik gemerlapnya, terdapat sebuah hidden gem..."
+keywords: "menjelajahi keindahan canal saint martin di paris panduan lengkap untuk wisatawan indonesia, menjelajahi keindahan canal saint, canal saint martin, paris, prancis, eropa, wisata kota, hidden gem, travel guide, wisata menjelajahi keindahan canal, panduan menjelajahi keindahan canal, tips menjelajahi keindahan canal"
+image_alt: "Menjelajahi Keindahan Canal Saint-Martin di Paris: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/32776115/pexels-photo-32776115.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Keindahan Canal Saint-Martin di Paris: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

@@ -4,8 +4,14 @@ title: "Menjelajahi Hidden Gem Le Marais di Paris: Panduan Lengkap untuk Wisataw
 date: 2026-05-07 07:17:36 +0700
 categories: ["le-marais"]
 tags: ["le-marais", "paris", "prancis", "eropa", "hidden-gem", "kota-tua", "wisata-eropa", "travel-guide"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Paris memang identik dengan Menara Eiffel, Louvre, dan Champs‑Élysées yang selalu ramai. Namun, di balik keramaian..."
 image: "https://images.pexels.com/photos/4452034/pexels-photo-4452034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Hidden Gem Le Marais di Paris: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Paris memang identik dengan Menara Eiffel, Louvre, dan Champs‑Élysées yang selalu ramai. Namun, di balik keramaian tersebut terdapat sebuah kawasan yang..."
+excerpt: "Paris memang identik dengan Menara Eiffel, Louvre, dan Champs‑Élysées yang selalu ramai. Namun, di balik keramaian tersebut terdapat sebuah kawasan yang..."
+keywords: "menjelajahi hidden gem le marais di paris panduan lengkap untuk wisatawan indonesia, menjelajahi hidden gem marais, le marais, paris, prancis, eropa, hidden gem, kota tua, wisata eropa, travel guide, wisata menjelajahi hidden gem, panduan menjelajahi hidden gem"
+image_alt: "Menjelajahi Hidden Gem Le Marais di Paris: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/4452034/pexels-photo-4452034.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Hidden Gem Le Marais di Paris: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

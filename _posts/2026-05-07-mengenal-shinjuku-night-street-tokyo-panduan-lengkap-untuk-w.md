@@ -4,8 +4,14 @@ title: "Mengenal Shinjuku Night Street Tokyo: Panduan Lengkap untuk Wisata Malam
 date: 2026-05-07 13:20:47 +0700
 categories: ["shinjuku"]
 tags: ["shinjuku", "tokyo", "jepang", "wisata-kota", "nightlife", "asia", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Tokyo, ibukota Jepang, tak pernah tidur. Salah satu kawasan paling ikonik yang memancarkan energi malamnya adalah..."
 image: "https://images.pexels.com/photos/29662419/pexels-photo-29662419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Mengenal Shinjuku Night Street Tokyo: Panduan Lengkap untuk Wisata Malam di Jepang"
+description: "Tokyo, ibukota Jepang, tak pernah tidur. Salah satu kawasan paling ikonik yang memancarkan energi malamnya adalah Shinjuku —pusat hiburan, kuliner, dan..."
+excerpt: "Tokyo, ibukota Jepang, tak pernah tidur. Salah satu kawasan paling ikonik yang memancarkan energi malamnya adalah Shinjuku —pusat hiburan, kuliner, dan..."
+keywords: "mengenal shinjuku night street tokyo panduan lengkap untuk wisata malam di jepang, mengenal shinjuku night street, shinjuku, tokyo, jepang, wisata kota, nightlife, asia, travel guide, wisata mengenal shinjuku night, panduan mengenal shinjuku night, tips mengenal shinjuku night"
+image_alt: "Mengenal Shinjuku Night Street Tokyo: Panduan Lengkap untuk Wisata Malam di Jepang"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/29662419/pexels-photo-29662419.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Shinjuku Night Street Tokyo: Panduan Lengkap untuk Wisata Malam di Jepang" style="width:100%;height:auto;border-radius:12px;" /></figure>

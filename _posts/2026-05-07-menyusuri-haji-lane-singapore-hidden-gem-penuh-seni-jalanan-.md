@@ -4,8 +4,14 @@ title: "Menyusuri Haji Lane, Singapore: Hidden Gem Penuh Seni Jalanan untuk Wisa
 date: 2026-05-07 22:19:27 +0700
 categories: ["haji-lane"]
 tags: ["haji-lane", "singapore", "hidden-gem", "street-art", "wisata-kota", "travel-guide"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Singapore, negara kota kecil yang terkenal dengan kebersihan, keamanan, dan gedung pencakar langitnya, menyimpan..."
 image: "https://images.pexels.com/photos/34821411/pexels-photo-34821411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menyusuri Haji Lane, Singapore: Hidden Gem Penuh Seni Jalanan untuk Wisatawan Indonesia"
+description: "Singapore, negara kota kecil yang terkenal dengan kebersihan, keamanan, dan gedung pencakar langitnya, menyimpan banyak hidden gem yang belum banyak..."
+excerpt: "Singapore, negara kota kecil yang terkenal dengan kebersihan, keamanan, dan gedung pencakar langitnya, menyimpan banyak hidden gem yang belum banyak..."
+keywords: "menyusuri haji lane singapore hidden gem penuh seni jalanan untuk wisatawan indonesia, menyusuri haji lane singapore, haji lane, singapore, hidden gem, street art, wisata kota, travel guide, wisata menyusuri haji lane, panduan menyusuri haji lane, tips menyusuri haji lane, mengapa haji lane menjadi pilihan utama"
+image_alt: "Menyusuri Haji Lane, Singapore: Hidden Gem Penuh Seni Jalanan untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/34821411/pexels-photo-34821411.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menyusuri Haji Lane, Singapore: Hidden Gem Penuh Seni Jalanan untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

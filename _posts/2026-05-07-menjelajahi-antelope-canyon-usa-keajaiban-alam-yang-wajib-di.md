@@ -4,8 +4,14 @@ title: "Menjelajahi Antelope Canyon, USA: Keajaiban Alam yang Wajib Dikunjungi d
 date: 2026-05-07 04:18:00 +0700
 categories: ["antelope-canyon"]
 tags: ["antelope-canyon", "amerika", "wisata-alam", "canyon", "travel-guide"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Antelope Canyon merupakan salah satu hidden gem paling menakjubkan di Amerika Serikat yang menawarkan pemandangan..."
 image: "https://images.pexels.com/photos/8909531/pexels-photo-8909531.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Antelope Canyon, USA: Keajaiban Alam yang Wajib Dikunjungi dalam Panduan Travel Anda"
+description: "Antelope Canyon merupakan salah satu hidden gem paling menakjubkan di Amerika Serikat yang menawarkan pemandangan alam yang memukulkan mes‑mes kecil..."
+excerpt: "Antelope Canyon merupakan salah satu hidden gem paling menakjubkan di Amerika Serikat yang menawarkan pemandangan alam yang memukulkan mes‑mes kecil..."
+keywords: "menjelajahi antelope canyon usa keajaiban alam yang wajib dikunjungi dalam panduan travel anda, menjelajahi antelope canyon usa, antelope canyon, amerika, wisata alam, canyon, travel guide, wisata menjelajahi antelope canyon, panduan menjelajahi antelope canyon, tips menjelajahi antelope canyon, kenapa ber lokasi dan aksesibilitas"
+image_alt: "Menjelajahi Antelope Canyon, USA: Keajaiban Alam yang Wajib Dikunjungi dalam Panduan Travel Anda"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/8909531/pexels-photo-8909531.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Antelope Canyon, USA: Keajaiban Alam yang Wajib Dikunjungi dalam Panduan Travel Anda" style="width:100%;height:auto;border-radius:12px;" /></figure>

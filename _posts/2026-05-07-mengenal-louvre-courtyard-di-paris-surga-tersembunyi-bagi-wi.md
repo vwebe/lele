@@ -4,8 +4,14 @@ title: "Mengenal Louvre Courtyard di Paris: Surga Tersembunyi bagi Wisatawan Ind
 date: 2026-05-07 10:18:11 +0700
 categories: ["louvre-courtyard"]
 tags: ["louvre-courtyard", "paris", "prancis", "eropa", "wisata-sejarah", "museum", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Paris, kota yang tak pernah habis memikat hati para pelancong, menyimpan satu sudut yang sering terlewatkan oleh..."
 image: "https://images.pexels.com/photos/12853063/pexels-photo-12853063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Mengenal Louvre Courtyard di Paris: Surga Tersembunyi bagi Wisatawan Indonesia"
+description: "Paris, kota yang tak pernah habis memikat hati para pelancong, menyimpan satu sudut yang sering terlewatkan oleh kebanyakan turis: Louvre Courtyard..."
+excerpt: "Paris, kota yang tak pernah habis memikat hati para pelancong, menyimpan satu sudut yang sering terlewatkan oleh kebanyakan turis: Louvre Courtyard..."
+keywords: "mengenal louvre courtyard di paris surga tersembunyi bagi wisatawan indonesia, mengenal louvre courtyard paris, louvre courtyard, paris, prancis, eropa, wisata sejarah, museum, travel guide, wisata mengenal louvre courtyard, panduan mengenal louvre courtyard, tips mengenal louvre courtyard"
+image_alt: "Mengenal Louvre Courtyard di Paris: Surga Tersembunyi bagi Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/12853063/pexels-photo-12853063.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Louvre Courtyard di Paris: Surga Tersembunyi bagi Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

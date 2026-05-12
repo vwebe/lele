@@ -4,8 +4,14 @@ title: "Menjelajahi Hongdae Street di Seoul: Panduan Lengkap untuk Wisatawan Ind
 date: 2026-05-07 17:47:39 +0700
 categories: ["hongdae"]
 tags: ["hongdae", "seoul", "korea-selatan", "nightlife", "street-art", "wisata-kota", "travel-guide"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Seoul, ibu kota Korea Selatan, sedang naik daun di kalangan wisatawan muda Indonesia. Salah satu spot paling ikonik..."
 image: "https://images.pexels.com/photos/19271586/pexels-photo-19271586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Hongdae Street di Seoul: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Seoul, ibu kota Korea Selatan, sedang naik daun di kalangan wisatawan muda Indonesia. Salah satu spot paling ikonik dan hidup di kota ini adalah Hongdae..."
+excerpt: "Seoul, ibu kota Korea Selatan, sedang naik daun di kalangan wisatawan muda Indonesia. Salah satu spot paling ikonik dan hidup di kota ini adalah Hongdae..."
+keywords: "menjelajahi hongdae street di seoul panduan lengkap untuk wisatawan indonesia, menjelajahi hongdae street seoul, hongdae, seoul, korea selatan, nightlife, street art, wisata kota, travel guide, wisata menjelajahi hongdae street, panduan menjelajahi hongdae street, tips menjelajahi hongdae street"
+image_alt: "Menjelajahi Hongdae Street di Seoul: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/19271586/pexels-photo-19271586.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Hongdae Street di Seoul: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

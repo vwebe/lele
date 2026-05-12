@@ -4,8 +4,14 @@ title: "Menikmati Keindahan Cheonggyecheon Stream di Seoul: Panduan Lengkap untu
 date: 2026-05-07 19:22:19 +0700
 categories: ["cheonggyecheon"]
 tags: ["cheonggyecheon", "seoul", "korea-selatan", "wisata-kota", "sungai", "hidden-gem", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Seoul, ibu kota Korea Selatan, tak hanya dikenal dengan teknologi canggih dan budaya K‑pop yang mendunia. Di tengah..."
 image: "https://images.pexels.com/photos/32211612/pexels-photo-32211612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menikmati Keindahan Cheonggyecheon Stream di Seoul: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Seoul, ibu kota Korea Selatan, tak hanya dikenal dengan teknologi canggih dan budaya K‑pop yang mendunia. Di tengah hiruk‑pikuk kota, terdapat sebuah oase..."
+excerpt: "Seoul, ibu kota Korea Selatan, tak hanya dikenal dengan teknologi canggih dan budaya K‑pop yang mendunia. Di tengah hiruk‑pikuk kota, terdapat sebuah oase..."
+keywords: "menikmati keindahan cheonggyecheon stream di seoul panduan lengkap untuk wisatawan indonesia, menikmati keindahan cheonggyecheon stream, cheonggyecheon, seoul, korea selatan, wisata kota, sungai, hidden gem, travel guide, wisata menikmati keindahan cheonggyecheon, panduan menikmati keindahan cheonggyecheon, tips menikmati keindahan cheonggyecheon"
+image_alt: "Menikmati Keindahan Cheonggyecheon Stream di Seoul: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/32211612/pexels-photo-32211612.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menikmati Keindahan Cheonggyecheon Stream di Seoul: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

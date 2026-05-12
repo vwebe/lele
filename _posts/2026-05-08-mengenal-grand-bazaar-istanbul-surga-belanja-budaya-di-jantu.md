@@ -4,8 +4,14 @@ title: "Mengenal Grand Bazaar Istanbul: Surga Belanja & Budaya di Jantung Turki"
 date: 2026-05-08 19:33:03 +0700
 categories: ["grand-bazaar"]
 tags: ["grand-bazaar", "istanbul", "turki", "wisata-belanja", "budaya", "travel-guide", "hidden-gem", "wisata-kuliner"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Jika Anda mencari pengalaman belanja yang tak terlupakan sekaligus menyelami budaya Timur Tengah yang kaya, Grand..."
 image: "https://images.pexels.com/photos/14284634/pexels-photo-14284634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Mengenal Grand Bazaar Istanbul: Surga Belanja & Budaya di Jantung Turki"
+description: "Jika Anda mencari pengalaman belanja yang tak terlupakan sekaligus menyelami budaya Timur Tengah yang kaya, Grand Bazaar di Istanbul, Turki, adalah..."
+excerpt: "Jika Anda mencari pengalaman belanja yang tak terlupakan sekaligus menyelami budaya Timur Tengah yang kaya, Grand Bazaar di Istanbul, Turki, adalah..."
+keywords: "mengenal grand bazaar istanbul surga belanja budaya di jantung turki, mengenal grand bazaar istanbul, grand bazaar, istanbul, turki, wisata belanja, budaya, travel guide, hidden gem, wisata kuliner, wisata mengenal grand bazaar, panduan mengenal grand bazaar"
+image_alt: "Mengenal Grand Bazaar Istanbul: Surga Belanja & Budaya di Jantung Turki"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/14284634/pexels-photo-14284634.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Grand Bazaar Istanbul: Surga Belanja &amp; Budaya di Jantung Turki" style="width:100%;height:auto;border-radius:12px;" /></figure>

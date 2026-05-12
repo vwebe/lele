@@ -4,8 +4,14 @@ title: "Menjelajahi Gardens by the Bay Dome: Panduan Lengkap Wisata Futuristik d
 date: 2026-05-07 23:51:03 +0700
 categories: ["gardens-by-the-bay"]
 tags: ["gardens-by-the-bay", "singapore", "wisata-modern", "taman-futuristik", "travel-guide", "singapura", "hidden-gem-dunia", "wisata-budaya-luar-negeri"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Singapura memang dikenal sebagai kota yang selalu berada di garis depan inovasi, arsitektur, dan desain hijau. Salah..."
 image: "https://images.pexels.com/photos/6016769/pexels-photo-6016769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Gardens by the Bay Dome: Panduan Lengkap Wisata Futuristik di Singapura"
+description: "Singapura memang dikenal sebagai kota yang selalu berada di garis depan inovasi, arsitektur, dan desain hijau. Salah satu ikon modern yang wajib masuk dalam..."
+excerpt: "Singapura memang dikenal sebagai kota yang selalu berada di garis depan inovasi, arsitektur, dan desain hijau. Salah satu ikon modern yang wajib masuk dalam..."
+keywords: "menjelajahi gardens by the bay dome panduan lengkap wisata futuristik di singapura, menjelajahi gardens bay dome, gardens by the bay, singapore, wisata modern, taman futuristik, travel guide, singapura, hidden gem dunia, wisata budaya luar negeri, wisata menjelajahi gardens bay, panduan menjelajahi gardens bay"
+image_alt: "Menjelajahi Gardens by the Bay Dome: Panduan Lengkap Wisata Futuristik di Singapura"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/6016769/pexels-photo-6016769.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Gardens by the Bay Dome: Panduan Lengkap Wisata Futuristik di Singapura" style="width:100%;height:auto;border-radius:12px;" /></figure>

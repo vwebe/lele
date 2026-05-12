@@ -4,8 +4,14 @@ title: "Mengenal Clarke Quay, Singapore: Panduan Lengkap Wisata Kota, Nightlife,
 date: 2026-05-07 20:47:31 +0700
 categories: ["clarke-quay"]
 tags: ["clarke-quay", "singapore", "wisata-kota", "nightlife", "travel-guide", "asia"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Clarke Quay adalah salah satu kawasan kawasan yang paling menonjol di Singapura, terletak di tepi sungai Singapore..."
 image: "https://images.pexels.com/photos/35421080/pexels-photo-35421080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Mengenal Clarke Quay, Singapore: Panduan Lengkap Wisata Kota, Nightlife, dan Kuliner di Asia"
+description: "Clarke Quay adalah salah satu kawasan kawasan yang paling menonjol di Singapura, terletak di tepi sungai Singapore yang menawan bagi para pelan­pel…"
+excerpt: "Clarke Quay adalah salah satu kawasan kawasan yang paling menonjol di Singapura, terletak di tepi sungai Singapore yang menawan bagi para pelan­pel…"
+keywords: "mengenal clarke quay singapore panduan lengkap wisata kota nightlife dan kuliner di asia, mengenal clarke quay singapore, clarke quay, singapore, wisata kota, nightlife, travel guide, asia, wisata mengenal clarke quay, panduan mengenal clarke quay, tips mengenal clarke quay, lokasi dan letak"
+image_alt: "Mengenal Clarke Quay, Singapore: Panduan Lengkap Wisata Kota, Nightlife, dan Kuliner di Asia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/35421080/pexels-photo-35421080.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Clarke Quay, Singapore: Panduan Lengkap Wisata Kota, Nightlife, dan Kuliner di Asia" style="width:100%;height:auto;border-radius:12px;" /></figure>

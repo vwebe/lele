@@ -4,8 +4,14 @@ title: "Panduan Lengkap Banff National Park, Kanada: Keajaiban Alam Pegunungan d
 date: 2026-05-07 01:20:12 +0700
 categories: ["banff"]
 tags: ["banff", "canada", "wisata-alam", "pegunungan", "danau", "travel-guide"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Banff National Park di Kanada adalah salah satu destinasi alam paling menakjubkan di dunia, menawarkan pemandangan..."
 image: "https://images.pexels.com/photos/30666563/pexels-photo-30666563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Banff National Park, Kanada: Keajaiban Alam Pegunungan dan Danau untuk Wisatawan Indonesia"
+description: "Banff National Park di Kanada adalah salah satu destinasi alam paling menakjubkan di dunia, menawarkan pemandangan pegunungan yang menjulang tinggi, danau..."
+excerpt: "Banff National Park di Kanada adalah salah satu destinasi alam paling menakjubkan di dunia, menawarkan pemandangan pegunungan yang menjulang tinggi, danau..."
+keywords: "panduan lengkap banff national park kanada keajaiban alam pegunungan dan danau untuk wisatawan indonesia, panduan lengkap banff national, banff, canada, wisata alam, pegunungan, danau, travel guide, wisata panduan lengkap banff, panduan panduan lengkap banff, tips panduan lengkap banff"
+image_alt: "Panduan Lengkap Banff National Park, Kanada: Keajaiban Alam Pegunungan dan Danau untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/30666563/pexels-photo-30666563.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Banff National Park, Kanada: Keajaiban Alam Pegunungan dan Danau untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

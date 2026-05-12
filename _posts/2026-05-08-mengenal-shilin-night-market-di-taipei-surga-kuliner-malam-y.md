@@ -4,8 +4,14 @@ title: "Mengenal Shilin Night Market di Taipei: Surga Kuliner Malam yang Wajib D
 date: 2026-05-08 13:17:46 +0700
 categories: ["shilin-market"]
 tags: ["shilin-market", "taipei", "taiwan", "kuliner-malam", "wisata-kota", "travel-guide", "shilin-night-market-taipei", "hidden-gem", "wisata-budaya", "wisata-kuliner"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Jika Anda mencari pengalaman kuliner malam yang tak terlupakan di luar negeri, Shilin Night Market di Taipei,..."
 image: "https://images.pexels.com/photos/13042624/pexels-photo-13042624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Mengenal Shilin Night Market di Taipei: Surga Kuliner Malam yang Wajib Dikunjungi"
+description: "Jika Anda mencari pengalaman kuliner malam yang tak terlupakan di luar negeri, Shilin Night Market di Taipei, Taiwan, adalah pilihan yang tepat. Pasar pasar..."
+excerpt: "Jika Anda mencari pengalaman kuliner malam yang tak terlupakan di luar negeri, Shilin Night Market di Taipei, Taiwan, adalah pilihan yang tepat. Pasar pasar..."
+keywords: "mengenal shilin night market di taipei surga kuliner malam yang wajib dikunjungi, mengenal shilin night market, shilin market, taipei, taiwan, kuliner malam, wisata kota, travel guide, shilin night market taipei, hidden gem, wisata budaya, wisata kuliner"
+image_alt: "Mengenal Shilin Night Market di Taipei: Surga Kuliner Malam yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/13042624/pexels-photo-13042624.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Shilin Night Market di Taipei: Surga Kuliner Malam yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>
