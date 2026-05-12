@@ -49,7 +49,7 @@ layout: default
 
     <div class="post-grid">
       {% for post in site.posts %}
-      <article class="post-card anim">
+      <article class="post-card anim home-post-card{% if forloop.index > 9 %} is-page-hidden{% endif %}">
         {% if post.image %}
         <a href="{{ post.url | relative_url }}" class="post-card-thumb">
           <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
@@ -98,25 +98,42 @@ layout: default
       </div>
       <ul class="popular-list">
         {% assign marked_popular = site.posts | where_exp: "p", "p.popular == true or p.featured == true" %}
+        {% assign popular_count = 0 %}
         {% if marked_popular.size > 0 %}
-          {% assign popular = marked_popular | limit: 5 %}
+          {% for post in marked_popular %}
+            {% if popular_count < 5 %}
+              {% assign popular_count = popular_count | plus: 1 %}
+              <li class="popular-item">
+                {% if post.image %}
+                <a href="{{ post.url | relative_url }}" class="popular-thumb">
+                  <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
+                       alt="{{ post.title }}" width="70" height="70" loading="lazy">
+                </a>
+                {% endif %}
+                <div class="popular-info">
+                  <a href="{{ post.url | relative_url }}" class="popular-title">{{ post.title | truncate: 55 }}</a>
+                  <span class="popular-date">{{ post.date | date: "%d %b %Y" }}</span>
+                </div>
+              </li>
+            {% endif %}
+          {% endfor %}
         {% else %}
-          {% assign popular = site.posts | where_exp: "p", "p.image != nil" | offset: 6 | limit: 5 %}
+          {% for post in site.posts %}
+            {% if post.image and forloop.index > 6 and popular_count < 5 %}
+              {% assign popular_count = popular_count | plus: 1 %}
+              <li class="popular-item">
+                <a href="{{ post.url | relative_url }}" class="popular-thumb">
+                  <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
+                       alt="{{ post.title }}" width="70" height="70" loading="lazy">
+                </a>
+                <div class="popular-info">
+                  <a href="{{ post.url | relative_url }}" class="popular-title">{{ post.title | truncate: 55 }}</a>
+                  <span class="popular-date">{{ post.date | date: "%d %b %Y" }}</span>
+                </div>
+              </li>
+            {% endif %}
+          {% endfor %}
         {% endif %}
-        {% for post in popular limit: 5 %}
-        <li class="popular-item">
-          {% if post.image %}
-          <a href="{{ post.url | relative_url }}" class="popular-thumb">
-            <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
-                 alt="{{ post.title }}" width="70" height="70" loading="lazy">
-          </a>
-          {% endif %}
-          <div class="popular-info">
-            <a href="{{ post.url | relative_url }}" class="popular-title">{{ post.title | truncate: 55 }}</a>
-            <span class="popular-date">{{ post.date | date: "%d %b %Y" }}</span>
-          </div>
-        </li>
-        {% endfor %}
       </ul>
     </div>
 
@@ -223,7 +240,7 @@ layout: default
     cards.forEach(function(card, index) {
       var start = (page - 1) * perPage;
       var end = start + perPage;
-      card.hidden = !(index >= start && index < end);
+      card.classList.toggle('is-page-hidden', !(index >= start && index < end));
     });
     if (pageInfo) pageInfo.textContent = 'Halaman ' + page + ' dari ' + totalPages;
     if (prevPage) prevPage.classList.toggle('is-disabled', page <= 1);
