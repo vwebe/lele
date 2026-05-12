@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Ha Long Bay Vietnam: Wisata Alam Asia yang Wajib Dikunjungi"
-date: 2026-05-06 16:17:50 +0700
-categories: ["ha-long-bay"]
-tags: ["ha-long-bay", "vietnam", "wisata-alam", "asia", "world-heritage", "travel-guide"]
-image: "https://images.pexels.com/photos/32572724/pexels-photo-32572724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Ha Long Bay Vietnam: Wisata Alam Asia yang Wajib Dikunjungi"
-description: "Ha Long Bay, Vietnam, adalah salah satu destinasi wisata alam paling ikonik di Asia. Terkenal dengan ribuan pulau batu kapur yang menjulang dari perairan..."
-excerpt: "Ha Long Bay, Vietnam, adalah salah satu destinasi wisata alam paling ikonik di Asia. Terkenal dengan ribuan pulau batu kapur yang menjulang dari perairan..."
-keywords: "panduan lengkap ha long bay vietnam wisata alam asia yang wajib dikunjungi, panduan lengkap long bay, ha long bay, vietnam, wisata alam, asia, world heritage, travel guide, wisata panduan lengkap long, panduan panduan lengkap long, tips panduan lengkap long, 1 daya tarik utama ha long bay"
-image_alt: "Panduan Lengkap Ha Long Bay Vietnam: Wisata Alam Asia yang Wajib Dikunjungi"
+keyword: "panduan lengkap ha long bay vietnam wisata alam asia yang wa"
+date: 2026-05-06 16:17:50 +0700
+last_modified_at: 2026-05-12 17:45:28 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["ha-long-bay"]
+tags: ["ha-long-bay", "vietnam", "wisata-alam", "asia", "world-heritage", "travel-guide"]
+description: "Keunikan Ha Long Bay terletak pada formasi batu kapur karst yang terbentuk ribuan tahun lalu. Pulau‑pulau kecil ini menyerupai menara, gua, dan bahkan..."
+excerpt: "Keunikan Ha Long Bay terletak pada formasi batu kapur karst yang terbentuk ribuan tahun lalu. Pulau‑pulau kecil ini menyerupai menara, gua, dan bahkan..."
+keywords: "ha long bay, vietnam, wisata alam, asia, world heritage, travel guide, wisata ha long bay, panduan ha long bay, tips ha long bay, 1 daya tarik utama ha long bay"
+image: "https://images.pexels.com/photos/32572724/pexels-photo-32572724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Ha Long Bay Vietnam: Wisata Alam Asia yang Wajib Dikunjungi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/32572724/pexels-photo-32572724.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Ha Long Bay Vietnam: Wisata Alam Asia yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>
