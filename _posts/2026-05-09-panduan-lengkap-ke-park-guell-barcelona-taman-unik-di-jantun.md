@@ -4,8 +4,14 @@ title: "Panduan Lengkap ke Park Güell Barcelona: Taman Unik di Jantung Budaya S
 date: 2026-05-09 12:04:07 +0700
 categories: ["park-guell"]
 tags: ["park-guell", "barcelona", "spanyol", "taman-unik", "wisata-eropa", "travel-guide", "wisata-budaya", "arsitektur"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Barcelona, kota paling hidup di pesisir Mediterania, menyimpan satu permata seni dan arsitektur yang tak boleh..."
 image: "https://images.pexels.com/photos/14793753/pexels-photo-14793753.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap ke Park Güell Barcelona: Taman Unik di Jantung Budaya Spanyol"
+description: "Barcelona, kota paling hidup di pesisir Mediterania, menyimpan satu permata seni dan arsitektur yang tak boleh dilewatkan: Park Güell . Taman ini bukan..."
+excerpt: "Barcelona, kota paling hidup di pesisir Mediterania, menyimpan satu permata seni dan arsitektur yang tak boleh dilewatkan: Park Güell . Taman ini bukan..."
+keywords: "panduan lengkap ke park güell barcelona taman unik di jantung budaya spanyol, panduan lengkap park güell, park guell, barcelona, spanyol, taman unik, wisata eropa, travel guide, wisata budaya, arsitektur, wisata panduan lengkap park, panduan panduan lengkap park"
+image_alt: "Panduan Lengkap ke Park Güell Barcelona: Taman Unik di Jantung Budaya Spanyol"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/14793753/pexels-photo-14793753.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap ke Park Güell Barcelona: Taman Unik di Jantung Budaya Spanyol" style="width:100%;height:auto;border-radius:12px;" /></figure>

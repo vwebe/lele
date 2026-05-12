@@ -4,8 +4,14 @@ title: "Menyusuri Keindahan Hallstatt Lakeside Austria: Panduan Lengkap Wisata k
 date: 2026-05-09 16:18:11 +0700
 categories: ["hallstatt-lake"]
 tags: ["hallstatt-lake", "austria", "desa-danau", "eropa", "hidden-gem", "travel-guide", "hallstatt-lakeside-austria"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Hallstatt, sebuah desa kecil yang terletak di tepi Hallstatt Lake di Austria, sering menjadi incaran para pelancong..."
 image: "https://images.pexels.com/photos/14562794/pexels-photo-14562794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menyusuri Keindahan Hallstatt Lakeside Austria: Panduan Lengkap Wisata ke Desa Danau Tersembunyi di Eropa"
+description: "Hallstatt, sebuah desa kecil yang terletak di tepi Hallstatt Lake di Austria, sering menjadi incaran para pelancong yang mencari hidden gem di Eropa. Dengan..."
+excerpt: "Hallstatt, sebuah desa kecil yang terletak di tepi Hallstatt Lake di Austria, sering menjadi incaran para pelancong yang mencari hidden gem di Eropa. Dengan..."
+keywords: "menyusuri keindahan hallstatt lakeside austria panduan lengkap wisata ke desa danau tersembunyi di eropa, menyusuri keindahan hallstatt lakeside, hallstatt lake, austria, desa danau, eropa, hidden gem, travel guide, hallstatt lakeside austria, wisata menyusuri keindahan hallstatt, panduan menyusuri keindahan hallstatt, tips menyusuri keindahan hallstatt"
+image_alt: "Menyusuri Keindahan Hallstatt Lakeside Austria: Panduan Lengkap Wisata ke Desa Danau Tersembunyi di Eropa"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/14562794/pexels-photo-14562794.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menyusuri Keindahan Hallstatt Lakeside Austria: Panduan Lengkap Wisata ke Desa Danau Tersembunyi di Eropa" style="width:100%;height:auto;border-radius:12px;" /></figure>

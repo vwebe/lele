@@ -4,8 +4,14 @@ title: "Santa Monica Pier: Surga Pantai Amerika yang Wajib Dikunjungi di Los Ang
 date: 2026-05-11 20:27:40 +0700
 categories: ["santa-monica"]
 tags: ["santa-monica", "los-angeles", "amerika", "pantai", "wisata-santai", "travel-guide", "santa-monica-pier", "pantai-amerika", "amerika-serikat"]
-excerpt: "Waktu baca: 5 menitWisata Internasional Halo para pencinta jalan-jalan! Siapa di sini yang memimpikan liburan ke Amerika Serikat? Selain gedung pencakar..."
 image: "https://images.pexels.com/photos/8783848/pexels-photo-8783848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Santa Monica Pier: Surga Pantai Amerika yang Wajib Dikunjungi di Los Angeles!"
+description: "Halo para pencinta jalan-jalan! Siapa di sini yang memimpikan liburan ke Amerika Serikat? Selain gedung pencakar langit New York atau taman hiburan Orlando..."
+excerpt: "Halo para pencinta jalan-jalan! Siapa di sini yang memimpikan liburan ke Amerika Serikat? Selain gedung pencakar langit New York atau taman hiburan Orlando..."
+keywords: "santa monica pier surga pantai amerika yang wajib dikunjungi di los angeles, santa monica pier surga, santa monica, los angeles, amerika, pantai, wisata santai, travel guide, santa monica pier, pantai amerika, amerika serikat, wisata santa monica pier"
+image_alt: "Santa Monica Pier: Surga Pantai Amerika yang Wajib Dikunjungi di Los Angeles!"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/8783848/pexels-photo-8783848.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Santa Monica Pier: Surga Pantai Amerika yang Wajib Dikunjungi di Los Angeles!" style="width:100%;height:auto;border-radius:12px;" /></figure>

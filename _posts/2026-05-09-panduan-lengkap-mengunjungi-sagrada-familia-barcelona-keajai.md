@@ -4,8 +4,14 @@ title: "Panduan Lengkap Mengunjungi Sagrada Familia Barcelona: Keajaiban Arsitek
 date: 2026-05-09 13:35:45 +0700
 categories: ["sagrada-familia"]
 tags: ["sagrada-familia", "barcelona", "spanyol", "landmark", "wisata-sejarah", "travel-guide", "gaudi"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Barcelona, kota yang tak pernah kehabisan pesona, menyimpan satu mahakarya arsitektur yang menjadi magnet wisatawan..."
 image: "https://images.pexels.com/photos/12809590/pexels-photo-12809590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Mengunjungi Sagrada Familia Barcelona: Keajaiban Arsitektur Gaudí di Jantung Spanyol"
+description: "Barcelona, kota yang tak pernah kehabisan pesona, menyimpan satu mahakarya arsitektur yang menjadi magnet wisatawan dari seluruh dunia: Sagrada Familia..."
+excerpt: "Barcelona, kota yang tak pernah kehabisan pesona, menyimpan satu mahakarya arsitektur yang menjadi magnet wisatawan dari seluruh dunia: Sagrada Familia..."
+keywords: "panduan lengkap mengunjungi sagrada familia barcelona keajaiban arsitektur gaudí di jantung spanyol, panduan lengkap mengunjungi sagrada, sagrada familia, barcelona, spanyol, landmark, wisata sejarah, travel guide, gaudi, wisata panduan lengkap mengunjungi, panduan panduan lengkap mengunjungi, tips panduan lengkap mengunjungi"
+image_alt: "Panduan Lengkap Mengunjungi Sagrada Familia Barcelona: Keajaiban Arsitektur Gaudí di Jantung Spanyol"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/12809590/pexels-photo-12809590.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Mengunjungi Sagrada Familia Barcelona: Keajaiban Arsitektur Gaudí di Jantung Spanyol" style="width:100%;height:auto;border-radius:12px;" /></figure>

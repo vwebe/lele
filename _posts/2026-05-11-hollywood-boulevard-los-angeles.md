@@ -4,8 +4,14 @@ title: "Hollywood Boulevard Los Angeles: Jejak Bintang Dunia yang Wajib Kamu Jel
 date: 2026-05-11 20:27:03 +0700
 categories: ["hollywood-boulevard"]
 tags: ["hollywood-boulevard", "los-angeles", "amerika", "wisata-hiburan", "travel-guide", "destinasi-internasional", "wisata-budaya"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Halo, para pencinta petualangan dan mimpi! Siapa di antara kalian yang gemar menonton film Hollywood? Pasti banyak,..."
 image: "https://images.pexels.com/photos/8783857/pexels-photo-8783857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Hollywood Boulevard Los Angeles: Jejak Bintang Dunia yang Wajib Kamu Jelajahi!"
+description: "Halo, para pencinta petualangan dan mimpi! Siapa di antara kalian yang gemar menonton film Hollywood? Pasti banyak, kan? Nah, jika berwisata ke luar negeri..."
+excerpt: "Halo, para pencinta petualangan dan mimpi! Siapa di antara kalian yang gemar menonton film Hollywood? Pasti banyak, kan? Nah, jika berwisata ke luar negeri..."
+keywords: "hollywood boulevard los angeles jejak bintang dunia yang wajib kamu jelajahi, hollywood boulevard los angeles, hollywood boulevard, los angeles, amerika, wisata hiburan, travel guide, destinasi internasional, wisata budaya, wisata hollywood boulevard los, panduan hollywood boulevard los, tips hollywood boulevard los"
+image_alt: "Hollywood Boulevard Los Angeles: Jejak Bintang Dunia yang Wajib Kamu Jelajahi!"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/8783857/pexels-photo-8783857.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Hollywood Boulevard Los Angeles: Jejak Bintang Dunia yang Wajib Kamu Jelajahi!" style="width:100%;height:auto;border-radius:12px;" /></figure>

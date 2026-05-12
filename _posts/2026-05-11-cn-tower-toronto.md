@@ -4,8 +4,14 @@ title: "Menaklukkan Ketinggian: Panduan Lengkap Mengunjungi CN Tower Toronto, Ik
 date: 2026-05-11 20:17:36 +0700
 categories: ["cn-tower"]
 tags: ["cn-tower", "toronto", "kanada", "city-landmark", "wisata-kota", "travel-guide", "wisata-alam-luar-negeri", "wisata-budaya-luar-negeri"]
-excerpt: "Waktu baca: 5 menitWisata Internasional Halo para pencinta traveling! Siapa di sini yang bermimpi menjelajahi keindahan Kanada? Jika ya, maka ada satu..."
 image: "https://images.pexels.com/photos/18126664/pexels-photo-18126664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menaklukkan Ketinggian: Panduan Lengkap Mengunjungi CN Tower Toronto, Ikon Kanada yang Wajib Didatangi"
+description: "Halo para pencinta traveling! Siapa di sini yang bermimpi menjelajahi keindahan Kanada? Jika ya, maka ada satu destinasi yang tak boleh terlewatkan dalam..."
+excerpt: "Halo para pencinta traveling! Siapa di sini yang bermimpi menjelajahi keindahan Kanada? Jika ya, maka ada satu destinasi yang tak boleh terlewatkan dalam..."
+keywords: "menaklukkan ketinggian panduan lengkap mengunjungi cn tower toronto ikon kanada yang wajib didatangi, menaklukkan ketinggian panduan lengkap, cn tower, toronto, kanada, city landmark, wisata kota, travel guide, wisata alam luar negeri, wisata budaya luar negeri, wisata menaklukkan ketinggian panduan, panduan menaklukkan ketinggian panduan"
+image_alt: "Menaklukkan Ketinggian: Panduan Lengkap Mengunjungi CN Tower Toronto, Ikon Kanada yang Wajib Didatangi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/18126664/pexels-photo-18126664.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menaklukkan Ketinggian: Panduan Lengkap Mengunjungi CN Tower Toronto, Ikon Kanada yang Wajib Didatangi" style="width:100%;height:auto;border-radius:12px;" /></figure>

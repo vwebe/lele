@@ -4,8 +4,14 @@ title: "Menikmati Keindahan Spanish Steps di Roma: Panduan Lengkap untuk Wisataw
 date: 2026-05-09 05:47:20 +0700
 categories: ["spanish-steps"]
 tags: ["spanish-steps", "roma", "italia", "wisata-kota", "landmark", "travel-guide"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Spanish Steps, atau Tangah Spanyol, adalah salah satu landmark paling ikonik di Roma, Italia. Terletak di jantung..."
 image: "https://images.pexels.com/photos/36511361/pexels-photo-36511361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menikmati Keindahan Spanish Steps di Roma: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Spanish Steps, atau Tangah Spanyol, adalah salah satu landmark paling ikonik di Roma, Italia. Terletak di jantung kota, tangannya yang memukulkan memukulkan..."
+excerpt: "Spanish Steps, atau Tangah Spanyol, adalah salah satu landmark paling ikonik di Roma, Italia. Terletak di jantung kota, tangannya yang memukulkan memukulkan..."
+keywords: "menikmati keindahan spanish steps di roma panduan lengkap untuk wisatawan indonesia, menikmati keindahan spanish steps, spanish steps, roma, italia, wisata kota, landmark, travel guide, wisata menikmati keindahan spanish, panduan menikmati keindahan spanish, tips menikmati keindahan spanish"
+image_alt: "Menikmati Keindahan Spanish Steps di Roma: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/36511361/pexels-photo-36511361.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menikmati Keindahan Spanish Steps di Roma: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

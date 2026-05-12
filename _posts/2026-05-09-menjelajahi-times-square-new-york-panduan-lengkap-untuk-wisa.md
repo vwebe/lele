@@ -4,8 +4,14 @@ title: "Menjelajahi Times Square New York: Panduan Lengkap untuk Wisatawan Indon
 date: 2026-05-09 20:49:58 +0700
 categories: ["times-square"]
 tags: ["times-square", "new-york", "amerika", "city-center", "wisata-kota", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional New York memang selalu menjadi impian banyak pelancong, terutama bagi mereka yang ingin merasakan energi metropolis..."
 image: "https://images.pexels.com/photos/33500625/pexels-photo-33500625.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Times Square New York: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "New York memang selalu menjadi impian banyak pelancong, terutama bagi mereka yang ingin merasakan energi metropolis yang tak pernah tidur. Di jantung kota..."
+excerpt: "New York memang selalu menjadi impian banyak pelancong, terutama bagi mereka yang ingin merasakan energi metropolis yang tak pernah tidur. Di jantung kota..."
+keywords: "menjelajahi times square new york panduan lengkap untuk wisatawan indonesia, menjelajahi times square new, times square, new york, amerika, city center, wisata kota, travel guide, wisata menjelajahi times square, panduan menjelajahi times square, tips menjelajahi times square, kenapa times square menjadi magnet wisata"
+image_alt: "Menjelajahi Times Square New York: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/33500625/pexels-photo-33500625.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Times Square New York: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

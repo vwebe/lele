@@ -4,8 +4,14 @@ title: "Panduan Lengkap Greenwich, London: Hidden Gem yang Wajib Dikunjungi untu
 date: 2026-05-09 02:48:12 +0700
 categories: ["greenwich"]
 tags: ["greenwich", "london", "inggris", "wisata-sejarah", "taman", "travel-guide", "hidden-gem-london"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Greenwich merupakan salah satu daerah daerah bersejarah yang berada di sisi selatan Selatan bagi London dengan..."
 image: "https://images.pexels.com/photos/30528789/pexels-photo-30528789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Greenwich, London: Hidden Gem yang Wajib Dikunjungi untuk Wisata Sejarah dan Alam"
+description: "Greenwich merupakan salah satu daerah daerah bersejarah yang berada di sisi selatan Selatan bagi London dengan menarik menariknya berbagai kehidupan kota..."
+excerpt: "Greenwich merupakan salah satu daerah daerah bersejarah yang berada di sisi selatan Selatan bagi London dengan menarik menariknya berbagai kehidupan kota..."
+keywords: "panduan lengkap greenwich london hidden gem yang wajib dikunjungi untuk wisata sejarah dan alam, panduan lengkap greenwich london, greenwich, london, inggris, wisata sejarah, taman, travel guide, hidden gem london, wisata panduan lengkap greenwich, panduan panduan lengkap greenwich, tips panduan lengkap greenwich"
+image_alt: "Panduan Lengkap Greenwich, London: Hidden Gem yang Wajib Dikunjungi untuk Wisata Sejarah dan Alam"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/30528789/pexels-photo-30528789.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Greenwich, London: Hidden Gem yang Wajib Dikunjungi untuk Wisata Sejarah dan Alam" style="width:100%;height:auto;border-radius:12px;" /></figure>

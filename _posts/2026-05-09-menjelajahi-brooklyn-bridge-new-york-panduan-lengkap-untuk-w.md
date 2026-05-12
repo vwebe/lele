@@ -4,8 +4,14 @@ title: "Menjelajahi Brooklyn Bridge, New York: Panduan Lengkap untuk Wisatawan I
 date: 2026-05-09 22:18:43 +0700
 categories: ["brooklyn-bridge"]
 tags: ["brooklyn-bridge", "new-york", "amerika", "landmark", "city-walk", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Brooklyn Bridge bukan hanya sebuah jembatan ikonik di New York, melainkan juga salah satu destinasi yang wajib masuk..."
 image: "https://images.pexels.com/photos/19798307/pexels-photo-19798307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Brooklyn Bridge, New York: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Brooklyn Bridge bukan hanya sebuah jembatan ikonik di New York, melainkan juga salah satu destinasi yang wajib masuk dalam daftar must‑visit bagi traveler..."
+excerpt: "Brooklyn Bridge bukan hanya sebuah jembatan ikonik di New York, melainkan juga salah satu destinasi yang wajib masuk dalam daftar must‑visit bagi traveler..."
+keywords: "menjelajahi brooklyn bridge new york panduan lengkap untuk wisatawan indonesia, menjelajahi brooklyn bridge new, brooklyn bridge, new york, amerika, landmark, city walk, travel guide, wisata menjelajahi brooklyn bridge, panduan menjelajahi brooklyn bridge, tips menjelajahi brooklyn bridge, sejarah singkat dan daya tarik utama"
+image_alt: "Menjelajahi Brooklyn Bridge, New York: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/19798307/pexels-photo-19798307.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Brooklyn Bridge, New York: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

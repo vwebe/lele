@@ -4,8 +4,14 @@ title: "Menjelajahi Trastevere, Roma: Hidden Gem Italia yang Wajib Dikunjungi Wi
 date: 2026-05-09 04:18:04 +0700
 categories: ["trastevere"]
 tags: ["trastevere", "roma", "italia", "kota-tua", "hidden-gem", "travel-guide", "wisata-budaya", "wisata-kuliner"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Trastevere, sebuah kawasan kecil yang terletak di seberang Sungung Sungai Tiber di pusat kota Roma, menjadi \\nsebuah..."
 image: "https://images.pexels.com/photos/10599776/pexels-photo-10599776.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Trastevere, Roma: Hidden Gem Italia yang Wajib Dikunjungi Wisatawan Indonesia"
+description: "Trastevere, sebuah kawasan kecil yang terletak di seberang Sungung Sungai Tiber di pusat kota Roma, menjadi \\nsebuah hidden gem yang memikat hati para..."
+excerpt: "Trastevere, sebuah kawasan kecil yang terletak di seberang Sungung Sungai Tiber di pusat kota Roma, menjadi \\nsebuah hidden gem yang memikat hati para..."
+keywords: "menjelajahi trastevere roma hidden gem italia yang wajib dikunjungi wisatawan indonesia, menjelajahi trastevere roma hidden, trastevere, roma, italia, kota tua, hidden gem, travel guide, wisata budaya, wisata kuliner, wisata menjelajahi trastevere roma, panduan menjelajahi trastevere roma"
+image_alt: "Menjelajahi Trastevere, Roma: Hidden Gem Italia yang Wajib Dikunjungi Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/10599776/pexels-photo-10599776.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Trastevere, Roma: Hidden Gem Italia yang Wajib Dikunjungi Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

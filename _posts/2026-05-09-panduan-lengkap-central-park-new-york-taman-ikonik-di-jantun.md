@@ -4,8 +4,14 @@ title: "Panduan Lengkap Central Park New York: Taman Ikonik di Jantung Kota Amer
 date: 2026-05-09 19:18:32 +0700
 categories: ["central-park"]
 tags: ["central-park", "new-york", "amerika", "taman-kota", "wisata-kota", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Central Park bukan sekadar taman kota, melainkan jantung hijau yang menyeimbangkan hiruk‑pikr New York. Bagi..."
 image: "https://images.pexels.com/photos/24879253/pexels-photo-24879253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Central Park New York: Taman Ikonik di Jantung Kota Amerika"
+description: "Central Park bukan sekadar taman kota, melainkan jantung hijau yang menyeimbangkan hiruk‑pikr New York. Bagi wisatawan Indonesia, taman ini menawarkan..."
+excerpt: "Central Park bukan sekadar taman kota, melainkan jantung hijau yang menyeimbangkan hiruk‑pikr New York. Bagi wisatawan Indonesia, taman ini menawarkan..."
+keywords: "panduan lengkap central park new york taman ikonik di jantung kota amerika, panduan lengkap central park, central park, new york, amerika, taman kota, wisata kota, travel guide, wisata panduan lengkap central, panduan panduan lengkap central, tips panduan lengkap central, kenapa central park wajib masuk daftar wishlist"
+image_alt: "Panduan Lengkap Central Park New York: Taman Ikonik di Jantung Kota Amerika"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/24879253/pexels-photo-24879253.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Central Park New York: Taman Ikonik di Jantung Kota Amerika" style="width:100%;height:auto;border-radius:12px;" /></figure>

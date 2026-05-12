@@ -4,8 +4,14 @@ title: "Stanley Park Vancouver: Permata Hijau di Jantung Kota Kanada yang Wajib 
 date: 2026-05-11 20:17:17 +0700
 categories: ["stanley-park"]
 tags: ["stanley-park", "vancouver", "kanada", "taman-alam", "wisata-kota", "travel-guide", "wisata-alam", "hidden-gem"]
-excerpt: "Waktu baca: 5 menitWisata Internasional Halo para petualang sejati! Siapa di sini yang mendambakan liburan ke luar negeri dengan pengalaman yang tak..."
 image: "https://images.pexels.com/photos/33310360/pexels-photo-33310360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Stanley Park Vancouver: Permata Hijau di Jantung Kota Kanada yang Wajib Masuk Bucket List Anda!"
+description: "Halo para petualang sejati! Siapa di sini yang mendambakan liburan ke luar negeri dengan pengalaman yang tak terlupakan? Kali ini, saya ingin mengajak Anda..."
+excerpt: "Halo para petualang sejati! Siapa di sini yang mendambakan liburan ke luar negeri dengan pengalaman yang tak terlupakan? Kali ini, saya ingin mengajak Anda..."
+keywords: "stanley park vancouver permata hijau di jantung kota kanada yang wajib masuk bucket list anda, stanley park vancouver permata, stanley park, vancouver, kanada, taman alam, wisata kota, travel guide, wisata alam, hidden gem, wisata stanley park vancouver, panduan stanley park vancouver"
+image_alt: "Stanley Park Vancouver: Permata Hijau di Jantung Kota Kanada yang Wajib Masuk Bucket List Anda!"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/33310360/pexels-photo-33310360.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Stanley Park Vancouver: Permata Hijau di Jantung Kota Kanada yang Wajib Masuk Bucket List Anda!" style="width:100%;height:auto;border-radius:12px;" /></figure>
