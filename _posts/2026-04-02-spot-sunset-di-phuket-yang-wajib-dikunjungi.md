@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Spot Sunset di Phuket yang Wajib Dikunjungi"
-date: 2026-04-02 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/spot-sunset-di-phuket-yang-wajib-dikunjungi.jpg"
 seo_title: "Spot Sunset di Phuket yang Wajib Dikunjungi"
-description: "# Spot [Sunset](https://leletainment.blogspot.com/2026/03/zhangjiajie-jelajahi-pegunungan-avatar.html) di Phuket yang Wajib Dikunjungi Matahari terbenam di..."
-excerpt: "# Spot [Sunset](https://leletainment.blogspot.com/2026/03/zhangjiajie-jelajahi-pegunungan-avatar.html) di Phuket yang Wajib Dikunjungi Matahari terbenam di..."
-keywords: "spot sunset di phuket yang wajib dikunjungi, spot sunset phuket wajib, travel, wisata spot sunset phuket, panduan spot sunset phuket, tips spot sunset phuket"
-image_alt: "Spot Sunset di Phuket yang Wajib Dikunjungi"
+keyword: "spot sunset di phuket yang wajib dikunjungi"
+date: 2026-04-02 16:30:00 +0700
+last_modified_at: 2026-05-12 17:34:31 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@de-nomad-world-442128309)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@de-nomad-world-442128309)"
+keywords: "travel, spot, sunset, phuket, wisata spot sunset phuket, panduan spot sunset phuket, tips spot sunset phuket"
+image: "/assets/images/auto/spot-sunset-di-phuket-yang-wajib-dikunjungi.jpg"
+image_alt: "Spot Sunset di Phuket yang Wajib Dikunjungi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/spot-sunset-di-phuket-yang-wajib-dikunjungi.jpg" | relative_url }}" alt="Spot Sunset di Phuket yang Wajib Dikunjungi" loading="lazy" decoding="async">
@@ -121,4 +126,3 @@ Apapun pilihan Anda, pastikan Anda meluangkan waktu untuk benar-benar menikmatin
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan [menarik lainnya](https://dgxximovie.com/) untuk mengisi waktu santai Anda.
-
