@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Spot Foto Instagramable di Bali yang Anti Mainstream"
-date: 2026-03-28 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/spot-foto-instagramable-di-bali-yang-anti-mainstream.jpg"
 seo_title: "Spot Foto Instagramable di Bali yang Anti Mainstream"
-description: "# [Spot Foto](https://aestethiclele.blogspot.com/2026/03/temukan-hidden-gem-di-bali-selain-ubud.html) Instagramable di Bali yang Anti Mainstream Bali..."
-excerpt: "# [Spot Foto](https://aestethiclele.blogspot.com/2026/03/temukan-hidden-gem-di-bali-selain-ubud.html) Instagramable di Bali yang Anti Mainstream Bali..."
-keywords: "spot foto instagramable di bali yang anti mainstream, spot foto instagramable bali, travel, wisata spot foto instagramable, panduan spot foto instagramable, tips spot foto instagramable"
-image_alt: "Spot Foto Instagramable di Bali yang Anti Mainstream"
+keyword: "spot foto instagramable di bali yang anti mainstream"
+date: 2026-03-28 20:30:00 +0700
+last_modified_at: 2026-05-12 17:33:23 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@capturavisualmoment)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@capturavisualmoment)"
+keywords: "travel, spot, foto, instagramable, bali, anti, mainstream, wisata spot foto instagramable, panduan spot foto instagramable, tips spot foto instagramable"
+image: "/assets/images/auto/spot-foto-instagramable-di-bali-yang-anti-mainstream.jpg"
+image_alt: "Spot Foto Instagramable di Bali yang Anti Mainstream"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/spot-foto-instagramable-di-bali-yang-anti-mainstream.jpg" | relative_url }}" alt="Spot Foto Instagramable di Bali yang Anti Mainstream" loading="lazy" decoding="async">
@@ -93,4 +98,3 @@ Bali memang menawarkan tak terbatas keindahan. Dengan sedikit usaha lebih untuk 
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan [menarik lainnya untuk](https://dgxximovie.com/) mengisi waktu santai Anda.
-
