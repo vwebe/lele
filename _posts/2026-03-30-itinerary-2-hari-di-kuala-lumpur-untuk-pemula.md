@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Itinerary 2 Hari di Kuala Lumpur untuk Pemula"
-date: 2026-03-30 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/itinerary-2-hari-di-kuala-lumpur-untuk-pemula.jpg"
 seo_title: "Itinerary 2 Hari di Kuala Lumpur untuk Pemula"
-description: "# [Itinerary](https://lelenime.blogspot.com/2026/03/sen-to-chihiro-no-kamikakushi-spirited.html) 2 Hari di Kuala Lumpur untuk Pemula Kuala Lumpur, kota yang..."
-excerpt: "# [Itinerary](https://lelenime.blogspot.com/2026/03/sen-to-chihiro-no-kamikakushi-spirited.html) 2 Hari di Kuala Lumpur untuk Pemula Kuala Lumpur, kota yang..."
-keywords: "itinerary 2 hari di kuala lumpur untuk pemula, itinerary hari kuala lumpur, travel, wisata itinerary hari kuala, panduan itinerary hari kuala, tips itinerary hari kuala"
-image_alt: "Itinerary 2 Hari di Kuala Lumpur untuk Pemula"
+keyword: "itinerary 2 hari di kuala lumpur untuk pemula"
+date: 2026-03-30 16:30:00 +0700
+last_modified_at: 2026-05-12 17:33:35 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@ceharabbani)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@ceharabbani)"
+keywords: "travel, itinerary, hari, kuala, lumpur, pemula, wisata itinerary hari kuala, panduan itinerary hari kuala, tips itinerary hari kuala"
+image: "/assets/images/auto/itinerary-2-hari-di-kuala-lumpur-untuk-pemula.jpg"
+image_alt: "Itinerary 2 Hari di Kuala Lumpur untuk Pemula"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/itinerary-2-hari-di-kuala-lumpur-untuk-pemula.jpg" | relative_url }}" alt="Itinerary 2 Hari di Kuala Lumpur untuk Pemula" loading="lazy" decoding="async">
@@ -142,4 +147,3 @@ Dua hari di Kuala Lumpur memang terasa singkat, namun dengan itinerary ini, kamu
 ---
 
 Perjalanan [Anda belum berakhir di](https://dgxximovie.com/) sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
