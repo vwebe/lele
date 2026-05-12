@@ -702,13 +702,11 @@ def make_post_content(row: dict, publish_dt: datetime, anchors=None, urls=None, 
 
     filename = f"{publish_dt.strftime('%Y-%m-%d')}-{slug}.md"
     front_matter = build_front_matter(title, publish_dt, layout, category, tags, excerpt, description, image)
-    image_block = ""
-    if image:
-        image_path_for_html = image.lstrip("/")
-        image_block = f'<img src="{{{{ "{image_path_for_html}" | relative_url }}}}" alt="{title}" loading="lazy" decoding="async">\n\n'
+    # The image is stored in front matter and rendered once by _layouts/post.html as the hero.
+    # Do not inject the same image into the article body.
     credit_block = f'\n\n<p class="image-credit"><em>Image source: Pexels ({image_credit})</em></p>\n' if image_credit else ""
     footer_block = build_footer_block(footer_texts or [], footer_url or "")
-    return filename, f"{front_matter}\n\n{image_block}{content}{credit_block}{footer_block}\n"
+    return filename, f"{front_matter}\n\n{content}{credit_block}{footer_block}\n"
 
 
 def get_google_client():
