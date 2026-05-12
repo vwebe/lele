@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Camden Market, London: Wisata Kuliner, Belanja, dan Budaya Lokal di Jantung Inggris"
-date: 2026-05-08 23:50:31 +0700
-categories: ["camden-market"]
-tags: ["camden-market", "london", "inggris", "street-market", "wisata-kota", "travel-guide", "kuliner", "belanja", "budaya-lokal"]
-image: "https://images.pexels.com/photos/36100297/pexels-photo-36100297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Camden Market, London: Wisata Kuliner, Belanja, dan Budaya Lokal di Jantung Inggris"
-description: "Camden Market adalah salah satu destinasi hidden gem yang wajib dikunjungi bagi traveler Indonesia yang ingin merasakan atmosfer unik kota London. Terletak..."
-excerpt: "Camden Market adalah salah satu destinasi hidden gem yang wajib dikunjungi bagi traveler Indonesia yang ingin merasakan atmosfer unik kota London. Terletak..."
-keywords: "panduan lengkap camden market london wisata kuliner belanja dan budaya lokal di jantung inggris, panduan lengkap camden market, camden market, london, inggris, street market, wisata kota, travel guide, kuliner, belanja, budaya lokal, wisata panduan lengkap camden"
-image_alt: "Panduan Lengkap Camden Market, London: Wisata Kuliner, Belanja, dan Budaya Lokal di Jantung Inggris"
+keyword: "panduan lengkap camden market london wisata kuliner belanja"
+date: 2026-05-08 23:50:31 +0700
+last_modified_at: 2026-05-12 17:48:50 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["camden-market"]
+tags: ["camden-market", "london", "inggris", "street-market", "wisata-kota", "travel-guide", "kuliner", "belanja", "budaya-lokal"]
+description: "Berbeda dengan atraksi klasik seperti Big Ben atau London Eye, Camden Market menawarkan pengalaman yang lebih otentik dan lokal. Anda dapat menjelajahi..."
+excerpt: "Berbeda dengan atraksi klasik seperti Big Ben atau London Eye, Camden Market menawarkan pengalaman yang lebih otentik dan lokal. Anda dapat menjelajahi..."
+keywords: "camden market, london, inggris, street market, wisata kota, travel guide, kuliner, belanja, budaya lokal, wisata camden market, panduan camden market, tips camden market"
+image: "https://images.pexels.com/photos/36100297/pexels-photo-36100297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Camden Market, London: Wisata Kuliner, Belanja, dan Budaya Lokal di Jantung Inggris"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/36100297/pexels-photo-36100297.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Camden Market, London: Wisata Kuliner, Belanja, dan Budaya Lokal di Jantung Inggris" style="width:100%;height:auto;border-radius:12px;" /></figure>
