@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Traveling dengan Anak"
-date: 2026-04-07 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-traveling-dengan-anak.jpg"
 seo_title: "Tips Traveling dengan Anak"
-description: "# Tips Traveling dengan Anak: Biar [Liburan](https://aestethiclele.blogspot.com/2026/03/menjelajahi-keindahan-labuan-cermin.html) Jadi Cerita Seru, Bukan..."
-excerpt: "# Tips Traveling dengan Anak: Biar [Liburan](https://aestethiclele.blogspot.com/2026/03/menjelajahi-keindahan-labuan-cermin.html) Jadi Cerita Seru, Bukan..."
-keywords: "tips traveling dengan anak, tips traveling anak, travel, wisata tips traveling anak, panduan tips traveling anak, tips tips traveling anak"
-image_alt: "Tips Traveling dengan Anak"
+keyword: "tips traveling dengan anak"
+date: 2026-04-07 12:30:00 +0700
+last_modified_at: 2026-05-12 17:35:39 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@n-voitkevich)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@n-voitkevich)"
+keywords: "travel, tips, traveling, anak, wisata tips traveling anak, panduan tips traveling anak, tips tips traveling anak"
+image: "/assets/images/auto/tips-traveling-dengan-anak.jpg"
+image_alt: "Tips Traveling dengan Anak"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-dengan-anak.jpg" | relative_url }}" alt="Tips Traveling dengan Anak" loading="lazy" decoding="async">
@@ -124,4 +129,3 @@ Liburan bersama anak memang menantang, tetapi dengan persiapan yang matang dan s
 ---
 
 Perjalanan Anda belum [berakhir di](https://dgxximovie.com/) sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
