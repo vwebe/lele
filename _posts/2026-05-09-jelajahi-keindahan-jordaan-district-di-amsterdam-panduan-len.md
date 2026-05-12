@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Jelajahi Keindahan Jordaan District di Amsterdam: Panduan Lengkap untuk Wisatawan Indonesia"
-date: 2026-05-09 08:51:11 +0700
-categories: ["jordaan"]
-tags: ["jordaan", "amsterdam", "belanda", "kota-tua", "hidden-gem", "travel-guide", "wisata-budaya", "wisata-alam", "liburan-internasional"]
-image: "https://images.pexels.com/photos/34217731/pexels-photo-34217731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Jelajahi Keindahan Jordaan District di Amsterdam: Panduan Lengkap untuk Wisatawan Indonesia"
-description: "Amsterdam, ibu kota Belanda, memang terkenal dengan kanal-kanalnya yang ikonik, museum kelas dunia, dan suasana liberal yang memikat. Namun, di balik..."
-excerpt: "Amsterdam, ibu kota Belanda, memang terkenal dengan kanal-kanalnya yang ikonik, museum kelas dunia, dan suasana liberal yang memikat. Namun, di balik..."
-keywords: "jelajahi keindahan jordaan district di amsterdam panduan lengkap untuk wisatawan indonesia, jelajahi keindahan jordaan district, jordaan, amsterdam, belanda, kota tua, hidden gem, travel guide, wisata budaya, wisata alam, liburan internasional, wisata jelajahi keindahan jordaan"
-image_alt: "Jelajahi Keindahan Jordaan District di Amsterdam: Panduan Lengkap untuk Wisatawan Indonesia"
+keyword: "jelajahi keindahan jordaan district di amsterdam panduan len"
+date: 2026-05-09 08:51:11 +0700
+last_modified_at: 2026-05-12 17:49:03 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["jordaan"]
+tags: ["jordaan", "amsterdam", "belanda", "kota-tua", "hidden-gem", "travel-guide", "wisata-budaya", "wisata-alam", "liburan-internasional"]
+description: "Jordaan berada di jantung kota tua Amsterdam, tepatnya di sebelah barat kanal Singel. Dikenal dengan jalan‑jalan berbatu, rumah‑rumah bergaya kanal klasik,..."
+excerpt: "Jordaan berada di jantung kota tua Amsterdam, tepatnya di sebelah barat kanal Singel. Dikenal dengan jalan‑jalan berbatu, rumah‑rumah bergaya kanal klasik,..."
+keywords: "jordaan, amsterdam, belanda, kota tua, hidden gem, travel guide, wisata budaya, wisata alam, liburan internasional, jelajahi, keindahan, district"
+image: "https://images.pexels.com/photos/34217731/pexels-photo-34217731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Jelajahi Keindahan Jordaan District di Amsterdam: Panduan Lengkap untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/34217731/pexels-photo-34217731.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Jelajahi Keindahan Jordaan District di Amsterdam: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
