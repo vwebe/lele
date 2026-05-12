@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Liburan ke Jepang Budget Hemat"
-date: 2026-04-01 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-liburan-ke-jepang-budget-hemat.jpg"
 seo_title: "Panduan Liburan ke Jepang Budget Hemat"
-description: "# Petualangan Seru di Negeri Sakura Tanpa Menguras Kantong: Panduan..."
-excerpt: "# Petualangan Seru di Negeri Sakura Tanpa Menguras Kantong: Panduan..."
-keywords: "panduan liburan ke jepang budget hemat, panduan liburan jepang budget, travel, wisata panduan liburan jepang, panduan panduan liburan jepang, tips panduan liburan jepang"
-image_alt: "Panduan Liburan ke Jepang Budget Hemat"
+keyword: "panduan liburan ke jepang budget hemat"
+date: 2026-04-01 07:00:00 +0700
+last_modified_at: 2026-05-12 17:34:17 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@george-pak)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@george-pak)"
+keywords: "travel, liburan, jepang, budget, hemat, wisata liburan jepang budget, panduan liburan jepang budget, tips liburan jepang budget"
+image: "/assets/images/auto/panduan-liburan-ke-jepang-budget-hemat.jpg"
+image_alt: "Panduan Liburan ke Jepang Budget Hemat"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-jepang-budget-hemat.jpg" | relative_url }}" alt="Panduan Liburan ke Jepang Budget Hemat" loading="lazy" decoding="async">
@@ -142,4 +147,3 @@ Liburan ke Jepang dengan budget hemat memang membutuhkan sedikit usaha ekstra da
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk [mengisi waktu](https://dgxximovie.com/) santai Anda.
-
