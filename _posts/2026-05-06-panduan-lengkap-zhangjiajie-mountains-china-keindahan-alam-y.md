@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Zhangjiajie Mountains, China: Keindahan Alam yang Memukau untuk Wisatawan Indonesia"
-date: 2026-05-06 20:48:17 +0700
-categories: ["zhangjiajie"]
-tags: ["zhangjiajie", "china", "pegunungan", "wisata-alam", "asia", "travel-guide"]
-image: "https://images.pexels.com/photos/34683511/pexels-photo-34683511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Zhangjiajie Mountains, China: Keindahan Alam yang Memukau untuk Wisatawan Indonesia"
-description: "Zhangjiajie Mountains, China, menjadi salah satu destinasi wisata alam yang semakin populer di kalangan traveler Indonesia. Terkenal dengan puncak‑puncak..."
-excerpt: "Zhangjiajie Mountains, China, menjadi salah satu destinasi wisata alam yang semakin populer di kalangan traveler Indonesia. Terkenal dengan puncak‑puncak..."
-keywords: "panduan lengkap zhangjiajie mountains china keindahan alam yang memukau untuk wisatawan indonesia, panduan lengkap zhangjiajie mountains, zhangjiajie, china, pegunungan, wisata alam, asia, travel guide, wisata panduan lengkap zhangjiajie, panduan panduan lengkap zhangjiajie, tips panduan lengkap zhangjiajie, mengenal zhangjiajie mountains china"
-image_alt: "Panduan Lengkap Zhangjiajie Mountains, China: Keindahan Alam yang Memukau untuk Wisatawan Indonesia"
+keyword: "panduan lengkap zhangjiajie mountains china keindahan alam y"
+date: 2026-05-06 20:48:17 +0700
+last_modified_at: 2026-05-12 17:45:45 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["zhangjiajie"]
+tags: ["zhangjiajie", "china", "pegunungan", "wisata-alam", "asia", "travel-guide"]
+description: "Terletak di provinsi Hunan, Zhangjiajie Mountains merupakan rangkaian pegunungan batu pasir yang terbentuk selama jutaan tahun. UNESCO mengakui kawasan ini..."
+excerpt: "Terletak di provinsi Hunan, Zhangjiajie Mountains merupakan rangkaian pegunungan batu pasir yang terbentuk selama jutaan tahun. UNESCO mengakui kawasan ini..."
+keywords: "zhangjiajie, china, pegunungan, wisata alam, asia, travel guide, mountains, keindahan, wisata zhangjiajie mountains china, panduan zhangjiajie mountains china, tips zhangjiajie mountains china, mengenal zhangjiajie mountains china"
+image: "https://images.pexels.com/photos/34683511/pexels-photo-34683511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Zhangjiajie Mountains, China: Keindahan Alam yang Memukau untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/34683511/pexels-photo-34683511.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Zhangjiajie Mountains, China: Keindahan Alam yang Memukau untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
