@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Foto Travel Pakai HP"
-date: 2026-04-01 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-foto-travel-pakai-hp.jpg"
 seo_title: "Tips Foto Travel Pakai HP"
-description: "# Mengabadikan Momen [Liburan](https://lelenime.blogspot.com/2026/03/haikyuu-mengungkap-siapa-spiker-terbaik.html): Tips Jitu Foto Travel Ciamik Pakai HP..."
-excerpt: "# Mengabadikan Momen [Liburan](https://lelenime.blogspot.com/2026/03/haikyuu-mengungkap-siapa-spiker-terbaik.html): Tips Jitu Foto Travel Ciamik Pakai HP..."
-keywords: "tips foto travel pakai hp, tips foto travel pakai, travel, wisata tips foto travel, panduan tips foto travel, tips tips foto travel"
-image_alt: "Tips Foto Travel Pakai HP"
+keyword: "tips foto travel pakai hp"
+date: 2026-04-01 20:30:00 +0700
+last_modified_at: 2026-05-12 17:34:21 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@photograph)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@photograph)"
+keywords: "travel, tips, foto, pakai, wisata tips foto travel, panduan tips foto travel, tips tips foto travel"
+image: "/assets/images/auto/tips-foto-travel-pakai-hp.jpg"
+image_alt: "Tips Foto Travel Pakai HP"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-foto-travel-pakai-hp.jpg" | relative_url }}" alt="Tips Foto Travel Pakai HP" loading="lazy" decoding="async">
@@ -103,4 +108,3 @@ Mengabadikan momen liburan pakai HP itu sekarang bukan lagi pilihan kelas dua. D
 ---
 
 Perjalanan Anda belum berakhir [di sini. Temukan](https://dgxximovie.com/) juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
