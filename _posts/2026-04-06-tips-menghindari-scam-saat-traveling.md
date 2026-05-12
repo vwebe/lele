@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Menghindari Scam Saat Traveling"
-date: 2026-04-06 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-menghindari-scam-saat-traveling.jpg"
 seo_title: "Tips Menghindari Scam Saat Traveling"
-description: "# Waspada! Jangan Sampai Liburanmu Berakhir Jadi Mimpi Buruk Gara-gara Kena Scam Siapa sih yang nggak suka liburan? Saya juga sama, rasanya pengen banget..."
-excerpt: "# Waspada! Jangan Sampai Liburanmu Berakhir Jadi Mimpi Buruk Gara-gara Kena Scam Siapa sih yang nggak suka liburan? Saya juga sama, rasanya pengen banget..."
-keywords: "tips menghindari scam saat traveling, tips menghindari scam saat, travel, wisata tips menghindari scam, panduan tips menghindari scam, tips tips menghindari scam"
-image_alt: "Tips Menghindari Scam Saat Traveling"
+keyword: "tips menghindari scam saat traveling"
+date: 2026-04-06 07:00:00 +0700
+last_modified_at: 2026-05-12 17:35:29 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@photograph)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@photograph)"
+keywords: "travel, tips, menghindari, scam, saat, traveling, wisata tips menghindari scam, panduan tips menghindari scam, tips tips menghindari scam"
+image: "/assets/images/auto/tips-menghindari-scam-saat-traveling.jpg"
+image_alt: "Tips Menghindari Scam Saat Traveling"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-menghindari-scam-saat-traveling.jpg" | relative_url }}" alt="Tips Menghindari Scam Saat Traveling" loading="lazy" decoding="async">
@@ -87,4 +92,3 @@ Liburan itu seharusnya jadi momen untuk mengisi ulang energi, bukan malah jadi s
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai [inspirasi wisata dan](https://dgxximovie.com/) hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
