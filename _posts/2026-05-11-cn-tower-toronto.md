@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menaklukkan Ketinggian: Panduan Lengkap Mengunjungi CN Tower Toronto, Ikon Kanada yang Wajib Didatangi"
-date: 2026-05-11 20:17:36 +0700
-categories: ["cn-tower"]
-tags: ["cn-tower", "toronto", "kanada", "city-landmark", "wisata-kota", "travel-guide", "wisata-alam-luar-negeri", "wisata-budaya-luar-negeri"]
-image: "https://images.pexels.com/photos/18126664/pexels-photo-18126664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menaklukkan Ketinggian: Panduan Lengkap Mengunjungi CN Tower Toronto, Ikon Kanada yang Wajib Didatangi"
-description: "Halo para pencinta traveling! Siapa di sini yang bermimpi menjelajahi keindahan Kanada? Jika ya, maka ada satu destinasi yang tak boleh terlewatkan dalam..."
-excerpt: "Halo para pencinta traveling! Siapa di sini yang bermimpi menjelajahi keindahan Kanada? Jika ya, maka ada satu destinasi yang tak boleh terlewatkan dalam..."
-keywords: "menaklukkan ketinggian panduan lengkap mengunjungi cn tower toronto ikon kanada yang wajib didatangi, menaklukkan ketinggian panduan lengkap, cn tower, toronto, kanada, city landmark, wisata kota, travel guide, wisata alam luar negeri, wisata budaya luar negeri, wisata menaklukkan ketinggian panduan, panduan menaklukkan ketinggian panduan"
-image_alt: "Menaklukkan Ketinggian: Panduan Lengkap Mengunjungi CN Tower Toronto, Ikon Kanada yang Wajib Didatangi"
+keyword: "cn tower toronto"
+date: 2026-05-11 20:17:36 +0700
+last_modified_at: 2026-05-12 17:50:53 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["cn-tower"]
+tags: ["cn-tower", "toronto", "kanada", "city-landmark", "wisata-kota", "travel-guide", "wisata-alam-luar-negeri", "wisata-budaya-luar-negeri"]
+description: "Dibangun pada tahun 1976, CN Tower telah menjadi simbol kebanggaan kota Toronto dan Kanada. Dengan ketinggian mencapai 553,3 meter, menara ini pernah..."
+excerpt: "Dibangun pada tahun 1976, CN Tower telah menjadi simbol kebanggaan kota Toronto dan Kanada. Dengan ketinggian mencapai 553,3 meter, menara ini pernah..."
+keywords: "cn tower, toronto, kanada, city landmark, wisata kota, travel guide, wisata alam luar negeri, wisata budaya luar negeri, wisata cn tower, panduan cn tower, tips cn tower, cn tower toronto lebih dari sekadar menara tinggi"
+image: "https://images.pexels.com/photos/18126664/pexels-photo-18126664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menaklukkan Ketinggian: Panduan Lengkap Mengunjungi CN Tower Toronto, Ikon Kanada yang Wajib Didatangi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/18126664/pexels-photo-18126664.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menaklukkan Ketinggian: Panduan Lengkap Mengunjungi CN Tower Toronto, Ikon Kanada yang Wajib Didatangi" style="width:100%;height:auto;border-radius:12px;" /></figure>
