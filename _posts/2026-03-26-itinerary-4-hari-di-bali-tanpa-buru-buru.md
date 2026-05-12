@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Itinerary 4 Hari di Bali Tanpa Buru-Buru"
-date: 2026-03-26 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/itinerary-4-hari-di-bali-tanpa-buru-buru.jpg"
 seo_title: "Itinerary 4 Hari di Bali Tanpa Buru-Buru"
-description: "# Itinerary 4 Hari di Bali Tanpa Buru-Buru Bali, pulau dewata yang tak pernah kehabisan pesona. Seringkali, membicarakan Bali langsung terbayang hiruk pikuk..."
-excerpt: "# Itinerary 4 Hari di Bali Tanpa Buru-Buru Bali, pulau dewata yang tak pernah kehabisan pesona. Seringkali, membicarakan Bali langsung terbayang hiruk pikuk..."
-keywords: "itinerary 4 hari di bali tanpa buru buru, itinerary hari bali tanpa, travel, wisata itinerary hari bali, panduan itinerary hari bali, tips itinerary hari bali"
-image_alt: "Itinerary 4 Hari di Bali Tanpa Buru-Buru"
+keyword: "itinerary 4 hari di bali tanpa buru buru"
+date: 2026-03-26 16:30:00 +0700
+last_modified_at: 2026-05-12 17:32:37 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@nurseryart)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@nurseryart)"
+keywords: "travel, itinerary, hari, bali, tanpa, buru, wisata itinerary hari bali, panduan itinerary hari bali, tips itinerary hari bali"
+image: "/assets/images/auto/itinerary-4-hari-di-bali-tanpa-buru-buru.jpg"
+image_alt: "Itinerary 4 Hari di Bali Tanpa Buru-Buru"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/itinerary-4-hari-di-bali-tanpa-buru-buru.jpg" | relative_url }}" alt="Itinerary 4 Hari di Bali Tanpa Buru-Buru" loading="lazy" decoding="async">
@@ -87,4 +92,3 @@ Empat hari di Bali tanpa terburu-buru memang terasa singkat, tapi dengan perenca
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi [wisata dan](https://dgxximovie.com/) hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
