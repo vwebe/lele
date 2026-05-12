@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Canal Saint-Martin Paris: Hidden Gem Romantis di Jantung Kota Cahaya"
-date: 2026-05-12 08:33:20 +0700
-categories: ["canal-saint-martin"]
-tags: ["canal-saint-martin", "paris", "prancis", "wisata-kota", "hidden-gem", "travel-guide", "canal-saint-martin"]
-image: "https://images.pexels.com/photos/2239471/pexels-photo-2239471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Canal Saint-Martin Paris: Hidden Gem Romantis di Jantung Kota Cahaya"
-description: "Paris, kota cinta yang tak pernah lekang oleh waktu. Siapa yang tidak terpesona dengan Menara Eiffel yang megah, museum Louvre yang menyimpan sejuta karya..."
-excerpt: "Paris, kota cinta yang tak pernah lekang oleh waktu. Siapa yang tidak terpesona dengan Menara Eiffel yang megah, museum Louvre yang menyimpan sejuta karya..."
-keywords: "canal saint martin paris hidden gem romantis di jantung kota cahaya, canal saint martin paris, canal saint martin, paris, prancis, wisata kota, hidden gem, travel guide, wisata canal saint martin, panduan canal saint martin, tips canal saint martin, menyelami pesona canal saint martin"
-image_alt: "Canal Saint-Martin Paris: Hidden Gem Romantis di Jantung Kota Cahaya"
+keyword: "canal saint martin paris"
+date: 2026-05-12 08:33:20 +0700
+last_modified_at: 2026-05-12 17:51:12 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["canal-saint-martin"]
+tags: ["canal-saint-martin", "paris", "prancis", "wisata-kota", "hidden-gem", "travel-guide", "canal-saint-martin"]
+description: "Canal Saint-Martin adalah sebuah kanal buatan sepanjang 4,5 kilometer yang dibangun pada abad ke-19. Kanal ini menghubungkan Sungai Marne dengan Sungai..."
+excerpt: "Canal Saint-Martin adalah sebuah kanal buatan sepanjang 4,5 kilometer yang dibangun pada abad ke-19. Kanal ini menghubungkan Sungai Marne dengan Sungai..."
+keywords: "canal saint martin, paris, prancis, wisata kota, hidden gem, travel guide, wisata canal saint martin, panduan canal saint martin, tips canal saint martin, menyelami pesona canal saint martin"
+image: "https://images.pexels.com/photos/2239471/pexels-photo-2239471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Canal Saint-Martin Paris: Hidden Gem Romantis di Jantung Kota Cahaya"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/2239471/pexels-photo-2239471.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Canal Saint-Martin Paris: Hidden Gem Romantis di Jantung Kota Cahaya" style="width:100%;height:auto;border-radius:12px;" /></figure>
