@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Ban Gioc Waterfall Vietnam: Hidden Gem Asia yang Wajib Dikunjungi"
-date: 2026-05-06 17:47:30 +0700
-categories: ["ban-gioc-waterfall"]
-tags: ["ban-gioc-waterfall", "vietnam", "air-terjun", "asia", "wisata-alam", "hidden-gem", "travel-guide"]
-image: "https://images.pexels.com/photos/12759057/pexels-photo-12759057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Ban Gioc Waterfall Vietnam: Hidden Gem Asia yang Wajib Dikunjungi"
-description: "Jika Anda mencari destinasi alam yang memesona sekaligus jarang dijamah turis mainstream, Ban Gioc Waterfall di Vietnam layak masuk dalam daftar impian..."
-excerpt: "Jika Anda mencari destinasi alam yang memesona sekaligus jarang dijamah turis mainstream, Ban Gioc Waterfall di Vietnam layak masuk dalam daftar impian..."
-keywords: "panduan lengkap ban gioc waterfall vietnam hidden gem asia yang wajib dikunjungi, panduan lengkap ban gioc, ban gioc waterfall, vietnam, air terjun, asia, wisata alam, hidden gem, travel guide, wisata panduan lengkap ban, panduan panduan lengkap ban, tips panduan lengkap ban"
-image_alt: "Panduan Lengkap Ban Gioc Waterfall Vietnam: Hidden Gem Asia yang Wajib Dikunjungi"
+keyword: "panduan lengkap ban gioc waterfall vietnam hidden gem asia y"
+date: 2026-05-06 17:47:30 +0700
+last_modified_at: 2026-05-12 17:45:26 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["ban-gioc-waterfall"]
+tags: ["ban-gioc-waterfall", "vietnam", "air-terjun", "asia", "wisata-alam", "hidden-gem", "travel-guide"]
+description: "Ban Gioc Waterfall berada di provinsi Cao Bang, sebelah timur laut Vietnam, tepatnya di desa Ban Gioc, huyện Quảng Uyên. Jaraknya sekitar 450 km dari Hanoi,..."
+excerpt: "Ban Gioc Waterfall berada di provinsi Cao Bang, sebelah timur laut Vietnam, tepatnya di desa Ban Gioc, huyện Quảng Uyên. Jaraknya sekitar 450 km dari Hanoi,..."
+keywords: "ban gioc waterfall, vietnam, air terjun, asia, wisata alam, hidden gem, travel guide, wisata ban gioc waterfall, panduan ban gioc waterfall, tips ban gioc waterfall, lokasi dan akses"
+image: "https://images.pexels.com/photos/12759057/pexels-photo-12759057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Ban Gioc Waterfall Vietnam: Hidden Gem Asia yang Wajib Dikunjungi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/12759057/pexels-photo-12759057.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Ban Gioc Waterfall Vietnam: Hidden Gem Asia yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>
