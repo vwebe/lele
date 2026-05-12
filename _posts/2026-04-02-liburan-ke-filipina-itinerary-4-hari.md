@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Liburan ke Filipina: Itinerary 4 Hari"
-date: 2026-04-02 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/liburan-ke-filipina-itinerary-4-hari.jpg"
 seo_title: "Liburan ke Filipina: Itinerary 4 Hari"
-description: "# [Liburan](https://lelefilm.blogspot.com/2026/03/review-film-conjuring-2013-kisah-nyata.html) ke Filipina..."
-excerpt: "# [Liburan](https://lelefilm.blogspot.com/2026/03/review-film-conjuring-2013-kisah-nyata.html) ke Filipina..."
-keywords: "liburan ke filipina itinerary 4 hari, liburan filipina itinerary hari, travel, wisata liburan filipina itinerary, panduan liburan filipina itinerary, tips liburan filipina itinerary"
-image_alt: "Liburan ke Filipina: Itinerary 4 Hari"
+keyword: "liburan ke filipina itinerary 4 hari"
+date: 2026-04-02 20:30:00 +0700
+last_modified_at: 2026-05-12 17:34:28 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@zhicheng-zhang-312594413)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@zhicheng-zhang-312594413)"
+keywords: "travel, liburan, filipina, itinerary, hari, wisata liburan filipina itinerary, panduan liburan filipina itinerary, tips liburan filipina itinerary"
+image: "/assets/images/auto/liburan-ke-filipina-itinerary-4-hari.jpg"
+image_alt: "Liburan ke Filipina: Itinerary 4 Hari"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/liburan-ke-filipina-itinerary-4-hari.jpg" | relative_url }}" alt="Liburan ke Filipina: Itinerary 4 Hari" loading="lazy" decoding="async">
@@ -86,4 +91,3 @@ Liburan empat hari ke Filipina, khususnya ke Manila dan sekitarnya, memang teras
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik [lainnya untuk](https://dgxximovie.com/) mengisi waktu santai Anda.
-
