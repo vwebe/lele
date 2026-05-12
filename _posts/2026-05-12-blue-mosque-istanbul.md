@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Blue Mosque Istanbul: Pesona Masjid Biru yang Memukau di Jantung Turki"
-date: 2026-05-12 02:32:35 +0700
-categories: ["blue-mosque"]
-tags: ["blue-mosque", "istanbul", "turki", "wisata-religi", "landmark", "travel-guide"]
-image: "https://images.pexels.com/photos/33461796/pexels-photo-33461796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Blue Mosque Istanbul: Pesona Masjid Biru yang Memukau di Jantung Turki"
-description: "Halo para petualang! Siapa di sini yang punya impian menjelajahi keindahan Turki? Negeri yang kaya akan sejarah dan budaya ini selalu punya pesona..."
-excerpt: "Halo para petualang! Siapa di sini yang punya impian menjelajahi keindahan Turki? Negeri yang kaya akan sejarah dan budaya ini selalu punya pesona..."
-keywords: "blue mosque istanbul pesona masjid biru yang memukau di jantung turki, blue mosque istanbul pesona, blue mosque, istanbul, turki, wisata religi, landmark, travel guide, wisata blue mosque istanbul, panduan blue mosque istanbul, tips blue mosque istanbul, menyingkap keindahan arsitektur blue mosque istanbul"
-image_alt: "Blue Mosque Istanbul: Pesona Masjid Biru yang Memukau di Jantung Turki"
+keyword: "blue mosque istanbul"
+date: 2026-05-12 02:32:35 +0700
+last_modified_at: 2026-05-12 17:51:09 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["blue-mosque"]
+tags: ["blue-mosque", "istanbul", "turki", "wisata-religi", "landmark", "travel-guide"]
+description: "Blue Mosque, yang secara resmi dikenal sebagai Masjid Sultan Ahmed, dibangun pada masa pemerintahan Sultan Ahmed I antara tahun 1609 hingga 1616. Keunikan..."
+excerpt: "Blue Mosque, yang secara resmi dikenal sebagai Masjid Sultan Ahmed, dibangun pada masa pemerintahan Sultan Ahmed I antara tahun 1609 hingga 1616. Keunikan..."
+keywords: "blue mosque, istanbul, turki, wisata religi, landmark, travel guide, wisata blue mosque, panduan blue mosque, tips blue mosque, menyingkap keindahan arsitektur blue mosque istanbul"
+image: "https://images.pexels.com/photos/33461796/pexels-photo-33461796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Blue Mosque Istanbul: Pesona Masjid Biru yang Memukau di Jantung Turki"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/33461796/pexels-photo-33461796.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Blue Mosque Istanbul: Pesona Masjid Biru yang Memukau di Jantung Turki" style="width:100%;height:auto;border-radius:12px;" /></figure>
