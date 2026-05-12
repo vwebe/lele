@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Mengunjungi Sagrada Familia Barcelona: Keajaiban Arsitektur Gaudí di Jantung Spanyol"
-date: 2026-05-09 13:35:45 +0700
-categories: ["sagrada-familia"]
-tags: ["sagrada-familia", "barcelona", "spanyol", "landmark", "wisata-sejarah", "travel-guide", "gaudi"]
-image: "https://images.pexels.com/photos/12809590/pexels-photo-12809590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Mengunjungi Sagrada Familia Barcelona: Keajaiban Arsitektur Gaudí di Jantung Spanyol"
-description: "Barcelona, kota yang tak pernah kehabisan pesona, menyimpan satu mahakarya arsitektur yang menjadi magnet wisatawan dari seluruh dunia: Sagrada Familia..."
-excerpt: "Barcelona, kota yang tak pernah kehabisan pesona, menyimpan satu mahakarya arsitektur yang menjadi magnet wisatawan dari seluruh dunia: Sagrada Familia..."
-keywords: "panduan lengkap mengunjungi sagrada familia barcelona keajaiban arsitektur gaudí di jantung spanyol, panduan lengkap mengunjungi sagrada, sagrada familia, barcelona, spanyol, landmark, wisata sejarah, travel guide, gaudi, wisata panduan lengkap mengunjungi, panduan panduan lengkap mengunjungi, tips panduan lengkap mengunjungi"
-image_alt: "Panduan Lengkap Mengunjungi Sagrada Familia Barcelona: Keajaiban Arsitektur Gaudí di Jantung Spanyol"
+keyword: "panduan lengkap mengunjungi sagrada familia barcelona keajai"
+date: 2026-05-09 13:35:45 +0700
+last_modified_at: 2026-05-12 17:49:37 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["sagrada-familia"]
+tags: ["sagrada-familia", "barcelona", "spanyol", "landmark", "wisata-sejarah", "travel-guide", "gaudi"]
+description: "Berbeda dengan gereja-gereja tradisional, Sagrada Familia memadukan gaya Gotik dengan bentuk organik yang terinspirasi dari alam. Setiap detail – dari..."
+excerpt: "Berbeda dengan gereja-gereja tradisional, Sagrada Familia memadukan gaya Gotik dengan bentuk organik yang terinspirasi dari alam. Setiap detail – dari..."
+keywords: "sagrada familia, barcelona, spanyol, landmark, wisata sejarah, travel guide, gaudi, mengunjungi, keajai, wisata sagrada familia, panduan sagrada familia, tips sagrada familia"
+image: "https://images.pexels.com/photos/12809590/pexels-photo-12809590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Mengunjungi Sagrada Familia Barcelona: Keajaiban Arsitektur Gaudí di Jantung Spanyol"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/12809590/pexels-photo-12809590.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Mengunjungi Sagrada Familia Barcelona: Keajaiban Arsitektur Gaudí di Jantung Spanyol" style="width:100%;height:auto;border-radius:12px;" /></figure>
