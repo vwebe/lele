@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Itinerary Jogja 3 Hari untuk Liburan Santai"
-date: 2026-03-27 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/itinerary-jogja-3-hari-untuk-liburan-santai.jpg"
 seo_title: "Itinerary Jogja 3 Hari untuk Liburan Santai"
-description: "# [Itinerary](https://aestethiclele.blogspot.com/2026/03/pulau-seram-hidden-gem-di-maluku-yang.html) Jogja 3 Hari untuk..."
-excerpt: "# [Itinerary](https://aestethiclele.blogspot.com/2026/03/pulau-seram-hidden-gem-di-maluku-yang.html) Jogja 3 Hari untuk..."
-keywords: "itinerary jogja 3 hari untuk liburan santai, itinerary jogja hari liburan, travel, wisata itinerary jogja hari, panduan itinerary jogja hari, tips itinerary jogja hari"
-image_alt: "Itinerary Jogja 3 Hari untuk Liburan Santai"
+keyword: "itinerary jogja 3 hari untuk liburan santai"
+date: 2026-03-27 20:30:00 +0700
+last_modified_at: 2026-05-12 17:33:10 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@n-voitkevich)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@n-voitkevich)"
+keywords: "travel, itinerary, jogja, hari, liburan, santai, wisata itinerary jogja hari, panduan itinerary jogja hari, tips itinerary jogja hari"
+image: "/assets/images/auto/itinerary-jogja-3-hari-untuk-liburan-santai.jpg"
+image_alt: "Itinerary Jogja 3 Hari untuk Liburan Santai"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/itinerary-jogja-3-hari-untuk-liburan-santai.jpg" | relative_url }}" alt="Itinerary Jogja 3 Hari untuk Liburan Santai" loading="lazy" decoding="async">
@@ -74,4 +79,3 @@ Jogja memang punya banyak hal untuk ditawarkan, dan tiga hari adalah waktu yang 
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai [inspirasi wisata](https://dgxximovie.com/) dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
