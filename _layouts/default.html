@@ -1,66 +1,131 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="{{ page.lang | default: site.lang | default: 'id' }}">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="Ukz7ceHF3UpHTpaIo68QHjc9C7SwEAZjBNprhW_0mgU" />
 
-  <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }} | {{ site.description }}{% endif %}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="author" content="Lele Nyasar">
-  <meta name="robots" content="index, follow">
-  <link rel="canonical" href="{{ page.url | prepend: site.url }}">
+  {% assign site_title = site.title | default: 'Lele Nyasar' %}
+  {% assign site_desc = site.description | default: 'Catatan travel, itinerary, dan tips perjalanan ke seluruh dunia.' %}
+  {% assign page_title = page.seo_title | default: page.title | default: site_title %}
+  {% assign raw_desc = page.description | default: page.excerpt | default: site_desc %}
+  {% assign meta_desc = raw_desc | strip_html | strip_newlines | replace: 'Waktu baca:', '' | replace: 'Waktu baca', '' | replace: 'Wisata Internasional', '' | replace: 'Daftar Isi', '' | replace: 'Bagikan artikel ini', '' | truncate: 160 %}
+  {% assign canonical_url = page.canonical_url | default: page.url | absolute_url %}
+  {% assign meta_keywords = page.keywords | default: '' %}
+  {% if meta_keywords == '' and page.tags %}{% assign meta_keywords = page.tags | join: ', ' %}{% endif %}
+  {% if meta_keywords == '' %}{% assign meta_keywords = site.keywords | default: site_title %}{% endif %}
+  {% assign image_source = page.image | default: site.logo | default: '/assets/images/logo.png' %}
+  {% if image_source contains 'http' %}{% assign image_url = image_source %}{% else %}{% assign image_url = image_source | absolute_url %}{% endif %}
+  {% assign image_alt = page.image_alt | default: page_title %}
+
+  <title>{% if page.title %}{{ page_title | escape }} — {{ site_title | escape }}{% else %}{{ site_title | escape }} | {{ site_desc | escape }}{% endif %}</title>
+  <meta name="description" content="{{ meta_desc | escape }}">
+  <meta name="keywords" content="{{ meta_keywords | escape }}">
+  <meta name="author" content="{{ site.author | default: site_title | escape }}">
+  <meta name="robots" content="{{ page.robots | default: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1' }}">
+  <meta name="googlebot" content="{{ page.googlebot | default: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1' }}">
+  <link rel="canonical" href="{{ canonical_url }}">
+  {% if paginator and paginator.previous_page %}<link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}">{% endif %}
+  {% if paginator and paginator.next_page %}<link rel="next" href="{{ paginator.next_page_path | absolute_url }}">{% endif %}
 
   <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-  <meta property="og:url" content="{{ page.url | prepend: site.url }}">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{% if page.image %}{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ page.image | prepend: site.url }}{% endif %}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}">
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:locale" content="id_ID">
+  <meta property="og:url" content="{{ canonical_url }}">
+  <meta property="og:title" content="{{ page_title | escape }}">
+  <meta property="og:description" content="{{ meta_desc | escape }}">
+  <meta property="og:image" content="{{ image_url }}">
+  <meta property="og:image:alt" content="{{ image_alt | escape }}">
+  <meta property="og:site_name" content="{{ site_title | escape }}">
+  <meta property="og:locale" content="{{ site.locale | default: 'id_ID' }}">
+
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.image %}{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ page.image | prepend: site.url }}{% endif %}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}">
+  <meta name="twitter:title" content="{{ page_title | escape }}">
+  <meta name="twitter:description" content="{{ meta_desc | escape }}">
+  <meta name="twitter:image" content="{{ image_url }}">
+  <meta name="twitter:image:alt" content="{{ image_alt | escape }}">
+  {% if site.twitter.username %}<meta name="twitter:site" content="@{{ site.twitter.username }}">{% endif %}
 
   {% if page.layout == 'post' %}
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-  <meta property="article:author" content="Lele Nyasar">
+  <meta property="article:modified_time" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}">
+  <meta property="article:author" content="{{ site.author | default: site_title | escape }}">
+  {% if page.categories and page.categories.size > 0 %}<meta property="article:section" content="{{ page.categories | first | escape }}">{% endif %}
+  {% for tag in page.tags %}<meta property="article:tag" content="{{ tag | escape }}">{% endfor %}
   {% endif %}
 
   <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/favicon-180x180.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/images/favicon-192x192.png' | relative_url }}">
-  <meta name="theme-color" content="#0a0a0a">
+  <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
+  <meta name="theme-color" content="{{ site.theme_color | default: '#0a0a0a' }}">
+  <meta name="format-detection" content="telephone=no">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
 
   {% feed_meta %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site_title | escape }} Feed" href="{{ '/feed.xml' | absolute_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "{% if page.layout == 'post' %}BlogPosting{% else %}WebSite{% endif %}",
-    "name": "{{ site.title }}",
+    "@type": "Organization",
+    "@id": "{{ site.url }}/#organization",
+    "name": {{ site_title | jsonify }},
     "url": "{{ site.url }}",
-    "description": "{{ site.description }}",
-    {% if page.layout == 'post' %}
-    "headline": "{{ page.title | escape }}",
-    "datePublished": "{{ page.date | date_to_xmlschema }}",
-    "image": "{% if page.image %}{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ page.image | prepend: site.url }}{% endif %}{% else %}{{ '/assets/images/logo.png' | prepend: site.url }}{% endif %}",
-    "author": { "@type": "Organization", "name": "Lele Nyasar" },
-    {% endif %}
-    "publisher": {
-      "@type": "Organization",
-      "name": "Lele Nyasar",
-      "logo": { "@type": "ImageObject", "url": "{{ '/assets/images/logo.png' | prepend: site.url }}" }
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.logo | default: '/assets/images/logo.png' | absolute_url }}"
     }
   }
   </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "{{ site.url }}/#website",
+    "url": "{{ site.url }}",
+    "name": {{ site_title | jsonify }},
+    "description": {{ site_desc | jsonify }},
+    "publisher": { "@id": "{{ site.url }}/#organization" },
+    "inLanguage": "{{ page.lang | default: site.lang | default: 'id' }}"
+  }
+  </script>
+
+  {% if page.layout == 'post' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ canonical_url }}" },
+    "headline": {{ page_title | jsonify }},
+    "description": {{ meta_desc | jsonify }},
+    "keywords": {{ meta_keywords | jsonify }},
+    "image": [{ "@type": "ImageObject", "url": "{{ image_url }}", "caption": {{ image_alt | jsonify }} }],
+    "author": { "@type": "Organization", "name": {{ site.author | default: site_title | jsonify }} },
+    "publisher": { "@id": "{{ site.url }}/#organization" },
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+    "articleSection": {{ page.categories | join: ', ' | jsonify }},
+    "url": "{{ canonical_url }}",
+    "inLanguage": "{{ page.lang | default: site.lang | default: 'id' }}"
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
+      { "@type": "ListItem", "position": 2, "name": {{ page_title | jsonify }}, "item": "{{ canonical_url }}" }
+    ]
+  }
+  </script>
+  {% endif %}
 </head>
 <body>
 
