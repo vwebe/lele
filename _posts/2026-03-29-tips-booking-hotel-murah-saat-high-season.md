@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Booking Hotel Murah Saat High Season"
-date: 2026-03-29 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-booking-hotel-murah-saat-high-season.jpg"
 seo_title: "Tips Booking Hotel Murah Saat High Season"
-description: "# Tips Jitu Booking Hotel Murah Saat High Season Musim [liburan](https://lelenime.blogspot.com/2026/03/review-anime-tokyo-revengers-perjalanan.html), libur..."
-excerpt: "# Tips Jitu Booking Hotel Murah Saat High Season Musim [liburan](https://lelenime.blogspot.com/2026/03/review-anime-tokyo-revengers-perjalanan.html), libur..."
-keywords: "tips booking hotel murah saat high season, tips booking hotel murah, travel, wisata tips booking hotel, panduan tips booking hotel, tips tips booking hotel"
-image_alt: "Tips Booking Hotel Murah Saat High Season"
+keyword: "tips booking hotel murah saat high season"
+date: 2026-03-29 12:30:00 +0700
+last_modified_at: 2026-05-12 17:33:33 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@moraesrenata)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@moraesrenata)"
+keywords: "travel, tips, booking, hotel, murah, saat, high, season, wisata tips booking hotel, panduan tips booking hotel, tips tips booking hotel"
+image: "/assets/images/auto/tips-booking-hotel-murah-saat-high-season.jpg"
+image_alt: "Tips Booking Hotel Murah Saat High Season"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-booking-hotel-murah-saat-high-season.jpg" | relative_url }}" alt="Tips Booking Hotel Murah Saat High Season" loading="lazy" decoding="async">
@@ -143,4 +148,3 @@ Liburan di saat *high season* memang menantang dari segi bujet, tapi bukan berar
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi [waktu santai](https://dgxximovie.com/) Anda.
-
