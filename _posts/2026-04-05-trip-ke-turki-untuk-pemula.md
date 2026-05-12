@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Trip ke Turki untuk Pemula"
-date: 2026-04-05 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/trip-ke-turki-untuk-pemula.jpg"
 seo_title: "Trip ke Turki untuk Pemula"
-description: "# Trip ke Turki untuk Pemula: Dari Istanbul yang Megah Hingga Cappadocia yang Ajaib Turki. Dengar namanya saja sudah terbayang siluet masjid-masjid megah..."
-excerpt: "# Trip ke Turki untuk Pemula: Dari Istanbul yang Megah Hingga Cappadocia yang Ajaib Turki. Dengar namanya saja sudah terbayang siluet masjid-masjid megah..."
-keywords: "trip ke turki untuk pemula, trip turki pemula, travel, wisata trip turki pemula, panduan trip turki pemula, tips trip turki pemula"
-image_alt: "Trip ke Turki untuk Pemula"
+keyword: "trip ke turki untuk pemula"
+date: 2026-04-05 16:30:00 +0700
+last_modified_at: 2026-05-12 17:34:57 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@dorota-semla-1929451)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@dorota-semla-1929451)"
+keywords: "travel, trip, turki, pemula, wisata trip turki pemula, panduan trip turki pemula, tips trip turki pemula"
+image: "/assets/images/auto/trip-ke-turki-untuk-pemula.jpg"
+image_alt: "Trip ke Turki untuk Pemula"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-turki-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Turki untuk Pemula" loading="lazy" decoding="async">
@@ -127,4 +132,3 @@ Turki adalah destinasi yang menawarkan segalanya: sejarah yang kaya, budaya yang
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan [menarik lainnya untuk](https://dgxximovie.com/) mengisi waktu santai Anda.
-
