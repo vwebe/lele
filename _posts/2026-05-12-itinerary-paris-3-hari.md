@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Itinerary Paris 3 Hari: Jelajahi Keajaiban Kota Cinta Tanpa Bikin Kantong Jebol!"
-date: 2026-05-12 11:48:27 +0700
-categories: ["paris-itinerary"]
-tags: ["paris-itinerary", "prancis", "travel-plan", "wisata-eropa", "travel-guide", "itinerary-paris-3-hari"]
-image: "https://images.pexels.com/photos/31142510/pexels-photo-31142510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Itinerary Paris 3 Hari: Jelajahi Keajaiban Kota Cinta Tanpa Bikin Kantong Jebol!"
-description: "Siapa yang tidak bermimpi menginjakkan kaki di Paris, kota yang dijuluki sebagai 'Kota Cinta' dan 'Kota Cahaya'? Penuh dengan ikon-ikon megah, seni kelas..."
-excerpt: "Siapa yang tidak bermimpi menginjakkan kaki di Paris, kota yang dijuluki sebagai 'Kota Cinta' dan 'Kota Cahaya'? Penuh dengan ikon-ikon megah, seni kelas..."
-keywords: "itinerary paris 3 hari jelajahi keajaiban kota cinta tanpa bikin kantong jebol, itinerary paris hari jelajahi, paris itinerary, prancis, travel plan, wisata eropa, travel guide, itinerary paris 3 hari, wisata itinerary paris hari, panduan itinerary paris hari, tips itinerary paris hari, mengapa paris begitu istimewa untuk wisatawan indonesia"
-image_alt: "Itinerary Paris 3 Hari: Jelajahi Keajaiban Kota Cinta Tanpa Bikin Kantong Jebol!"
+keyword: "itinerary paris 3 hari"
+date: 2026-05-12 11:48:27 +0700
+last_modified_at: 2026-05-12 17:51:19 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["paris-itinerary"]
+tags: ["paris-itinerary", "prancis", "travel-plan", "wisata-eropa", "travel-guide", "itinerary-paris-3-hari"]
+description: "Paris menawarkan kombinasi unik antara sejarah, seni, mode, dan kuliner yang sulit ditolak. Suasana romantisnya yang legendaris, arsitektur megah yang..."
+excerpt: "Paris menawarkan kombinasi unik antara sejarah, seni, mode, dan kuliner yang sulit ditolak. Suasana romantisnya yang legendaris, arsitektur megah yang..."
+keywords: "paris itinerary, prancis, travel plan, wisata eropa, travel guide, itinerary paris 3 hari, wisata itinerary paris 3 hari, panduan itinerary paris 3 hari, tips itinerary paris 3 hari, mengapa paris begitu istimewa untuk wisatawan indonesia"
+image: "https://images.pexels.com/photos/31142510/pexels-photo-31142510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Itinerary Paris 3 Hari: Jelajahi Keajaiban Kota Cinta Tanpa Bikin Kantong Jebol!"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/31142510/pexels-photo-31142510.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Itinerary Paris 3 Hari: Jelajahi Keajaiban Kota Cinta Tanpa Bikin Kantong Jebol!" style="width:100%;height:auto;border-radius:12px;" /></figure>
