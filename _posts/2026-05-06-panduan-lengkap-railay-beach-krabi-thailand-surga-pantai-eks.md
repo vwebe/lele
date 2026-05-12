@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Railay Beach, Krabi, Thailand: Surga Pantai Eksotis di Asia untuk Wisatawan Indonesia"
-date: 2026-05-06 14:48:57 +0700
-categories: ["railay-beach"]
-tags: ["railay-beach", "krabi", "thailand", "pantai-eksotis", "asia", "travel-guide"]
-image: "https://images.pexels.com/photos/14574663/pexels-photo-14574663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Railay Beach, Krabi, Thailand: Surga Pantai Eksotis di Asia untuk Wisatawan Indonesia"
-description: "Railay Beach di Krabi, Thailand, memang menjadi salah satu destinasi tersembunyi yang kini semakin populer di kalangan traveler Indonesia. Dengan tebing..."
-excerpt: "Railay Beach di Krabi, Thailand, memang menjadi salah satu destinasi tersembunyi yang kini semakin populer di kalangan traveler Indonesia. Dengan tebing..."
-keywords: "panduan lengkap railay beach krabi thailand surga pantai eksotis di asia untuk wisatawan indonesia, panduan lengkap railay beach, railay beach, krabi, thailand, pantai eksotis, asia, travel guide, wisata panduan lengkap railay, panduan panduan lengkap railay, tips panduan lengkap railay, lokasi dan cara akses"
-image_alt: "Panduan Lengkap Railay Beach, Krabi, Thailand: Surga Pantai Eksotis di Asia untuk Wisatawan Indonesia"
+keyword: "panduan lengkap railay beach krabi thailand surga pantai eks"
+date: 2026-05-06 14:48:57 +0700
+last_modified_at: 2026-05-12 17:45:41 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["railay-beach"]
+tags: ["railay-beach", "krabi", "thailand", "pantai-eksotis", "asia", "travel-guide"]
+description: "Railay Beach terletak di semenanjung kecil yang hanya dapat diakses dengan perahu dari kota Krabi atau Ao Nang. Dari Bandara Internasional Krabi, Anda dapat..."
+excerpt: "Railay Beach terletak di semenanjung kecil yang hanya dapat diakses dengan perahu dari kota Krabi atau Ao Nang. Dari Bandara Internasional Krabi, Anda dapat..."
+keywords: "railay beach, krabi, thailand, pantai eksotis, asia, travel guide, surga, wisata railay beach, panduan railay beach, tips railay beach, lokasi dan cara akses"
+image: "https://images.pexels.com/photos/14574663/pexels-photo-14574663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Railay Beach, Krabi, Thailand: Surga Pantai Eksotis di Asia untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/14574663/pexels-photo-14574663.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Railay Beach, Krabi, Thailand: Surga Pantai Eksotis di Asia untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
