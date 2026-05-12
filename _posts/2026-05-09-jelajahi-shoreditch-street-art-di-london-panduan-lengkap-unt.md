@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Jelajahi Shoreditch Street Art di London: Panduan Lengkap untuk Wisatawan Indonesia"
-date: 2026-05-09 01:35:58 +0700
-categories: ["shoreditch"]
-tags: ["shoreditch", "london", "inggris", "street-art", "hidden-gem", "travel-guide", "wisata-budaya", "kota-wisata-dunia"]
-image: "https://images.pexels.com/photos/17092032/pexels-photo-17092032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Jelajahi Shoreditch Street Art di London: Panduan Lengkap untuk Wisatawan Indonesia"
-description: "London memang terkenal dengan sejarahnya yang megah, Menara London, Menara Eiffel… tapi tahukah Anda bahwa kota ini juga menyimpan hidden gem yang penuh..."
-excerpt: "London memang terkenal dengan sejarahnya yang megah, Menara London, Menara Eiffel… tapi tahukah Anda bahwa kota ini juga menyimpan hidden gem yang penuh..."
-keywords: "jelajahi shoreditch street art di london panduan lengkap untuk wisatawan indonesia, jelajahi shoreditch street art, shoreditch, london, inggris, street art, hidden gem, travel guide, wisata budaya, kota wisata dunia, wisata jelajahi shoreditch street, panduan jelajahi shoreditch street"
-image_alt: "Jelajahi Shoreditch Street Art di London: Panduan Lengkap untuk Wisatawan Indonesia"
+keyword: "jelajahi shoreditch street art di london panduan lengkap unt"
+date: 2026-05-09 01:35:58 +0700
+last_modified_at: 2026-05-12 17:49:06 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["shoreditch"]
+tags: ["shoreditch", "london", "inggris", "street-art", "hidden-gem", "travel-guide", "wisata-budaya", "kota-wisata-dunia"]
+description: "London memang terkenal dengan sejarahnya yang megah, Menara London, Menara Eiffel… tapi tahukah Anda bahwa kota ini juga menyimpan hidden gem yang penuh..."
+excerpt: "London memang terkenal dengan sejarahnya yang megah, Menara London, Menara Eiffel… tapi tahukah Anda bahwa kota ini juga menyimpan hidden gem yang penuh..."
+keywords: "shoreditch, london, inggris, street art, hidden gem, travel guide, wisata budaya, kota wisata dunia, jelajahi, unt, wisata street art, panduan street art"
+image: "https://images.pexels.com/photos/17092032/pexels-photo-17092032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Jelajahi Shoreditch Street Art di London: Panduan Lengkap untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/17092032/pexels-photo-17092032.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Jelajahi Shoreditch Street Art di London: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
