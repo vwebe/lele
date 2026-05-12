@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Sunrise di Bromo Tanpa Tour: Cara Hemat & Anti Ribet"
-date: 2026-03-24 13:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-sunrise-di-bromo-tanpa-tour-cara-hemat-&-anti-ribet.jpg"
 seo_title: "Panduan Sunrise di Bromo Tanpa Tour: Cara Hemat & Anti Ribet"
-description: "# Panduan Sunrise di Bromo Tanpa Tour: Cara Hemat & Anti Ribet Siapa sih yang nggak tergiur melihat lautan pasir luas membentang, diselimuti kabut pagi yang..."
-excerpt: "# Panduan Sunrise di Bromo Tanpa Tour: Cara Hemat & Anti Ribet Siapa sih yang nggak tergiur melihat lautan pasir luas membentang, diselimuti kabut pagi yang..."
-keywords: "panduan sunrise di bromo tanpa tour cara hemat anti ribet, panduan sunrise bromo tanpa, travel, wisata panduan sunrise bromo, panduan panduan sunrise bromo, tips panduan sunrise bromo"
-image_alt: "Panduan Sunrise di Bromo Tanpa Tour: Cara Hemat & Anti Ribet"
+keyword: "panduan sunrise di bromo tanpa tour cara hemat anti ribet"
+date: 2026-03-24 13:00:00 +0700
+last_modified_at: 2026-05-12 17:32:12 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@dylan-chan-2880813)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@dylan-chan-2880813)"
+keywords: "travel, sunrise, bromo, tanpa, tour, cara, hemat, anti, ribet, wisata sunrise bromo tanpa, panduan sunrise bromo tanpa, tips sunrise bromo tanpa"
+image: "/assets/images/auto/panduan-sunrise-di-bromo-tanpa-tour-cara-hemat-&-anti-ribet.jpg"
+image_alt: "Panduan Sunrise di Bromo Tanpa Tour: Cara Hemat & Anti Ribet"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-sunrise-di-bromo-tanpa-tour-cara-hemat-&-anti-ribet.jpg" | relative_url }}" alt="Panduan Sunrise di Bromo Tanpa Tour: Cara Hemat & Anti Ribet" loading="lazy" decoding="async">
@@ -96,4 +101,3 @@ Menikmati sunrise Bromo tanpa tur memang membutuhkan sedikit usaha ekstra dalam 
 ---
 
 Masih belum puas [dengan satu destinasi? Temukan](https://aestethiclele.blogspot.com/) juga berbagai rekomendasi perjalanan seru lainnya di sini.
-
