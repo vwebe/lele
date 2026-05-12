@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Nongkrong View Alam di Bogor"
-date: 2026-03-27 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-nongkrong-view-alam-di-bogor.jpg"
 seo_title: "Tempat Nongkrong View Alam di Bogor"
-description: "# Niatnya Cari Kopi, Ketemu Surga Tersembunyi: Tempat Nongkrong View Alam di Bogor yang Bikin Betah Bogor, kota hujan yang selalu punya cara untuk bikin..."
-excerpt: "# Niatnya Cari Kopi, Ketemu Surga Tersembunyi: Tempat Nongkrong View Alam di Bogor yang Bikin Betah Bogor, kota hujan yang selalu punya cara untuk bikin..."
-keywords: "tempat nongkrong view alam di bogor, tempat nongkrong view alam, travel, wisata tempat nongkrong view, panduan tempat nongkrong view, tips tempat nongkrong view"
-image_alt: "Tempat Nongkrong View Alam di Bogor"
+keyword: "tempat nongkrong view alam di bogor"
+date: 2026-03-27 16:30:00 +0700
+last_modified_at: 2026-05-12 17:33:14 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@heru-dharma-2148751843)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@heru-dharma-2148751843)"
+keywords: "travel, tempat, nongkrong, view, alam, bogor, wisata tempat nongkrong view, panduan tempat nongkrong view, tips tempat nongkrong view"
+image: "/assets/images/auto/tempat-nongkrong-view-alam-di-bogor.jpg"
+image_alt: "Tempat Nongkrong View Alam di Bogor"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-nongkrong-view-alam-di-bogor.jpg" | relative_url }}" alt="Tempat Nongkrong View Alam di Bogor" loading="lazy" decoding="async">
@@ -83,4 +88,3 @@ Setiap tempat punya keunikannya sendiri, ada yang menawarkan ketenangan hutan pi
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi [waktu santai](https://dgxximovie.com/) Anda.
-
