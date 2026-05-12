@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Mengenal Asakusa District Tokyo: Panduan Lengkap Wisata Budaya di Jepang untuk Traveler Indonesia"
-date: 2026-05-07 12:03:12 +0700
-categories: ["asakusa"]
-tags: ["asakusa", "tokyo", "jepang", "wisata-budaya", "kuil-jepang", "asia", "travel-guide"]
-image: "https://images.pexels.com/photos/35521787/pexels-photo-35521787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Mengenal Asakusa District Tokyo: Panduan Lengkap Wisata Budaya di Jepang untuk Traveler Indonesia"
-description: "Asakusa District di Tokyo memang menjadi salah satu destinasi yang tak boleh dilewatkan saat merencanakan liburan ke Jepang. Terletak di sebelah timur kota..."
-excerpt: "Asakusa District di Tokyo memang menjadi salah satu destinasi yang tak boleh dilewatkan saat merencanakan liburan ke Jepang. Terletak di sebelah timur kota..."
-keywords: "mengenal asakusa district tokyo panduan lengkap wisata budaya di jepang untuk traveler indonesia, mengenal asakusa district tokyo, asakusa, tokyo, jepang, wisata budaya, kuil jepang, asia, travel guide, wisata mengenal asakusa district, panduan mengenal asakusa district, tips mengenal asakusa district"
-image_alt: "Mengenal Asakusa District Tokyo: Panduan Lengkap Wisata Budaya di Jepang untuk Traveler Indonesia"
+keyword: "mengenal asakusa district tokyo panduan lengkap wisata buday"
+date: 2026-05-07 12:03:12 +0700
+last_modified_at: 2026-05-12 17:45:54 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["asakusa"]
+tags: ["asakusa", "tokyo", "jepang", "wisata-budaya", "kuil-jepang", "asia", "travel-guide"]
+description: "Para traveler Indonesia biasanya tertarik pada tempat yang menawarkan pengalaman otentik, foto Instagramable, serta kemudahan akses. Asakusa memenuhi semua..."
+excerpt: "Para traveler Indonesia biasanya tertarik pada tempat yang menawarkan pengalaman otentik, foto Instagramable, serta kemudahan akses. Asakusa memenuhi semua..."
+keywords: "asakusa, tokyo, jepang, wisata budaya, kuil jepang, asia, travel guide, mengenal, district, wisata mengenal asakusa district, panduan mengenal asakusa district, tips mengenal asakusa district"
+image: "https://images.pexels.com/photos/35521787/pexels-photo-35521787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Mengenal Asakusa District Tokyo: Panduan Lengkap Wisata Budaya di Jepang untuk Traveler Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/35521787/pexels-photo-35521787.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Asakusa District Tokyo: Panduan Lengkap Wisata Budaya di Jepang untuk Traveler Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
