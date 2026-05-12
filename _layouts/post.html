@@ -7,8 +7,21 @@ layout: default
   <!-- POST CONTENT -->
   <article class="single-post anim">
 
-    <!-- Hero Image -->
+    <!-- Hero Image
+         Render only when the article body does NOT already contain the same image.
+         This prevents double images on older posts where the hero image was also
+         inserted inside the markdown/HTML content. -->
+    {% assign render_post_hero = false %}
     {% if page.image %}
+      {% assign page_image_url = page.image %}
+      {% assign page_image_relative = page.image | relative_url %}
+      {% assign page_image_file = page.image | split: '/' | last | split: '?' | first %}
+      {% unless content contains page_image_url or content contains page_image_relative or content contains page_image_file %}
+        {% assign render_post_hero = true %}
+      {% endunless %}
+    {% endif %}
+
+    {% if render_post_hero %}
     <div class="post-hero">
       <img src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ page.image | relative_url }}{% endif %}"
            alt="{{ page.title }}" width="1200" height="650" loading="eager">
@@ -33,7 +46,7 @@ layout: default
     </div>
 
     <!-- Post Body -->
-    <div class="post-body{% if page.image %} has-page-hero{% endif %}">
+    <div class="post-body{% if render_post_hero %} has-page-hero{% endif %}">
       {{ content }}
     </div>
 
@@ -70,27 +83,45 @@ layout: default
         <h3 class="widget-title">Artikel Populer</h3>
       </div>
       <ul class="popular-list">
-        {% assign not_current_posts = site.posts | where_exp: "p", "p.url != page.url" %}
-        {% assign marked_popular = not_current_posts | where_exp: "p", "p.popular == true or p.featured == true" %}
-        {% if marked_popular.size > 0 %}
-          {% assign popular = marked_popular | limit: 5 %}
-        {% else %}
-          {% assign popular = not_current_posts | where_exp: "p", "p.image != nil" | offset: 6 | limit: 5 %}
-        {% endif %}
-        {% for post in popular limit: 5 %}
-        <li class="popular-item">
-          {% if post.image %}
-          <a href="{{ post.url | relative_url }}" class="popular-thumb">
-            <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
-                 alt="{{ post.title }}" width="70" height="70" loading="lazy">
-          </a>
+        {% assign popular_count = 0 %}
+        {% for post in site.posts %}
+          {% if popular_count < 5 and post.url != page.url %}
+            {% if post.popular == true or post.featured == true %}
+              {% assign popular_count = popular_count | plus: 1 %}
+              <li class="popular-item">
+                {% if post.image %}
+                <a href="{{ post.url | relative_url }}" class="popular-thumb">
+                  <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
+                       alt="{{ post.title }}" width="70" height="70" loading="lazy">
+                </a>
+                {% endif %}
+                <div class="popular-info">
+                  <a href="{{ post.url | relative_url }}" class="popular-title">{{ post.title | truncate: 55 }}</a>
+                  <span class="popular-date">{{ post.date | date: "%d %b %Y" }}</span>
+                </div>
+              </li>
+            {% endif %}
           {% endif %}
-          <div class="popular-info">
-            <a href="{{ post.url | relative_url }}" class="popular-title">{{ post.title | truncate: 55 }}</a>
-            <span class="popular-date">{{ post.date | date: "%d %b %Y" }}</span>
-          </div>
-        </li>
         {% endfor %}
+
+        {% if popular_count == 0 %}
+          {% assign fallback_index = 0 %}
+          {% for post in site.posts %}
+            {% if post.url != page.url and forloop.index > 9 and post.image and fallback_index < 5 %}
+              {% assign fallback_index = fallback_index | plus: 1 %}
+              <li class="popular-item">
+                <a href="{{ post.url | relative_url }}" class="popular-thumb">
+                  <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
+                       alt="{{ post.title }}" width="70" height="70" loading="lazy">
+                </a>
+                <div class="popular-info">
+                  <a href="{{ post.url | relative_url }}" class="popular-title">{{ post.title | truncate: 55 }}</a>
+                  <span class="popular-date">{{ post.date | date: "%d %b %Y" }}</span>
+                </div>
+              </li>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
       </ul>
     </div>
 
@@ -119,12 +150,15 @@ layout: default
         <h3 class="widget-title">Artikel Terkait</h3>
       </div>
       <ul class="recent-list">
-        {% assign related = site.posts | where_exp: "p", "p.url != page.url" | limit: 5 %}
-        {% for post in related %}
+        {% assign related_count = 0 %}
+        {% for post in site.posts %}
+          {% if post.url != page.url and related_count < 5 %}
+            {% assign related_count = related_count | plus: 1 %}
         <li class="recent-item">
           <span class="recent-date">{{ post.date | date: "%d %b" }}</span>
           <a href="{{ post.url | relative_url }}" class="recent-title">{{ post.title | truncate: 50 }}</a>
         </li>
+          {% endif %}
         {% endfor %}
       </ul>
     </div>
