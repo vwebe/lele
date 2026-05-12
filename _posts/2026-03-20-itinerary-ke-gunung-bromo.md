@@ -1,14 +1,20 @@
 ---
 layout: post
 title: "Itinerary ke Gunung Bromo 1 Hari: Panduan Trip Singkat yang Efektif"
-image: "/assets/images/itinerary-ke-gunung-bromo.webp"
 seo_title: "Itinerary ke Gunung Bromo 1 Hari: Panduan Trip Singkat yang Efektif"
-description: "Itinerary ke Gunung Bromo sangat penting untuk memastikan perjalanan berjalan lancar, terutama jika kamu hanya punya waktu 1 hari. Dengan perencanaan yang..."
-excerpt: "Itinerary ke Gunung Bromo sangat penting untuk memastikan perjalanan berjalan lancar, terutama jika kamu hanya punya waktu 1 hari. Dengan perencanaan yang..."
-keywords: "itinerary ke gunung bromo, trip bromo 1 hari, perjalanan ke bromo, wisata bromo sehari"
-image_alt: "Itinerary ke Gunung Bromo 1 Hari: Panduan Trip Singkat yang Efektif"
+keyword: "itinerary ke gunung bromo"
+date: 2026-03-20 00:00:00 +0000
+last_modified_at: 2026-05-12 17:31:59 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+description: "Trip ke Gunung Bromo biasanya dimulai dini hari dan selesai sekitar siang hari. Meski singkat, pengalaman yang didapat tetap lengkap."
+excerpt: "Trip ke Gunung Bromo biasanya dimulai dini hari dan selesai sekitar siang hari. Meski singkat, pengalaman yang didapat tetap lengkap."
+keywords: "itinerary, gunung, bromo, wisata itinerary gunung bromo, panduan itinerary gunung bromo, tips itinerary gunung bromo, gambaran singkat trip bromo 1 hari"
+image: "/assets/images/itinerary-ke-gunung-bromo.webp"
+image_alt: "Itinerary ke Gunung Bromo 1 Hari: Panduan Trip Singkat yang Efektif"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <p class="post-intro">
