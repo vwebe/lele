@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Trip Santai ke Phnom Penh: 1 Hari Keliling Kota"
-date: 2026-03-26 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/trip-santai-ke-phnom-penh-1-hari-keliling-kota.jpg"
 seo_title: "Trip Santai ke Phnom Penh: 1 Hari Keliling Kota"
-description: "# Trip Santai ke Phnom Penh: 1 Hari Keliling Kota Phnom Penh, ibu kota Kamboja, seringkali dilewati begitu saja oleh turis yang terburu-buru menuju Angkor..."
-excerpt: "# Trip Santai ke Phnom Penh: 1 Hari Keliling Kota Phnom Penh, ibu kota Kamboja, seringkali dilewati begitu saja oleh turis yang terburu-buru menuju Angkor..."
-keywords: "trip santai ke phnom penh 1 hari keliling kota, trip santai phnom penh, travel, wisata trip santai phnom, panduan trip santai phnom, tips trip santai phnom"
-image_alt: "Trip Santai ke Phnom Penh: 1 Hari Keliling Kota"
+keyword: "trip santai ke phnom penh 1 hari keliling kota"
+date: 2026-03-26 12:30:00 +0700
+last_modified_at: 2026-05-12 17:32:42 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@khun-sodara-30353635)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@khun-sodara-30353635)"
+keywords: "travel, trip, santai, phnom, penh, hari, keliling, kota, wisata trip santai phnom, panduan trip santai phnom, tips trip santai phnom"
+image: "/assets/images/auto/trip-santai-ke-phnom-penh-1-hari-keliling-kota.jpg"
+image_alt: "Trip Santai ke Phnom Penh: 1 Hari Keliling Kota"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/trip-santai-ke-phnom-penh-1-hari-keliling-kota.jpg" | relative_url }}" alt="Trip Santai ke Phnom Penh: 1 Hari Keliling Kota" loading="lazy" decoding="async">
@@ -97,4 +102,3 @@ Satu hari di Phnom Penh mungkin terasa singkat, tapi dengan perencanaan yang tep
 ---
 
 Perjalanan Anda [belum berakhir](https://dgxximovie.com/) di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
