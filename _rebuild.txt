@@ -1,2 +1,2 @@
-GitHub Pages rebuild trigger file.
-This file is updated by Google Apps Script when you run: Auto Blog > Trigger GitHub Pages rebuild.
+GitHub Pages rebuild trigger
+Updated at: 2026-05-12T08:52:09.128Z
