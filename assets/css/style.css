@@ -651,6 +651,13 @@ a { color: inherit; text-decoration: none; }
 }
 
 
+
+/* Hard-hide homepage post cards outside the current page.
+   Do not use the HTML hidden attribute because .post-card display rules can override browser defaults. */
+.post-grid .post-card.is-page-hidden {
+  display: none !important;
+}
+
 /* Homepage pagination */
 .home-pagination {
   display: flex;
@@ -686,8 +693,9 @@ a { color: inherit; text-decoration: none; }
 /* Old generated posts already contain a first body image.
    The layout uses page.image as the hero, so hide only that duplicated first figure/image. */
 .post-body > figure:first-child,
-.post-body > img:first-child {
-  display: none;
+.post-body > img:first-child,
+.post-body > p:first-child > img:only-child {
+  display: none !important;
 }
 
 .post-body {
