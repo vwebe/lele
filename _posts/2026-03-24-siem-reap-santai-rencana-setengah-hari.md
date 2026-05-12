@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi"
-date: 2026-03-24 11:15:00 +0700
-categories: [travel]
-image: "/assets/images/auto/siem-reap-santai-rencana-setengah-hari.jpg"
 seo_title: "Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi"
-description: "# Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi Setelah seharian terpesona oleh kemegahan Angkor Wat, Bayon, dan Ta Prohm, rasanya badan ini..."
-excerpt: "# Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi Setelah seharian terpesona oleh kemegahan Angkor Wat, Bayon, dan Ta Prohm, rasanya badan ini..."
-keywords: "siem reap santai rencana setengah hari di luar jadwal candi, siem reap santai rencana, travel, wisata siem reap santai, panduan siem reap santai, tips siem reap santai"
-image_alt: "Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi"
+keyword: "siem reap santai rencana setengah hari"
+date: 2026-03-24 11:15:00 +0700
+last_modified_at: 2026-05-12 17:32:20 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@lkloeppel)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@lkloeppel)"
+keywords: "travel, siem, reap, santai, rencana, setengah, hari, wisata siem reap santai, panduan siem reap santai, tips siem reap santai"
+image: "/assets/images/auto/siem-reap-santai-rencana-setengah-hari.jpg"
+image_alt: "Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/siem-reap-santai-rencana-setengah-hari.jpg" | relative_url }}" alt="Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi" loading="lazy" decoding="async">
@@ -71,4 +76,3 @@ Setengah hari yang dihabiskan di luar agenda candi ini memberikan perspektif yan
 ---
 
 Masih belum puas dengan satu destinasi? [Temukan juga berbagai](https://aestethiclele.blogspot.com/) rekomendasi perjalanan seru lainnya di sini.
-
