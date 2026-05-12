@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Traveling ke Amerika Selatan"
-date: 2026-04-17 21:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-traveling-ke-amerika-selatan.jpg"
 seo_title: "Tips Traveling ke Amerika Selatan"
-description: "# Tips Traveling ke Amerika Selatan Kamu pernah bermimpi menatap puncak Machu Picchu dalam kabut pagi atau menari tango di jalanan Buenos Aires? Amerika..."
-excerpt: "# Tips Traveling ke Amerika Selatan Kamu pernah bermimpi menatap puncak Machu Picchu dalam kabut pagi atau menari tango di jalanan Buenos Aires? Amerika..."
-keywords: "tips traveling ke amerika selatan, tips traveling amerika selatan, travel, wisata tips traveling amerika, panduan tips traveling amerika, tips tips traveling amerika"
-image_alt: "Tips Traveling ke Amerika Selatan"
+keyword: "tips traveling ke amerika selatan"
+date: 2026-04-17 21:00:00 +0700
+last_modified_at: 2026-05-12 17:38:47 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@saplak)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@saplak)"
+keywords: "travel, tips, traveling, amerika, selatan, wisata tips traveling amerika, panduan tips traveling amerika, tips tips traveling amerika"
+image: "/assets/images/auto/tips-traveling-ke-amerika-selatan.jpg"
+image_alt: "Tips Traveling ke Amerika Selatan"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-ke-amerika-selatan.jpg" | relative_url }}" alt="Tips Traveling ke Amerika Selatan" loading="lazy" decoding="async">
@@ -100,4 +105,3 @@ Amerika Selatan bukan sekadar destinasi “eksklusif” yang hanya cocok untuk b
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik [lainnya untuk mengisi waktu](https://dgxximovie.com/) santai Anda.
-
