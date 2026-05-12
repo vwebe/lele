@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Trip ke Gunung Bromo Tanpa Tour"
-date: 2026-03-28 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-trip-ke-gunung-bromo-tanpa-tour.jpg"
 seo_title: "Panduan Trip ke Gunung Bromo Tanpa Tour"
-description: "# Bromo Tanpa Tur: Serunya Petualangan Mandiri Menjelajahi Keajaiban Jawa Timur Siapa sih yang nggak kenal Gunung Bromo? Salah satu ikon pariwisata..."
-excerpt: "# Bromo Tanpa Tur: Serunya Petualangan Mandiri Menjelajahi Keajaiban Jawa Timur Siapa sih yang nggak kenal Gunung Bromo? Salah satu ikon pariwisata..."
-keywords: "panduan trip ke gunung bromo tanpa tour, panduan trip gunung bromo, travel, wisata panduan trip gunung, panduan panduan trip gunung, tips panduan trip gunung"
-image_alt: "Panduan Trip ke Gunung Bromo Tanpa Tour"
+keyword: "panduan trip ke gunung bromo tanpa tour"
+date: 2026-03-28 16:30:00 +0700
+last_modified_at: 2026-05-12 17:33:21 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@trieu-kim-tran-489969244)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@trieu-kim-tran-489969244)"
+keywords: "travel, trip, gunung, bromo, tanpa, tour, wisata trip gunung bromo, panduan trip gunung bromo, tips trip gunung bromo"
+image: "/assets/images/auto/panduan-trip-ke-gunung-bromo-tanpa-tour.jpg"
+image_alt: "Panduan Trip ke Gunung Bromo Tanpa Tour"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-trip-ke-gunung-bromo-tanpa-tour.jpg" | relative_url }}" alt="Panduan Trip ke Gunung Bromo Tanpa Tour" loading="lazy" decoding="async">
@@ -160,4 +165,3 @@ Bromo bukan hanya sekadar destinasi wisata, tapi juga sebuah pengalaman spiritua
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya [untuk mengisi waktu santai](https://dgxximovie.com/) Anda.
-
