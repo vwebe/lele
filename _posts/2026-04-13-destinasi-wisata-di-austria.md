@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Wisata di Austria"
-date: 2026-04-13 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-wisata-di-austria.jpg"
 seo_title: "Destinasi Wisata di Austria"
-description: "**Vienna, Salzburg, Hallstatt…** Nama‑nama itu tak sekadar tertera di peta, melainkan rangkaian kisah yang menunggu untuk dijelajahi. Ketika saya melangkah..."
-excerpt: "**Vienna, Salzburg, Hallstatt…** Nama‑nama itu tak sekadar tertera di peta, melainkan rangkaian kisah yang menunggu untuk dijelajahi. Ketika saya melangkah..."
-keywords: "destinasi wisata di austria, destinasi wisata austria, travel, wisata destinasi wisata austria, panduan destinasi wisata austria, tips destinasi wisata austria"
-image_alt: "Destinasi Wisata di Austria"
+keyword: "destinasi wisata di austria"
+date: 2026-04-13 12:30:00 +0700
+last_modified_at: 2026-05-12 17:37:02 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@wb2008)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@wb2008)"
+keywords: "travel, destinasi, austria, wisata destinasi austria, panduan destinasi austria, tips destinasi austria"
+image: "/assets/images/auto/destinasi-wisata-di-austria.jpg"
+image_alt: "Destinasi Wisata di Austria"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-austria.jpg" | relative_url }}" alt="Destinasi Wisata di Austria" loading="lazy" decoding="async">
@@ -97,4 +102,3 @@ Austria memang bukan negara yang terlalu “turistik” seperti Paris atau Barce
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi [waktu santai](https://dgxximovie.com/) Anda.
-
