@@ -4,6 +4,13 @@ title: "Wisata Alam di Sumatera yang Wajib Dikunjungi"
 date: 2026-03-31 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/wisata-alam-di-sumatera-yang-wajib-dikunjungi.jpg"
+seo_title: "Wisata Alam di Sumatera yang Wajib Dikunjungi"
+description: "# Menjelajahi Keajaiban Alam Sumatera: [Destinasi](https://aestethiclele.blogspot.com/2026/03/wisata-alam-di-banyuwangi-yang-hits.html) yang Tak Boleh..."
+excerpt: "# Menjelajahi Keajaiban Alam Sumatera: [Destinasi](https://aestethiclele.blogspot.com/2026/03/wisata-alam-di-banyuwangi-yang-hits.html) yang Tak Boleh..."
+keywords: "wisata alam di sumatera yang wajib dikunjungi, wisata alam sumatera wajib, travel, wisata wisata alam sumatera, panduan wisata alam sumatera, tips wisata alam sumatera"
+image_alt: "Wisata Alam di Sumatera yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/wisata-alam-di-sumatera-yang-wajib-dikunjungi.jpg" | relative_url }}" alt="Wisata Alam di Sumatera yang Wajib Dikunjungi" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Spot Sunset di Phuket yang Wajib Dikunjungi"
 date: 2026-04-02 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/spot-sunset-di-phuket-yang-wajib-dikunjungi.jpg"
+seo_title: "Spot Sunset di Phuket yang Wajib Dikunjungi"
+description: "# Spot [Sunset](https://leletainment.blogspot.com/2026/03/zhangjiajie-jelajahi-pegunungan-avatar.html) di Phuket yang Wajib Dikunjungi Matahari terbenam di..."
+excerpt: "# Spot [Sunset](https://leletainment.blogspot.com/2026/03/zhangjiajie-jelajahi-pegunungan-avatar.html) di Phuket yang Wajib Dikunjungi Matahari terbenam di..."
+keywords: "spot sunset di phuket yang wajib dikunjungi, spot sunset phuket wajib, travel, wisata spot sunset phuket, panduan spot sunset phuket, tips spot sunset phuket"
+image_alt: "Spot Sunset di Phuket yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/spot-sunset-di-phuket-yang-wajib-dikunjungi.jpg" | relative_url }}" alt="Spot Sunset di Phuket yang Wajib Dikunjungi" loading="lazy" decoding="async">

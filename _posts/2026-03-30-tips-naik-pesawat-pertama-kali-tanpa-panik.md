@@ -4,6 +4,13 @@ title: "Tips Naik Pesawat Pertama Kali Tanpa Panik"
 date: 2026-03-30 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-naik-pesawat-pertama-kali-tanpa-panik.jpg"
+seo_title: "Tips Naik Pesawat Pertama Kali Tanpa Panik"
+description: "# Tips Naik Pesawat Pertama Kali Tanpa Panik Rasanya deg-degan waktu pertama kali mau naik pesawat? Wajar banget kok! Sama seperti saya dulu, semua terasa..."
+excerpt: "# Tips Naik Pesawat Pertama Kali Tanpa Panik Rasanya deg-degan waktu pertama kali mau naik pesawat? Wajar banget kok! Sama seperti saya dulu, semua terasa..."
+keywords: "tips naik pesawat pertama kali tanpa panik, tips naik pesawat pertama, travel, wisata tips naik pesawat, panduan tips naik pesawat, tips tips naik pesawat"
+image_alt: "Tips Naik Pesawat Pertama Kali Tanpa Panik"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-naik-pesawat-pertama-kali-tanpa-panik.jpg" | relative_url }}" alt="Tips Naik Pesawat Pertama Kali Tanpa Panik" loading="lazy" decoding="async">

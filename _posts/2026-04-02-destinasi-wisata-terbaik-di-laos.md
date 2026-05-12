@@ -4,6 +4,13 @@ title: "Destinasi Wisata Terbaik di Laos"
 date: 2026-04-02 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-terbaik-di-laos.jpg"
+seo_title: "Destinasi Wisata Terbaik di Laos"
+description: "# Menjelajahi Laos: Surga Tersembunyi di Jantung Asia Tenggara Laos, sebuah negara yang sering kali luput dari sorotan utama pariwisata Asia Tenggara..."
+excerpt: "# Menjelajahi Laos: Surga Tersembunyi di Jantung Asia Tenggara Laos, sebuah negara yang sering kali luput dari sorotan utama pariwisata Asia Tenggara..."
+keywords: "destinasi wisata terbaik di laos, destinasi wisata terbaik laos, travel, wisata destinasi wisata terbaik, panduan destinasi wisata terbaik, tips destinasi wisata terbaik"
+image_alt: "Destinasi Wisata Terbaik di Laos"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-terbaik-di-laos.jpg" | relative_url }}" alt="Destinasi Wisata Terbaik di Laos" loading="lazy" decoding="async">

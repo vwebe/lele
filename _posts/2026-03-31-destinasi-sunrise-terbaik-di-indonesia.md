@@ -4,6 +4,13 @@ title: "Destinasi Sunrise Terbaik di Indonesia"
 date: 2026-03-31 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-sunrise-terbaik-di-indonesia.jpg"
+seo_title: "Destinasi Sunrise Terbaik di Indonesia"
+description: "# Menjelang Fajar: Destinasi [Sunrise](https://vwebe.github.io/lele/2026/03/24/5-spot-sunset-terbaik-di-yogyakarta-yang-jarang-diketahui.html) Terbaik di..."
+excerpt: "# Menjelang Fajar: Destinasi [Sunrise](https://vwebe.github.io/lele/2026/03/24/5-spot-sunset-terbaik-di-yogyakarta-yang-jarang-diketahui.html) Terbaik di..."
+keywords: "destinasi sunrise terbaik di indonesia, destinasi sunrise terbaik indonesia, travel, wisata destinasi sunrise terbaik, panduan destinasi sunrise terbaik, tips destinasi sunrise terbaik"
+image_alt: "Destinasi Sunrise Terbaik di Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-sunrise-terbaik-di-indonesia.jpg" | relative_url }}" alt="Destinasi Sunrise Terbaik di Indonesia" loading="lazy" decoding="async">

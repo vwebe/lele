@@ -4,6 +4,13 @@ title: "Trip Singkat ke Singapore dengan Budget Minim"
 date: 2026-03-30 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-singkat-ke-singapore-dengan-budget-minim.jpg"
+seo_title: "Trip Singkat ke Singapore dengan Budget Minim"
+description: "# Trip Singkat ke Singapore dengan Budget Minim Siapa bilang ke Singapura itu mahal? Percaya deh, dengan sedikit trik dan perencanaan matang, kamu bisa..."
+excerpt: "# Trip Singkat ke Singapore dengan Budget Minim Siapa bilang ke Singapura itu mahal? Percaya deh, dengan sedikit trik dan perencanaan matang, kamu bisa..."
+keywords: "trip singkat ke singapore dengan budget minim, trip singkat singapore budget, travel, wisata trip singkat singapore, panduan trip singkat singapore, tips trip singkat singapore"
+image_alt: "Trip Singkat ke Singapore dengan Budget Minim"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-singkat-ke-singapore-dengan-budget-minim.jpg" | relative_url }}" alt="Trip Singkat ke Singapore dengan Budget Minim" loading="lazy" decoding="async">

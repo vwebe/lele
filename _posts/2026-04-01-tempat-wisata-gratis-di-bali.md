@@ -4,6 +4,13 @@ title: "Tempat Wisata Gratis di Bali"
 date: 2026-04-01 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-gratis-di-bali.jpg"
+seo_title: "Tempat Wisata Gratis di Bali"
+description: "# Bali Bukan Cuma Soal Mahal: Menikmati Pulau Dewata Tanpa Menguras Kantong Siapa bilang Bali itu identik dengan liburan mewah dan mahal? Percaya deh, Pulau..."
+excerpt: "# Bali Bukan Cuma Soal Mahal: Menikmati Pulau Dewata Tanpa Menguras Kantong Siapa bilang Bali itu identik dengan liburan mewah dan mahal? Percaya deh, Pulau..."
+keywords: "tempat wisata gratis di bali, tempat wisata gratis bali, travel, wisata tempat wisata gratis, panduan tempat wisata gratis, tips tempat wisata gratis"
+image_alt: "Tempat Wisata Gratis di Bali"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-gratis-di-bali.jpg" | relative_url }}" alt="Tempat Wisata Gratis di Bali" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Panduan Backpacker ke Myanmar"
 date: 2026-04-02 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-backpacker-ke-myanmar.jpg"
+seo_title: "Panduan Backpacker ke Myanmar"
+description: "# Panduan Backpacker ke Myanmar: Bertualang di Negeri Emas yang Menawan Myanmar. Nama itu sendiri sudah membangkitkan rasa ingin tahu, bukan? Sebuah negara..."
+excerpt: "# Panduan Backpacker ke Myanmar: Bertualang di Negeri Emas yang Menawan Myanmar. Nama itu sendiri sudah membangkitkan rasa ingin tahu, bukan? Sebuah negara..."
+keywords: "panduan backpacker ke myanmar, panduan backpacker myanmar, travel, wisata panduan backpacker myanmar, panduan panduan backpacker myanmar, tips panduan backpacker myanmar"
+image_alt: "Panduan Backpacker ke Myanmar"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-backpacker-ke-myanmar.jpg" | relative_url }}" alt="Panduan Backpacker ke Myanmar" loading="lazy" decoding="async">

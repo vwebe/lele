@@ -4,6 +4,13 @@ title: "Tempat Wisata Malam di Bangkok yang Seru"
 date: 2026-03-29 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-malam-di-bangkok-yang-seru.jpg"
+seo_title: "Tempat Wisata Malam di Bangkok yang Seru"
+description: "# Bangkok Malam Hari: Pesta Cahaya, Rasa, dan Suara yang Tak Terlupakan Bangkok di malam hari punya pesonanya sendiri yang sungguh berbeda. Saat matahari..."
+excerpt: "# Bangkok Malam Hari: Pesta Cahaya, Rasa, dan Suara yang Tak Terlupakan Bangkok di malam hari punya pesonanya sendiri yang sungguh berbeda. Saat matahari..."
+keywords: "tempat wisata malam di bangkok yang seru, tempat wisata malam bangkok, travel, wisata tempat wisata malam, panduan tempat wisata malam, tips tempat wisata malam"
+image_alt: "Tempat Wisata Malam di Bangkok yang Seru"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-malam-di-bangkok-yang-seru.jpg" | relative_url }}" alt="Tempat Wisata Malam di Bangkok yang Seru" loading="lazy" decoding="async">

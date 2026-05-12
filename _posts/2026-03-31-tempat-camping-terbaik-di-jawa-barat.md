@@ -4,6 +4,13 @@ title: "Tempat Camping Terbaik di Jawa Barat"
 date: 2026-03-31 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-camping-terbaik-di-jawa-barat.jpg"
+seo_title: "Tempat Camping Terbaik di Jawa Barat"
+description: "# Tempat Camping Terbaik di Jawa Barat yang Bikin Betah Suara gemericik air, aroma tanah basah setelah hujan, dan langit bertabur bintang yang tak terhalang..."
+excerpt: "# Tempat Camping Terbaik di Jawa Barat yang Bikin Betah Suara gemericik air, aroma tanah basah setelah hujan, dan langit bertabur bintang yang tak terhalang..."
+keywords: "tempat camping terbaik di jawa barat, tempat camping terbaik jawa, travel, wisata tempat camping terbaik, panduan tempat camping terbaik, tips tempat camping terbaik"
+image_alt: "Tempat Camping Terbaik di Jawa Barat"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-camping-terbaik-di-jawa-barat.jpg" | relative_url }}" alt="Tempat Camping Terbaik di Jawa Barat" loading="lazy" decoding="async">

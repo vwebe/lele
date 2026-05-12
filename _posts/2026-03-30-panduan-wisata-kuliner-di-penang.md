@@ -4,6 +4,13 @@ title: "Panduan Wisata Kuliner di Penang"
 date: 2026-03-30 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-wisata-kuliner-di-penang.jpg"
+seo_title: "Panduan Wisata Kuliner di Penang"
+description: "# Penang: Surga Kuliner yang Bikin Ketagihan Siapa yang tidak kenal Penang? Pulau di utara Malaysia ini bukan hanya terkenal dengan mural-mural artistiknya..."
+excerpt: "# Penang: Surga Kuliner yang Bikin Ketagihan Siapa yang tidak kenal Penang? Pulau di utara Malaysia ini bukan hanya terkenal dengan mural-mural artistiknya..."
+keywords: "panduan wisata kuliner di penang, panduan wisata kuliner penang, travel, wisata panduan wisata kuliner, panduan panduan wisata kuliner, tips panduan wisata kuliner"
+image_alt: "Panduan Wisata Kuliner di Penang"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-wisata-kuliner-di-penang.jpg" | relative_url }}" alt="Panduan Wisata Kuliner di Penang" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Tips Foto Travel Pakai HP"
 date: 2026-04-01 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-foto-travel-pakai-hp.jpg"
+seo_title: "Tips Foto Travel Pakai HP"
+description: "# Mengabadikan Momen [Liburan](https://lelenime.blogspot.com/2026/03/haikyuu-mengungkap-siapa-spiker-terbaik.html): Tips Jitu Foto Travel Ciamik Pakai HP..."
+excerpt: "# Mengabadikan Momen [Liburan](https://lelenime.blogspot.com/2026/03/haikyuu-mengungkap-siapa-spiker-terbaik.html): Tips Jitu Foto Travel Ciamik Pakai HP..."
+keywords: "tips foto travel pakai hp, tips foto travel pakai, travel, wisata tips foto travel, panduan tips foto travel, tips tips foto travel"
+image_alt: "Tips Foto Travel Pakai HP"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-foto-travel-pakai-hp.jpg" | relative_url }}" alt="Tips Foto Travel Pakai HP" loading="lazy" decoding="async">

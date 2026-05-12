@@ -4,6 +4,13 @@ title: "Hidden Beach di Lombok yang Jarang Diketahui"
 date: 2026-03-29 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/hidden-beach-di-lombok-yang-jarang-diketahui.jpg"
+seo_title: "Hidden Beach di Lombok yang Jarang Diketahui"
+description: "## Pantai Tersembunyi di Lombok yang Jarang Disinggahi, Surga Kecil yang Menanti Lombok. Mendengar namanya saja sudah terbayang pantai-pantai indah berpasir..."
+excerpt: "## Pantai Tersembunyi di Lombok yang Jarang Disinggahi, Surga Kecil yang Menanti Lombok. Mendengar namanya saja sudah terbayang pantai-pantai indah berpasir..."
+keywords: "hidden beach di lombok yang jarang diketahui, hidden beach lombok jarang, travel, wisata hidden beach lombok, panduan hidden beach lombok, tips hidden beach lombok"
+image_alt: "Hidden Beach di Lombok yang Jarang Diketahui"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/hidden-beach-di-lombok-yang-jarang-diketahui.jpg" | relative_url }}" alt="Hidden Beach di Lombok yang Jarang Diketahui" loading="lazy" decoding="async">

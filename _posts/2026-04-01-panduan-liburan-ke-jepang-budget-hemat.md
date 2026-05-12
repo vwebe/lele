@@ -4,6 +4,13 @@ title: "Panduan Liburan ke Jepang Budget Hemat"
 date: 2026-04-01 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-jepang-budget-hemat.jpg"
+seo_title: "Panduan Liburan ke Jepang Budget Hemat"
+description: "# Petualangan Seru di Negeri Sakura Tanpa Menguras Kantong: Panduan..."
+excerpt: "# Petualangan Seru di Negeri Sakura Tanpa Menguras Kantong: Panduan..."
+keywords: "panduan liburan ke jepang budget hemat, panduan liburan jepang budget, travel, wisata panduan liburan jepang, panduan panduan liburan jepang, tips panduan liburan jepang"
+image_alt: "Panduan Liburan ke Jepang Budget Hemat"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-jepang-budget-hemat.jpg" | relative_url }}" alt="Panduan Liburan ke Jepang Budget Hemat" loading="lazy" decoding="async">
