@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Wisata di Iran"
-date: 2026-04-15 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-wisata-di-iran.jpg"
 seo_title: "Destinasi Wisata di Iran"
-description: "# Menyelami Keindahan Iran: Dari Kota Bersejarah hingga Gurun Pasir yang Menakjubkan Setibanya di Bandara Imam Khomeini, saya langsung disambut oleh aroma..."
-excerpt: "# Menyelami Keindahan Iran: Dari Kota Bersejarah hingga Gurun Pasir yang Menakjubkan Setibanya di Bandara Imam Khomeini, saya langsung disambut oleh aroma..."
-keywords: "destinasi wisata di iran, destinasi wisata iran, travel, wisata destinasi wisata iran, panduan destinasi wisata iran, tips destinasi wisata iran"
-image_alt: "Destinasi Wisata di Iran"
+keyword: "destinasi wisata di iran"
+date: 2026-04-15 20:30:00 +0700
+last_modified_at: 2026-05-12 17:37:20 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@kohankhaki)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@kohankhaki)"
+keywords: "travel, destinasi, iran, wisata destinasi iran, panduan destinasi iran, tips destinasi iran"
+image: "/assets/images/auto/destinasi-wisata-di-iran.jpg"
+image_alt: "Destinasi Wisata di Iran"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-iran.jpg" | relative_url }}" alt="Destinasi Wisata di Iran" loading="lazy" decoding="async">
@@ -138,4 +143,3 @@ Jika Anda menginginkan perjalanan yang menggabungkan keindahan arsitektur, kekay
 ---
 
 Perjalanan Anda [belum berakhir di](https://dgxximovie.com/) sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
