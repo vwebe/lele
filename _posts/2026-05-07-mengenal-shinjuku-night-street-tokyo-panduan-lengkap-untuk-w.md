@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Mengenal Shinjuku Night Street Tokyo: Panduan Lengkap untuk Wisata Malam di Jepang"
-date: 2026-05-07 13:20:47 +0700
-categories: ["shinjuku"]
-tags: ["shinjuku", "tokyo", "jepang", "wisata-kota", "nightlife", "asia", "travel-guide"]
-image: "https://images.pexels.com/photos/29662419/pexels-photo-29662419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Mengenal Shinjuku Night Street Tokyo: Panduan Lengkap untuk Wisata Malam di Jepang"
-description: "Tokyo, ibukota Jepang, tak pernah tidur. Salah satu kawasan paling ikonik yang memancarkan energi malamnya adalah Shinjuku —pusat hiburan, kuliner, dan..."
-excerpt: "Tokyo, ibukota Jepang, tak pernah tidur. Salah satu kawasan paling ikonik yang memancarkan energi malamnya adalah Shinjuku —pusat hiburan, kuliner, dan..."
-keywords: "mengenal shinjuku night street tokyo panduan lengkap untuk wisata malam di jepang, mengenal shinjuku night street, shinjuku, tokyo, jepang, wisata kota, nightlife, asia, travel guide, wisata mengenal shinjuku night, panduan mengenal shinjuku night, tips mengenal shinjuku night"
-image_alt: "Mengenal Shinjuku Night Street Tokyo: Panduan Lengkap untuk Wisata Malam di Jepang"
+keyword: "mengenal shinjuku night street tokyo panduan lengkap untuk w"
+date: 2026-05-07 13:20:47 +0700
+last_modified_at: 2026-05-12 17:46:00 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["shinjuku"]
+tags: ["shinjuku", "tokyo", "jepang", "wisata-kota", "nightlife", "asia", "travel-guide"]
+description: "Terletak di jantung kota, Shinjuku menawarkan kombinasi antara gedung pencakar langit, pusat perbelanjaan, dan jaringan transportasi yang memudahkan akses..."
+excerpt: "Terletak di jantung kota, Shinjuku menawarkan kombinasi antara gedung pencakar langit, pusat perbelanjaan, dan jaringan transportasi yang memudahkan akses..."
+keywords: "shinjuku, tokyo, jepang, wisata kota, nightlife, asia, travel guide, mengenal, street, wisata mengenal shinjuku night, panduan mengenal shinjuku night, tips mengenal shinjuku night"
+image: "https://images.pexels.com/photos/29662419/pexels-photo-29662419.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Mengenal Shinjuku Night Street Tokyo: Panduan Lengkap untuk Wisata Malam di Jepang"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/29662419/pexels-photo-29662419.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Shinjuku Night Street Tokyo: Panduan Lengkap untuk Wisata Malam di Jepang" style="width:100%;height:auto;border-radius:12px;" /></figure>
