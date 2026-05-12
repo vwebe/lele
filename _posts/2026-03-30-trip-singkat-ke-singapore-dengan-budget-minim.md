@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Trip Singkat ke Singapore dengan Budget Minim"
-date: 2026-03-30 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/trip-singkat-ke-singapore-dengan-budget-minim.jpg"
 seo_title: "Trip Singkat ke Singapore dengan Budget Minim"
-description: "# Trip Singkat ke Singapore dengan Budget Minim Siapa bilang ke Singapura itu mahal? Percaya deh, dengan sedikit trik dan perencanaan matang, kamu bisa..."
-excerpt: "# Trip Singkat ke Singapore dengan Budget Minim Siapa bilang ke Singapura itu mahal? Percaya deh, dengan sedikit trik dan perencanaan matang, kamu bisa..."
-keywords: "trip singkat ke singapore dengan budget minim, trip singkat singapore budget, travel, wisata trip singkat singapore, panduan trip singkat singapore, tips trip singkat singapore"
-image_alt: "Trip Singkat ke Singapore dengan Budget Minim"
+keyword: "trip singkat ke singapore dengan budget minim"
+date: 2026-03-30 07:00:00 +0700
+last_modified_at: 2026-05-12 17:33:42 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@farah-sayyed-2154383226)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@farah-sayyed-2154383226)"
+keywords: "travel, trip, singkat, singapore, budget, minim, wisata trip singkat singapore, panduan trip singkat singapore, tips trip singkat singapore"
+image: "/assets/images/auto/trip-singkat-ke-singapore-dengan-budget-minim.jpg"
+image_alt: "Trip Singkat ke Singapore dengan Budget Minim"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/trip-singkat-ke-singapore-dengan-budget-minim.jpg" | relative_url }}" alt="Trip Singkat ke Singapore dengan Budget Minim" loading="lazy" decoding="async">
@@ -111,4 +116,3 @@ Trip singkat ke Singapura ini membuktikan bahwa petualangan tidak harus mahal. Y
 ---
 
 Perjalanan Anda belum berakhir [di sini. Temukan](https://dgxximovie.com/) juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
