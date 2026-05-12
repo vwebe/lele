@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Naik Pesawat Pertama Kali Tanpa Panik"
-date: 2026-03-30 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-naik-pesawat-pertama-kali-tanpa-panik.jpg"
 seo_title: "Tips Naik Pesawat Pertama Kali Tanpa Panik"
-description: "# Tips Naik Pesawat Pertama Kali Tanpa Panik Rasanya deg-degan waktu pertama kali mau naik pesawat? Wajar banget kok! Sama seperti saya dulu, semua terasa..."
-excerpt: "# Tips Naik Pesawat Pertama Kali Tanpa Panik Rasanya deg-degan waktu pertama kali mau naik pesawat? Wajar banget kok! Sama seperti saya dulu, semua terasa..."
-keywords: "tips naik pesawat pertama kali tanpa panik, tips naik pesawat pertama, travel, wisata tips naik pesawat, panduan tips naik pesawat, tips tips naik pesawat"
-image_alt: "Tips Naik Pesawat Pertama Kali Tanpa Panik"
+keyword: "tips naik pesawat pertama kali tanpa panik"
+date: 2026-03-30 20:30:00 +0700
+last_modified_at: 2026-05-12 17:33:40 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@photograph)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@photograph)"
+keywords: "travel, tips, naik, pesawat, pertama, kali, tanpa, panik, wisata tips naik pesawat, panduan tips naik pesawat, tips tips naik pesawat"
+image: "/assets/images/auto/tips-naik-pesawat-pertama-kali-tanpa-panik.jpg"
+image_alt: "Tips Naik Pesawat Pertama Kali Tanpa Panik"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-naik-pesawat-pertama-kali-tanpa-panik.jpg" | relative_url }}" alt="Tips Naik Pesawat Pertama Kali Tanpa Panik" loading="lazy" decoding="async">
@@ -102,4 +107,3 @@ Terbang pertama kali memang bisa terasa sedikit menakutkan, tapi percayalah, ini
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan [hiburan menarik](https://dgxximovie.com/) lainnya untuk mengisi waktu santai Anda.
-
