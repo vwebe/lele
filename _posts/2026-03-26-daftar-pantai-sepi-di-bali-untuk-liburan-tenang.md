@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Daftar Pantai Sepi di Bali untuk Liburan Tenang"
-date: 2026-03-26 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/daftar-pantai-sepi-di-bali-untuk-liburan-tenang.jpg"
 seo_title: "Daftar Pantai Sepi di Bali untuk Liburan Tenang"
-description: "# Menemukan Ketenangan: Daftar Pantai Sepi di Bali yang Wajib Kamu Kunjungi Bali. Dengar namanya saja sudah terbayang hamparan pasir putih, ombak yang..."
-excerpt: "# Menemukan Ketenangan: Daftar Pantai Sepi di Bali yang Wajib Kamu Kunjungi Bali. Dengar namanya saja sudah terbayang hamparan pasir putih, ombak yang..."
-keywords: "daftar pantai sepi di bali untuk liburan tenang, daftar pantai sepi bali, travel, wisata daftar pantai sepi, panduan daftar pantai sepi, tips daftar pantai sepi"
-image_alt: "Daftar Pantai Sepi di Bali untuk Liburan Tenang"
+keyword: "daftar pantai sepi di bali untuk liburan tenang"
+date: 2026-03-26 07:00:00 +0700
+last_modified_at: 2026-05-12 17:32:34 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@tomfisk)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@tomfisk)"
+keywords: "travel, daftar, pantai, sepi, bali, liburan, tenang, wisata daftar pantai sepi, panduan daftar pantai sepi, tips daftar pantai sepi"
+image: "/assets/images/auto/daftar-pantai-sepi-di-bali-untuk-liburan-tenang.jpg"
+image_alt: "Daftar Pantai Sepi di Bali untuk Liburan Tenang"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/daftar-pantai-sepi-di-bali-untuk-liburan-tenang.jpg" | relative_url }}" alt="Daftar Pantai Sepi di Bali untuk Liburan Tenang" loading="lazy" decoding="async">
@@ -119,4 +124,3 @@ Bali memang menawarkan sejuta pesona. Dan salah satu pesona yang paling berharga
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi [wisata dan](https://dgxximovie.com/) hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
