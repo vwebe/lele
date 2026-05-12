@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Mengunjungi Cinque Terre, Desa Pantai Ikonik di Italia"
-date: 2026-05-06 05:47:24 +0700
-categories: ["cinque-terre"]
-tags: ["cinque-terre", "italia", "desa-pantai", "eropa", "wisata-alam", "travel-guide", "coastal-village"]
-image: "https://images.pexels.com/photos/6196707/pexels-photo-6196707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Mengunjungi Cinque Terre, Desa Pantai Ikonik di Italia"
-description: "Pengenalan Singkat tentang Cinque Terre Terletak di ujung barat laut Italia, cinque terre italy village menjadi salah satu destinasi paling fotogenik di..."
-excerpt: "Pengenalan Singkat tentang Cinque Terre Terletak di ujung barat laut Italia, cinque terre italy village menjadi salah satu destinasi paling fotogenik di..."
-keywords: "panduan lengkap mengunjungi cinque terre desa pantai ikonik di italia, panduan lengkap mengunjungi cinque, cinque terre, italia, desa pantai, eropa, wisata alam, travel guide, coastal village, wisata panduan lengkap mengunjungi, panduan panduan lengkap mengunjungi, tips panduan lengkap mengunjungi"
-image_alt: "Panduan Lengkap Mengunjungi Cinque Terre, Desa Pantai Ikonik di Italia"
+keyword: "panduan lengkap mengunjungi cinque terre desa pantai ikonik"
+date: 2026-05-06 05:47:24 +0700
+last_modified_at: 2026-05-12 17:45:35 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["cinque-terre"]
+tags: ["cinque-terre", "italia", "desa-pantai", "eropa", "wisata-alam", "travel-guide", "coastal-village"]
+description: "Terletak di ujung barat laut Italia, cinque terre italy village menjadi salah satu destinasi paling fotogenik di Eropa. Lima desa kecil—Monterosso,..."
+excerpt: "Terletak di ujung barat laut Italia, cinque terre italy village menjadi salah satu destinasi paling fotogenik di Eropa. Lima desa kecil—Monterosso,..."
+keywords: "cinque terre, italia, desa pantai, eropa, wisata alam, travel guide, coastal village, mengunjungi, ikonik, wisata cinque terre, panduan cinque terre, tips cinque terre"
+image: "https://images.pexels.com/photos/6196707/pexels-photo-6196707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Mengunjungi Cinque Terre, Desa Pantai Ikonik di Italia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/6196707/pexels-photo-6196707.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Mengunjungi Cinque Terre, Desa Pantai Ikonik di Italia" style="width:100%;height:auto;border-radius:12px;" /></figure>
