@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Liburan ke Oman"
-date: 2026-04-15 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-liburan-ke-oman.jpg"
 seo_title: "Panduan Liburan ke Oman"
-description: "## Menginjak Jejak Pasir Emas di Oman: Dari Muscat Sampai Puncak Jebel Shams Saat matahari terbenam di atas Teluk Oman, langit berubah menjadi kanvas..."
-excerpt: "## Menginjak Jejak Pasir Emas di Oman: Dari Muscat Sampai Puncak Jebel Shams Saat matahari terbenam di atas Teluk Oman, langit berubah menjadi kanvas..."
-keywords: "panduan liburan ke oman, panduan liburan oman, travel, wisata panduan liburan oman, panduan panduan liburan oman, tips panduan liburan oman"
-image_alt: "Panduan Liburan ke Oman"
+keyword: "panduan liburan ke oman"
+date: 2026-04-15 12:30:00 +0700
+last_modified_at: 2026-05-12 17:37:22 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@eslames1)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@eslames1)"
+keywords: "travel, liburan, oman, wisata liburan oman, panduan liburan oman, tips liburan oman"
+image: "/assets/images/auto/panduan-liburan-ke-oman.jpg"
+image_alt: "Panduan Liburan ke Oman"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-oman.jpg" | relative_url }}" alt="Panduan Liburan ke Oman" loading="lazy" decoding="async">
@@ -181,4 +186,3 @@ Jika Anda masih ragu, ingatlah satu hal: di Oman, kecepatan bukanlah tujuan. Jal
 ---
 
 Perjalanan Anda belum berakhir di [sini. Temukan](https://dgxximovie.com/) juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
