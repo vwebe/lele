@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Colmar France Village: Panduan Lengkap Wisata Hidden Gem Eropa untuk Traveler Indonesia"
-date: 2026-05-06 04:17:44 +0700
-categories: ["colmar"]
-tags: ["colmar", "prancis", "desa-eropa", "kota-kecil", "wisata-eropa", "travel-guide", "hidden-gem"]
-image: "https://images.pexels.com/photos/18249425/pexels-photo-18249425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Colmar France Village: Panduan Lengkap Wisata Hidden Gem Eropa untuk Traveler Indonesia"
-description: "Siapa yang tidak ingin merasakan pesona desa Eropa yang seolah terhenti dalam waktu? Colmar France Village adalah destinasi yang menawarkan kombinasi antara..."
-excerpt: "Siapa yang tidak ingin merasakan pesona desa Eropa yang seolah terhenti dalam waktu? Colmar France Village adalah destinasi yang menawarkan kombinasi antara..."
-keywords: "colmar france village panduan lengkap wisata hidden gem eropa untuk traveler indonesia, colmar france village panduan, colmar, prancis, desa eropa, kota kecil, wisata eropa, travel guide, hidden gem, wisata colmar france village, panduan colmar france village, tips colmar france village"
-image_alt: "Colmar France Village: Panduan Lengkap Wisata Hidden Gem Eropa untuk Traveler Indonesia"
+keyword: "colmar france village panduan lengkap wisata hidden gem erop"
+date: 2026-05-06 04:17:44 +0700
+last_modified_at: 2026-05-12 17:39:16 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["colmar"]
+tags: ["colmar", "prancis", "desa-eropa", "kota-kecil", "wisata-eropa", "travel-guide", "hidden-gem"]
+description: "Terletak di wilayah Alsace, Prancis, Colmar sering kali terlewatkan oleh wisatawan yang hanya fokus pada Paris, Riviera, atau Lyon. Padahal, kota ini..."
+excerpt: "Terletak di wilayah Alsace, Prancis, Colmar sering kali terlewatkan oleh wisatawan yang hanya fokus pada Paris, Riviera, atau Lyon. Padahal, kota ini..."
+keywords: "colmar, prancis, desa eropa, kota kecil, wisata eropa, travel guide, hidden gem, france, village, wisata hidden gem, panduan hidden gem, tips hidden gem"
+image: "https://images.pexels.com/photos/18249425/pexels-photo-18249425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Colmar France Village: Panduan Lengkap Wisata Hidden Gem Eropa untuk Traveler Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/18249425/pexels-photo-18249425.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Colmar France Village: Panduan Lengkap Wisata Hidden Gem Eropa untuk Traveler Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
