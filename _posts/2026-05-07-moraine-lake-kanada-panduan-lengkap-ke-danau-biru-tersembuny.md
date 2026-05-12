@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Moraine Lake, Kanada: Panduan Lengkap ke Danau Biru Tersembunyi yang Memukau"
-date: 2026-05-07 02:50:59 +0700
-categories: ["moraine-lake"]
-tags: ["moraine-lake", "canada", "danau-biru", "wisata-alam", "travel-guide", "hidden-gem"]
-image: "https://images.pexels.com/photos/12905887/pexels-photo-12905887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Moraine Lake, Kanada: Panduan Lengkap ke Danau Biru Tersembunyi yang Memukau"
-description: "Moraine Lake yang terletak di Taman Nasional Banff, Alberta, Kanada, adalah salah satu hidden gem paling menakjubkan di dunia. Dengan airnya yang berwarna..."
-excerpt: "Moraine Lake yang terletak di Taman Nasional Banff, Alberta, Kanada, adalah salah satu hidden gem paling menakjubkan di dunia. Dengan airnya yang berwarna..."
-keywords: "moraine lake kanada panduan lengkap ke danau biru tersembunyi yang memukau, moraine lake kanada panduan, moraine lake, canada, danau biru, wisata alam, travel guide, hidden gem, wisata moraine lake kanada, panduan moraine lake kanada, tips moraine lake kanada, kenapa mora keunikan"
-image_alt: "Moraine Lake, Kanada: Panduan Lengkap ke Danau Biru Tersembunyi yang Memukau"
+keyword: "moraine lake kanada panduan lengkap ke danau biru tersembuny"
+date: 2026-05-07 02:50:59 +0700
+last_modified_at: 2026-05-12 17:47:05 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["moraine-lake"]
+tags: ["moraine-lake", "canada", "danau-biru", "wisata-alam", "travel-guide", "hidden-gem"]
+description: "Keunikan"
+excerpt: "Keunikan"
+keywords: "moraine lake, canada, danau biru, wisata alam, travel guide, hidden gem, kanada, tersembuny, wisata moraine lake, panduan moraine lake, tips moraine lake, kenapa mora keunikan"
+image: "https://images.pexels.com/photos/12905887/pexels-photo-12905887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Moraine Lake, Kanada: Panduan Lengkap ke Danau Biru Tersembunyi yang Memukau"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/12905887/pexels-photo-12905887.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Moraine Lake, Kanada: Panduan Lengkap ke Danau Biru Tersembunyi yang Memukau" style="width:100%;height:auto;border-radius:12px;" /></figure>
