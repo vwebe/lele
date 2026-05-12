@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Trip ke Brazil untuk Pemula"
-date: 2026-04-09 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/trip-ke-brazil-untuk-pemula.jpg"
 seo_title: "Trip ke Brazil untuk Pemula"
-description: "**Trip ke Brazil untuk Pemula** Bergerak melintasi hutan hujan Amazon, menari di atas pasir Copacabana, atau menyaksikan air terjun Iguazu yang megah—Brazil..."
-excerpt: "**Trip ke Brazil untuk Pemula** Bergerak melintasi hutan hujan Amazon, menari di atas pasir Copacabana, atau menyaksikan air terjun Iguazu yang megah—Brazil..."
-keywords: "trip ke brazil untuk pemula, trip brazil pemula, travel, wisata trip brazil pemula, panduan trip brazil pemula, tips trip brazil pemula"
-image_alt: "Trip ke Brazil untuk Pemula"
+keyword: "trip ke brazil untuk pemula"
+date: 2026-04-09 12:30:00 +0700
+last_modified_at: 2026-05-12 17:35:56 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@allan-carvalho-264847051)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@allan-carvalho-264847051)"
+keywords: "travel, trip, brazil, pemula, wisata trip brazil pemula, panduan trip brazil pemula, tips trip brazil pemula"
+image: "/assets/images/auto/trip-ke-brazil-untuk-pemula.jpg"
+image_alt: "Trip ke Brazil untuk Pemula"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-brazil-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Brazil untuk Pemula" loading="lazy" decoding="async">
@@ -123,4 +128,3 @@ Berjalan menapaki pasir putih Copacabana, menembus kabut air terjun Iguazu, atau
 ---
 
 Perjalanan Anda belum [berakhir di sini.](https://dgxximovie.com/) Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
