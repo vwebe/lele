@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Traveling di Musim Semi"
-date: 2026-04-12 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-traveling-di-musim-semi.jpg"
 seo_title: "Tips Traveling di Musim Semi"
-description: "## Menyambut Musim Semi: Kenapa Ini Waktu yang Pas untuk Jalan‑Jalan Udara mulai menghangat, bunga-bunga mekar di setiap sudut jalan, dan keramaian..."
-excerpt: "## Menyambut Musim Semi: Kenapa Ini Waktu yang Pas untuk Jalan‑Jalan Udara mulai menghangat, bunga-bunga mekar di setiap sudut jalan, dan keramaian..."
-keywords: "tips traveling di musim semi, tips traveling musim semi, travel, wisata tips traveling musim, panduan tips traveling musim, tips tips traveling musim"
-image_alt: "Tips Traveling di Musim Semi"
+keyword: "tips traveling di musim semi"
+date: 2026-04-12 12:30:00 +0700
+last_modified_at: 2026-05-12 17:37:00 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@n-voitkevich)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@n-voitkevich)"
+keywords: "travel, tips, traveling, musim, semi, wisata tips traveling musim, panduan tips traveling musim, tips tips traveling musim"
+image: "/assets/images/auto/tips-traveling-di-musim-semi.jpg"
+image_alt: "Tips Traveling di Musim Semi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-di-musim-semi.jpg" | relative_url }}" alt="Tips Traveling di Musim Semi" loading="lazy" decoding="async">
@@ -124,4 +129,3 @@ Menyusuri jalan‑jalan berwarna pastel, menyesap es kelapa muda di pinggir kebu
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga [berbagai inspirasi](https://dgxximovie.com/) wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
