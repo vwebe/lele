@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Al Seef Dubai: Menyelami Pesona Kota Tua Arab di UEA"
-date: 2026-05-08 17:48:31 +0700
-categories: ["al-seef"]
-tags: ["al-seef", "dubai", "uea", "budaya-arab", "kota-tua", "travel-guide", "al-seef-dubai"]
-image: "https://images.pexels.com/photos/29401696/pexels-photo-29401696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Al Seef Dubai: Menyelami Pesona Kota Tua Arab di UEA"
-description: "Al Seef, yang terletak di tepi Sungai Dubai, adalah salah satu permata tersembunyi di kota modern ini. Bagi para traveler Indonesia yang menginginkan..."
-excerpt: "Al Seef, yang terletak di tepi Sungai Dubai, adalah salah satu permata tersembunyi di kota modern ini. Bagi para traveler Indonesia yang menginginkan..."
-keywords: "panduan lengkap al seef dubai menyelami pesona kota tua arab di uea, panduan lengkap seef dubai, al seef, dubai, uea, budaya arab, kota tua, travel guide, al seef dubai, wisata panduan lengkap seef, panduan panduan lengkap seef, tips panduan lengkap seef"
-image_alt: "Panduan Lengkap Al Seef Dubai: Menyelami Pesona Kota Tua Arab di UEA"
+keyword: "panduan lengkap al seef dubai menyelami pesona kota tua arab"
+date: 2026-05-08 17:48:31 +0700
+last_modified_at: 2026-05-12 17:47:27 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["al-seef"]
+tags: ["al-seef", "dubai", "uea", "budaya-arab", "kota-tua", "travel-guide", "al-seef-dubai"]
+description: "Berbeda dari gedung pencakar langit yang mendominasi skyline Dubai, Al Seef menampilkan arsitektur bergaya heritage dengan rumah-rumah batu bata merah,..."
+excerpt: "Berbeda dari gedung pencakar langit yang mendominasi skyline Dubai, Al Seef menampilkan arsitektur bergaya heritage dengan rumah-rumah batu bata merah,..."
+keywords: "al seef, dubai, uea, budaya arab, kota tua, travel guide, al seef dubai, menyelami, pesona, wisata al seef, panduan al seef, tips al seef"
+image: "https://images.pexels.com/photos/29401696/pexels-photo-29401696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Al Seef Dubai: Menyelami Pesona Kota Tua Arab di UEA"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/29401696/pexels-photo-29401696.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Al Seef Dubai: Menyelami Pesona Kota Tua Arab di UEA" style="width:100%;height:auto;border-radius:12px;" /></figure>
