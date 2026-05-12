@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Wisata Paris Prancis: Dari Menara Eiffel Hingga Hidden Gem yang Wajib Dikunjungi"
-date: 2026-05-12 04:02:48 +0700
-categories: ["paris"]
-tags: ["paris", "prancis", "eropa", "travel-luar-negeri", "wisata-eropa", "travel-guide", "city-tour", "wisata-budaya", "wisata-alam"]
-image: "https://images.pexels.com/photos/32416908/pexels-photo-32416908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Wisata Paris Prancis: Dari Menara Eiffel Hingga Hidden Gem yang Wajib Dikunjungi"
-description: "Siapa yang tidak terpukau dengan pesona Paris? Kota Cahaya ini selalu berhasil memikat hati para pelancong dari seluruh dunia, tak terkecuali wisatawan..."
-excerpt: "Siapa yang tidak terpukau dengan pesona Paris? Kota Cahaya ini selalu berhasil memikat hati para pelancong dari seluruh dunia, tak terkecuali wisatawan..."
-keywords: "panduan lengkap wisata paris prancis dari menara eiffel hingga hidden gem yang wajib dikunjungi, panduan lengkap wisata paris, paris, prancis, eropa, travel luar negeri, wisata eropa, travel guide, city tour, wisata budaya, wisata alam, wisata panduan lengkap wisata"
-image_alt: "Panduan Lengkap Wisata Paris Prancis: Dari Menara Eiffel Hingga Hidden Gem yang Wajib Dikunjungi"
+keyword: "wisata paris prancis"
+date: 2026-05-12 04:02:48 +0700
+last_modified_at: 2026-05-12 17:51:28 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["paris"]
+tags: ["paris", "prancis", "eropa", "travel-luar-negeri", "wisata-eropa", "travel-guide", "city-tour", "wisata-budaya", "wisata-alam"]
+description: "Paris menawarkan kombinasi sempurna antara kemegahan sejarah, keindahan arsitektur, denyut kehidupan kota modern, dan romantisme yang legendaris. Bagi..."
+excerpt: "Paris menawarkan kombinasi sempurna antara kemegahan sejarah, keindahan arsitektur, denyut kehidupan kota modern, dan romantisme yang legendaris. Bagi..."
+keywords: "paris, prancis, eropa, travel luar negeri, wisata eropa, travel guide, city tour, wisata budaya, wisata alam, wisata paris prancis, panduan paris prancis, tips paris prancis"
+image: "https://images.pexels.com/photos/32416908/pexels-photo-32416908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Wisata Paris Prancis: Dari Menara Eiffel Hingga Hidden Gem yang Wajib Dikunjungi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/32416908/pexels-photo-32416908.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Wisata Paris Prancis: Dari Menara Eiffel Hingga Hidden Gem yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>
