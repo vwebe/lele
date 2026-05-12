@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata Malam di Bangkok yang Seru"
-date: 2026-03-29 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-malam-di-bangkok-yang-seru.jpg"
 seo_title: "Tempat Wisata Malam di Bangkok yang Seru"
-description: "# Bangkok Malam Hari: Pesta Cahaya, Rasa, dan Suara yang Tak Terlupakan Bangkok di malam hari punya pesonanya sendiri yang sungguh berbeda. Saat matahari..."
-excerpt: "# Bangkok Malam Hari: Pesta Cahaya, Rasa, dan Suara yang Tak Terlupakan Bangkok di malam hari punya pesonanya sendiri yang sungguh berbeda. Saat matahari..."
-keywords: "tempat wisata malam di bangkok yang seru, tempat wisata malam bangkok, travel, wisata tempat wisata malam, panduan tempat wisata malam, tips tempat wisata malam"
-image_alt: "Tempat Wisata Malam di Bangkok yang Seru"
+keyword: "tempat wisata malam di bangkok yang seru"
+date: 2026-03-29 20:30:00 +0700
+last_modified_at: 2026-05-12 17:33:31 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@george-pak)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@george-pak)"
+keywords: "travel, tempat, malam, bangkok, seru, wisata tempat malam bangkok, panduan tempat malam bangkok, tips tempat malam bangkok"
+image: "/assets/images/auto/tempat-wisata-malam-di-bangkok-yang-seru.jpg"
+image_alt: "Tempat Wisata Malam di Bangkok yang Seru"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-malam-di-bangkok-yang-seru.jpg" | relative_url }}" alt="Tempat Wisata Malam di Bangkok yang Seru" loading="lazy" decoding="async">
@@ -105,4 +110,3 @@ Bangkok di malam hari adalah sebuah simfoni dari lampu, rasa, dan suara yang sal
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan [menarik lainnya untuk mengisi](https://dgxximovie.com/) waktu santai Anda.
-
