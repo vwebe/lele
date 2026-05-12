@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Foto Sunrise agar Hasil Lebih Dramatis"
-date: 2026-03-26 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-foto-sunrise-agar-hasil-lebih-dramatis.jpg"
 seo_title: "Tips Foto Sunrise agar Hasil Lebih Dramatis"
-description: "# Tips Foto [Sunrise](https://aestethiclele.blogspot.com/2026/03/menjelajahi-pantai-indah-di-lombok.html) agar Hasil Lebih Dramatis Mengejar matahari terbit..."
-excerpt: "# Tips Foto [Sunrise](https://aestethiclele.blogspot.com/2026/03/menjelajahi-pantai-indah-di-lombok.html) agar Hasil Lebih Dramatis Mengejar matahari terbit..."
-keywords: "tips foto sunrise agar hasil lebih dramatis, tips foto sunrise agar, travel, wisata tips foto sunrise, panduan tips foto sunrise, tips tips foto sunrise"
-image_alt: "Tips Foto Sunrise agar Hasil Lebih Dramatis"
+keyword: "tips foto sunrise agar hasil lebih dramatis"
+date: 2026-03-26 20:30:00 +0700
+last_modified_at: 2026-05-12 17:32:39 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@pixabay)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@pixabay)"
+keywords: "travel, tips, foto, sunrise, agar, hasil, lebih, dramatis, wisata tips foto sunrise, panduan tips foto sunrise, tips tips foto sunrise"
+image: "/assets/images/auto/tips-foto-sunrise-agar-hasil-lebih-dramatis.jpg"
+image_alt: "Tips Foto Sunrise agar Hasil Lebih Dramatis"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-foto-sunrise-agar-hasil-lebih-dramatis.jpg" | relative_url }}" alt="Tips Foto Sunrise agar Hasil Lebih Dramatis" loading="lazy" decoding="async">
@@ -105,4 +110,3 @@ Memotret sunrise adalah sebuah [perjalanan](https://aestethiclele.blogspot.com/2
 ---
 
 Perjalanan [Anda belum](https://dgxximovie.com/) berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
