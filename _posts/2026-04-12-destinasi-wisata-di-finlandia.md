@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Wisata di Finlandia"
-date: 2026-04-12 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-wisata-di-finlandia.jpg"
 seo_title: "Destinasi Wisata di Finlandia"
-description: "## Menyusuri Jejak Cahaya di Negeri Seribu Danau Sampai kini, Finlandia masih terasa seperti halaman buku cerita yang belum banyak dibuka oleh wisatawan..."
-excerpt: "## Menyusuri Jejak Cahaya di Negeri Seribu Danau Sampai kini, Finlandia masih terasa seperti halaman buku cerita yang belum banyak dibuka oleh wisatawan..."
-keywords: "destinasi wisata di finlandia, destinasi wisata finlandia, travel, wisata destinasi wisata finlandia, panduan destinasi wisata finlandia, tips destinasi wisata finlandia"
-image_alt: "Destinasi Wisata di Finlandia"
+keyword: "destinasi wisata di finlandia"
+date: 2026-04-12 07:00:00 +0700
+last_modified_at: 2026-05-12 17:36:54 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@tapio-haaja-1214336)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@tapio-haaja-1214336)"
+keywords: "travel, destinasi, finlandia, wisata destinasi finlandia, panduan destinasi finlandia, tips destinasi finlandia"
+image: "/assets/images/auto/destinasi-wisata-di-finlandia.jpg"
+image_alt: "Destinasi Wisata di Finlandia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-finlandia.jpg" | relative_url }}" alt="Destinasi Wisata di Finlandia" loading="lazy" decoding="async">
@@ -91,4 +96,3 @@ Jika Anda masih ragu untuk menambahkan Finlandia ke dalam daftar impian, cobalah
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata [dan hiburan menarik lainnya](https://dgxximovie.com/) untuk mengisi waktu santai Anda.
-
