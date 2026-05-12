@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Mengenal Notting Hill, London, Inggris: Panduan Lengkap untuk Wisatawan Indonesia"
-date: 2026-05-05 18:40:18 +0700
-categories: ["notting-hill"]
-tags: ["notting-hill", "london", "inggris", "eropa", "wisata-kota", "hidden-gem", "travel-guide"]
-image: "https://images.pexels.com/photos/30847189/pexels-photo-30847189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Mengenal Notting Hill, London, Inggris: Panduan Lengkap untuk Wisatawan Indonesia"
-description: "Jika Anda mencari kombinasi antara keanggunan klasik Inggris, atmosfer bohemian, dan spot-spot Instagramable, Notting Hill di London, Inggris, adalah..."
-excerpt: "Jika Anda mencari kombinasi antara keanggunan klasik Inggris, atmosfer bohemian, dan spot-spot Instagramable, Notting Hill di London, Inggris, adalah..."
-keywords: "mengenal notting hill london inggris panduan lengkap untuk wisatawan indonesia, mengenal notting hill london, notting hill, london, inggris, eropa, wisata kota, hidden gem, travel guide, wisata mengenal notting hill, panduan mengenal notting hill, tips mengenal notting hill"
-image_alt: "Mengenal Notting Hill, London, Inggris: Panduan Lengkap untuk Wisatawan Indonesia"
+keyword: "mengenal notting hill london inggris panduan lengkap untuk w"
+date: 2026-05-05 18:40:18 +0700
+last_modified_at: 2026-05-12 17:39:06 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["notting-hill"]
+tags: ["notting-hill", "london", "inggris", "eropa", "wisata-kota", "hidden-gem", "travel-guide"]
+description: "Awalnya, Notting Hill merupakan kawasan perumahan kelas menengah pada abad ke-19, namun pada 1950-an hingga 1960-an menjadi pusat imigran Karibia. Warisan..."
+excerpt: "Awalnya, Notting Hill merupakan kawasan perumahan kelas menengah pada abad ke-19, namun pada 1950-an hingga 1960-an menjadi pusat imigran Karibia. Warisan..."
+keywords: "notting hill, london, inggris, eropa, wisata kota, hidden gem, travel guide, mengenal, wisata notting hill, panduan notting hill, tips notting hill, sejarah singkat dan daya tarik utama notting hill"
+image: "https://images.pexels.com/photos/30847189/pexels-photo-30847189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Mengenal Notting Hill, London, Inggris: Panduan Lengkap untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/30847189/pexels-photo-30847189.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Notting Hill, London, Inggris: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
