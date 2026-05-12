@@ -4,8 +4,14 @@ title: "Eksplor Hidden Gem Dunia: Dari Danau Ubur di Derawan hingga Danau Biru d
 date: 2026-05-05 20:48:08 +0700
 categories: ["kakaban"]
 tags: ["kakaban", "derawan", "danau", "hidden-gem", "wisata-unik", "wisata-air", "destinasi-internasional", "travel-guide"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Indonesia memang kaya akan keindahan alam, mulai dari desa Derawan, Kakaban, hingga Danau Ubur yang memikat. Namun,..."
 image: "https://images.pexels.com/photos/28201189/pexels-photo-28201189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Eksplor Hidden Gem Dunia: Dari Danau Ubur di Derawan hingga Danau Biru di Kroasia – Panduan Liburan Unik untuk Wisatawan Indonesia"
+description: "Indonesia memang kaya akan keindahan alam, mulai dari desa Derawan , Kakaban , hingga Danau Ubur yang memikat. Namun, bagi traveler yang ingin memperluas..."
+excerpt: "Indonesia memang kaya akan keindahan alam, mulai dari desa Derawan , Kakaban , hingga Danau Ubur yang memikat. Namun, bagi traveler yang ingin memperluas..."
+keywords: "eksplor hidden gem dunia dari danau ubur di derawan hingga danau biru di kroasia panduan liburan unik untuk wisatawan indonesia, eksplor hidden gem dunia, kakaban, derawan, danau, hidden gem, wisata unik, wisata air, destinasi internasional, travel guide, wisata eksplor hidden gem, panduan eksplor hidden gem"
+image_alt: "Eksplor Hidden Gem Dunia: Dari Danau Ubur di Derawan hingga Danau Biru di Kroasia – Panduan Liburan Unik untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/28201189/pexels-photo-28201189.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Eksplor Hidden Gem Dunia: Dari Danau Ubur di Derawan hingga Danau Biru di Kroasia – Panduan Liburan Unik untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

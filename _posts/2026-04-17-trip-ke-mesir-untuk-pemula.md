@@ -4,6 +4,13 @@ title: "Trip ke Mesir untuk Pemula"
 date: 2026-04-17 12:15:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-ke-mesir-untuk-pemula.jpg"
+seo_title: "Trip ke Mesir untuk Pemula"
+description: "## Menjejak Langkah Pertama di Tanah Piramida Saat mata pertama menatap siluet raksasa batu pasir yang menembus langit di Giza, ada sensasi campur aduk..."
+excerpt: "## Menjejak Langkah Pertama di Tanah Piramida Saat mata pertama menatap siluet raksasa batu pasir yang menembus langit di Giza, ada sensasi campur aduk..."
+keywords: "trip ke mesir untuk pemula, trip mesir pemula, travel, wisata trip mesir pemula, panduan trip mesir pemula, tips trip mesir pemula"
+image_alt: "Trip ke Mesir untuk Pemula"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-mesir-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Mesir untuk Pemula" loading="lazy" decoding="async">

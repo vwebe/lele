@@ -4,6 +4,13 @@ title: "Tips Traveling ke Afrika Selatan"
 date: 2026-04-16 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-traveling-ke-afrika-selatan.jpg"
+seo_title: "Tips Traveling ke Afrika Selatan"
+description: "# Tips Traveling ke Afrika Selatan Udara kering, savana yang memanjang, dan kota-kota yang penuh warna—Afrika Selatan memang tak pernah kehabisan cerita..."
+excerpt: "# Tips Traveling ke Afrika Selatan Udara kering, savana yang memanjang, dan kota-kota yang penuh warna—Afrika Selatan memang tak pernah kehabisan cerita..."
+keywords: "tips traveling ke afrika selatan, tips traveling afrika selatan, travel, wisata tips traveling afrika, panduan tips traveling afrika, tips tips traveling afrika"
+image_alt: "Tips Traveling ke Afrika Selatan"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-ke-afrika-selatan.jpg" | relative_url }}" alt="Tips Traveling ke Afrika Selatan" loading="lazy" decoding="async">

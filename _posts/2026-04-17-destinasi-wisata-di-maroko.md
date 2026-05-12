@@ -4,6 +4,13 @@ title: "Destinasi Wisata di Maroko"
 date: 2026-04-17 18:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-di-maroko.jpg"
+seo_title: "Destinasi Wisata di Maroko"
+description: "# Menyelami Keindahan Maroko: Dari Medina Berliku Hingga Pasir Sahara yang Menyentuh Hati Berjalan di antara lorong-lorong sempit yang dipenuhi aroma..."
+excerpt: "# Menyelami Keindahan Maroko: Dari Medina Berliku Hingga Pasir Sahara yang Menyentuh Hati Berjalan di antara lorong-lorong sempit yang dipenuhi aroma..."
+keywords: "destinasi wisata di maroko, destinasi wisata maroko, travel, wisata destinasi wisata maroko, panduan destinasi wisata maroko, tips destinasi wisata maroko"
+image_alt: "Destinasi Wisata di Maroko"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-maroko.jpg" | relative_url }}" alt="Destinasi Wisata di Maroko" loading="lazy" decoding="async">

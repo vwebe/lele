@@ -4,8 +4,14 @@ title: "Jelajahi Harajuku Street Tokyo: Panduan Lengkap Wisata Belanja dan Stree
 date: 2026-05-07 14:48:37 +0700
 categories: ["harajuku"]
 tags: ["harajuku", "tokyo", "jepang", "wisata-belanja", "street-fashion", "asia", "travel-guide"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Harajuku telah menjadi ikon fashion jalanan yang memikat hati para pecinta gaya dari seluruh dunia, termasuk..."
 image: "https://images.pexels.com/photos/5847826/pexels-photo-5847826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Jelajahi Harajuku Street Tokyo: Panduan Lengkap Wisata Belanja dan Street Fashion di Jepang"
+description: "Harajuku telah menjadi ikon fashion jalanan yang memikat hati para pecinta gaya dari seluruh dunia, termasuk Indonesia. Terletak di distrik Shibuya, Tokyo..."
+excerpt: "Harajuku telah menjadi ikon fashion jalanan yang memikat hati para pecinta gaya dari seluruh dunia, termasuk Indonesia. Terletak di distrik Shibuya, Tokyo..."
+keywords: "jelajahi harajuku street tokyo panduan lengkap wisata belanja dan street fashion di jepang, jelajahi harajuku street tokyo, harajuku, tokyo, jepang, wisata belanja, street fashion, asia, travel guide, wisata jelajahi harajuku street, panduan jelajahi harajuku street, tips jelajahi harajuku street"
+image_alt: "Jelajahi Harajuku Street Tokyo: Panduan Lengkap Wisata Belanja dan Street Fashion di Jepang"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/5847826/pexels-photo-5847826.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Jelajahi Harajuku Street Tokyo: Panduan Lengkap Wisata Belanja dan Street Fashion di Jepang" style="width:100%;height:auto;border-radius:12px;" /></figure>

@@ -4,8 +4,14 @@ title: "Menelusuri Keindahan Desa Tradisional Shirakawa-go, Jepang: Panduan Leng
 date: 2026-05-05 11:40:23 +0700
 categories: ["shirakawa-go"]
 tags: ["shirakawa-go", "jepang", "desa-tradisional", "wisata-jepang", "asia", "travel-guide", "budaya-jepang", "hidden-gem", "shirakawa-go"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Jika Anda mencari destinasi yang menawarkan kombinasi keaslian budaya, arsitektur menakjubkan, dan suasana damai,..."
 image: "https://images.pexels.com/photos/11997087/pexels-photo-11997087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menelusuri Keindahan Desa Tradisional Shirakawa-go, Jepang: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Jika Anda mencari destinasi yang menawarkan kombinasi keaslian budaya, arsitektur menakjubkan, dan suasana damai, desa tradisional Shirakawa-go di Jepang..."
+excerpt: "Jika Anda mencari destinasi yang menawarkan kombinasi keaslian budaya, arsitektur menakjubkan, dan suasana damai, desa tradisional Shirakawa-go di Jepang..."
+keywords: "menelusuri keindahan desa tradisional shirakawa go jepang panduan lengkap untuk wisatawan indonesia, menelusuri keindahan desa tradisional, shirakawa go, jepang, desa tradisional, wisata jepang, asia, travel guide, budaya jepang, hidden gem, wisata menelusuri keindahan desa, panduan menelusuri keindahan desa"
+image_alt: "Menelusuri Keindahan Desa Tradisional Shirakawa-go, Jepang: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/11997087/pexels-photo-11997087.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menelusuri Keindahan Desa Tradisional Shirakawa-go, Jepang: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

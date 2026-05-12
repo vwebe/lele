@@ -4,6 +4,13 @@ title: "Tips Traveling ke Amerika Selatan"
 date: 2026-04-17 21:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-traveling-ke-amerika-selatan.jpg"
+seo_title: "Tips Traveling ke Amerika Selatan"
+description: "# Tips Traveling ke Amerika Selatan Kamu pernah bermimpi menatap puncak Machu Picchu dalam kabut pagi atau menari tango di jalanan Buenos Aires? Amerika..."
+excerpt: "# Tips Traveling ke Amerika Selatan Kamu pernah bermimpi menatap puncak Machu Picchu dalam kabut pagi atau menari tango di jalanan Buenos Aires? Amerika..."
+keywords: "tips traveling ke amerika selatan, tips traveling amerika selatan, travel, wisata tips traveling amerika, panduan tips traveling amerika, tips tips traveling amerika"
+image_alt: "Tips Traveling ke Amerika Selatan"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-ke-amerika-selatan.jpg" | relative_url }}" alt="Tips Traveling ke Amerika Selatan" loading="lazy" decoding="async">

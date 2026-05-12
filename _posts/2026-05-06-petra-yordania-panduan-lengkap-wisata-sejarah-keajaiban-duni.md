@@ -4,8 +4,14 @@ title: "Petra Yordania: Panduan Lengkap Wisata Sejarah & Keajaiban Dunia untuk P
 date: 2026-05-06 01:18:03 +0700
 categories: ["petra"]
 tags: ["petra", "yordania", "timur-tengah", "wisata-sejarah", "world-heritage", "travel-guide"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Petra, salah satu keajaiban dunia yang terletak di Yordania, telah menjadi magnet bagi wisatawan yang mencari..."
 image: "https://images.pexels.com/photos/15997973/pexels-photo-15997973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Petra Yordania: Panduan Lengkap Wisata Sejarah & Keajaiban Dunia untuk Pelancong Indonesia"
+description: "Petra , salah satu keajaiban dunia yang terletak di Yordania, telah menjadi magnet bagi wisatawan yang mencari pengalaman wisata sejarah yang unik. Bagi..."
+excerpt: "Petra , salah satu keajaiban dunia yang terletak di Yordania, telah menjadi magnet bagi wisatawan yang mencari pengalaman wisata sejarah yang unik. Bagi..."
+keywords: "petra yordania panduan lengkap wisata sejarah keajaiban dunia untuk pelancong indonesia, petra yordania panduan lengkap, petra, yordania, timur tengah, wisata sejarah, world heritage, travel guide, wisata petra yordania panduan, panduan petra yordania panduan, tips petra yordania panduan, sejarah keistimewaan petra"
+image_alt: "Petra Yordania: Panduan Lengkap Wisata Sejarah & Keajaiban Dunia untuk Pelancong Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/15997973/pexels-photo-15997973.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Petra Yordania: Panduan Lengkap Wisata Sejarah &amp; Keajaiban Dunia untuk Pelancong Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

@@ -4,8 +4,14 @@ title: "Menjelajahi Ngong Ping Village di Hong Kong: Panduan Lengkap untuk Wisat
 date: 2026-05-08 08:51:10 +0700
 categories: ["ngong-ping"]
 tags: ["ngong-ping", "hong-kong", "desa-wisata", "budaya", "travel-guide", "wisata-luar-negeri"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Hong Kong memang terkenal dengan gedung pencakar langitnya, pusat perbelanjaan mewah, dan kuliner yang menggoda...."
 image: "https://images.pexels.com/photos/30317109/pexels-photo-30317109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Ngong Ping Village di Hong Kong: Panduan Lengkap untuk Wisatawan Indonesia"
+description: "Hong Kong memang terkenal dengan gedung pencakar langitnya, pusat perbelanjaan mewah, dan kuliner yang menggoda. Namun, di balik gemerlap kota metropolitan..."
+excerpt: "Hong Kong memang terkenal dengan gedung pencakar langitnya, pusat perbelanjaan mewah, dan kuliner yang menggoda. Namun, di balik gemerlap kota metropolitan..."
+keywords: "menjelajahi ngong ping village di hong kong panduan lengkap untuk wisatawan indonesia, menjelajahi ngong ping village, ngong ping, hong kong, desa wisata, budaya, travel guide, wisata luar negeri, wisata menjelajahi ngong ping, panduan menjelajahi ngong ping, tips menjelajahi ngong ping, kenapa ngong ping village patut masuk daftar wishlist anda"
+image_alt: "Menjelajahi Ngong Ping Village di Hong Kong: Panduan Lengkap untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/30317109/pexels-photo-30317109.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Ngong Ping Village di Hong Kong: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

@@ -4,6 +4,13 @@ title: "Tempat Wisata di Peru"
 date: 2026-04-18 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-di-peru.jpg"
+seo_title: "Tempat Wisata di Peru"
+description: "# Tempat [Wisata](#REF!) di Peru: Dari Puncak Andes hingga Hutan Amazon Matahari terbit di atas pegunungan Andes menyapu kabut tipis, menampakkan siluet..."
+excerpt: "# Tempat [Wisata](#REF!) di Peru: Dari Puncak Andes hingga Hutan Amazon Matahari terbit di atas pegunungan Andes menyapu kabut tipis, menampakkan siluet..."
+keywords: "tempat wisata di peru, tempat wisata peru, travel, wisata tempat wisata peru, panduan tempat wisata peru, tips tempat wisata peru"
+image_alt: "Tempat Wisata di Peru"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-peru.jpg" | relative_url }}" alt="Tempat Wisata di Peru" loading="lazy" decoding="async">

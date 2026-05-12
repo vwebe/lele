@@ -4,8 +4,14 @@ title: "Panduan Lengkap Batu Caves, Malaysia: Wisata Religi dan Hidden Gem Asia 
 date: 2026-05-08 02:47:47 +0700
 categories: ["batu-caves"]
 tags: ["batu-caves", "malaysia", "wisata-religi", "kuil-hindu", "travel-guide", "asia", "hidden-gem"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Batu Caves adalah salah satu destinasi wisata religi paling ikonik di Asia Tenggara, terletak tak jauh dari ibu kota..."
 image: "https://images.pexels.com/photos/35445967/pexels-photo-35445967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Batu Caves, Malaysia: Wisata Religi dan Hidden Gem Asia yang Wajib Dikunjungi"
+description: "Batu Caves adalah salah satu destinasi wisata religi paling ikonik di Asia Tenggara, terletak tak jauh dari ibu kota Kuala Lumpur. Bagi traveler Indonesia..."
+excerpt: "Batu Caves adalah salah satu destinasi wisata religi paling ikonik di Asia Tenggara, terletak tak jauh dari ibu kota Kuala Lumpur. Bagi traveler Indonesia..."
+keywords: "panduan lengkap batu caves malaysia wisata religi dan hidden gem asia yang wajib dikunjungi, panduan lengkap batu caves, batu caves, malaysia, wisata religi, kuil hindu, travel guide, asia, hidden gem, wisata panduan lengkap batu, panduan panduan lengkap batu, tips panduan lengkap batu"
+image_alt: "Panduan Lengkap Batu Caves, Malaysia: Wisata Religi dan Hidden Gem Asia yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/35445967/pexels-photo-35445967.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Batu Caves, Malaysia: Wisata Religi dan Hidden Gem Asia yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>

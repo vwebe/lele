@@ -4,8 +4,14 @@ title: "Menjelajahi Keindahan Taipei 101 Area: Panduan Lengkap Wisata Kota Taipe
 date: 2026-05-08 11:48:03 +0700
 categories: ["taipei-101"]
 tags: ["taipei-101", "taipei", "taiwan", "city-landmark", "wisata-kota", "travel-guide"]
-excerpt: "Waktu baca: 1 menitWisata Internasional Taipei, ibu kota Taiwan, dikenal sebagai kota yang memadukan modernitas tinggi dengan tradisi budaya yang kental...."
 image: "https://images.pexels.com/photos/31138641/pexels-photo-31138641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Menjelajahi Keindahan Taipei 101 Area: Panduan Lengkap Wisata Kota Taipei, Taiwan"
+description: "Taipei, ibu kota Taiwan, dikenal sebagai kota yang memadukan modernitas tinggi dengan tradisi budaya yang kental. Salah satu ikon paling terkenal adalah..."
+excerpt: "Taipei, ibu kota Taiwan, dikenal sebagai kota yang memadukan modernitas tinggi dengan tradisi budaya yang kental. Salah satu ikon paling terkenal adalah..."
+keywords: "menjelajahi keindahan taipei 101 area panduan lengkap wisata kota taipei taiwan, menjelajahi keindahan taipei 101, taipei 101, taipei, taiwan, city landmark, wisata kota, travel guide, wisata menjelajahi keindahan taipei, panduan menjelajahi keindahan taipei, tips menjelajahi keindahan taipei, mengapa taipei 101 area menjadi destinasi utama"
+image_alt: "Menjelajahi Keindahan Taipei 101 Area: Panduan Lengkap Wisata Kota Taipei, Taiwan"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/31138641/pexels-photo-31138641.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Keindahan Taipei 101 Area: Panduan Lengkap Wisata Kota Taipei, Taiwan" style="width:100%;height:auto;border-radius:12px;" /></figure>

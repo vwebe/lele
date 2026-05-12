@@ -4,6 +4,13 @@ title: "Tempat Wisata di Kenya"
 date: 2026-04-16 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-di-kenya.jpg"
+seo_title: "Tempat Wisata di Kenya"
+description: "# Menyelami Keajaiban Kenya: Dari Padang Savana Hingga Pasir Putih Pantai Kenya tak lagi sekadar nama di peta; ia adalah rangkaian warna, suara, dan aroma..."
+excerpt: "# Menyelami Keajaiban Kenya: Dari Padang Savana Hingga Pasir Putih Pantai Kenya tak lagi sekadar nama di peta; ia adalah rangkaian warna, suara, dan aroma..."
+keywords: "tempat wisata di kenya, tempat wisata kenya, travel, wisata tempat wisata kenya, panduan tempat wisata kenya, tips tempat wisata kenya"
+image_alt: "Tempat Wisata di Kenya"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-kenya.jpg" | relative_url }}" alt="Tempat Wisata di Kenya" loading="lazy" decoding="async">

@@ -4,8 +4,14 @@ title: "Panduan Lengkap Railay Beach, Krabi, Thailand: Surga Pantai Eksotis di A
 date: 2026-05-06 14:48:57 +0700
 categories: ["railay-beach"]
 tags: ["railay-beach", "krabi", "thailand", "pantai-eksotis", "asia", "travel-guide"]
-excerpt: "Waktu baca: 4 menitWisata Internasional Railay Beach di Krabi, Thailand, memang menjadi salah satu destinasi tersembunyi yang kini semakin populer di..."
 image: "https://images.pexels.com/photos/14574663/pexels-photo-14574663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Panduan Lengkap Railay Beach, Krabi, Thailand: Surga Pantai Eksotis di Asia untuk Wisatawan Indonesia"
+description: "Railay Beach di Krabi, Thailand, memang menjadi salah satu destinasi tersembunyi yang kini semakin populer di kalangan traveler Indonesia. Dengan tebing..."
+excerpt: "Railay Beach di Krabi, Thailand, memang menjadi salah satu destinasi tersembunyi yang kini semakin populer di kalangan traveler Indonesia. Dengan tebing..."
+keywords: "panduan lengkap railay beach krabi thailand surga pantai eksotis di asia untuk wisatawan indonesia, panduan lengkap railay beach, railay beach, krabi, thailand, pantai eksotis, asia, travel guide, wisata panduan lengkap railay, panduan panduan lengkap railay, tips panduan lengkap railay, lokasi dan cara akses"
+image_alt: "Panduan Lengkap Railay Beach, Krabi, Thailand: Surga Pantai Eksotis di Asia untuk Wisatawan Indonesia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/14574663/pexels-photo-14574663.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Railay Beach, Krabi, Thailand: Surga Pantai Eksotis di Asia untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>

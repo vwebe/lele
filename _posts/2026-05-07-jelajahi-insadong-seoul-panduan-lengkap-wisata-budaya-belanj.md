@@ -4,8 +4,14 @@ title: "Jelajahi Insadong, Seoul: Panduan Lengkap Wisata Budaya & Belanja Tradis
 date: 2026-05-07 16:18:33 +0700
 categories: ["insadong"]
 tags: ["insadong", "seoul", "korea-selatan", "wisata-budaya", "belanja-tradisional", "travel-guide"]
-excerpt: "Waktu baca: 3 menitWisata Internasional Insadong, sebuah kawasan bersejarah di pusat kota Seoul, Korea Selatan, menjadi magnet bagi para traveler yang..."
 image: "https://images.pexels.com/photos/32196411/pexels-photo-32196411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+seo_title: "Jelajahi Insadong, Seoul: Panduan Lengkap Wisata Budaya & Belanja Tradisional di Korea Selatan"
+description: "Insadong, sebuah kawasan bersejarah di pusat kota Seoul, Korea Selatan, menjadi magnet bagi para traveler yang menginginkan pengalaman budaya otentik..."
+excerpt: "Insadong, sebuah kawasan bersejarah di pusat kota Seoul, Korea Selatan, menjadi magnet bagi para traveler yang menginginkan pengalaman budaya otentik..."
+keywords: "jelajahi insadong seoul panduan lengkap wisata budaya belanja tradisional di korea selatan, jelajahi insadong seoul panduan, insadong, seoul, korea selatan, wisata budaya, belanja tradisional, travel guide, wisata jelajahi insadong seoul, panduan jelajahi insadong seoul, tips jelajahi insadong seoul, kenapa insadong wajib masuk daftar destinasi anda"
+image_alt: "Jelajahi Insadong, Seoul: Panduan Lengkap Wisata Budaya & Belanja Tradisional di Korea Selatan"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/32196411/pexels-photo-32196411.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Jelajahi Insadong, Seoul: Panduan Lengkap Wisata Budaya &amp; Belanja Tradisional di Korea Selatan" style="width:100%;height:auto;border-radius:12px;" /></figure>

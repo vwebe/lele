@@ -4,6 +4,13 @@ title: "Panduan Liburan ke Tanzania"
 date: 2026-04-16 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-tanzania.jpg"
+seo_title: "Panduan Liburan ke Tanzania"
+description: "## Petualangan ke Tanzania: Dari Sabuk Safari sampai Pasir Putih Zanzibar Udara panas menyentuh kulit, bau rempah menguar dari pasar-pasar kecil, dan suara..."
+excerpt: "## Petualangan ke Tanzania: Dari Sabuk Safari sampai Pasir Putih Zanzibar Udara panas menyentuh kulit, bau rempah menguar dari pasar-pasar kecil, dan suara..."
+keywords: "panduan liburan ke tanzania, panduan liburan tanzania, travel, wisata panduan liburan tanzania, panduan panduan liburan tanzania, tips panduan liburan tanzania"
+image_alt: "Panduan Liburan ke Tanzania"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-tanzania.jpg" | relative_url }}" alt="Panduan Liburan ke Tanzania" loading="lazy" decoding="async">
