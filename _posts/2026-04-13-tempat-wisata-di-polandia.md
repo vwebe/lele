@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata di Polandia"
-date: 2026-04-13 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-di-polandia.jpg"
 seo_title: "Tempat Wisata di Polandia"
-description: "# [Tempat [Wisata](#REF!)](#REF!) di Polandia yang Wajib Kamu Kunjungi Polandia tak sekadar tanah bersejarah; ia adalah campuran arsitektur klasik..."
-excerpt: "# [Tempat [Wisata](#REF!)](#REF!) di Polandia yang Wajib Kamu Kunjungi Polandia tak sekadar tanah bersejarah; ia adalah campuran arsitektur klasik..."
-keywords: "tempat wisata di polandia, tempat wisata polandia, travel, wisata tempat wisata polandia, panduan tempat wisata polandia, tips tempat wisata polandia"
-image_alt: "Tempat Wisata di Polandia"
+keyword: "tempat wisata di polandia"
+date: 2026-04-13 20:30:00 +0700
+last_modified_at: 2026-05-12 17:37:04 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@egisj)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@egisj)"
+keywords: "travel, tempat, polandia, wisata tempat polandia, panduan tempat polandia, tips tempat polandia"
+image: "/assets/images/auto/tempat-wisata-di-polandia.jpg"
+image_alt: "Tempat Wisata di Polandia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-polandia.jpg" | relative_url }}" alt="Tempat Wisata di Polandia" loading="lazy" decoding="async">
@@ -133,4 +138,3 @@ Jika kamu masih ragu apakah Polandia layak masuk dalam daftar bucket list, cobal
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan [hiburan menarik lainnya](https://dgxximovie.com/) untuk mengisi waktu santai Anda.
-
