@@ -22,9 +22,14 @@ social:
     - https://travel.zynelion.com
 
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
 
 seo_tag:
   image: "/assets/images/logo.png"
+
+# Homepage pagination
+paginate: 9
+paginate_path: "/page/:num/"
