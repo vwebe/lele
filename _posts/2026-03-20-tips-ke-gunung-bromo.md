@@ -1,14 +1,20 @@
 ---
 layout: post
 title: "Tips ke Gunung Bromo untuk Pemula: Panduan Lengkap dan Anti Ribet"
-image: "assets/images/bromo-kawah.webp"
 seo_title: "Tips ke Gunung Bromo untuk Pemula: Panduan Lengkap dan Anti Ribet"
-description: "Tips ke Gunung Bromo penting diketahui terutama bagi kamu yang baru pertama kali berkunjung. Meski termasuk destinasi wisata yang cukup mudah diakses..."
-excerpt: "Tips ke Gunung Bromo penting diketahui terutama bagi kamu yang baru pertama kali berkunjung. Meski termasuk destinasi wisata yang cukup mudah diakses..."
-keywords: "tips ke gunung bromo, wisata bromo pemula, persiapan ke bromo, liburan bromo"
-image_alt: "Tips ke Gunung Bromo untuk Pemula: Panduan Lengkap dan Anti Ribet"
+keyword: "tips ke gunung bromo"
+date: 2026-03-20 00:00:00 +0000
+last_modified_at: 2026-05-12 17:32:02 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+description: "Salah satu alasan utama wisatawan datang ke Gunung Bromo adalah untuk melihat sunrise. Karena itu, kamu perlu berangkat sangat pagi, biasanya sekitar jam..."
+excerpt: "Salah satu alasan utama wisatawan datang ke Gunung Bromo adalah untuk melihat sunrise. Karena itu, kamu perlu berangkat sangat pagi, biasanya sekitar jam..."
+keywords: "tips, gunung, bromo, wisata tips gunung bromo, panduan tips gunung bromo, tips tips gunung bromo, 1 datang lebih awal untuk sunrise"
+image: "assets/images/bromo-kawah.webp"
+image_alt: "Tips ke Gunung Bromo untuk Pemula: Panduan Lengkap dan Anti Ribet"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <p class="post-intro">
