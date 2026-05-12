@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Santorini Oia Village: Desa Putih Romantis di Yunani untuk Liburan Honeymoon dan Wisata Romantis"
-date: 2026-05-06 07:17:40 +0700
-categories: ["oia"]
-tags: ["oia", "santorini", "yunani", "desa-putih", "eropa", "wisata-romantis", "honeymoon", "travel-guide"]
-image: "https://images.pexels.com/photos/15532883/pexels-photo-15532883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Santorini Oia Village: Desa Putih Romantis di Yunani untuk Liburan Honeymoon dan Wisata Romantis"
-description: "Santorini memang menjadi salah satu destinasi impian bagi wisatawan Indonesia yang mengincar liburan romantis di luar negeri. Di antara pulau-pulau yang..."
-excerpt: "Santorini memang menjadi salah satu destinasi impian bagi wisatawan Indonesia yang mengincar liburan romantis di luar negeri. Di antara pulau-pulau yang..."
-keywords: "panduan lengkap santorini oia village desa putih romantis di yunani untuk liburan honeymoon dan wisata romantis, panduan lengkap santorini oia, oia, santorini, yunani, desa putih, eropa, wisata romantis, honeymoon, travel guide, wisata panduan lengkap santorini, panduan panduan lengkap santorini"
-image_alt: "Panduan Lengkap Santorini Oia Village: Desa Putih Romantis di Yunani untuk Liburan Honeymoon dan Wisata Romantis"
+keyword: "panduan lengkap santorini oia village desa putih romantis di"
+date: 2026-05-06 07:17:40 +0700
+last_modified_at: 2026-05-12 17:45:43 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["oia"]
+tags: ["oia", "santorini", "yunani", "desa-putih", "eropa", "wisata-romantis", "honeymoon", "travel-guide"]
+description: "Oia terletak di ujung barat laut Pulau Santorini, sebuah kaldera yang terbentuk akibat letusan gunung berapi pada milenium lalu. Desa ini dikenal dengan..."
+excerpt: "Oia terletak di ujung barat laut Pulau Santorini, sebuah kaldera yang terbentuk akibat letusan gunung berapi pada milenium lalu. Desa ini dikenal dengan..."
+keywords: "oia, santorini, yunani, desa putih, eropa, wisata romantis, honeymoon, travel guide, village, wisata desa putih, panduan desa putih, tips desa putih"
+image: "https://images.pexels.com/photos/15532883/pexels-photo-15532883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Santorini Oia Village: Desa Putih Romantis di Yunani untuk Liburan Honeymoon dan Wisata Romantis"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/15532883/pexels-photo-15532883.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Santorini Oia Village: Desa Putih Romantis di Yunani untuk Liburan Honeymoon dan Wisata Romantis" style="width:100%;height:auto;border-radius:12px;" /></figure>
