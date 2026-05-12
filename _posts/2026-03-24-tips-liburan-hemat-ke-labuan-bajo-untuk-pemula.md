@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Liburan Hemat ke Labuan Bajo untuk Pemula"
-date: 2026-03-24 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-liburan-hemat-ke-labuan-bajo-untuk-pemula.jpg"
 seo_title: "Tips Liburan Hemat ke Labuan Bajo untuk Pemula"
-description: "# Tips [Liburan](https://eventkaskus.com/2026/03/19/transformasi-davina-karamoy-di-sugar-baby-dari-citra-remaja-ke-karakter-penuh-kompleksitas/) Hemat ke..."
-excerpt: "# Tips [Liburan](https://eventkaskus.com/2026/03/19/transformasi-davina-karamoy-di-sugar-baby-dari-citra-remaja-ke-karakter-penuh-kompleksitas/) Hemat ke..."
-keywords: "tips liburan hemat ke labuan bajo untuk pemula, tips liburan hemat labuan, travel, wisata tips liburan hemat, panduan tips liburan hemat, tips tips liburan hemat"
-image_alt: "Tips Liburan Hemat ke Labuan Bajo untuk Pemula"
+keyword: "tips liburan hemat ke labuan bajo untuk pemula"
+date: 2026-03-24 16:30:00 +0700
+last_modified_at: 2026-05-12 17:32:22 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@fabianreck)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@fabianreck)"
+keywords: "travel, tips, liburan, hemat, labuan, bajo, pemula, wisata tips liburan hemat, panduan tips liburan hemat, tips tips liburan hemat"
+image: "/assets/images/auto/tips-liburan-hemat-ke-labuan-bajo-untuk-pemula.jpg"
+image_alt: "Tips Liburan Hemat ke Labuan Bajo untuk Pemula"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-liburan-hemat-ke-labuan-bajo-untuk-pemula.jpg" | relative_url }}" alt="Tips Liburan Hemat ke Labuan Bajo untuk Pemula" loading="lazy" decoding="async">
@@ -108,4 +113,3 @@ Labuan Bajo memang menawarkan keindahan yang luar biasa, dan percayalah, kamu ti
 ---
 
 Masih belum puas dengan satu destinasi? Temukan juga berbagai rekomendasi perjalanan [seru lainnya](https://aestethiclele.blogspot.com/) di sini.
-
