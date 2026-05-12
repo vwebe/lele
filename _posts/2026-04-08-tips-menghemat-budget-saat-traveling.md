@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Menghemat Budget Saat Traveling"
-date: 2026-04-08 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-menghemat-budget-saat-traveling.jpg"
 seo_title: "Tips Menghemat Budget Saat Traveling"
-description: "# Tips Menghemat Budget Saat Traveling Berburu pemandangan baru, menambah koleksi foto, atau sekadar melarikan diri dari rutinitas, semua orang punya alasan..."
-excerpt: "# Tips Menghemat Budget Saat Traveling Berburu pemandangan baru, menambah koleksi foto, atau sekadar melarikan diri dari rutinitas, semua orang punya alasan..."
-keywords: "tips menghemat budget saat traveling, tips menghemat budget saat, travel, wisata tips menghemat budget, panduan tips menghemat budget, tips tips menghemat budget"
-image_alt: "Tips Menghemat Budget Saat Traveling"
+keyword: "tips menghemat budget saat traveling"
+date: 2026-04-08 16:30:00 +0700
+last_modified_at: 2026-05-12 17:35:46 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@cottonbro)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@cottonbro)"
+keywords: "travel, tips, menghemat, budget, saat, traveling, wisata tips menghemat budget, panduan tips menghemat budget, tips tips menghemat budget"
+image: "/assets/images/auto/tips-menghemat-budget-saat-traveling.jpg"
+image_alt: "Tips Menghemat Budget Saat Traveling"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-menghemat-budget-saat-traveling.jpg" | relative_url }}" alt="Tips Menghemat Budget Saat Traveling" loading="lazy" decoding="async">
@@ -136,4 +141,3 @@ Travel memang menantang, terutama bila anggaran terbatas. Tetapi dengan menyiapk
 ---
 
 Perjalanan Anda belum berakhir di [sini. Temukan juga berbagai](https://dgxximovie.com/) inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
