@@ -4,6 +4,13 @@ title: "Tips Liburan Hemat ke Labuan Bajo untuk Pemula"
 date: 2026-03-24 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-liburan-hemat-ke-labuan-bajo-untuk-pemula.jpg"
+seo_title: "Tips Liburan Hemat ke Labuan Bajo untuk Pemula"
+description: "# Tips [Liburan](https://eventkaskus.com/2026/03/19/transformasi-davina-karamoy-di-sugar-baby-dari-citra-remaja-ke-karakter-penuh-kompleksitas/) Hemat ke..."
+excerpt: "# Tips [Liburan](https://eventkaskus.com/2026/03/19/transformasi-davina-karamoy-di-sugar-baby-dari-citra-remaja-ke-karakter-penuh-kompleksitas/) Hemat ke..."
+keywords: "tips liburan hemat ke labuan bajo untuk pemula, tips liburan hemat labuan, travel, wisata tips liburan hemat, panduan tips liburan hemat, tips tips liburan hemat"
+image_alt: "Tips Liburan Hemat ke Labuan Bajo untuk Pemula"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-liburan-hemat-ke-labuan-bajo-untuk-pemula.jpg" | relative_url }}" alt="Tips Liburan Hemat ke Labuan Bajo untuk Pemula" loading="lazy" decoding="async">

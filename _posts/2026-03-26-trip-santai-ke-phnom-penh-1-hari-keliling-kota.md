@@ -4,6 +4,13 @@ title: "Trip Santai ke Phnom Penh: 1 Hari Keliling Kota"
 date: 2026-03-26 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-santai-ke-phnom-penh-1-hari-keliling-kota.jpg"
+seo_title: "Trip Santai ke Phnom Penh: 1 Hari Keliling Kota"
+description: "# Trip Santai ke Phnom Penh: 1 Hari Keliling Kota Phnom Penh, ibu kota Kamboja, seringkali dilewati begitu saja oleh turis yang terburu-buru menuju Angkor..."
+excerpt: "# Trip Santai ke Phnom Penh: 1 Hari Keliling Kota Phnom Penh, ibu kota Kamboja, seringkali dilewati begitu saja oleh turis yang terburu-buru menuju Angkor..."
+keywords: "trip santai ke phnom penh 1 hari keliling kota, trip santai phnom penh, travel, wisata trip santai phnom, panduan trip santai phnom, tips trip santai phnom"
+image_alt: "Trip Santai ke Phnom Penh: 1 Hari Keliling Kota"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-santai-ke-phnom-penh-1-hari-keliling-kota.jpg" | relative_url }}" alt="Trip Santai ke Phnom Penh: 1 Hari Keliling Kota" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Hidden Gem di Bali yang Belum Banyak Turis Tahu"
 date: 2026-03-24 14:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/hidden-gem-di-bali-yang-belum-banyak-turis-tahu.jpg"
+seo_title: "Hidden Gem di Bali yang Belum Banyak Turis Tahu"
+description: "# Hidden Gem di Bali yang Belum Banyak Turis Tahu Bali. Mendengar namanya saja sudah terbayang hamparan pantai berpasir putih, sawah hijau terasering yang..."
+excerpt: "# Hidden Gem di Bali yang Belum Banyak Turis Tahu Bali. Mendengar namanya saja sudah terbayang hamparan pantai berpasir putih, sawah hijau terasering yang..."
+keywords: "hidden gem di bali yang belum banyak turis tahu, hidden gem bali belum, travel, wisata hidden gem bali, panduan hidden gem bali, tips hidden gem bali"
+image_alt: "Hidden Gem di Bali yang Belum Banyak Turis Tahu"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/hidden-gem-di-bali-yang-belum-banyak-turis-tahu.jpg" | relative_url }}" alt="Hidden Gem di Bali yang Belum Banyak Turis Tahu" loading="lazy" decoding="async">

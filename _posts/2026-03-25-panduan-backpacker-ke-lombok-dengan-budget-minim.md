@@ -4,6 +4,13 @@ title: "Panduan Backpacker ke Lombok dengan Budget Minim"
 date: 2026-03-25 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-backpacker-ke-lombok-dengan-budget-minim.jpg"
+seo_title: "Panduan Backpacker ke Lombok dengan Budget Minim"
+description: "# Panduan Backpacker ke Lombok dengan Budget Minim: Siap Jelajahi Surga Tanpa Bikin Kantong Jebol Lombok. Dengar namanya saja, pasti langsung terbayang..."
+excerpt: "# Panduan Backpacker ke Lombok dengan Budget Minim: Siap Jelajahi Surga Tanpa Bikin Kantong Jebol Lombok. Dengar namanya saja, pasti langsung terbayang..."
+keywords: "panduan backpacker ke lombok dengan budget minim, panduan backpacker lombok budget, travel, wisata panduan backpacker lombok, panduan panduan backpacker lombok, tips panduan backpacker lombok"
+image_alt: "Panduan Backpacker ke Lombok dengan Budget Minim"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-backpacker-ke-lombok-dengan-budget-minim.jpg" | relative_url }}" alt="Panduan Backpacker ke Lombok dengan Budget Minim" loading="lazy" decoding="async">

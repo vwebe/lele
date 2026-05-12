@@ -4,6 +4,13 @@ title: "Packing List Bali untuk Trip Singkat yang Tetap Praktis"
 date: 2026-03-24 12:50:00 +0700
 categories: [travel]
 image: "/assets/images/auto/packing-list-bali-untuk-trip-singkat.jpg"
+seo_title: "Packing List Bali untuk Trip Singkat yang Tetap Praktis"
+description: "# Packing List Bali untuk Trip Singkat yang Tetap Praktis Bali. Mendengar namanya saja sudah terbayang pantai berpasir putih, ombak yang mengundang untuk..."
+excerpt: "# Packing List Bali untuk Trip Singkat yang Tetap Praktis Bali. Mendengar namanya saja sudah terbayang pantai berpasir putih, ombak yang mengundang untuk..."
+keywords: "packing list bali untuk trip singkat yang tetap praktis, packing list bali trip, travel, wisata packing list bali, panduan packing list bali, tips packing list bali"
+image_alt: "Packing List Bali untuk Trip Singkat yang Tetap Praktis"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/packing-list-bali-untuk-trip-singkat.jpg" | relative_url }}" alt="Packing List Bali untuk Trip Singkat yang Tetap Praktis" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Daftar Pantai Sepi di Bali untuk Liburan Tenang"
 date: 2026-03-26 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/daftar-pantai-sepi-di-bali-untuk-liburan-tenang.jpg"
+seo_title: "Daftar Pantai Sepi di Bali untuk Liburan Tenang"
+description: "# Menemukan Ketenangan: Daftar Pantai Sepi di Bali yang Wajib Kamu Kunjungi Bali. Dengar namanya saja sudah terbayang hamparan pasir putih, ombak yang..."
+excerpt: "# Menemukan Ketenangan: Daftar Pantai Sepi di Bali yang Wajib Kamu Kunjungi Bali. Dengar namanya saja sudah terbayang hamparan pasir putih, ombak yang..."
+keywords: "daftar pantai sepi di bali untuk liburan tenang, daftar pantai sepi bali, travel, wisata daftar pantai sepi, panduan daftar pantai sepi, tips daftar pantai sepi"
+image_alt: "Daftar Pantai Sepi di Bali untuk Liburan Tenang"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/daftar-pantai-sepi-di-bali-untuk-liburan-tenang.jpg" | relative_url }}" alt="Daftar Pantai Sepi di Bali untuk Liburan Tenang" loading="lazy" decoding="async">

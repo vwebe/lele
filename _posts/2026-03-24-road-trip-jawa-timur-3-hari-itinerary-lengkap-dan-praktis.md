@@ -4,6 +4,13 @@ title: "Road Trip Jawa Timur 3 Hari: Itinerary Lengkap dan Praktis"
 date: 2026-03-24 15:55:00 +0700
 categories: [travel]
 image: "/assets/images/auto/road-trip-jawa-timur-3-hari-itinerary-lengkap-dan-praktis.jpg"
+seo_title: "Road Trip Jawa Timur 3 Hari: Itinerary Lengkap dan Praktis"
+description: "# Road Trip Jawa Timur 3 Hari: [Itinerary](https://eventkaskus.com/2026/03/18/pursuit-of-jade-masuk-jajaran-drama-terpopuler-selevel-dengan-joy-of-life/)..."
+excerpt: "# Road Trip Jawa Timur 3 Hari: [Itinerary](https://eventkaskus.com/2026/03/18/pursuit-of-jade-masuk-jajaran-drama-terpopuler-selevel-dengan-joy-of-life/)..."
+keywords: "road trip jawa timur 3 hari itinerary lengkap dan praktis, road trip jawa timur, travel, wisata road trip jawa, panduan road trip jawa, tips road trip jawa"
+image_alt: "Road Trip Jawa Timur 3 Hari: Itinerary Lengkap dan Praktis"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/road-trip-jawa-timur-3-hari-itinerary-lengkap-dan-praktis.jpg" | relative_url }}" alt="Road Trip Jawa Timur 3 Hari: Itinerary Lengkap dan Praktis" loading="lazy" decoding="async">

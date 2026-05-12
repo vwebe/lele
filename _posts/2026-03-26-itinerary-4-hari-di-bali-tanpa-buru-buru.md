@@ -4,6 +4,13 @@ title: "Itinerary 4 Hari di Bali Tanpa Buru-Buru"
 date: 2026-03-26 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/itinerary-4-hari-di-bali-tanpa-buru-buru.jpg"
+seo_title: "Itinerary 4 Hari di Bali Tanpa Buru-Buru"
+description: "# Itinerary 4 Hari di Bali Tanpa Buru-Buru Bali, pulau dewata yang tak pernah kehabisan pesona. Seringkali, membicarakan Bali langsung terbayang hiruk pikuk..."
+excerpt: "# Itinerary 4 Hari di Bali Tanpa Buru-Buru Bali, pulau dewata yang tak pernah kehabisan pesona. Seringkali, membicarakan Bali langsung terbayang hiruk pikuk..."
+keywords: "itinerary 4 hari di bali tanpa buru buru, itinerary hari bali tanpa, travel, wisata itinerary hari bali, panduan itinerary hari bali, tips itinerary hari bali"
+image_alt: "Itinerary 4 Hari di Bali Tanpa Buru-Buru"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/itinerary-4-hari-di-bali-tanpa-buru-buru.jpg" | relative_url }}" alt="Itinerary 4 Hari di Bali Tanpa Buru-Buru" loading="lazy" decoding="async">

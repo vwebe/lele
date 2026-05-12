@@ -4,6 +4,13 @@ title: "Itinerary 2 Hari di Siem Reap Selain Angkor Wat"
 date: 2026-03-25 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/itinerary-2-hari-di-siem-reap-selain-angkor-wat.jpg"
+seo_title: "Itinerary 2 Hari di Siem Reap Selain Angkor Wat"
+description: "## Siem Reap Bukan Cuma Angkor Wat: Jelajahi Kehidupan Lokal dalam 2 Hari Siem Reap. Seketika mendengar namanya, yang terlintas di kepala pasti kompleks..."
+excerpt: "## Siem Reap Bukan Cuma Angkor Wat: Jelajahi Kehidupan Lokal dalam 2 Hari Siem Reap. Seketika mendengar namanya, yang terlintas di kepala pasti kompleks..."
+keywords: "itinerary 2 hari di siem reap selain angkor wat, itinerary hari siem reap, travel, wisata itinerary hari siem, panduan itinerary hari siem, tips itinerary hari siem"
+image_alt: "Itinerary 2 Hari di Siem Reap Selain Angkor Wat"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/itinerary-2-hari-di-siem-reap-selain-angkor-wat.jpg" | relative_url }}" alt="Itinerary 2 Hari di Siem Reap Selain Angkor Wat" loading="lazy" decoding="async">

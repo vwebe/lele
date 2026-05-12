@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Tips ke Gunung Bromo untuk Pemula: Panduan Lengkap dan Anti Ribet"
-description: "Tips ke Gunung Bromo untuk pemula, mulai dari persiapan, pakaian, waktu terbaik, hingga hal penting yang perlu diperhatikan saat liburan."
-keywords: "tips ke gunung bromo, wisata bromo pemula, persiapan ke bromo, liburan bromo"
 image: "assets/images/bromo-kawah.webp"
+seo_title: "Tips ke Gunung Bromo untuk Pemula: Panduan Lengkap dan Anti Ribet"
+description: "Tips ke Gunung Bromo penting diketahui terutama bagi kamu yang baru pertama kali berkunjung. Meski termasuk destinasi wisata yang cukup mudah diakses..."
+excerpt: "Tips ke Gunung Bromo penting diketahui terutama bagi kamu yang baru pertama kali berkunjung. Meski termasuk destinasi wisata yang cukup mudah diakses..."
+keywords: "tips ke gunung bromo, wisata bromo pemula, persiapan ke bromo, liburan bromo"
+image_alt: "Tips ke Gunung Bromo untuk Pemula: Panduan Lengkap dan Anti Ribet"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <p class="post-intro">

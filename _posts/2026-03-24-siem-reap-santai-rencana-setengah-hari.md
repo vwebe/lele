@@ -4,6 +4,13 @@ title: "Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi"
 date: 2026-03-24 11:15:00 +0700
 categories: [travel]
 image: "/assets/images/auto/siem-reap-santai-rencana-setengah-hari.jpg"
+seo_title: "Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi"
+description: "# Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi Setelah seharian terpesona oleh kemegahan Angkor Wat, Bayon, dan Ta Prohm, rasanya badan ini..."
+excerpt: "# Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi Setelah seharian terpesona oleh kemegahan Angkor Wat, Bayon, dan Ta Prohm, rasanya badan ini..."
+keywords: "siem reap santai rencana setengah hari di luar jadwal candi, siem reap santai rencana, travel, wisata siem reap santai, panduan siem reap santai, tips siem reap santai"
+image_alt: "Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/siem-reap-santai-rencana-setengah-hari.jpg" | relative_url }}" alt="Siem Reap Santai: Rencana Setengah Hari di Luar Jadwal Candi" loading="lazy" decoding="async">

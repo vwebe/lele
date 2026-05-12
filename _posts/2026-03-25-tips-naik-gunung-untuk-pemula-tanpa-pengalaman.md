@@ -4,6 +4,13 @@ title: "Tips Naik Gunung untuk Pemula Tanpa Pengalaman"
 date: 2026-03-25 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-naik-gunung-untuk-pemula-tanpa-pengalaman.jpg"
+seo_title: "Tips Naik Gunung untuk Pemula Tanpa Pengalaman"
+description: "# Mimpi Jadi Pendaki Gunung? Ini Panduan Lengkap untuk Pemula Tanpa Pengalaman! Mendengar gemuruh ombak di pantai memang syahdu, tapi ada lho sensasi lain..."
+excerpt: "# Mimpi Jadi Pendaki Gunung? Ini Panduan Lengkap untuk Pemula Tanpa Pengalaman! Mendengar gemuruh ombak di pantai memang syahdu, tapi ada lho sensasi lain..."
+keywords: "tips naik gunung untuk pemula tanpa pengalaman, tips naik gunung pemula, travel, wisata tips naik gunung, panduan tips naik gunung, tips tips naik gunung"
+image_alt: "Tips Naik Gunung untuk Pemula Tanpa Pengalaman"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-naik-gunung-untuk-pemula-tanpa-pengalaman.jpg" | relative_url }}" alt="Tips Naik Gunung untuk Pemula Tanpa Pengalaman" loading="lazy" decoding="async">

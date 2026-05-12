@@ -4,6 +4,13 @@ title: "Tempat Wisata Alam di Bandung yang Cocok untuk Healing"
 date: 2026-03-25 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-alam-di-bandung-yang-cocok-untuk-healing.jpg"
+seo_title: "Tempat Wisata Alam di Bandung yang Cocok untuk Healing"
+description: "# Tempat [Wisata](https://bit.ly/m/onepieceseason2gratis) Alam di Bandung yang Cocok untuk Healing Udara sejuk Bandung memang selalu punya daya tarik..."
+excerpt: "# Tempat [Wisata](https://bit.ly/m/onepieceseason2gratis) Alam di Bandung yang Cocok untuk Healing Udara sejuk Bandung memang selalu punya daya tarik..."
+keywords: "tempat wisata alam di bandung yang cocok untuk healing, tempat wisata alam bandung, travel, wisata tempat wisata alam, panduan tempat wisata alam, tips tempat wisata alam"
+image_alt: "Tempat Wisata Alam di Bandung yang Cocok untuk Healing"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-alam-di-bandung-yang-cocok-untuk-healing.jpg" | relative_url }}" alt="Tempat Wisata Alam di Bandung yang Cocok untuk Healing" loading="lazy" decoding="async">

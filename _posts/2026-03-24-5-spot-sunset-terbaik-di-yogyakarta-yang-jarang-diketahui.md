@@ -4,6 +4,13 @@ title: "5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui"
 date: 2026-03-24 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/5-spot-sunset-terbaik-di-yogyakarta-yang-jarang-diketahui.jpg"
+seo_title: "5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui"
+description: "# 5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui Yogyakarta. Kota ini selalu punya cara untuk memikat hati. Bukan cuma soal sejarah, budaya, atau..."
+excerpt: "# 5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui Yogyakarta. Kota ini selalu punya cara untuk memikat hati. Bukan cuma soal sejarah, budaya, atau..."
+keywords: "5 spot sunset terbaik di yogyakarta yang jarang diketahui, spot sunset terbaik yogyakarta, travel, wisata spot sunset terbaik, panduan spot sunset terbaik, tips spot sunset terbaik"
+image_alt: "5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/5-spot-sunset-terbaik-di-yogyakarta-yang-jarang-diketahui.jpg" | relative_url }}" alt="5 Spot Sunset Terbaik di Yogyakarta yang Jarang Diketahui" loading="lazy" decoding="async">

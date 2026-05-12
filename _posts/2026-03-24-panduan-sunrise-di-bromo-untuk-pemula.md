@@ -4,9 +4,14 @@ title: "Panduan Sunrise di Bromo untuk Pemula"
 date: 2026-03-24 08:00:00 +0700
 categories: [travel]
 tags: [bromo, jawa timur, sunrise, indonesia, pemula]
-excerpt: "Panduan ringkas untuk menikmati sunrise di Bromo tanpa bingung soal waktu dan persiapan."
-description: "Tips praktis menikmati sunrise di Bromo untuk pemula, termasuk persiapan, waktu berangkat, dan barang yang perlu dibawa."
 image: "/assets/images/auto/panduan-sunrise-di-bromo-untuk-pemula.jpg"
+seo_title: "Panduan Sunrise di Bromo untuk Pemula"
+description: "# Panduan Sunrise di Bromo untuk Pemula: Momen Magis di Atas Awan Mendengar kata Bromo, pasti yang terlintas adalah lautan pasir yang luas, kawah berasap..."
+excerpt: "# Panduan Sunrise di Bromo untuk Pemula: Momen Magis di Atas Awan Mendengar kata Bromo, pasti yang terlintas adalah lautan pasir yang luas, kawah berasap..."
+keywords: "panduan sunrise di bromo untuk pemula, panduan sunrise bromo pemula, bromo, jawa timur, sunrise, indonesia, pemula, travel, wisata panduan sunrise bromo, panduan panduan sunrise bromo, tips panduan sunrise bromo"
+image_alt: "Panduan Sunrise di Bromo untuk Pemula"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ '/assets/images/auto/panduan-sunrise-di-bromo-untuk-pemula.jpg' | relative_url }}" alt="Panduan Sunrise di Bromo untuk Pemula" loading="lazy" decoding="async">
