@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Road Trip Jawa Timur 3 Hari: Itinerary Lengkap dan Praktis"
-date: 2026-03-24 15:55:00 +0700
-categories: [travel]
-image: "/assets/images/auto/road-trip-jawa-timur-3-hari-itinerary-lengkap-dan-praktis.jpg"
 seo_title: "Road Trip Jawa Timur 3 Hari: Itinerary Lengkap dan Praktis"
-description: "# Road Trip Jawa Timur 3 Hari: [Itinerary](https://eventkaskus.com/2026/03/18/pursuit-of-jade-masuk-jajaran-drama-terpopuler-selevel-dengan-joy-of-life/)..."
-excerpt: "# Road Trip Jawa Timur 3 Hari: [Itinerary](https://eventkaskus.com/2026/03/18/pursuit-of-jade-masuk-jajaran-drama-terpopuler-selevel-dengan-joy-of-life/)..."
-keywords: "road trip jawa timur 3 hari itinerary lengkap dan praktis, road trip jawa timur, travel, wisata road trip jawa, panduan road trip jawa, tips road trip jawa"
-image_alt: "Road Trip Jawa Timur 3 Hari: Itinerary Lengkap dan Praktis"
+keyword: "road trip jawa timur 3 hari itinerary lengkap dan praktis"
+date: 2026-03-24 15:55:00 +0700
+last_modified_at: 2026-05-12 17:32:17 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@ufoops)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@ufoops)"
+keywords: "travel, road, trip, jawa, timur, hari, itinerary, praktis, wisata road trip jawa, panduan road trip jawa, tips road trip jawa"
+image: "/assets/images/auto/road-trip-jawa-timur-3-hari-itinerary-lengkap-dan-praktis.jpg"
+image_alt: "Road Trip Jawa Timur 3 Hari: Itinerary Lengkap dan Praktis"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/road-trip-jawa-timur-3-hari-itinerary-lengkap-dan-praktis.jpg" | relative_url }}" alt="Road Trip Jawa Timur 3 Hari: Itinerary Lengkap dan Praktis" loading="lazy" decoding="async">
@@ -95,4 +100,3 @@ Road trip 3 hari di Jawa Timur ini memang padat, tapi sangat *worth it*. Kamu ak
 ---
 
 Masih belum puas dengan satu destinasi? Temukan [juga berbagai rekomendasi](https://aestethiclele.blogspot.com/) perjalanan seru lainnya di sini.
-
