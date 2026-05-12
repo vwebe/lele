@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Jumeirah Beach Dubai: Pantai Mewah di UEA untuk Wisatawan Indonesia"
-date: 2026-05-08 14:52:30 +0700
-categories: ["jumeirah-beach"]
-tags: ["jumeirah-beach", "dubai", "uea", "pantai", "wisata-mewah", "travel-guide", "uae"]
-image: "https://images.pexels.com/photos/29212684/pexels-photo-29212684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Jumeirah Beach Dubai: Pantai Mewah di UEA untuk Wisatawan Indonesia"
-description: "Dubai memang dikenal sebagai kota futuristik dengan gedung pencakar langit yang menakjubkan, namun salah satu permata tersembunyi yang wajib dikunjungi..."
-excerpt: "Dubai memang dikenal sebagai kota futuristik dengan gedung pencakar langit yang menakjubkan, namun salah satu permata tersembunyi yang wajib dikunjungi..."
-keywords: "panduan lengkap jumeirah beach dubai pantai mewah di uea untuk wisatawan indonesia, panduan lengkap jumeirah beach, jumeirah beach, dubai, uea, pantai, wisata mewah, travel guide, uae, wisata panduan lengkap jumeirah, panduan panduan lengkap jumeirah, tips panduan lengkap jumeirah"
-image_alt: "Panduan Lengkap Jumeirah Beach Dubai: Pantai Mewah di UEA untuk Wisatawan Indonesia"
+keyword: "panduan lengkap jumeirah beach dubai pantai mewah di uea unt"
+date: 2026-05-08 14:52:30 +0700
+last_modified_at: 2026-05-12 17:48:55 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["jumeirah-beach"]
+tags: ["jumeirah-beach", "dubai", "uea", "pantai", "wisata-mewah", "travel-guide", "uae"]
+description: "Berbeda dari pantai-pantai lain di dunia, Jumeirah Beach Dubai memiliki pasir putih halus yang memantulkan sinar matahari, air laut yang jernih, serta..."
+excerpt: "Berbeda dari pantai-pantai lain di dunia, Jumeirah Beach Dubai memiliki pasir putih halus yang memantulkan sinar matahari, air laut yang jernih, serta..."
+keywords: "jumeirah beach, dubai, uea, pantai, wisata mewah, travel guide, uae, unt, wisata jumeirah beach, panduan jumeirah beach, tips jumeirah beach, kenapa jumeirah beach jadi pilihan utama"
+image: "https://images.pexels.com/photos/29212684/pexels-photo-29212684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Jumeirah Beach Dubai: Pantai Mewah di UEA untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/29212684/pexels-photo-29212684.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Jumeirah Beach Dubai: Pantai Mewah di UEA untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
