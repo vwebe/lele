@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Wisata Terbaik di Afrika"
-date: 2026-04-08 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-wisata-terbaik-di-afrika.jpg"
 seo_title: "Destinasi Wisata Terbaik di Afrika"
-description: "## Safari di Serengeti, Tanzania: Lebih dari Sekadar Lihat Gajah Pagi pertama di Serengeti dimulai dengan kabut tipis yang menari di antara rumput tinggi..."
-excerpt: "## Safari di Serengeti, Tanzania: Lebih dari Sekadar Lihat Gajah Pagi pertama di Serengeti dimulai dengan kabut tipis yang menari di antara rumput tinggi..."
-keywords: "destinasi wisata terbaik di afrika, destinasi wisata terbaik afrika, travel, wisata destinasi wisata terbaik, panduan destinasi wisata terbaik, tips destinasi wisata terbaik"
-image_alt: "Destinasi Wisata Terbaik di Afrika"
+keyword: "destinasi wisata terbaik di afrika"
+date: 2026-04-08 12:30:00 +0700
+last_modified_at: 2026-05-12 17:35:42 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@rkftr)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@rkftr)"
+keywords: "travel, destinasi, terbaik, afrika, wisata destinasi terbaik afrika, panduan destinasi terbaik afrika, tips destinasi terbaik afrika"
+image: "/assets/images/auto/destinasi-wisata-terbaik-di-afrika.jpg"
+image_alt: "Destinasi Wisata Terbaik di Afrika"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-terbaik-di-afrika.jpg" | relative_url }}" alt="Destinasi Wisata Terbaik di Afrika" loading="lazy" decoding="async">
@@ -118,4 +123,3 @@ Afrika bukan sekadar gambar padang rumput atau piramida kuno; ia adalah kumpulan
 ---
 
 Perjalanan Anda belum berakhir [di sini. Temukan juga](https://dgxximovie.com/) berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
