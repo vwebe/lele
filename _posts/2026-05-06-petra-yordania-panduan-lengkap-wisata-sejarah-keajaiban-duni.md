@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Petra Yordania: Panduan Lengkap Wisata Sejarah & Keajaiban Dunia untuk Pelancong Indonesia"
-date: 2026-05-06 01:18:03 +0700
-categories: ["petra"]
-tags: ["petra", "yordania", "timur-tengah", "wisata-sejarah", "world-heritage", "travel-guide"]
-image: "https://images.pexels.com/photos/15997973/pexels-photo-15997973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Petra Yordania: Panduan Lengkap Wisata Sejarah & Keajaiban Dunia untuk Pelancong Indonesia"
-description: "Petra , salah satu keajaiban dunia yang terletak di Yordania, telah menjadi magnet bagi wisatawan yang mencari pengalaman wisata sejarah yang unik. Bagi..."
-excerpt: "Petra , salah satu keajaiban dunia yang terletak di Yordania, telah menjadi magnet bagi wisatawan yang mencari pengalaman wisata sejarah yang unik. Bagi..."
-keywords: "petra yordania panduan lengkap wisata sejarah keajaiban dunia untuk pelancong indonesia, petra yordania panduan lengkap, petra, yordania, timur tengah, wisata sejarah, world heritage, travel guide, wisata petra yordania panduan, panduan petra yordania panduan, tips petra yordania panduan, sejarah keistimewaan petra"
-image_alt: "Petra Yordania: Panduan Lengkap Wisata Sejarah & Keajaiban Dunia untuk Pelancong Indonesia"
+keyword: "petra yordania panduan lengkap wisata sejarah keajaiban duni"
+date: 2026-05-06 01:18:03 +0700
+last_modified_at: 2026-05-12 17:45:47 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["petra"]
+tags: ["petra", "yordania", "timur-tengah", "wisata-sejarah", "world-heritage", "travel-guide"]
+description: "Petra, yang dikenal sebagai \"Kota Merah\" karena batu pasirnya yang berwarna merah keunguan, merupakan ibu kota kuno bangsa Nabataean sejak abad ke-4 SM...."
+excerpt: "Petra, yang dikenal sebagai \"Kota Merah\" karena batu pasirnya yang berwarna merah keunguan, merupakan ibu kota kuno bangsa Nabataean sejak abad ke-4 SM...."
+keywords: "petra, yordania, timur tengah, wisata sejarah, world heritage, travel guide, keajaiban, duni, wisata wisata sejarah, panduan wisata sejarah, tips wisata sejarah, sejarah keistimewaan petra"
+image: "https://images.pexels.com/photos/15997973/pexels-photo-15997973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Petra Yordania: Panduan Lengkap Wisata Sejarah & Keajaiban Dunia untuk Pelancong Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/15997973/pexels-photo-15997973.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Petra Yordania: Panduan Lengkap Wisata Sejarah &amp; Keajaiban Dunia untuk Pelancong Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
