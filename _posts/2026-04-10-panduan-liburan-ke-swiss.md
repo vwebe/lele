@@ -4,6 +4,13 @@ title: "Panduan Liburan ke Swiss"
 date: 2026-04-10 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-swiss.jpg"
+seo_title: "Panduan Liburan ke Swiss"
+description: "**Swiss bukan sekadar puncak bersalju dan jam tangan mahal—ia adalah rangkaian cerita yang menunggu untuk dijelajahi.** Dari lorong sempit kota tua di..."
+excerpt: "**Swiss bukan sekadar puncak bersalju dan jam tangan mahal—ia adalah rangkaian cerita yang menunggu untuk dijelajahi.** Dari lorong sempit kota tua di..."
+keywords: "panduan liburan ke swiss, panduan liburan swiss, travel, wisata panduan liburan swiss, panduan panduan liburan swiss, tips panduan liburan swiss"
+image_alt: "Panduan Liburan ke Swiss"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-swiss.jpg" | relative_url }}" alt="Panduan Liburan ke Swiss" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Tempat Wisata di Islandia"
 date: 2026-04-10 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-di-islandia.jpg"
+seo_title: "Tempat Wisata di Islandia"
+description: "# Menyelami Keajaiban Islandia: Dari Geiser Berdenyut hingga Pantai Pasir Hitam Saat pertama kali menatap foto-foto aurora borealis menari di langit biru..."
+excerpt: "# Menyelami Keajaiban Islandia: Dari Geiser Berdenyut hingga Pantai Pasir Hitam Saat pertama kali menatap foto-foto aurora borealis menari di langit biru..."
+keywords: "tempat wisata di islandia, tempat wisata islandia, travel, wisata tempat wisata islandia, panduan tempat wisata islandia, tips tempat wisata islandia"
+image_alt: "Tempat Wisata di Islandia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-islandia.jpg" | relative_url }}" alt="Tempat Wisata di Islandia" loading="lazy" decoding="async">

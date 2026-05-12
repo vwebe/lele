@@ -4,6 +4,13 @@ title: "Tempat Nongkrong View Alam di Bogor"
 date: 2026-03-27 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-nongkrong-view-alam-di-bogor.jpg"
+seo_title: "Tempat Nongkrong View Alam di Bogor"
+description: "# Niatnya Cari Kopi, Ketemu Surga Tersembunyi: Tempat Nongkrong View Alam di Bogor yang Bikin Betah Bogor, kota hujan yang selalu punya cara untuk bikin..."
+excerpt: "# Niatnya Cari Kopi, Ketemu Surga Tersembunyi: Tempat Nongkrong View Alam di Bogor yang Bikin Betah Bogor, kota hujan yang selalu punya cara untuk bikin..."
+keywords: "tempat nongkrong view alam di bogor, tempat nongkrong view alam, travel, wisata tempat nongkrong view, panduan tempat nongkrong view, tips tempat nongkrong view"
+image_alt: "Tempat Nongkrong View Alam di Bogor"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-nongkrong-view-alam-di-bogor.jpg" | relative_url }}" alt="Tempat Nongkrong View Alam di Bogor" loading="lazy" decoding="async">

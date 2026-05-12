@@ -4,6 +4,13 @@ title: "Panduan Liburan ke Thailand Pertama Kali"
 date: 2026-03-27 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-thailand-pertama-kali.jpg"
+seo_title: "Panduan Liburan ke Thailand Pertama Kali"
+description: "# Panduan [Liburan](https://lelenime.blogspot.com/2026/03/penjelasan-kekuatan-sharingan-naruto.html) ke Thailand Pertama Kali: Dari Bangkok yang Meriah..."
+excerpt: "# Panduan [Liburan](https://lelenime.blogspot.com/2026/03/penjelasan-kekuatan-sharingan-naruto.html) ke Thailand Pertama Kali: Dari Bangkok yang Meriah..."
+keywords: "panduan liburan ke thailand pertama kali, panduan liburan thailand pertama, travel, wisata panduan liburan thailand, panduan panduan liburan thailand, tips panduan liburan thailand"
+image_alt: "Panduan Liburan ke Thailand Pertama Kali"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-thailand-pertama-kali.jpg" | relative_url }}" alt="Panduan Liburan ke Thailand Pertama Kali" loading="lazy" decoding="async">

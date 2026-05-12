@@ -4,6 +4,13 @@ title: "Panduan Trip ke Gunung Bromo Tanpa Tour"
 date: 2026-03-28 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-trip-ke-gunung-bromo-tanpa-tour.jpg"
+seo_title: "Panduan Trip ke Gunung Bromo Tanpa Tour"
+description: "# Bromo Tanpa Tur: Serunya Petualangan Mandiri Menjelajahi Keajaiban Jawa Timur Siapa sih yang nggak kenal Gunung Bromo? Salah satu ikon pariwisata..."
+excerpt: "# Bromo Tanpa Tur: Serunya Petualangan Mandiri Menjelajahi Keajaiban Jawa Timur Siapa sih yang nggak kenal Gunung Bromo? Salah satu ikon pariwisata..."
+keywords: "panduan trip ke gunung bromo tanpa tour, panduan trip gunung bromo, travel, wisata panduan trip gunung, panduan panduan trip gunung, tips panduan trip gunung"
+image_alt: "Panduan Trip ke Gunung Bromo Tanpa Tour"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-trip-ke-gunung-bromo-tanpa-tour.jpg" | relative_url }}" alt="Panduan Trip ke Gunung Bromo Tanpa Tour" loading="lazy" decoding="async">

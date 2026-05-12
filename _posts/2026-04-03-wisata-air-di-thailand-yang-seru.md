@@ -4,6 +4,13 @@ title: "Wisata Air di Thailand yang Seru"
 date: 2026-04-03 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/wisata-air-di-thailand-yang-seru.jpg"
+seo_title: "Wisata Air di Thailand yang Seru"
+description: "# [Wisata](https://aestethiclele.blogspot.com/2026/03/menjelajahi-danau-tersembunyi-di.html) Air di Thailand yang Seru: Dari Lautan Biru Hingga Sungai yang..."
+excerpt: "# [Wisata](https://aestethiclele.blogspot.com/2026/03/menjelajahi-danau-tersembunyi-di.html) Air di Thailand yang Seru: Dari Lautan Biru Hingga Sungai yang..."
+keywords: "wisata air di thailand yang seru, wisata air thailand seru, travel, wisata wisata air thailand, panduan wisata air thailand, tips wisata air thailand"
+image_alt: "Wisata Air di Thailand yang Seru"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/wisata-air-di-thailand-yang-seru.jpg" | relative_url }}" alt="Wisata Air di Thailand yang Seru" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Tempat Wisata di Hanoi yang Wajib Dikunjungi"
 date: 2026-04-03 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-di-hanoi-yang-wajib-dikunjungi.jpg"
+seo_title: "Tempat Wisata di Hanoi yang Wajib Dikunjungi"
+description: "# Hanoi: Bukan Sekadar Pho dan Jalanan Ramai Hanoi. Denger namanya aja, langsung kebayang hiruk pikuk skuter, aroma kuah pho yang menggoda, dan..."
+excerpt: "# Hanoi: Bukan Sekadar Pho dan Jalanan Ramai Hanoi. Denger namanya aja, langsung kebayang hiruk pikuk skuter, aroma kuah pho yang menggoda, dan..."
+keywords: "tempat wisata di hanoi yang wajib dikunjungi, tempat wisata hanoi wajib, travel, wisata tempat wisata hanoi, panduan tempat wisata hanoi, tips tempat wisata hanoi"
+image_alt: "Tempat Wisata di Hanoi yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-hanoi-yang-wajib-dikunjungi.jpg" | relative_url }}" alt="Tempat Wisata di Hanoi yang Wajib Dikunjungi" loading="lazy" decoding="async">

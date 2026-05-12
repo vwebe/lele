@@ -4,6 +4,13 @@ title: "Trip ke Italia untuk Pemula"
 date: 2026-04-10 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-ke-italia-untuk-pemula.jpg"
+seo_title: "Trip ke Italia untuk Pemula"
+description: "## Menyelam ke Nuansa Italia: Panduan Praktis untuk Traveler Pemula Udara pagi di bandara Fiumicino terasa segar, aroma espresso masih menguar dari kafe..."
+excerpt: "## Menyelam ke Nuansa Italia: Panduan Praktis untuk Traveler Pemula Udara pagi di bandara Fiumicino terasa segar, aroma espresso masih menguar dari kafe..."
+keywords: "trip ke italia untuk pemula, trip italia pemula, travel, wisata trip italia pemula, panduan trip italia pemula, tips trip italia pemula"
+image_alt: "Trip ke Italia untuk Pemula"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-italia-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Italia untuk Pemula" loading="lazy" decoding="async">

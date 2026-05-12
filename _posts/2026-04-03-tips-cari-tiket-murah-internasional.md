@@ -4,6 +4,13 @@ title: "Tips Cari Tiket Murah Internasional"
 date: 2026-04-03 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-cari-tiket-murah-internasional.jpg"
+seo_title: "Tips Cari Tiket Murah Internasional"
+description: "# Menguasai Seni Berburu Tiket Pesawat Internasional Murah: Strategi Jitu Buat Kantong Aman Siapa sih yang nggak pengen jalan-jalan ke luar negeri?..."
+excerpt: "# Menguasai Seni Berburu Tiket Pesawat Internasional Murah: Strategi Jitu Buat Kantong Aman Siapa sih yang nggak pengen jalan-jalan ke luar negeri?..."
+keywords: "tips cari tiket murah internasional, tips cari tiket murah, travel, wisata tips cari tiket, panduan tips cari tiket, tips tips cari tiket"
+image_alt: "Tips Cari Tiket Murah Internasional"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-cari-tiket-murah-internasional.jpg" | relative_url }}" alt="Tips Cari Tiket Murah Internasional" loading="lazy" decoding="async">

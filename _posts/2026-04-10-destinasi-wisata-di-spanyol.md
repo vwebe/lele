@@ -4,6 +4,13 @@ title: "Destinasi Wisata di Spanyol"
 date: 2026-04-10 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-di-spanyol.jpg"
+seo_title: "Destinasi Wisata di Spanyol"
+description: "# [Destinasi](#REF!) Wisata di Spanyol: Menyelami Warna, Rasa, dan Ritme Negeri Matador Langkah pertama di bandara Madrid, aroma kopi yang tercium dari kafe..."
+excerpt: "# [Destinasi](#REF!) Wisata di Spanyol: Menyelami Warna, Rasa, dan Ritme Negeri Matador Langkah pertama di bandara Madrid, aroma kopi yang tercium dari kafe..."
+keywords: "destinasi wisata di spanyol, destinasi wisata spanyol, travel, wisata destinasi wisata spanyol, panduan destinasi wisata spanyol, tips destinasi wisata spanyol"
+image_alt: "Destinasi Wisata di Spanyol"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-spanyol.jpg" | relative_url }}" alt="Destinasi Wisata di Spanyol" loading="lazy" decoding="async">

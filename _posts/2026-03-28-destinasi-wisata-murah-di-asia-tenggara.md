@@ -4,6 +4,13 @@ title: "Destinasi Wisata Murah di Asia Tenggara"
 date: 2026-03-28 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-murah-di-asia-tenggara.jpg"
+seo_title: "Destinasi Wisata Murah di Asia Tenggara"
+description: "# Asia Tenggara: Surga Wisata Murah yang Wajib Kamu Jelajahi Siapa bilang keliling Asia Tenggara itu mahal? Jauh dari kata itu, justru kawasan ini..."
+excerpt: "# Asia Tenggara: Surga Wisata Murah yang Wajib Kamu Jelajahi Siapa bilang keliling Asia Tenggara itu mahal? Jauh dari kata itu, justru kawasan ini..."
+keywords: "destinasi wisata murah di asia tenggara, destinasi wisata murah asia, travel, wisata destinasi wisata murah, panduan destinasi wisata murah, tips destinasi wisata murah"
+image_alt: "Destinasi Wisata Murah di Asia Tenggara"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-murah-di-asia-tenggara.jpg" | relative_url }}" alt="Destinasi Wisata Murah di Asia Tenggara" loading="lazy" decoding="async">

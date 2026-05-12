@@ -4,6 +4,13 @@ title: "Tempat Wisata Alam di Kalimantan"
 date: 2026-04-04 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-alam-di-kalimantan.jpg"
+seo_title: "Tempat Wisata Alam di Kalimantan"
+description: "# Menyusuri Jantung Borneo: Pesona [Wisata](https://lelefilm.blogspot.com/2026/03/avengers-endgame-2019-tinjauan-lengkap.html) Alam Kalimantan yang Tak..."
+excerpt: "# Menyusuri Jantung Borneo: Pesona [Wisata](https://lelefilm.blogspot.com/2026/03/avengers-endgame-2019-tinjauan-lengkap.html) Alam Kalimantan yang Tak..."
+keywords: "tempat wisata alam di kalimantan, tempat wisata alam kalimantan, travel, wisata tempat wisata alam, panduan tempat wisata alam, tips tempat wisata alam"
+image_alt: "Tempat Wisata Alam di Kalimantan"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-alam-di-kalimantan.jpg" | relative_url }}" alt="Tempat Wisata Alam di Kalimantan" loading="lazy" decoding="async">

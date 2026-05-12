@@ -4,6 +4,13 @@ title: "Panduan Trip ke Angkor Wat"
 date: 2026-04-03 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-trip-ke-angkor-wat.jpg"
+seo_title: "Panduan Trip ke Angkor Wat"
+description: "# Panduan Trip ke Angkor Wat: Menjelajahi Keajaiban Dunia di Kamboja Angkor Wat. Mendengar namanya saja sudah terbayang kemegahan kuil-kuil batu yang..."
+excerpt: "# Panduan Trip ke Angkor Wat: Menjelajahi Keajaiban Dunia di Kamboja Angkor Wat. Mendengar namanya saja sudah terbayang kemegahan kuil-kuil batu yang..."
+keywords: "panduan trip ke angkor wat, panduan trip angkor wat, travel, wisata panduan trip angkor, panduan panduan trip angkor, tips panduan trip angkor"
+image_alt: "Panduan Trip ke Angkor Wat"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-trip-ke-angkor-wat.jpg" | relative_url }}" alt="Panduan Trip ke Angkor Wat" loading="lazy" decoding="async">

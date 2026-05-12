@@ -4,6 +4,13 @@ title: "Trip ke Brazil untuk Pemula"
 date: 2026-04-09 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-ke-brazil-untuk-pemula.jpg"
+seo_title: "Trip ke Brazil untuk Pemula"
+description: "**Trip ke Brazil untuk Pemula** Bergerak melintasi hutan hujan Amazon, menari di atas pasir Copacabana, atau menyaksikan air terjun Iguazu yang megah—Brazil..."
+excerpt: "**Trip ke Brazil untuk Pemula** Bergerak melintasi hutan hujan Amazon, menari di atas pasir Copacabana, atau menyaksikan air terjun Iguazu yang megah—Brazil..."
+keywords: "trip ke brazil untuk pemula, trip brazil pemula, travel, wisata trip brazil pemula, panduan trip brazil pemula, tips trip brazil pemula"
+image_alt: "Trip ke Brazil untuk Pemula"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-brazil-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Brazil untuk Pemula" loading="lazy" decoding="async">

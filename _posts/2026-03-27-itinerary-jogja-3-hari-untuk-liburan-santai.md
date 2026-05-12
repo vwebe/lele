@@ -4,6 +4,13 @@ title: "Itinerary Jogja 3 Hari untuk Liburan Santai"
 date: 2026-03-27 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/itinerary-jogja-3-hari-untuk-liburan-santai.jpg"
+seo_title: "Itinerary Jogja 3 Hari untuk Liburan Santai"
+description: "# [Itinerary](https://aestethiclele.blogspot.com/2026/03/pulau-seram-hidden-gem-di-maluku-yang.html) Jogja 3 Hari untuk..."
+excerpt: "# [Itinerary](https://aestethiclele.blogspot.com/2026/03/pulau-seram-hidden-gem-di-maluku-yang.html) Jogja 3 Hari untuk..."
+keywords: "itinerary jogja 3 hari untuk liburan santai, itinerary jogja hari liburan, travel, wisata itinerary jogja hari, panduan itinerary jogja hari, tips itinerary jogja hari"
+image_alt: "Itinerary Jogja 3 Hari untuk Liburan Santai"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/itinerary-jogja-3-hari-untuk-liburan-santai.jpg" | relative_url }}" alt="Itinerary Jogja 3 Hari untuk Liburan Santai" loading="lazy" decoding="async">

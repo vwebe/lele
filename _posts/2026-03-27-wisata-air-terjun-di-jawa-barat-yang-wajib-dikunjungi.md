@@ -4,6 +4,13 @@ title: "Wisata Air Terjun di Jawa Barat yang Wajib Dikunjungi"
 date: 2026-03-27 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/wisata-air-terjun-di-jawa-barat-yang-wajib-dikunjungi.jpg"
+seo_title: "Wisata Air Terjun di Jawa Barat yang Wajib Dikunjungi"
+description: "# Menyelami Kesegaran: Air Terjun di Jawa Barat yang Nggak Boleh Dilewatkan Jawa Barat itu ibarat gudangnya pesona alam, dan kalau ngomongin air terjun..."
+excerpt: "# Menyelami Kesegaran: Air Terjun di Jawa Barat yang Nggak Boleh Dilewatkan Jawa Barat itu ibarat gudangnya pesona alam, dan kalau ngomongin air terjun..."
+keywords: "wisata air terjun di jawa barat yang wajib dikunjungi, wisata air terjun jawa, travel, wisata wisata air terjun, panduan wisata air terjun, tips wisata air terjun"
+image_alt: "Wisata Air Terjun di Jawa Barat yang Wajib Dikunjungi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/wisata-air-terjun-di-jawa-barat-yang-wajib-dikunjungi.jpg" | relative_url }}" alt="Wisata Air Terjun di Jawa Barat yang Wajib Dikunjungi" loading="lazy" decoding="async">

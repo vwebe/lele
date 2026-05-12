@@ -4,6 +4,13 @@ title: "Destinasi Wisata Favorit di Malaysia"
 date: 2026-04-04 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-favorit-di-malaysia.jpg"
+seo_title: "Destinasi Wisata Favorit di Malaysia"
+description: "# [Destinasi](https://vwebe.github.io/lele/2026/04/02/panduan-backpacker-ke-myanmar.html)..."
+excerpt: "# [Destinasi](https://vwebe.github.io/lele/2026/04/02/panduan-backpacker-ke-myanmar.html)..."
+keywords: "destinasi wisata favorit di malaysia, destinasi wisata favorit malaysia, travel, wisata destinasi wisata favorit, panduan destinasi wisata favorit, tips destinasi wisata favorit"
+image_alt: "Destinasi Wisata Favorit di Malaysia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-favorit-di-malaysia.jpg" | relative_url }}" alt="Destinasi Wisata Favorit di Malaysia" loading="lazy" decoding="async">
