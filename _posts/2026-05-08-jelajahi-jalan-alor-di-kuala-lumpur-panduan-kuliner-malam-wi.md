@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Jelajahi Jalan Alor di Kuala Lumpur: Panduan Kuliner Malam & Wisata Kota untuk Traveler Indonesia"
-date: 2026-05-08 04:18:49 +0700
-categories: ["jalan-alor"]
-tags: ["jalan-alor", "malaysia", "kuliner-malam", "wisata-kota", "travel-guide", "kuala-lumpur"]
-image: "https://images.pexels.com/photos/17583057/pexels-photo-17583057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Jelajahi Jalan Alor di Kuala Lumpur: Panduan Kuliner Malam & Wisata Kota untuk Traveler Indonesia"
-description: "Jika Anda mencari kombinasi sempurna antara kuliner malam yang menggoda, suasana kota yang hidup, dan pengalaman budaya yang otentik, Jalan Alor di Kuala..."
-excerpt: "Jika Anda mencari kombinasi sempurna antara kuliner malam yang menggoda, suasana kota yang hidup, dan pengalaman budaya yang otentik, Jalan Alor di Kuala..."
-keywords: "jelajahi jalan alor di kuala lumpur panduan kuliner malam wisata kota untuk traveler indonesia, jelajahi jalan alor kuala, jalan alor, malaysia, kuliner malam, wisata kota, travel guide, kuala lumpur, wisata jelajahi jalan alor, panduan jelajahi jalan alor, tips jelajahi jalan alor, kenapa jalan alor menjadi pilihan utama wisatawan indonesia"
-image_alt: "Jelajahi Jalan Alor di Kuala Lumpur: Panduan Kuliner Malam & Wisata Kota untuk Traveler Indonesia"
+keyword: "jelajahi jalan alor di kuala lumpur panduan kuliner malam wi"
+date: 2026-05-08 04:18:49 +0700
+last_modified_at: 2026-05-12 17:47:09 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["jalan-alor"]
+tags: ["jalan-alor", "malaysia", "kuliner-malam", "wisata-kota", "travel-guide", "kuala-lumpur"]
+description: "Berbeda dengan pasar malam di Indonesia, Jalan Alor menyajikan nuansa kuliner malam yang lebih eksotis dengan sentuhan rasa Asia Tenggara yang khas. Bagi..."
+excerpt: "Berbeda dengan pasar malam di Indonesia, Jalan Alor menyajikan nuansa kuliner malam yang lebih eksotis dengan sentuhan rasa Asia Tenggara yang khas. Bagi..."
+keywords: "jalan alor, malaysia, kuliner malam, wisata kota, travel guide, kuala lumpur, jelajahi, wisata jalan alor, panduan jalan alor, tips jalan alor, kenapa jalan alor menjadi pilihan utama wisatawan indonesia"
+image: "https://images.pexels.com/photos/17583057/pexels-photo-17583057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Jelajahi Jalan Alor di Kuala Lumpur: Panduan Kuliner Malam & Wisata Kota untuk Traveler Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/17583057/pexels-photo-17583057.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Jelajahi Jalan Alor di Kuala Lumpur: Panduan Kuliner Malam &amp; Wisata Kota untuk Traveler Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
