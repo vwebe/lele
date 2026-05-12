@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Wisata Air Terjun di Jawa Barat yang Wajib Dikunjungi"
-date: 2026-03-27 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/wisata-air-terjun-di-jawa-barat-yang-wajib-dikunjungi.jpg"
 seo_title: "Wisata Air Terjun di Jawa Barat yang Wajib Dikunjungi"
-description: "# Menyelami Kesegaran: Air Terjun di Jawa Barat yang Nggak Boleh Dilewatkan Jawa Barat itu ibarat gudangnya pesona alam, dan kalau ngomongin air terjun..."
-excerpt: "# Menyelami Kesegaran: Air Terjun di Jawa Barat yang Nggak Boleh Dilewatkan Jawa Barat itu ibarat gudangnya pesona alam, dan kalau ngomongin air terjun..."
-keywords: "wisata air terjun di jawa barat yang wajib dikunjungi, wisata air terjun jawa, travel, wisata wisata air terjun, panduan wisata air terjun, tips wisata air terjun"
-image_alt: "Wisata Air Terjun di Jawa Barat yang Wajib Dikunjungi"
+keyword: "wisata air terjun di jawa barat yang wajib dikunjungi"
+date: 2026-03-27 07:00:00 +0700
+last_modified_at: 2026-05-12 17:33:16 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@kevin-yung-2152346613)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@kevin-yung-2152346613)"
+keywords: "travel, air, terjun, jawa, barat, wisata air terjun jawa, panduan air terjun jawa, tips air terjun jawa"
+image: "/assets/images/auto/wisata-air-terjun-di-jawa-barat-yang-wajib-dikunjungi.jpg"
+image_alt: "Wisata Air Terjun di Jawa Barat yang Wajib Dikunjungi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/wisata-air-terjun-di-jawa-barat-yang-wajib-dikunjungi.jpg" | relative_url }}" alt="Wisata Air Terjun di Jawa Barat yang Wajib Dikunjungi" loading="lazy" decoding="async">
@@ -96,4 +101,3 @@ Intinya, kalau kamu lagi butuh pelarian dari hiruk pikuk kota, atau sekadar ingi
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk [mengisi waktu santai Anda.](https://dgxximovie.com/)
-
