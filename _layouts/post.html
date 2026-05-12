@@ -34,7 +34,16 @@ layout: default
 
     <!-- Post Body -->
     <div class="post-body">
-      {{ content }}
+      {% assign clean_content = content | strip %}
+      {% assign content_start = clean_content | slice: 0, 7 %}
+      {% if page.image and content_start == '<figure' %}
+        {% assign content_parts = clean_content | split: '</figure>' %}
+        {% for part in content_parts offset: 1 %}
+          {{ part }}{% unless forloop.last %}</figure>{% endunless %}
+        {% endfor %}
+      {% else %}
+        {{ content }}
+      {% endif %}
     </div>
 
     <!-- Post Footer -->
