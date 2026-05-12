@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menikmati Keindahan Danau Bled, Slovenia: Panduan Lengkap untuk Wisata Alam Eropa"
-date: 2026-05-09 14:51:34 +0700
-categories: ["lake-bled"]
-tags: ["lake-bled", "slovenia", "danau-indah", "eropa", "wisata-alam", "travel-guide"]
-image: "https://images.pexels.com/photos/9244243/pexels-photo-9244243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menikmati Keindahan Danau Bled, Slovenia: Panduan Lengkap untuk Wisata Alam Eropa"
-description: "Lake Bled, atau Danau Bled, merupakan destinasi wisata alam yang menakjubkan di jantung Slovenia, sebuah negara kecil namun kaya akan pemandangan alam yang..."
-excerpt: "Lake Bled, atau Danau Bled, merupakan destinasi wisata alam yang menakjubkan di jantung Slovenia, sebuah negara kecil namun kaya akan pemandangan alam yang..."
-keywords: "menikmati keindahan danau bled slovenia panduan lengkap untuk wisata alam eropa, menikmati keindahan danau bled, lake bled, slovenia, danau indah, eropa, wisata alam, travel guide, wisata menikmati keindahan danau, panduan menikmati keindahan danau, tips menikmati keindahan danau, kenapa beker"
-image_alt: "Menikmati Keindahan Danau Bled, Slovenia: Panduan Lengkap untuk Wisata Alam Eropa"
+keyword: "menikmati keindahan danau bled slovenia panduan lengkap untu"
+date: 2026-05-09 14:51:34 +0700
+last_modified_at: 2026-05-12 17:49:11 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["lake-bled"]
+tags: ["lake-bled", "slovenia", "danau-indah", "eropa", "wisata-alam", "travel-guide"]
+description: "..."
+excerpt: "..."
+keywords: "lake bled, slovenia, danau indah, eropa, wisata alam, travel guide, menikmati, keindahan, untu, wisata menikmati keindahan danau, panduan menikmati keindahan danau, tips menikmati keindahan danau"
+image: "https://images.pexels.com/photos/9244243/pexels-photo-9244243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menikmati Keindahan Danau Bled, Slovenia: Panduan Lengkap untuk Wisata Alam Eropa"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/9244243/pexels-photo-9244243.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menikmati Keindahan Danau Bled, Slovenia: Panduan Lengkap untuk Wisata Alam Eropa" style="width:100%;height:auto;border-radius:12px;" /></figure>
