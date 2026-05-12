@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menikmati Keindahan Trevi Fountain di Roma: Panduan Wisata Romantis di Italia"
-date: 2026-05-09 07:17:19 +0700
-categories: ["trevi-fountain"]
-tags: ["trevi-fountain", "roma", "italia", "wisata-romantis", "landmark", "travel-guide", "wisata-budaya", "hidden-gem"]
-image: "https://images.pexels.com/photos/12268455/pexels-photo-12268455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menikmati Keindahan Trevi Fountain di Roma: Panduan Wisata Romantis di Italia"
-description: "Roma, ibu kota Italia, tak hanya terkenal dengan kuliner, mode, dan sejarahnya yang memukau, tetapi juga menyimpan satu landmark paling ikonik yang menjadi..."
-excerpt: "Roma, ibu kota Italia, tak hanya terkenal dengan kuliner, mode, dan sejarahnya yang memukau, tetapi juga menyimpan satu landmark paling ikonik yang menjadi..."
-keywords: "menikmati keindahan trevi fountain di roma panduan wisata romantis di italia, menikmati keindahan trevi fountain, trevi fountain, roma, italia, wisata romantis, landmark, travel guide, wisata budaya, hidden gem, wisata menikmati keindahan trevi, panduan menikmati keindahan trevi"
-image_alt: "Menikmati Keindahan Trevi Fountain di Roma: Panduan Wisata Romantis di Italia"
+keyword: "menikmati keindahan trevi fountain di roma panduan wisata ro"
+date: 2026-05-09 07:17:19 +0700
+last_modified_at: 2026-05-12 17:49:15 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["trevi-fountain"]
+tags: ["trevi-fountain", "roma", "italia", "wisata-romantis", "landmark", "travel-guide", "wisata-budaya", "hidden-gem"]
+description: "Roma, ibu kota Italia, tak hanya terkenal dengan kuliner, mode, dan sejarahnya yang memukau, tetapi juga menyimpan satu landmark paling ikonik yang menjadi..."
+excerpt: "Roma, ibu kota Italia, tak hanya terkenal dengan kuliner, mode, dan sejarahnya yang memukau, tetapi juga menyimpan satu landmark paling ikonik yang menjadi..."
+keywords: "trevi fountain, roma, italia, wisata romantis, landmark, travel guide, wisata budaya, hidden gem, menikmati, keindahan, wisata trevi fountain, panduan trevi fountain"
+image: "https://images.pexels.com/photos/12268455/pexels-photo-12268455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menikmati Keindahan Trevi Fountain di Roma: Panduan Wisata Romantis di Italia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/12268455/pexels-photo-12268455.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menikmati Keindahan Trevi Fountain di Roma: Panduan Wisata Romantis di Italia" style="width:100%;height:auto;border-radius:12px;" /></figure>
