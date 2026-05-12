@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Wisata di Maroko"
-date: 2026-04-17 18:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-wisata-di-maroko.jpg"
 seo_title: "Destinasi Wisata di Maroko"
-description: "# Menyelami Keindahan Maroko: Dari Medina Berliku Hingga Pasir Sahara yang Menyentuh Hati Berjalan di antara lorong-lorong sempit yang dipenuhi aroma..."
-excerpt: "# Menyelami Keindahan Maroko: Dari Medina Berliku Hingga Pasir Sahara yang Menyentuh Hati Berjalan di antara lorong-lorong sempit yang dipenuhi aroma..."
-keywords: "destinasi wisata di maroko, destinasi wisata maroko, travel, wisata destinasi wisata maroko, panduan destinasi wisata maroko, tips destinasi wisata maroko"
-image_alt: "Destinasi Wisata di Maroko"
+keyword: "destinasi wisata di maroko"
+date: 2026-04-17 18:00:00 +0700
+last_modified_at: 2026-05-12 17:38:45 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@alaritammsalu)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@alaritammsalu)"
+keywords: "travel, destinasi, maroko, wisata destinasi maroko, panduan destinasi maroko, tips destinasi maroko"
+image: "/assets/images/auto/destinasi-wisata-di-maroko.jpg"
+image_alt: "Destinasi Wisata di Maroko"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-maroko.jpg" | relative_url }}" alt="Destinasi Wisata di Maroko" loading="lazy" decoding="async">
@@ -99,4 +104,3 @@ Selamat menjelajah, dan semoga jejak langkah Anda di Maroko menjadi cerita yang 
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi [wisata dan hiburan menarik](https://dgxximovie.com/) lainnya untuk mengisi waktu santai Anda.
-
