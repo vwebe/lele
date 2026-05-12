@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Wisata Murah di Asia Tenggara"
-date: 2026-03-28 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-wisata-murah-di-asia-tenggara.jpg"
 seo_title: "Destinasi Wisata Murah di Asia Tenggara"
-description: "# Asia Tenggara: Surga Wisata Murah yang Wajib Kamu Jelajahi Siapa bilang keliling Asia Tenggara itu mahal? Jauh dari kata itu, justru kawasan ini..."
-excerpt: "# Asia Tenggara: Surga Wisata Murah yang Wajib Kamu Jelajahi Siapa bilang keliling Asia Tenggara itu mahal? Jauh dari kata itu, justru kawasan ini..."
-keywords: "destinasi wisata murah di asia tenggara, destinasi wisata murah asia, travel, wisata destinasi wisata murah, panduan destinasi wisata murah, tips destinasi wisata murah"
-image_alt: "Destinasi Wisata Murah di Asia Tenggara"
+keyword: "destinasi wisata murah di asia tenggara"
+date: 2026-03-28 12:30:00 +0700
+last_modified_at: 2026-05-12 17:33:19 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@khairul-fahmi-26341801)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@khairul-fahmi-26341801)"
+keywords: "travel, destinasi, murah, asia, tenggara, wisata destinasi murah asia, panduan destinasi murah asia, tips destinasi murah asia"
+image: "/assets/images/auto/destinasi-wisata-murah-di-asia-tenggara.jpg"
+image_alt: "Destinasi Wisata Murah di Asia Tenggara"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-murah-di-asia-tenggara.jpg" | relative_url }}" alt="Destinasi Wisata Murah di Asia Tenggara" loading="lazy" decoding="async">
@@ -118,4 +123,3 @@ Asia Tenggara adalah benua yang luar biasa, penuh dengan petualangan yang menung
 ---
 
 Perjalanan [Anda belum berakhir di](https://dgxximovie.com/) sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
