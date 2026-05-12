@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Menikmati Dam Square, Jantung Kota Amsterdam yang Memukau"
-date: 2026-05-09 10:18:35 +0700
-categories: ["dam-square"]
-tags: ["dam-square", "amsterdam", "belanda", "city-center", "wisata-kota", "travel-guide"]
-image: "https://images.pexels.com/photos/36266237/pexels-photo-36266237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Menikmati Dam Square, Jantung Kota Amsterdam yang Memukau"
-description: "Amsterdam, ibukota Belanda, terkenal dengan kanal-kanalnya yang romantis, sepeda yang selalu melaju, dan arsitektur yang memadukan gaya klasik dengan..."
-excerpt: "Amsterdam, ibukota Belanda, terkenal dengan kanal-kanalnya yang romantis, sepeda yang selalu melaju, dan arsitektur yang memadukan gaya klasik dengan..."
-keywords: "panduan lengkap menikmati dam square jantung kota amsterdam yang memukau, panduan lengkap menikmati dam, dam square, amsterdam, belanda, city center, wisata kota, travel guide, wisata panduan lengkap menikmati, panduan panduan lengkap menikmati, tips panduan lengkap menikmati, kenapa dam square menjadi destinasi utama"
-image_alt: "Panduan Lengkap Menikmati Dam Square, Jantung Kota Amsterdam yang Memukau"
+keyword: "panduan lengkap menikmati dam square jantung kota amsterdam"
+date: 2026-05-09 10:18:35 +0700
+last_modified_at: 2026-05-12 17:49:39 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["dam-square"]
+tags: ["dam-square", "amsterdam", "belanda", "city-center", "wisata-kota", "travel-guide"]
+description: "Terletak di jantung city center Amsterdam, Dam Square bukan sekadar ruang terbuka; ia adalah titik pertemuan bersejarah yang dikelilingi oleh bangunan..."
+excerpt: "Terletak di jantung city center Amsterdam, Dam Square bukan sekadar ruang terbuka; ia adalah titik pertemuan bersejarah yang dikelilingi oleh bangunan..."
+keywords: "dam square, amsterdam, belanda, city center, wisata kota, travel guide, menikmati, jantung, wisata dam square, panduan dam square, tips dam square, kenapa dam square menjadi destinasi utama"
+image: "https://images.pexels.com/photos/36266237/pexels-photo-36266237.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Menikmati Dam Square, Jantung Kota Amsterdam yang Memukau"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/36266237/pexels-photo-36266237.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Menikmati Dam Square, Jantung Kota Amsterdam yang Memukau" style="width:100%;height:auto;border-radius:12px;" /></figure>
