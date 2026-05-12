@@ -1,14 +1,20 @@
 ---
 layout: post
 title: "Biaya ke Gunung Bromo: Estimasi Lengkap untuk Liburan Hemat"
-image: "assets/images/jeep-bromo.webp"
 seo_title: "Biaya ke Gunung Bromo: Estimasi Lengkap untuk Liburan Hemat"
-description: "Biaya ke Gunung Bromo sering menjadi pertanyaan utama sebelum merencanakan liburan. Banyak orang mengira wisata ke Bromo mahal, padahal dengan perencanaan..."
-excerpt: "Biaya ke Gunung Bromo sering menjadi pertanyaan utama sebelum merencanakan liburan. Banyak orang mengira wisata ke Bromo mahal, padahal dengan perencanaan..."
-keywords: "biaya ke gunung bromo, harga tiket bromo, biaya jeep bromo, wisata bromo murah"
-image_alt: "Biaya ke Gunung Bromo: Estimasi Lengkap untuk Liburan Hemat"
+keyword: "biaya ke gunung bromo"
+date: 2026-03-20 00:00:00 +0000
+last_modified_at: 2026-05-12 17:31:57 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+description: "Secara umum, biaya liburan ke Gunung Bromo terdiri dari beberapa komponen utama seperti tiket masuk, transportasi jeep, dan penginapan (opsional)."
+excerpt: "Secara umum, biaya liburan ke Gunung Bromo terdiri dari beberapa komponen utama seperti tiket masuk, transportasi jeep, dan penginapan (opsional)."
+keywords: "biaya, gunung, bromo, wisata biaya gunung bromo, panduan biaya gunung bromo, tips biaya gunung bromo, estimasi biaya ke gunung bromo"
+image: "assets/images/jeep-bromo.webp"
+image_alt: "Biaya ke Gunung Bromo: Estimasi Lengkap untuk Liburan Hemat"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <p class="post-intro">
