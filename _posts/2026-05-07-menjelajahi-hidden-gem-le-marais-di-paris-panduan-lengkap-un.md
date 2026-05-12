@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menjelajahi Hidden Gem Le Marais di Paris: Panduan Lengkap untuk Wisatawan Indonesia"
-date: 2026-05-07 07:17:36 +0700
-categories: ["le-marais"]
-tags: ["le-marais", "paris", "prancis", "eropa", "hidden-gem", "kota-tua", "wisata-eropa", "travel-guide"]
-image: "https://images.pexels.com/photos/4452034/pexels-photo-4452034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menjelajahi Hidden Gem Le Marais di Paris: Panduan Lengkap untuk Wisatawan Indonesia"
-description: "Paris memang identik dengan Menara Eiffel, Louvre, dan Champs‑Élysées yang selalu ramai. Namun, di balik keramaian tersebut terdapat sebuah kawasan yang..."
-excerpt: "Paris memang identik dengan Menara Eiffel, Louvre, dan Champs‑Élysées yang selalu ramai. Namun, di balik keramaian tersebut terdapat sebuah kawasan yang..."
-keywords: "menjelajahi hidden gem le marais di paris panduan lengkap untuk wisatawan indonesia, menjelajahi hidden gem marais, le marais, paris, prancis, eropa, hidden gem, kota tua, wisata eropa, travel guide, wisata menjelajahi hidden gem, panduan menjelajahi hidden gem"
-image_alt: "Menjelajahi Hidden Gem Le Marais di Paris: Panduan Lengkap untuk Wisatawan Indonesia"
+keyword: "menjelajahi hidden gem le marais di paris panduan lengkap un"
+date: 2026-05-07 07:17:36 +0700
+last_modified_at: 2026-05-12 17:46:57 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["le-marais"]
+tags: ["le-marais", "paris", "prancis", "eropa", "hidden-gem", "kota-tua", "wisata-eropa", "travel-guide"]
+description: "Le Marais bukan sekadar kota tua dengan jalan‑jalan berbatu; ia merupakan gabungan antara sejarah, seni, dan kehidupan modern. Berikut beberapa daya tarik..."
+excerpt: "Le Marais bukan sekadar kota tua dengan jalan‑jalan berbatu; ia merupakan gabungan antara sejarah, seni, dan kehidupan modern. Berikut beberapa daya tarik..."
+keywords: "le marais, paris, prancis, eropa, hidden gem, kota tua, wisata eropa, travel guide, menjelajahi, wisata le marais, panduan le marais, tips le marais"
+image: "https://images.pexels.com/photos/4452034/pexels-photo-4452034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menjelajahi Hidden Gem Le Marais di Paris: Panduan Lengkap untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/4452034/pexels-photo-4452034.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Hidden Gem Le Marais di Paris: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
