@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Panduan Lengkap Dubai Marina Walk: Wisata Kota Mewah di UEA yang Wajib Dikunjungi"
-date: 2026-05-08 16:18:15 +0700
-categories: ["dubai-marina"]
-tags: ["dubai-marina", "dubai", "uea", "city-walk", "wisata-kota", "travel-guide", "dubai-marina-walk"]
-image: "https://images.pexels.com/photos/1470502/pexels-photo-1470502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Panduan Lengkap Dubai Marina Walk: Wisata Kota Mewah di UEA yang Wajib Dikunjungi"
-description: "Dubai Marina — sebuah kawasan modern yang menampilkan siluet gedung pencakar langit, kanal buatan, dan atmosfer internasional yang memikat. Di..."
-excerpt: "Dubai Marina — sebuah kawasan modern yang menampilkan siluet gedung pencakar langit, kanal buatan, dan atmosfer internasional yang memikat. Di..."
-keywords: "panduan lengkap dubai marina walk wisata kota mewah di uea yang wajib dikunjungi, panduan lengkap dubai marina, dubai marina, dubai, uea, city walk, wisata kota, travel guide, dubai marina walk, wisata panduan lengkap dubai, panduan panduan lengkap dubai, tips panduan lengkap dubai"
-image_alt: "Panduan Lengkap Dubai Marina Walk: Wisata Kota Mewah di UEA yang Wajib Dikunjungi"
+keyword: "panduan lengkap dubai marina walk wisata kota mewah di uea y"
+date: 2026-05-08 16:18:15 +0700
+last_modified_at: 2026-05-12 17:48:53 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["dubai-marina"]
+tags: ["dubai-marina", "dubai", "uea", "city-walk", "wisata-kota", "travel-guide", "dubai-marina-walk"]
+description: "Indonesia dikenal dengan keramaian pantai dan budaya yang hangat. Dubai Marina Walk menawarkan kombinasi yang serupa—pemandangan laut, suasana santai, namun..."
+excerpt: "Indonesia dikenal dengan keramaian pantai dan budaya yang hangat. Dubai Marina Walk menawarkan kombinasi yang serupa—pemandangan laut, suasana santai, namun..."
+keywords: "dubai marina, dubai, uea, city walk, wisata kota, travel guide, dubai marina walk, mewah, wisata dubai marina, panduan dubai marina, tips dubai marina, kenapa dubai marina walk menarik untuk wisatawan indonesia"
+image: "https://images.pexels.com/photos/1470502/pexels-photo-1470502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Panduan Lengkap Dubai Marina Walk: Wisata Kota Mewah di UEA yang Wajib Dikunjungi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/1470502/pexels-photo-1470502.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Panduan Lengkap Dubai Marina Walk: Wisata Kota Mewah di UEA yang Wajib Dikunjungi" style="width:100%;height:auto;border-radius:12px;" /></figure>
