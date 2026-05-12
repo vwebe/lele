@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Wisata Air di Thailand yang Seru"
-date: 2026-04-03 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/wisata-air-di-thailand-yang-seru.jpg"
 seo_title: "Wisata Air di Thailand yang Seru"
-description: "# [Wisata](https://aestethiclele.blogspot.com/2026/03/menjelajahi-danau-tersembunyi-di.html) Air di Thailand yang Seru: Dari Lautan Biru Hingga Sungai yang..."
-excerpt: "# [Wisata](https://aestethiclele.blogspot.com/2026/03/menjelajahi-danau-tersembunyi-di.html) Air di Thailand yang Seru: Dari Lautan Biru Hingga Sungai yang..."
-keywords: "wisata air di thailand yang seru, wisata air thailand seru, travel, wisata wisata air thailand, panduan wisata air thailand, tips wisata air thailand"
-image_alt: "Wisata Air di Thailand yang Seru"
+keyword: "wisata air di thailand yang seru"
+date: 2026-04-03 20:30:00 +0700
+last_modified_at: 2026-05-12 17:34:40 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@de-nomad-world-442128309)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@de-nomad-world-442128309)"
+keywords: "travel, air, thailand, seru, wisata air thailand seru, panduan air thailand seru, tips air thailand seru"
+image: "/assets/images/auto/wisata-air-di-thailand-yang-seru.jpg"
+image_alt: "Wisata Air di Thailand yang Seru"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/wisata-air-di-thailand-yang-seru.jpg" | relative_url }}" alt="Wisata Air di Thailand yang Seru" loading="lazy" decoding="async">
@@ -87,4 +92,3 @@ Bagi yang mencari pengalaman lebih eksotis, **Sungai Mekong** yang membelah bebe
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi [waktu santai](https://dgxximovie.com/) Anda.
-
