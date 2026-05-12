@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Sunrise Terbaik di Indonesia"
-date: 2026-03-31 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-sunrise-terbaik-di-indonesia.jpg"
 seo_title: "Destinasi Sunrise Terbaik di Indonesia"
-description: "# Menjelang Fajar: Destinasi [Sunrise](https://vwebe.github.io/lele/2026/03/24/5-spot-sunset-terbaik-di-yogyakarta-yang-jarang-diketahui.html) Terbaik di..."
-excerpt: "# Menjelang Fajar: Destinasi [Sunrise](https://vwebe.github.io/lele/2026/03/24/5-spot-sunset-terbaik-di-yogyakarta-yang-jarang-diketahui.html) Terbaik di..."
-keywords: "destinasi sunrise terbaik di indonesia, destinasi sunrise terbaik indonesia, travel, wisata destinasi sunrise terbaik, panduan destinasi sunrise terbaik, tips destinasi sunrise terbaik"
-image_alt: "Destinasi Sunrise Terbaik di Indonesia"
+keyword: "destinasi sunrise terbaik di indonesia"
+date: 2026-03-31 12:30:00 +0700
+last_modified_at: 2026-05-12 17:33:44 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@meidiasttt)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@meidiasttt)"
+keywords: "travel, destinasi, sunrise, terbaik, indonesia, wisata destinasi sunrise terbaik, panduan destinasi sunrise terbaik, tips destinasi sunrise terbaik"
+image: "/assets/images/auto/destinasi-sunrise-terbaik-di-indonesia.jpg"
+image_alt: "Destinasi Sunrise Terbaik di Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-sunrise-terbaik-di-indonesia.jpg" | relative_url }}" alt="Destinasi Sunrise Terbaik di Indonesia" loading="lazy" decoding="async">
@@ -115,4 +120,3 @@ Entah kamu seorang pendaki gunung yang menantang diri, penjelajah pantai yang me
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya [untuk mengisi waktu](https://dgxximovie.com/) santai Anda.
-
