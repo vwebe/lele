@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata di Qatar"
-date: 2026-04-15 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-di-qatar.jpg"
 seo_title: "Tempat Wisata di Qatar"
-description: "# Tempat Wisata di Qatar yang Wajib Kamu Kunjungi Saat pesawat mendarat di Bandara Internasional Hamad, aroma hangat rempah dan laut langsung menyambut..."
-excerpt: "# Tempat Wisata di Qatar yang Wajib Kamu Kunjungi Saat pesawat mendarat di Bandara Internasional Hamad, aroma hangat rempah dan laut langsung menyambut..."
-keywords: "tempat wisata di qatar, tempat wisata qatar, travel, wisata tempat wisata qatar, panduan tempat wisata qatar, tips tempat wisata qatar"
-image_alt: "Tempat Wisata di Qatar"
+keyword: "tempat wisata di qatar"
+date: 2026-04-15 07:00:00 +0700
+last_modified_at: 2026-05-12 17:37:24 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@tahir-mahmood-734724019)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@tahir-mahmood-734724019)"
+keywords: "travel, tempat, qatar, wisata tempat qatar, panduan tempat qatar, tips tempat qatar"
+image: "/assets/images/auto/tempat-wisata-di-qatar.jpg"
+image_alt: "Tempat Wisata di Qatar"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-qatar.jpg" | relative_url }}" alt="Tempat Wisata di Qatar" loading="lazy" decoding="async">
@@ -223,4 +228,3 @@ Selamat berpetualang, dan jangan lupa abadikan momen—tapi tetap hargai batasan
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan [menarik lainnya untuk](https://dgxximovie.com/) mengisi waktu santai Anda.
-
