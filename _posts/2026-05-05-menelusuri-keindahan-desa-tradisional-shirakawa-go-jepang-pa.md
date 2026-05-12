@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menelusuri Keindahan Desa Tradisional Shirakawa-go, Jepang: Panduan Lengkap untuk Wisatawan Indonesia"
-date: 2026-05-05 11:40:23 +0700
-categories: ["shirakawa-go"]
-tags: ["shirakawa-go", "jepang", "desa-tradisional", "wisata-jepang", "asia", "travel-guide", "budaya-jepang", "hidden-gem", "shirakawa-go"]
-image: "https://images.pexels.com/photos/11997087/pexels-photo-11997087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menelusuri Keindahan Desa Tradisional Shirakawa-go, Jepang: Panduan Lengkap untuk Wisatawan Indonesia"
-description: "Jika Anda mencari destinasi yang menawarkan kombinasi keaslian budaya, arsitektur menakjubkan, dan suasana damai, desa tradisional Shirakawa-go di Jepang..."
-excerpt: "Jika Anda mencari destinasi yang menawarkan kombinasi keaslian budaya, arsitektur menakjubkan, dan suasana damai, desa tradisional Shirakawa-go di Jepang..."
-keywords: "menelusuri keindahan desa tradisional shirakawa go jepang panduan lengkap untuk wisatawan indonesia, menelusuri keindahan desa tradisional, shirakawa go, jepang, desa tradisional, wisata jepang, asia, travel guide, budaya jepang, hidden gem, wisata menelusuri keindahan desa, panduan menelusuri keindahan desa"
-image_alt: "Menelusuri Keindahan Desa Tradisional Shirakawa-go, Jepang: Panduan Lengkap untuk Wisatawan Indonesia"
+keyword: "menelusuri keindahan desa tradisional shirakawa go jepang pa"
+date: 2026-05-05 11:40:23 +0700
+last_modified_at: 2026-05-12 17:38:56 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["shirakawa-go"]
+tags: ["shirakawa-go", "jepang", "desa-tradisional", "wisata-jepang", "asia", "travel-guide", "budaya-jepang", "hidden-gem", "shirakawa-go"]
+description: "Shirakawa-go (白川郷) dikenal dengan rumah-rumah tradisional bergaya gassho-zukuri yang menyerupai tangan berdoa, menutupi atap dengan jerami tebal untuk..."
+excerpt: "Shirakawa-go (白川郷) dikenal dengan rumah-rumah tradisional bergaya gassho-zukuri yang menyerupai tangan berdoa, menutupi atap dengan jerami tebal untuk..."
+keywords: "shirakawa go, jepang, desa tradisional, wisata jepang, asia, travel guide, budaya jepang, hidden gem, menelusuri, keindahan, wisata shirakawa go, panduan shirakawa go"
+image: "https://images.pexels.com/photos/11997087/pexels-photo-11997087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menelusuri Keindahan Desa Tradisional Shirakawa-go, Jepang: Panduan Lengkap untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/11997087/pexels-photo-11997087.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menelusuri Keindahan Desa Tradisional Shirakawa-go, Jepang: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
