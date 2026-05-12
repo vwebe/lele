@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata di Portugal"
-date: 2026-04-11 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-di-portugal.jpg"
 seo_title: "Tempat Wisata di Portugal"
-description: "## Lisbon: Kota Tua yang Menyatu dengan Modernitas Langkah pertama di Lisbon selalu terasa seperti melangkah ke dalam film berwarna pastel. Jalan berbatu di..."
-excerpt: "## Lisbon: Kota Tua yang Menyatu dengan Modernitas Langkah pertama di Lisbon selalu terasa seperti melangkah ke dalam film berwarna pastel. Jalan berbatu di..."
-keywords: "tempat wisata di portugal, tempat wisata portugal, travel, wisata tempat wisata portugal, panduan tempat wisata portugal, tips tempat wisata portugal"
-image_alt: "Tempat Wisata di Portugal"
+keyword: "tempat wisata di portugal"
+date: 2026-04-11 12:30:00 +0700
+last_modified_at: 2026-05-12 17:36:47 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@moraesrenata)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@moraesrenata)"
+keywords: "travel, tempat, portugal, wisata tempat portugal, panduan tempat portugal, tips tempat portugal"
+image: "/assets/images/auto/tempat-wisata-di-portugal.jpg"
+image_alt: "Tempat Wisata di Portugal"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-portugal.jpg" | relative_url }}" alt="Tempat Wisata di Portugal" loading="lazy" decoding="async">
@@ -103,4 +108,3 @@ Portugal memang sebuah negara yang mudah dipadukan antara warisan sejarah yang k
 ---
 
 Perjalanan Anda [belum berakhir di](https://dgxximovie.com/) sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
