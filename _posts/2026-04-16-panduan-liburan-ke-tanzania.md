@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Liburan ke Tanzania"
-date: 2026-04-16 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-liburan-ke-tanzania.jpg"
 seo_title: "Panduan Liburan ke Tanzania"
-description: "## Petualangan ke Tanzania: Dari Sabuk Safari sampai Pasir Putih Zanzibar Udara panas menyentuh kulit, bau rempah menguar dari pasar-pasar kecil, dan suara..."
-excerpt: "## Petualangan ke Tanzania: Dari Sabuk Safari sampai Pasir Putih Zanzibar Udara panas menyentuh kulit, bau rempah menguar dari pasar-pasar kecil, dan suara..."
-keywords: "panduan liburan ke tanzania, panduan liburan tanzania, travel, wisata panduan liburan tanzania, panduan panduan liburan tanzania, tips panduan liburan tanzania"
-image_alt: "Panduan Liburan ke Tanzania"
+keyword: "panduan liburan ke tanzania"
+date: 2026-04-16 16:30:00 +0700
+last_modified_at: 2026-05-12 17:38:39 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@amani-allan-2147911089)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@amani-allan-2147911089)"
+keywords: "travel, liburan, tanzania, wisata liburan tanzania, panduan liburan tanzania, tips liburan tanzania"
+image: "/assets/images/auto/panduan-liburan-ke-tanzania.jpg"
+image_alt: "Panduan Liburan ke Tanzania"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-tanzania.jpg" | relative_url }}" alt="Panduan Liburan ke Tanzania" loading="lazy" decoding="async">
@@ -135,4 +140,3 @@ Jika kamu masih ragu, coba pikirkan satu hal: apa yang ingin kamu bawa pulang se
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk [mengisi waktu santai Anda.](https://dgxximovie.com/)
-
