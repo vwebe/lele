@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menyusuri Keindahan Arashiyama Bamboo Forest di Kyoto: Panduan Lengkap untuk Wisatawan Indonesia"
-date: 2026-05-06 11:48:55 +0700
-categories: ["arashiyama"]
-tags: ["arashiyama", "kyoto", "jepang", "bamboo-forest", "wisata-alam", "asia", "travel-guide"]
-image: "https://images.pexels.com/photos/36544770/pexels-photo-36544770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menyusuri Keindahan Arashiyama Bamboo Forest di Kyoto: Panduan Lengkap untuk Wisatawan Indonesia"
-description: "Jika Anda mencari pengalaman alam yang menakjubkan sekaligus nuansa budaya Jepang yang kental, Arashiyama Bamboo Forest di Kyoto menjadi pilihan yang tak..."
-excerpt: "Jika Anda mencari pengalaman alam yang menakjubkan sekaligus nuansa budaya Jepang yang kental, Arashiyama Bamboo Forest di Kyoto menjadi pilihan yang tak..."
-keywords: "menyusuri keindahan arashiyama bamboo forest di kyoto panduan lengkap untuk wisatawan indonesia, menyusuri keindahan arashiyama bamboo, arashiyama, kyoto, jepang, bamboo forest, wisata alam, asia, travel guide, wisata menyusuri keindahan arashiyama, panduan menyusuri keindahan arashiyama, tips menyusuri keindahan arashiyama"
-image_alt: "Menyusuri Keindahan Arashiyama Bamboo Forest di Kyoto: Panduan Lengkap untuk Wisatawan Indonesia"
+keyword: "menyusuri keindahan arashiyama bamboo forest di kyoto pandua"
+date: 2026-05-06 11:48:55 +0700
+last_modified_at: 2026-05-12 17:45:24 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["arashiyama"]
+tags: ["arashiyama", "kyoto", "jepang", "bamboo-forest", "wisata-alam", "asia", "travel-guide"]
+description: "Arashiyama terletak di sebelah barat kota Kyoto, sebuah wilayah yang dikenal dengan keindahan alam dan warisan budayanya. Hutan bambu di sini bukan sekadar..."
+excerpt: "Arashiyama terletak di sebelah barat kota Kyoto, sebuah wilayah yang dikenal dengan keindahan alam dan warisan budayanya. Hutan bambu di sini bukan sekadar..."
+keywords: "arashiyama, kyoto, jepang, bamboo forest, wisata alam, asia, travel guide, menyusuri, keindahan, pandua, wisata bamboo forest, panduan bamboo forest"
+image: "https://images.pexels.com/photos/36544770/pexels-photo-36544770.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menyusuri Keindahan Arashiyama Bamboo Forest di Kyoto: Panduan Lengkap untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/36544770/pexels-photo-36544770.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menyusuri Keindahan Arashiyama Bamboo Forest di Kyoto: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
