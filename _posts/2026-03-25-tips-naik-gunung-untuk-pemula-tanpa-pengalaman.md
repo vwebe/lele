@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Naik Gunung untuk Pemula Tanpa Pengalaman"
-date: 2026-03-25 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-naik-gunung-untuk-pemula-tanpa-pengalaman.jpg"
 seo_title: "Tips Naik Gunung untuk Pemula Tanpa Pengalaman"
-description: "# Mimpi Jadi Pendaki Gunung? Ini Panduan Lengkap untuk Pemula Tanpa Pengalaman! Mendengar gemuruh ombak di pantai memang syahdu, tapi ada lho sensasi lain..."
-excerpt: "# Mimpi Jadi Pendaki Gunung? Ini Panduan Lengkap untuk Pemula Tanpa Pengalaman! Mendengar gemuruh ombak di pantai memang syahdu, tapi ada lho sensasi lain..."
-keywords: "tips naik gunung untuk pemula tanpa pengalaman, tips naik gunung pemula, travel, wisata tips naik gunung, panduan tips naik gunung, tips tips naik gunung"
-image_alt: "Tips Naik Gunung untuk Pemula Tanpa Pengalaman"
+keyword: "tips naik gunung untuk pemula tanpa pengalaman"
+date: 2026-03-25 20:30:00 +0700
+last_modified_at: 2026-05-12 17:32:32 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@magda-ehlers-pexels)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@magda-ehlers-pexels)"
+keywords: "travel, tips, naik, gunung, pemula, tanpa, pengalaman, wisata tips naik gunung, panduan tips naik gunung, tips tips naik gunung"
+image: "/assets/images/auto/tips-naik-gunung-untuk-pemula-tanpa-pengalaman.jpg"
+image_alt: "Tips Naik Gunung untuk Pemula Tanpa Pengalaman"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-naik-gunung-untuk-pemula-tanpa-pengalaman.jpg" | relative_url }}" alt="Tips Naik Gunung untuk Pemula Tanpa Pengalaman" loading="lazy" decoding="async">
@@ -139,4 +144,3 @@ Mendaki gunung adalah petualangan yang luar biasa. Ia mengajarkan kita tentang k
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan [juga berbagai inspirasi](https://dgxximovie.com/) wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
