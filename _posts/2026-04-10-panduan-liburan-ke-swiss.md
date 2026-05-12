@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Liburan ke Swiss"
-date: 2026-04-10 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-liburan-ke-swiss.jpg"
 seo_title: "Panduan Liburan ke Swiss"
-description: "**Swiss bukan sekadar puncak bersalju dan jam tangan mahal—ia adalah rangkaian cerita yang menunggu untuk dijelajahi.** Dari lorong sempit kota tua di..."
-excerpt: "**Swiss bukan sekadar puncak bersalju dan jam tangan mahal—ia adalah rangkaian cerita yang menunggu untuk dijelajahi.** Dari lorong sempit kota tua di..."
-keywords: "panduan liburan ke swiss, panduan liburan swiss, travel, wisata panduan liburan swiss, panduan panduan liburan swiss, tips panduan liburan swiss"
-image_alt: "Panduan Liburan ke Swiss"
+keyword: "panduan liburan ke swiss"
+date: 2026-04-10 12:30:00 +0700
+last_modified_at: 2026-05-12 17:36:00 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@omergulen)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@omergulen)"
+keywords: "travel, liburan, swiss, wisata liburan swiss, panduan liburan swiss, tips liburan swiss"
+image: "/assets/images/auto/panduan-liburan-ke-swiss.jpg"
+image_alt: "Panduan Liburan ke Swiss"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-swiss.jpg" | relative_url }}" alt="Panduan Liburan ke Swiss" loading="lazy" decoding="async">
@@ -106,4 +111,3 @@ Jadi, siapkan paspor, pasang Swiss Travel Pass, dan biarkan pemandangan pegunung
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi [wisata dan hiburan](https://dgxximovie.com/) menarik lainnya untuk mengisi waktu santai Anda.
-
