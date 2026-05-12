@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Panduan Liburan ke Thailand Pertama Kali"
-date: 2026-03-27 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/panduan-liburan-ke-thailand-pertama-kali.jpg"
 seo_title: "Panduan Liburan ke Thailand Pertama Kali"
-description: "# Panduan [Liburan](https://lelenime.blogspot.com/2026/03/penjelasan-kekuatan-sharingan-naruto.html) ke Thailand Pertama Kali: Dari Bangkok yang Meriah..."
-excerpt: "# Panduan [Liburan](https://lelenime.blogspot.com/2026/03/penjelasan-kekuatan-sharingan-naruto.html) ke Thailand Pertama Kali: Dari Bangkok yang Meriah..."
-keywords: "panduan liburan ke thailand pertama kali, panduan liburan thailand pertama, travel, wisata panduan liburan thailand, panduan panduan liburan thailand, tips panduan liburan thailand"
-image_alt: "Panduan Liburan ke Thailand Pertama Kali"
+keyword: "panduan liburan ke thailand pertama kali"
+date: 2026-03-27 12:30:00 +0700
+last_modified_at: 2026-05-12 17:33:12 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@nurseryart)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@nurseryart)"
+keywords: "travel, liburan, thailand, pertama, kali, wisata liburan thailand pertama, panduan liburan thailand pertama, tips liburan thailand pertama"
+image: "/assets/images/auto/panduan-liburan-ke-thailand-pertama-kali.jpg"
+image_alt: "Panduan Liburan ke Thailand Pertama Kali"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-thailand-pertama-kali.jpg" | relative_url }}" alt="Panduan Liburan ke Thailand Pertama Kali" loading="lazy" decoding="async">
@@ -133,4 +138,3 @@ Liburan pertama ke Thailand adalah awal dari petualangan yang luar biasa. Dengan
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan [juga berbagai inspirasi](https://dgxximovie.com/) wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
