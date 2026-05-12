@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Wisata di Spanyol"
-date: 2026-04-10 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-wisata-di-spanyol.jpg"
 seo_title: "Destinasi Wisata di Spanyol"
-description: "# [Destinasi](#REF!) Wisata di Spanyol: Menyelami Warna, Rasa, dan Ritme Negeri Matador Langkah pertama di bandara Madrid, aroma kopi yang tercium dari kafe..."
-excerpt: "# [Destinasi](#REF!) Wisata di Spanyol: Menyelami Warna, Rasa, dan Ritme Negeri Matador Langkah pertama di bandara Madrid, aroma kopi yang tercium dari kafe..."
-keywords: "destinasi wisata di spanyol, destinasi wisata spanyol, travel, wisata destinasi wisata spanyol, panduan destinasi wisata spanyol, tips destinasi wisata spanyol"
-image_alt: "Destinasi Wisata di Spanyol"
+keyword: "destinasi wisata di spanyol"
+date: 2026-04-10 20:30:00 +0700
+last_modified_at: 2026-05-12 17:35:58 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@zekai-zhu-214984943)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@zekai-zhu-214984943)"
+keywords: "travel, destinasi, spanyol, wisata destinasi spanyol, panduan destinasi spanyol, tips destinasi spanyol"
+image: "/assets/images/auto/destinasi-wisata-di-spanyol.jpg"
+image_alt: "Destinasi Wisata di Spanyol"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-spanyol.jpg" | relative_url }}" alt="Destinasi Wisata di Spanyol" loading="lazy" decoding="async">
@@ -117,4 +122,3 @@ Jika Anda berencana mengunjungi, persiapkan diri dengan sedikit riset, pilih wak
 ---
 
 Perjalanan Anda [belum berakhir di](https://dgxximovie.com/) sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
