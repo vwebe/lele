@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata di Peru"
-date: 2026-04-18 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-di-peru.jpg"
 seo_title: "Tempat Wisata di Peru"
-description: "# Tempat [Wisata](#REF!) di Peru: Dari Puncak Andes hingga Hutan Amazon Matahari terbit di atas pegunungan Andes menyapu kabut tipis, menampakkan siluet..."
-excerpt: "# Tempat [Wisata](#REF!) di Peru: Dari Puncak Andes hingga Hutan Amazon Matahari terbit di atas pegunungan Andes menyapu kabut tipis, menampakkan siluet..."
-keywords: "tempat wisata di peru, tempat wisata peru, travel, wisata tempat wisata peru, panduan tempat wisata peru, tips tempat wisata peru"
-image_alt: "Tempat Wisata di Peru"
+keyword: "tempat wisata di peru"
+date: 2026-04-18 07:00:00 +0700
+last_modified_at: 2026-05-12 17:38:51 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@saul-ticona-410164938)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@saul-ticona-410164938)"
+keywords: "travel, tempat, peru, wisata tempat peru, panduan tempat peru, tips tempat peru"
+image: "/assets/images/auto/tempat-wisata-di-peru.jpg"
+image_alt: "Tempat Wisata di Peru"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-peru.jpg" | relative_url }}" alt="Tempat Wisata di Peru" loading="lazy" decoding="async">
@@ -107,4 +112,3 @@ Selamat berpetualang, dan semoga jejakmu di tanah Andes ini menjadi bagian dari 
 ---
 
 Perjalanan [Anda belum berakhir](https://dgxximovie.com/) di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
