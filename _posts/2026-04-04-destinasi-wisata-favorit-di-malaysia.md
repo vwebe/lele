@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Destinasi Wisata Favorit di Malaysia"
-date: 2026-04-04 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/destinasi-wisata-favorit-di-malaysia.jpg"
 seo_title: "Destinasi Wisata Favorit di Malaysia"
-description: "# [Destinasi](https://vwebe.github.io/lele/2026/04/02/panduan-backpacker-ke-myanmar.html)..."
-excerpt: "# [Destinasi](https://vwebe.github.io/lele/2026/04/02/panduan-backpacker-ke-myanmar.html)..."
-keywords: "destinasi wisata favorit di malaysia, destinasi wisata favorit malaysia, travel, wisata destinasi wisata favorit, panduan destinasi wisata favorit, tips destinasi wisata favorit"
-image_alt: "Destinasi Wisata Favorit di Malaysia"
+keyword: "destinasi wisata favorit di malaysia"
+date: 2026-04-04 20:30:00 +0700
+last_modified_at: 2026-05-12 17:34:42 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@widiarto-proboprasetyo-2154066396)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@widiarto-proboprasetyo-2154066396)"
+keywords: "travel, destinasi, favorit, malaysia, wisata destinasi favorit malaysia, panduan destinasi favorit malaysia, tips destinasi favorit malaysia"
+image: "/assets/images/auto/destinasi-wisata-favorit-di-malaysia.jpg"
+image_alt: "Destinasi Wisata Favorit di Malaysia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-favorit-di-malaysia.jpg" | relative_url }}" alt="Destinasi Wisata Favorit di Malaysia" loading="lazy" decoding="async">
@@ -106,4 +111,3 @@ Malaysia adalah negara yang menawarkan keragaman luar biasa. Setiap sudutnya pun
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik [lainnya untuk mengisi waktu](https://dgxximovie.com/) santai Anda.
-
