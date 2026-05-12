@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata di Kenya"
-date: 2026-04-16 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-di-kenya.jpg"
 seo_title: "Tempat Wisata di Kenya"
-description: "# Menyelami Keajaiban Kenya: Dari Padang Savana Hingga Pasir Putih Pantai Kenya tak lagi sekadar nama di peta; ia adalah rangkaian warna, suara, dan aroma..."
-excerpt: "# Menyelami Keajaiban Kenya: Dari Padang Savana Hingga Pasir Putih Pantai Kenya tak lagi sekadar nama di peta; ia adalah rangkaian warna, suara, dan aroma..."
-keywords: "tempat wisata di kenya, tempat wisata kenya, travel, wisata tempat wisata kenya, panduan tempat wisata kenya, tips tempat wisata kenya"
-image_alt: "Tempat Wisata di Kenya"
+keyword: "tempat wisata di kenya"
+date: 2026-04-16 12:30:00 +0700
+last_modified_at: 2026-05-12 17:38:41 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@mary-rose-relente-722720629)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@mary-rose-relente-722720629)"
+keywords: "travel, tempat, kenya, wisata tempat kenya, panduan tempat kenya, tips tempat kenya"
+image: "/assets/images/auto/tempat-wisata-di-kenya.jpg"
+image_alt: "Tempat Wisata di Kenya"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-kenya.jpg" | relative_url }}" alt="Tempat Wisata di Kenya" loading="lazy" decoding="async">
@@ -74,4 +79,3 @@ Kenya bukan sekadar [destinasi](#REF!); ia adalah rangkaian pengalaman yang mena
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik [lainnya untuk mengisi](https://dgxximovie.com/) waktu santai Anda.
-
