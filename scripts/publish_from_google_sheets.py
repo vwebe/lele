@@ -431,6 +431,8 @@ def build_front_matter(title, publish_dt, layout, category, tags, excerpt, descr
         f"layout: {layout or DEFAULT_LAYOUT}",
         f"title: {quote_yaml(title)}",
         f"date: {publish_dt.strftime('%Y-%m-%d %H:%M:%S %z')}",
+        f"last_modified_at: {now_local().strftime('%Y-%m-%d %H:%M:%S %z')}",
+        "sitemap: true",
     ]
     if category:
         lines.append("categories: [" + ", ".join([slugify(category)]) + "]")
@@ -454,6 +456,145 @@ def make_post_url(filename: str) -> str:
         return f"{SITE_URL}/{filename}"
     y, mo, d, slug = m.groups()
     return f"{SITE_URL}/{y}/{mo}/{d}/{slug}.html"
+
+
+# ─── Static sitemap / robots generator ───────────────────────────────────────
+# Do not rely only on Jekyll/Liquid sitemap generation. This writes a real
+# committed sitemap.xml so Google and outside fetchers can immediately see all
+# post URLs after the GitHub Action commits.
+
+SITEMAP_CHANGEFREQ_HOME = "daily"
+SITEMAP_CHANGEFREQ_POST = "weekly"
+SITEMAP_CHANGEFREQ_PAGE = "monthly"
+
+
+def xml_escape(value: str) -> str:
+    return html.escape(str(value or ""), quote=True)
+
+
+def parse_front_matter(markdown: str) -> dict:
+    text = str(markdown or "")
+    if not text.startswith("---"):
+        return {}
+    match = re.match(r"^---\s*\n(.*?)\n---\s*\n", text, flags=re.S)
+    if not match:
+        return {}
+    data = {}
+    for line in match.group(1).splitlines():
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key:
+            data[key] = value
+    return data
+
+
+def post_record_from_path(path: Path):
+    match = re.match(r"^(\d{4})-(\d{2})-(\d{2})-(.+)\.md$", path.name)
+    if not match:
+        return None
+    y, mo, d, slug = match.groups()
+    try:
+        body = path.read_text(encoding="utf-8", errors="ignore")
+    except Exception:
+        body = ""
+    fm = parse_front_matter(body)
+    if str(fm.get("sitemap", "true")).strip().lower() == "false":
+        return None
+    url = f"{SITE_URL}/{y}/{mo}/{d}/{slug}.html"
+    lastmod = fm.get("last_modified_at") or fm.get("date") or f"{y}-{mo}-{d}T00:00:00+00:00"
+    lastmod = normalize_sitemap_lastmod(lastmod, y, mo, d)
+    return {"loc": url, "lastmod": lastmod, "changefreq": SITEMAP_CHANGEFREQ_POST, "priority": "0.8"}
+
+
+def normalize_sitemap_lastmod(value: str, y: str, mo: str, d: str) -> str:
+    raw = str(value or "").strip()
+    if not raw:
+        return f"{y}-{mo}-{d}T00:00:00+00:00"
+    # Common Jekyll front matter: 2026-05-12 10:30:00 +0700
+    m = re.match(r"^(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2}:\d{2})(?:\s*([+-]\d{2})(\d{2}))?", raw)
+    if m:
+        date_part, time_part, off_h, off_m = m.groups()
+        if off_h and off_m:
+            return f"{date_part}T{time_part}{off_h}:{off_m}"
+        return f"{date_part}T{time_part}+00:00"
+    m = re.match(r"^(\d{4}-\d{2}-\d{2})$", raw)
+    if m:
+        return f"{m.group(1)}T00:00:00+00:00"
+    return f"{y}-{mo}-{d}T00:00:00+00:00"
+
+
+def static_page_records():
+    now = now_local().isoformat(timespec="seconds")
+    pages = [
+        {"loc": f"{SITE_URL}/", "lastmod": now, "changefreq": SITEMAP_CHANGEFREQ_HOME, "priority": "1.0"},
+    ]
+    for page in sorted(Path(".").glob("*.md")):
+        if page.name.lower() in {"index.md", "readme.md"}:
+            continue
+        try:
+            body = page.read_text(encoding="utf-8", errors="ignore")
+        except Exception:
+            body = ""
+        fm = parse_front_matter(body)
+        if str(fm.get("sitemap", "true")).strip().lower() == "false":
+            continue
+        slug = page.stem
+        pages.append({"loc": f"{SITE_URL}/{slug}.html", "lastmod": now, "changefreq": SITEMAP_CHANGEFREQ_PAGE, "priority": "0.6"})
+    return pages
+
+
+def collect_sitemap_records():
+    records = static_page_records()
+    post_records = []
+    for path in sorted(POSTS_DIR.glob("*.md"), reverse=True):
+        rec = post_record_from_path(path)
+        if rec:
+            post_records.append(rec)
+    records.extend(post_records)
+    # De-dupe by URL, preserving first occurrence.
+    seen = set()
+    out = []
+    for rec in records:
+        loc = rec.get("loc")
+        if not loc or loc in seen:
+            continue
+        seen.add(loc)
+        out.append(rec)
+    return out
+
+
+def build_static_sitemap_xml(records: list) -> str:
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ]
+    for rec in records:
+        lines.extend([
+            "  <url>",
+            f"    <loc>{xml_escape(rec['loc'])}</loc>",
+            f"    <lastmod>{xml_escape(rec['lastmod'])}</lastmod>",
+            f"    <changefreq>{xml_escape(rec.get('changefreq', 'weekly'))}</changefreq>",
+            f"    <priority>{xml_escape(rec.get('priority', '0.8'))}</priority>",
+            "  </url>",
+        ])
+    lines.append("</urlset>")
+    return "\n".join(lines) + "\n"
+
+
+def write_static_sitemap_and_robots() -> None:
+    records = collect_sitemap_records()
+    sitemap = build_static_sitemap_xml(records)
+    Path("sitemap.xml").write_text(sitemap, encoding="utf-8")
+    Path("robots.txt").write_text(
+        "User-agent: *\n"
+        "Allow: /\n\n"
+        f"Sitemap: {SITE_URL}/sitemap.xml\n",
+        encoding="utf-8",
+    )
+    log(f"Updated static sitemap.xml with {len(records)} URL(s).")
 
 
 def load_anchor_and_urls(spreadsheet):
@@ -788,6 +929,7 @@ def main():
             skipped_count += 1
             continue
 
+    write_static_sitemap_and_robots()
     log(f"Done. Published: {published_count}, skipped/waiting: {skipped_count}")
 
 
