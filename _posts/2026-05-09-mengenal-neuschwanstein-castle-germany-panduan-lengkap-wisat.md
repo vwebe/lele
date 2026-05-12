@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Mengenal Neuschwanstein Castle Germany: Panduan Lengkap Wisata Kastil Eropa untuk Traveler Indonesia"
-date: 2026-05-09 17:48:39 +0700
-categories: ["neuschwanstein"]
-tags: ["neuschwanstein", "jerman", "kastil-eropa", "wisata-sejarah", "travel-guide", "neuschwanstein-castle-germany"]
-image: "https://images.pexels.com/photos/31380944/pexels-photo-31380944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Mengenal Neuschwanstein Castle Germany: Panduan Lengkap Wisata Kastil Eropa untuk Traveler Indonesia"
-description: "Neuschwanstein Castle, atau Schloss Neuschwanstein , adalah salah satu kastil paling ikonik di Jerman yang sering disebut sebagai inspirasi bagi istana..."
-excerpt: "Neuschwanstein Castle, atau Schloss Neuschwanstein , adalah salah satu kastil paling ikonik di Jerman yang sering disebut sebagai inspirasi bagi istana..."
-keywords: "mengenal neuschwanstein castle germany panduan lengkap wisata kastil eropa untuk traveler indonesia, mengenal neuschwanstein castle germany, neuschwanstein, jerman, kastil eropa, wisata sejarah, travel guide, neuschwanstein castle germany, wisata mengenal neuschwanstein castle, panduan mengenal neuschwanstein castle, tips mengenal neuschwanstein castle, sejarah singkat dan daya tarik utama"
-image_alt: "Mengenal Neuschwanstein Castle Germany: Panduan Lengkap Wisata Kastil Eropa untuk Traveler Indonesia"
+keyword: "mengenal neuschwanstein castle germany panduan lengkap wisat"
+date: 2026-05-09 17:48:39 +0700
+last_modified_at: 2026-05-12 17:49:08 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["neuschwanstein"]
+tags: ["neuschwanstein", "jerman", "kastil-eropa", "wisata-sejarah", "travel-guide", "neuschwanstein-castle-germany"]
+description: "Bangun dengan gaya Romantik Romantis pada tahun 1860-an, Ne Neuschwanstein dibangun oleh Raja Ludwig II, yang dikenal sebagai \"Raja Raja Raja Raja\". Kastil..."
+excerpt: "Bangun dengan gaya Romantik Romantis pada tahun 1860-an, Ne Neuschwanstein dibangun oleh Raja Ludwig II, yang dikenal sebagai \"Raja Raja Raja Raja\". Kastil..."
+keywords: "neuschwanstein, jerman, kastil eropa, wisata sejarah, travel guide, neuschwanstein castle germany, mengenal, wisata neuschwanstein castle germany, panduan neuschwanstein castle germany, tips neuschwanstein castle germany, sejarah singkat dan daya tarik utama"
+image: "https://images.pexels.com/photos/31380944/pexels-photo-31380944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Mengenal Neuschwanstein Castle Germany: Panduan Lengkap Wisata Kastil Eropa untuk Traveler Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/31380944/pexels-photo-31380944.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Mengenal Neuschwanstein Castle Germany: Panduan Lengkap Wisata Kastil Eropa untuk Traveler Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
