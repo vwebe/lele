@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Hidden Beach di Lombok yang Jarang Diketahui"
-date: 2026-03-29 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/hidden-beach-di-lombok-yang-jarang-diketahui.jpg"
 seo_title: "Hidden Beach di Lombok yang Jarang Diketahui"
-description: "## Pantai Tersembunyi di Lombok yang Jarang Disinggahi, Surga Kecil yang Menanti Lombok. Mendengar namanya saja sudah terbayang pantai-pantai indah berpasir..."
-excerpt: "## Pantai Tersembunyi di Lombok yang Jarang Disinggahi, Surga Kecil yang Menanti Lombok. Mendengar namanya saja sudah terbayang pantai-pantai indah berpasir..."
-keywords: "hidden beach di lombok yang jarang diketahui, hidden beach lombok jarang, travel, wisata hidden beach lombok, panduan hidden beach lombok, tips hidden beach lombok"
-image_alt: "Hidden Beach di Lombok yang Jarang Diketahui"
+keyword: "hidden beach di lombok yang jarang diketahui"
+date: 2026-03-29 16:30:00 +0700
+last_modified_at: 2026-05-12 17:33:27 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@alifiaharina)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@alifiaharina)"
+keywords: "travel, hidden, beach, lombok, jarang, diketahui, wisata hidden beach lombok, panduan hidden beach lombok, tips hidden beach lombok"
+image: "/assets/images/auto/hidden-beach-di-lombok-yang-jarang-diketahui.jpg"
+image_alt: "Hidden Beach di Lombok yang Jarang Diketahui"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/hidden-beach-di-lombok-yang-jarang-diketahui.jpg" | relative_url }}" alt="Hidden Beach di Lombok yang Jarang Diketahui" loading="lazy" decoding="async">
@@ -103,4 +108,3 @@ Jadi, jika Anda merasa bosan dengan [destinasi](https://lelefilm.blogspot.com/20
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan [menarik lainnya](https://dgxximovie.com/) untuk mengisi waktu santai Anda.
-
