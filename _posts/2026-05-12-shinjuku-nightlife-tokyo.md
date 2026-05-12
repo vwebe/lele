@@ -2,18 +2,20 @@
 layout: post
 title: "Menjelajahi Shinjuku Nightlife Tokyo: Surga Hiburan Malam di Jantung Jepang"
 seo_title: "Menjelajahi Shinjuku Nightlife Tokyo: Surga Hiburan Malam di Jantung Jepang"
+keyword: "shinjuku nightlife tokyo"
 date: 2026-05-12 17:17:46 +0700
-last_modified_at: 2026-05-12 17:17:46 +0700
+last_modified_at: 2026-05-12 17:51:26 +0700
 sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 categories: ["shinjuku"]
 tags: ["shinjuku", "tokyo", "jepang", "nightlife", "wisata-kota", "travel-guide"]
-description: "5 menit Halo para pencinta petualangan! Bagi Anda yang berencana menjelajahi keajaiban Jepang, ada satu destinasi yang wajib masuk dalam daftar kunjungan..."
-excerpt: "5 menit Halo para pencinta petualangan! Bagi Anda yang berencana menjelajahi keajaiban Jepang, ada satu destinasi yang wajib masuk dalam daftar kunjungan..."
-keywords: "shinjuku nightlife tokyo, menjelajahi shinjuku nightlife tokyo surga hiburan malam di jantung jepang, wisata shinjuku nightlife tokyo, panduan shinjuku nightlife tokyo, tips shinjuku nightlife tokyo, shinjuku, tokyo, jepang, nightlife, wisata kota, travel guide, mengapa shinjuku begitu istimewa di malam hari"
+description: "Keunikan Shinjuku terletak pada keragamannya. Area ini berhasil memadukan kemodernan dengan sentuhan tradisional yang unik, menciptakan suasana yang dinamis..."
+excerpt: "Keunikan Shinjuku terletak pada keragamannya. Area ini berhasil memadukan kemodernan dengan sentuhan tradisional yang unik, menciptakan suasana yang dinamis..."
+keywords: "shinjuku, tokyo, jepang, nightlife, wisata kota, travel guide, wisata shinjuku nightlife tokyo, panduan shinjuku nightlife tokyo, tips shinjuku nightlife tokyo, mengapa shinjuku begitu istimewa di malam hari"
 image: "https://images.pexels.com/photos/439741/pexels-photo-439741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 image_alt: "Menjelajahi Shinjuku Nightlife Tokyo: Surga Hiburan Malam di Jantung Jepang"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/439741/pexels-photo-439741.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menjelajahi Shinjuku Nightlife Tokyo: Surga Hiburan Malam di Jantung Jepang" style="width:100%;height:auto;border-radius:12px;" /></figure>
