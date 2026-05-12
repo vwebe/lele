@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Hollywood Boulevard Los Angeles: Jejak Bintang Dunia yang Wajib Kamu Jelajahi!"
-date: 2026-05-11 20:27:03 +0700
-categories: ["hollywood-boulevard"]
-tags: ["hollywood-boulevard", "los-angeles", "amerika", "wisata-hiburan", "travel-guide", "destinasi-internasional", "wisata-budaya"]
-image: "https://images.pexels.com/photos/8783857/pexels-photo-8783857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Hollywood Boulevard Los Angeles: Jejak Bintang Dunia yang Wajib Kamu Jelajahi!"
-description: "Halo, para pencinta petualangan dan mimpi! Siapa di antara kalian yang gemar menonton film Hollywood? Pasti banyak, kan? Nah, jika berwisata ke luar negeri..."
-excerpt: "Halo, para pencinta petualangan dan mimpi! Siapa di antara kalian yang gemar menonton film Hollywood? Pasti banyak, kan? Nah, jika berwisata ke luar negeri..."
-keywords: "hollywood boulevard los angeles jejak bintang dunia yang wajib kamu jelajahi, hollywood boulevard los angeles, hollywood boulevard, los angeles, amerika, wisata hiburan, travel guide, destinasi internasional, wisata budaya, wisata hollywood boulevard los, panduan hollywood boulevard los, tips hollywood boulevard los"
-image_alt: "Hollywood Boulevard Los Angeles: Jejak Bintang Dunia yang Wajib Kamu Jelajahi!"
+keyword: "hollywood boulevard los angeles"
+date: 2026-05-11 20:27:03 +0700
+last_modified_at: 2026-05-12 17:50:56 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["hollywood-boulevard"]
+tags: ["hollywood-boulevard", "los-angeles", "amerika", "wisata-hiburan", "travel-guide", "destinasi-internasional", "wisata-budaya"]
+description: "Hollywood Boulevard adalah jantung dari industri perfilman dunia. Sejak awal abad ke-20, tempat ini telah menjadi saksi bisu lahirnya para bintang,..."
+excerpt: "Hollywood Boulevard adalah jantung dari industri perfilman dunia. Sejak awal abad ke-20, tempat ini telah menjadi saksi bisu lahirnya para bintang,..."
+keywords: "hollywood boulevard, los angeles, amerika, wisata hiburan, travel guide, destinasi internasional, wisata budaya, wisata hollywood boulevard, panduan hollywood boulevard, tips hollywood boulevard, mengapa hollywood boulevard begitu istimewa"
+image: "https://images.pexels.com/photos/8783857/pexels-photo-8783857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Hollywood Boulevard Los Angeles: Jejak Bintang Dunia yang Wajib Kamu Jelajahi!"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/8783857/pexels-photo-8783857.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Hollywood Boulevard Los Angeles: Jejak Bintang Dunia yang Wajib Kamu Jelajahi!" style="width:100%;height:auto;border-radius:12px;" /></figure>
