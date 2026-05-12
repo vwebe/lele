@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Trip ke Korea Selatan untuk Pemula"
-date: 2026-04-01 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/trip-ke-korea-selatan-untuk-pemula.jpg"
 seo_title: "Trip ke Korea Selatan untuk Pemula"
-description: "# Trip ke Korea Selatan untuk Pemula: Panduan Lengkap Biar Nggak Nyasar Siapa sih yang nggak tergiur sama Korea Selatan? Mulai dari K-Drama yang bikin..."
-excerpt: "# Trip ke Korea Selatan untuk Pemula: Panduan Lengkap Biar Nggak Nyasar Siapa sih yang nggak tergiur sama Korea Selatan? Mulai dari K-Drama yang bikin..."
-keywords: "trip ke korea selatan untuk pemula, trip korea selatan pemula, travel, wisata trip korea selatan, panduan trip korea selatan, tips trip korea selatan"
-image_alt: "Trip ke Korea Selatan untuk Pemula"
+keyword: "trip ke korea selatan untuk pemula"
+date: 2026-04-01 12:30:00 +0700
+last_modified_at: 2026-05-12 17:34:23 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@thejourneyofframes)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@thejourneyofframes)"
+keywords: "travel, trip, korea, selatan, pemula, wisata trip korea selatan, panduan trip korea selatan, tips trip korea selatan"
+image: "/assets/images/auto/trip-ke-korea-selatan-untuk-pemula.jpg"
+image_alt: "Trip ke Korea Selatan untuk Pemula"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-korea-selatan-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Korea Selatan untuk Pemula" loading="lazy" decoding="async">
@@ -124,4 +129,3 @@ Menjelajahi Korea Selatan untuk pertama kali memang bisa terasa sedikit menakutk
 ---
 
 Perjalanan Anda belum berakhir [di sini. Temukan](https://dgxximovie.com/) juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
