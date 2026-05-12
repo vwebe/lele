@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Wisata Alam di Sumatera yang Wajib Dikunjungi"
-date: 2026-03-31 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/wisata-alam-di-sumatera-yang-wajib-dikunjungi.jpg"
 seo_title: "Wisata Alam di Sumatera yang Wajib Dikunjungi"
-description: "# Menjelajahi Keajaiban Alam Sumatera: [Destinasi](https://aestethiclele.blogspot.com/2026/03/wisata-alam-di-banyuwangi-yang-hits.html) yang Tak Boleh..."
-excerpt: "# Menjelajahi Keajaiban Alam Sumatera: [Destinasi](https://aestethiclele.blogspot.com/2026/03/wisata-alam-di-banyuwangi-yang-hits.html) yang Tak Boleh..."
-keywords: "wisata alam di sumatera yang wajib dikunjungi, wisata alam sumatera wajib, travel, wisata wisata alam sumatera, panduan wisata alam sumatera, tips wisata alam sumatera"
-image_alt: "Wisata Alam di Sumatera yang Wajib Dikunjungi"
+keyword: "wisata alam di sumatera yang wajib dikunjungi"
+date: 2026-03-31 20:30:00 +0700
+last_modified_at: 2026-05-12 17:33:51 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@nur-ihsan-2156507094)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@nur-ihsan-2156507094)"
+keywords: "travel, alam, sumatera, wisata alam sumatera, panduan alam sumatera, tips alam sumatera"
+image: "/assets/images/auto/wisata-alam-di-sumatera-yang-wajib-dikunjungi.jpg"
+image_alt: "Wisata Alam di Sumatera yang Wajib Dikunjungi"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/wisata-alam-di-sumatera-yang-wajib-dikunjungi.jpg" | relative_url }}" alt="Wisata Alam di Sumatera yang Wajib Dikunjungi" loading="lazy" decoding="async">
@@ -96,4 +101,3 @@ Sumatera adalah pulau yang luar biasa kaya akan keindahan alam. Dari danau vulka
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan [hiburan menarik lainnya](https://dgxximovie.com/) untuk mengisi waktu santai Anda.
-
