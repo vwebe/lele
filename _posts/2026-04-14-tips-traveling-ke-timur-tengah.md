@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Traveling ke Timur Tengah"
-date: 2026-04-14 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-traveling-ke-timur-tengah.jpg"
 seo_title: "Tips Traveling ke Timur Tengah"
-description: "# Tips Traveling ke Timur Tengah: Persiapan, Budaya, dan Jalan‑Jalan Menyusuri pasar rempah di Marrakech, menatap siluet Masjid Al‑Azhar yang megah di..."
-excerpt: "# Tips Traveling ke Timur Tengah: Persiapan, Budaya, dan Jalan‑Jalan Menyusuri pasar rempah di Marrakech, menatap siluet Masjid Al‑Azhar yang megah di..."
-keywords: "tips traveling ke timur tengah, tips traveling timur tengah, travel, wisata tips traveling timur, panduan tips traveling timur, tips tips traveling timur"
-image_alt: "Tips Traveling ke Timur Tengah"
+keyword: "tips traveling ke timur tengah"
+date: 2026-04-14 20:30:00 +0700
+last_modified_at: 2026-05-12 17:37:15 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@loifotos)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@loifotos)"
+keywords: "travel, tips, traveling, timur, tengah, wisata tips traveling timur, panduan tips traveling timur, tips tips traveling timur"
+image: "/assets/images/auto/tips-traveling-ke-timur-tengah.jpg"
+image_alt: "Tips Traveling ke Timur Tengah"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-ke-timur-tengah.jpg" | relative_url }}" alt="Tips Traveling ke Timur Tengah" loading="lazy" decoding="async">
@@ -67,4 +72,3 @@ Berjalan melintasi wilayah Timur Tengah memang menantang, tapi setiap langkah me
 ---
 
 Perjalanan Anda [belum berakhir](https://dgxximovie.com/) di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
