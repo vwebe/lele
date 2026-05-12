@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Trip ke Hungaria untuk Pemula"
-date: 2026-04-14 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/trip-ke-hungaria-untuk-pemula.jpg"
 seo_title: "Trip ke Hungaria untuk Pemula"
-description: "# Trip ke Hungaria untuk Pemula Budapest duluan masuk daftar “must‑visit” di Eropa, tapi banyak yang masih bingung harus mulai dari mana. Saya pertama kali..."
-excerpt: "# Trip ke Hungaria untuk Pemula Budapest duluan masuk daftar “must‑visit” di Eropa, tapi banyak yang masih bingung harus mulai dari mana. Saya pertama kali..."
-keywords: "trip ke hungaria untuk pemula, trip hungaria pemula, travel, wisata trip hungaria pemula, panduan trip hungaria pemula, tips trip hungaria pemula"
-image_alt: "Trip ke Hungaria untuk Pemula"
+keyword: "trip ke hungaria untuk pemula"
+date: 2026-04-14 12:30:00 +0700
+last_modified_at: 2026-05-12 17:37:17 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@valeriiamiller)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@valeriiamiller)"
+keywords: "travel, trip, hungaria, pemula, wisata trip hungaria pemula, panduan trip hungaria pemula, tips trip hungaria pemula"
+image: "/assets/images/auto/trip-ke-hungaria-untuk-pemula.jpg"
+image_alt: "Trip ke Hungaria untuk Pemula"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-hungaria-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Hungaria untuk Pemula" loading="lazy" decoding="async">
@@ -91,4 +96,3 @@ Tidak ada yang lebih memuaskan daripada menapaki jalan berbatu di Castle Hill sa
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik [lainnya untuk mengisi waktu](https://dgxximovie.com/) santai Anda.
-
