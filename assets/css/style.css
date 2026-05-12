@@ -661,6 +661,10 @@ a { color: inherit; text-decoration: none; }
   flex-wrap: wrap;
 }
 .home-page-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
   border: 1px solid rgba(245,168,0,0.45);
   background: rgba(245,168,0,0.08);
   color: var(--gold);
@@ -677,17 +681,19 @@ a { color: inherit; text-decoration: none; }
 .home-page-btn.is-disabled {
   opacity: .38;
   cursor: not-allowed;
+  pointer-events: none;
 }
 .home-page-info {
   color: var(--muted);
   font-size: .92rem;
 }
 
-/* Old generated posts already contain a first body image.
-   The layout uses page.image as the hero, so hide only that duplicated first figure/image. */
-.post-body > figure:first-child,
-.post-body > img:first-child {
-  display: none;
+/* If a post already has page.image rendered as the hero, hide only the duplicated
+   first image generated inside the article body. Covers: <figure>, raw <img>, and <p><img></p>. */
+.post-body.has-page-hero > figure:first-child,
+.post-body.has-page-hero > img:first-child,
+.post-body.has-page-hero > p:first-child:has(> img:only-child) {
+  display: none !important;
 }
 
 .post-body {
@@ -883,22 +889,4 @@ a { color: inherit; text-decoration: none; }
   .post-tags { padding: 0 20px 16px; }
   .post-nav-bar { padding: 14px 20px; }
   .post-grid { grid-template-columns: 1fr; }
-}
-
-/* Hard template fix: pagination uses real Jekyll pages, not client-side hiding. */
-.home-page-btn {
-  text-decoration: none;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-}
-.home-page-btn.is-disabled {
-  pointer-events: none;
-}
-
-/* Safety fallback for old generated posts that duplicated the hero image in body. */
-.post-body > figure:first-child,
-.post-body > p:first-child > img:first-child,
-.post-body > img:first-child {
-  display: none !important;
 }
