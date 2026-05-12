@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Hidden Gem di Bali yang Belum Banyak Turis Tahu"
-date: 2026-03-24 14:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/hidden-gem-di-bali-yang-belum-banyak-turis-tahu.jpg"
 seo_title: "Hidden Gem di Bali yang Belum Banyak Turis Tahu"
-description: "# Hidden Gem di Bali yang Belum Banyak Turis Tahu Bali. Mendengar namanya saja sudah terbayang hamparan pantai berpasir putih, sawah hijau terasering yang..."
-excerpt: "# Hidden Gem di Bali yang Belum Banyak Turis Tahu Bali. Mendengar namanya saja sudah terbayang hamparan pantai berpasir putih, sawah hijau terasering yang..."
-keywords: "hidden gem di bali yang belum banyak turis tahu, hidden gem bali belum, travel, wisata hidden gem bali, panduan hidden gem bali, tips hidden gem bali"
-image_alt: "Hidden Gem di Bali yang Belum Banyak Turis Tahu"
+keyword: "hidden gem di bali yang belum banyak turis tahu"
+date: 2026-03-24 14:30:00 +0700
+last_modified_at: 2026-05-12 17:32:07 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@darren-lawrence-848896)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@darren-lawrence-848896)"
+keywords: "travel, hidden, gem, bali, belum, banyak, turis, tahu, wisata hidden gem bali, panduan hidden gem bali, tips hidden gem bali"
+image: "/assets/images/auto/hidden-gem-di-bali-yang-belum-banyak-turis-tahu.jpg"
+image_alt: "Hidden Gem di Bali yang Belum Banyak Turis Tahu"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/hidden-gem-di-bali-yang-belum-banyak-turis-tahu.jpg" | relative_url }}" alt="Hidden Gem di Bali yang Belum Banyak Turis Tahu" loading="lazy" decoding="async">
@@ -94,4 +99,3 @@ Menemukan *hidden gem* di Bali memang membutuhkan sedikit usaha lebih, tapi hasi
 ---
 
 Masih belum puas dengan satu destinasi? Temukan [juga berbagai rekomendasi perjalanan](https://aestethiclele.blogspot.com/) seru lainnya di sini.
-
