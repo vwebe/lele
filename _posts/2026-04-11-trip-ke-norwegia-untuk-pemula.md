@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Trip ke Norwegia untuk Pemula"
-date: 2026-04-11 20:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/trip-ke-norwegia-untuk-pemula.jpg"
 seo_title: "Trip ke Norwegia untuk Pemula"
-description: "# Trip ke Norwegia untuk Pemula Kamu baru saja menandai tiket ke Oslo di kalender, dan pikiran langsung melayang ke pegunungan bersalju, laut yang berkilau..."
-excerpt: "# Trip ke Norwegia untuk Pemula Kamu baru saja menandai tiket ke Oslo di kalender, dan pikiran langsung melayang ke pegunungan bersalju, laut yang berkilau..."
-keywords: "trip ke norwegia untuk pemula, trip norwegia pemula, travel, wisata trip norwegia pemula, panduan trip norwegia pemula, tips trip norwegia pemula"
-image_alt: "Trip ke Norwegia untuk Pemula"
+keyword: "trip ke norwegia untuk pemula"
+date: 2026-04-11 20:30:00 +0700
+last_modified_at: 2026-05-12 17:36:52 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@marek-piwnicki-3907296)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@marek-piwnicki-3907296)"
+keywords: "travel, trip, norwegia, pemula, wisata trip norwegia pemula, panduan trip norwegia pemula, tips trip norwegia pemula"
+image: "/assets/images/auto/trip-ke-norwegia-untuk-pemula.jpg"
+image_alt: "Trip ke Norwegia untuk Pemula"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-norwegia-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Norwegia untuk Pemula" loading="lazy" decoding="async">
@@ -109,4 +114,3 @@ Berangkat ke Norwegia sebagai pemula memang terasa menantang—iklim yang beruba
 ---
 
 Perjalanan Anda belum [berakhir di sini. Temukan](https://dgxximovie.com/) juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
