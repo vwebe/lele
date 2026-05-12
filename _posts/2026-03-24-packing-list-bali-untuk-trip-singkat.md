@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Packing List Bali untuk Trip Singkat yang Tetap Praktis"
-date: 2026-03-24 12:50:00 +0700
-categories: [travel]
-image: "/assets/images/auto/packing-list-bali-untuk-trip-singkat.jpg"
 seo_title: "Packing List Bali untuk Trip Singkat yang Tetap Praktis"
-description: "# Packing List Bali untuk Trip Singkat yang Tetap Praktis Bali. Mendengar namanya saja sudah terbayang pantai berpasir putih, ombak yang mengundang untuk..."
-excerpt: "# Packing List Bali untuk Trip Singkat yang Tetap Praktis Bali. Mendengar namanya saja sudah terbayang pantai berpasir putih, ombak yang mengundang untuk..."
-keywords: "packing list bali untuk trip singkat yang tetap praktis, packing list bali trip, travel, wisata packing list bali, panduan packing list bali, tips packing list bali"
-image_alt: "Packing List Bali untuk Trip Singkat yang Tetap Praktis"
+keyword: "packing list bali untuk trip singkat"
+date: 2026-03-24 12:50:00 +0700
+last_modified_at: 2026-05-12 17:32:10 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@kindelmedia)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@kindelmedia)"
+keywords: "travel, packing, list, bali, trip, singkat, wisata packing list bali, panduan packing list bali, tips packing list bali"
+image: "/assets/images/auto/packing-list-bali-untuk-trip-singkat.jpg"
+image_alt: "Packing List Bali untuk Trip Singkat yang Tetap Praktis"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/packing-list-bali-untuk-trip-singkat.jpg" | relative_url }}" alt="Packing List Bali untuk Trip Singkat yang Tetap Praktis" loading="lazy" decoding="async">
@@ -120,4 +125,3 @@ Bali itu menawarkan begitu banyak hal, mulai dari keindahan alam, budaya yang ke
 ---
 
 Masih belum puas dengan satu destinasi? Temukan juga berbagai rekomendasi perjalanan seru [lainnya di](https://aestethiclele.blogspot.com/) sini.
-
