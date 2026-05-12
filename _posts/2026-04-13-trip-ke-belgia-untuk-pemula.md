@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Trip ke Belgia untuk Pemula"
-date: 2026-04-13 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/trip-ke-belgia-untuk-pemula.jpg"
 seo_title: "Trip ke Belgia untuk Pemula"
-description: "## Menginjakkan Kaki di Tanah Cokelat dan Bir Sebelum kamu menghela napas lega di atas kursi pesawat kembali, rasa penasaran sudah mulai menari-nari..."
-excerpt: "## Menginjakkan Kaki di Tanah Cokelat dan Bir Sebelum kamu menghela napas lega di atas kursi pesawat kembali, rasa penasaran sudah mulai menari-nari..."
-keywords: "trip ke belgia untuk pemula, trip belgia pemula, travel, wisata trip belgia pemula, panduan trip belgia pemula, tips trip belgia pemula"
-image_alt: "Trip ke Belgia untuk Pemula"
+keyword: "trip ke belgia untuk pemula"
+date: 2026-04-13 07:00:00 +0700
+last_modified_at: 2026-05-12 17:37:07 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@ivan-drazic-20457695)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@ivan-drazic-20457695)"
+keywords: "travel, trip, belgia, pemula, wisata trip belgia pemula, panduan trip belgia pemula, tips trip belgia pemula"
+image: "/assets/images/auto/trip-ke-belgia-untuk-pemula.jpg"
+image_alt: "Trip ke Belgia untuk Pemula"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-belgia-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Belgia untuk Pemula" loading="lazy" decoding="async">
@@ -134,4 +139,3 @@ Jika kamu masih ragu, ingat satu hal: tidak ada perjalanan yang sempurna tanpa s
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata [dan hiburan menarik](https://dgxximovie.com/) lainnya untuk mengisi waktu santai Anda.
-
