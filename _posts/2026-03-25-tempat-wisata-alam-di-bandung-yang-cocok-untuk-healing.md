@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata Alam di Bandung yang Cocok untuk Healing"
-date: 2026-03-25 16:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-alam-di-bandung-yang-cocok-untuk-healing.jpg"
 seo_title: "Tempat Wisata Alam di Bandung yang Cocok untuk Healing"
-description: "# Tempat [Wisata](https://bit.ly/m/onepieceseason2gratis) Alam di Bandung yang Cocok untuk Healing Udara sejuk Bandung memang selalu punya daya tarik..."
-excerpt: "# Tempat [Wisata](https://bit.ly/m/onepieceseason2gratis) Alam di Bandung yang Cocok untuk Healing Udara sejuk Bandung memang selalu punya daya tarik..."
-keywords: "tempat wisata alam di bandung yang cocok untuk healing, tempat wisata alam bandung, travel, wisata tempat wisata alam, panduan tempat wisata alam, tips tempat wisata alam"
-image_alt: "Tempat Wisata Alam di Bandung yang Cocok untuk Healing"
+keyword: "tempat wisata alam di bandung yang cocok untuk healing"
+date: 2026-03-25 16:30:00 +0700
+last_modified_at: 2026-05-12 17:32:29 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@visualsofarudophoto)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@visualsofarudophoto)"
+keywords: "travel, tempat, alam, bandung, cocok, healing, wisata tempat alam bandung, panduan tempat alam bandung, tips tempat alam bandung"
+image: "/assets/images/auto/tempat-wisata-alam-di-bandung-yang-cocok-untuk-healing.jpg"
+image_alt: "Tempat Wisata Alam di Bandung yang Cocok untuk Healing"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-alam-di-bandung-yang-cocok-untuk-healing.jpg" | relative_url }}" alt="Tempat Wisata Alam di Bandung yang Cocok untuk Healing" loading="lazy" decoding="async">
@@ -114,4 +119,3 @@ Bandung memang punya banyak sekali permata tersembunyi, terutama yang berkaitan 
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga berbagai inspirasi wisata [dan hiburan menarik](https://dgxximovie.com/) lainnya untuk mengisi waktu santai Anda.
-
