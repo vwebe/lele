@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Le Marais Paris: Jelajahi Permata Tersembunyi di Jantung Kota Tua Paris"
-date: 2026-05-12 07:03:15 +0700
-categories: ["le-marais"]
-tags: ["le-marais", "paris", "prancis", "kota-tua", "hidden-gem", "wisata-eropa", "travel-guide"]
-image: "https://images.pexels.com/photos/9989917/pexels-photo-9989917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Le Marais Paris: Jelajahi Permata Tersembunyi di Jantung Kota Tua Paris"
-description: "Halo para pencinta jalan-jalan! Siapa yang tidak terpukau dengan pesona Paris? Kota Cahaya ini selalu punya cara untuk memikat hati, mulai dari Menara..."
-excerpt: "Halo para pencinta jalan-jalan! Siapa yang tidak terpukau dengan pesona Paris? Kota Cahaya ini selalu punya cara untuk memikat hati, mulai dari Menara..."
-keywords: "le marais paris jelajahi permata tersembunyi di jantung kota tua paris, marais paris jelajahi permata, le marais, paris, prancis, kota tua, hidden gem, wisata eropa, travel guide, wisata marais paris jelajahi, panduan marais paris jelajahi, tips marais paris jelajahi"
-image_alt: "Le Marais Paris: Jelajahi Permata Tersembunyi di Jantung Kota Tua Paris"
+keyword: "le marais paris"
+date: 2026-05-12 07:03:15 +0700
+last_modified_at: 2026-05-12 17:51:22 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["le-marais"]
+tags: ["le-marais", "paris", "prancis", "kota-tua", "hidden-gem", "wisata-eropa", "travel-guide"]
+description: "Le Marais, yang secara harfiah berarti 'rawa', dulunya memang merupakan daerah berlahan basah di tepi Sungai Seine. Namun, seiring berjalannya waktu, area..."
+excerpt: "Le Marais, yang secara harfiah berarti 'rawa', dulunya memang merupakan daerah berlahan basah di tepi Sungai Seine. Namun, seiring berjalannya waktu, area..."
+keywords: "le marais, paris, prancis, kota tua, hidden gem, wisata eropa, travel guide, wisata le marais, panduan le marais, tips le marais, mengapa le marais paris begitu istimewa"
+image: "https://images.pexels.com/photos/9989917/pexels-photo-9989917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Le Marais Paris: Jelajahi Permata Tersembunyi di Jantung Kota Tua Paris"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/9989917/pexels-photo-9989917.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Le Marais Paris: Jelajahi Permata Tersembunyi di Jantung Kota Tua Paris" style="width:100%;height:auto;border-radius:12px;" /></figure>
