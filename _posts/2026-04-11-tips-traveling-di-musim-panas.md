@@ -4,6 +4,13 @@ title: "Tips Traveling di Musim Panas"
 date: 2026-04-11 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-traveling-di-musim-panas.jpg"
+seo_title: "Tips Traveling di Musim Panas"
+description: "## Menyambut Panas dengan Persiapan Cerdas Musim panas di Indonesia memang selalu mengundang rasa rindu pada pantai berpasir putih, puncak gunung yang..."
+excerpt: "## Menyambut Panas dengan Persiapan Cerdas Musim panas di Indonesia memang selalu mengundang rasa rindu pada pantai berpasir putih, puncak gunung yang..."
+keywords: "tips traveling di musim panas, tips traveling musim panas, travel, wisata tips traveling musim, panduan tips traveling musim, tips tips traveling musim"
+image_alt: "Tips Traveling di Musim Panas"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-di-musim-panas.jpg" | relative_url }}" alt="Tips Traveling di Musim Panas" loading="lazy" decoding="async">

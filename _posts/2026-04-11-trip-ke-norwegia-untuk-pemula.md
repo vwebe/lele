@@ -4,6 +4,13 @@ title: "Trip ke Norwegia untuk Pemula"
 date: 2026-04-11 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-ke-norwegia-untuk-pemula.jpg"
+seo_title: "Trip ke Norwegia untuk Pemula"
+description: "# Trip ke Norwegia untuk Pemula Kamu baru saja menandai tiket ke Oslo di kalender, dan pikiran langsung melayang ke pegunungan bersalju, laut yang berkilau..."
+excerpt: "# Trip ke Norwegia untuk Pemula Kamu baru saja menandai tiket ke Oslo di kalender, dan pikiran langsung melayang ke pegunungan bersalju, laut yang berkilau..."
+keywords: "trip ke norwegia untuk pemula, trip norwegia pemula, travel, wisata trip norwegia pemula, panduan trip norwegia pemula, tips trip norwegia pemula"
+image_alt: "Trip ke Norwegia untuk Pemula"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-norwegia-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Norwegia untuk Pemula" loading="lazy" decoding="async">

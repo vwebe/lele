@@ -4,6 +4,13 @@ title: "Tips Traveling di Musim Gugur"
 date: 2026-04-13 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-traveling-di-musim-gugur.jpg"
+seo_title: "Tips Traveling di Musim Gugur"
+description: "# Tips Traveling di Musim Gugur Udara mulai menurunkan suhu, dedaunan bertransformasi menjadi kanvas kuning, oranye, dan merah. Musim gugur memang memberi..."
+excerpt: "# Tips Traveling di Musim Gugur Udara mulai menurunkan suhu, dedaunan bertransformasi menjadi kanvas kuning, oranye, dan merah. Musim gugur memang memberi..."
+keywords: "tips traveling di musim gugur, tips traveling musim gugur, travel, wisata tips traveling musim, panduan tips traveling musim, tips tips traveling musim"
+image_alt: "Tips Traveling di Musim Gugur"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-di-musim-gugur.jpg" | relative_url }}" alt="Tips Traveling di Musim Gugur" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Destinasi Wisata di Slovakia"
 date: 2026-04-14 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-di-slovakia.jpg"
+seo_title: "Destinasi Wisata di Slovakia"
+description: "## Menyelam ke Pesona Slovakia: Dari Kastil Bersejarah hingga Puncak Bersalju Langkah pertama saya menjejakkan kaki di Bratislava terasa seperti membuka..."
+excerpt: "## Menyelam ke Pesona Slovakia: Dari Kastil Bersejarah hingga Puncak Bersalju Langkah pertama saya menjejakkan kaki di Bratislava terasa seperti membuka..."
+keywords: "destinasi wisata di slovakia, destinasi wisata slovakia, travel, wisata destinasi wisata slovakia, panduan destinasi wisata slovakia, tips destinasi wisata slovakia"
+image_alt: "Destinasi Wisata di Slovakia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-slovakia.jpg" | relative_url }}" alt="Destinasi Wisata di Slovakia" loading="lazy" decoding="async">

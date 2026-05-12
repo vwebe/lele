@@ -4,6 +4,13 @@ title: "Panduan Liburan ke Belanda"
 date: 2026-04-12 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-belanda.jpg"
+seo_title: "Panduan Liburan ke Belanda"
+description: "# Panduan [Liburan](#REF!) ke Belanda: Dari Persiapan Sampai Menikmati Kincir Angin Belanda tak sekadar kanal dan sepeda; ada rasa kehangatan yang terasa di..."
+excerpt: "# Panduan [Liburan](#REF!) ke Belanda: Dari Persiapan Sampai Menikmati Kincir Angin Belanda tak sekadar kanal dan sepeda; ada rasa kehangatan yang terasa di..."
+keywords: "panduan liburan ke belanda, panduan liburan belanda, travel, wisata panduan liburan belanda, panduan panduan liburan belanda, tips panduan liburan belanda"
+image_alt: "Panduan Liburan ke Belanda"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-belanda.jpg" | relative_url }}" alt="Panduan Liburan ke Belanda" loading="lazy" decoding="async">

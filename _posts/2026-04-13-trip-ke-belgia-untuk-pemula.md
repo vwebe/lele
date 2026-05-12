@@ -4,6 +4,13 @@ title: "Trip ke Belgia untuk Pemula"
 date: 2026-04-13 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-ke-belgia-untuk-pemula.jpg"
+seo_title: "Trip ke Belgia untuk Pemula"
+description: "## Menginjakkan Kaki di Tanah Cokelat dan Bir Sebelum kamu menghela napas lega di atas kursi pesawat kembali, rasa penasaran sudah mulai menari-nari..."
+excerpt: "## Menginjakkan Kaki di Tanah Cokelat dan Bir Sebelum kamu menghela napas lega di atas kursi pesawat kembali, rasa penasaran sudah mulai menari-nari..."
+keywords: "trip ke belgia untuk pemula, trip belgia pemula, travel, wisata trip belgia pemula, panduan trip belgia pemula, tips trip belgia pemula"
+image_alt: "Trip ke Belgia untuk Pemula"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-belgia-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Belgia untuk Pemula" loading="lazy" decoding="async">

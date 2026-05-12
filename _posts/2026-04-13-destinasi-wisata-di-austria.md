@@ -4,6 +4,13 @@ title: "Destinasi Wisata di Austria"
 date: 2026-04-13 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-di-austria.jpg"
+seo_title: "Destinasi Wisata di Austria"
+description: "**Vienna, Salzburg, Hallstatt…** Nama‑nama itu tak sekadar tertera di peta, melainkan rangkaian kisah yang menunggu untuk dijelajahi. Ketika saya melangkah..."
+excerpt: "**Vienna, Salzburg, Hallstatt…** Nama‑nama itu tak sekadar tertera di peta, melainkan rangkaian kisah yang menunggu untuk dijelajahi. Ketika saya melangkah..."
+keywords: "destinasi wisata di austria, destinasi wisata austria, travel, wisata destinasi wisata austria, panduan destinasi wisata austria, tips destinasi wisata austria"
+image_alt: "Destinasi Wisata di Austria"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-austria.jpg" | relative_url }}" alt="Destinasi Wisata di Austria" loading="lazy" decoding="async">

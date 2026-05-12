@@ -4,6 +4,13 @@ title: "Tips Traveling di Musim Semi"
 date: 2026-04-12 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-traveling-di-musim-semi.jpg"
+seo_title: "Tips Traveling di Musim Semi"
+description: "## Menyambut Musim Semi: Kenapa Ini Waktu yang Pas untuk Jalan‑Jalan Udara mulai menghangat, bunga-bunga mekar di setiap sudut jalan, dan keramaian..."
+excerpt: "## Menyambut Musim Semi: Kenapa Ini Waktu yang Pas untuk Jalan‑Jalan Udara mulai menghangat, bunga-bunga mekar di setiap sudut jalan, dan keramaian..."
+keywords: "tips traveling di musim semi, tips traveling musim semi, travel, wisata tips traveling musim, panduan tips traveling musim, tips tips traveling musim"
+image_alt: "Tips Traveling di Musim Semi"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-di-musim-semi.jpg" | relative_url }}" alt="Tips Traveling di Musim Semi" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Trip ke Arab Saudi untuk Pemula"
 date: 2026-04-15 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-ke-arab-saudi-untuk-pemula.jpg"
+seo_title: "Trip ke Arab Saudi untuk Pemula"
+description: "# Trip ke Arab Saudi untuk Pemula Riyadh, Jeddah, dan Mekkah memang terdengar seperti tiga titik di peta yang terpisah jauh, namun bagi banyak orang..."
+excerpt: "# Trip ke Arab Saudi untuk Pemula Riyadh, Jeddah, dan Mekkah memang terdengar seperti tiga titik di peta yang terpisah jauh, namun bagi banyak orang..."
+keywords: "trip ke arab saudi untuk pemula, trip arab saudi pemula, travel, wisata trip arab saudi, panduan trip arab saudi, tips trip arab saudi"
+image_alt: "Trip ke Arab Saudi untuk Pemula"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-arab-saudi-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Arab Saudi untuk Pemula" loading="lazy" decoding="async">

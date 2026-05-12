@@ -4,6 +4,13 @@ title: "Tips Traveling ke Timur Tengah"
 date: 2026-04-14 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-traveling-ke-timur-tengah.jpg"
+seo_title: "Tips Traveling ke Timur Tengah"
+description: "# Tips Traveling ke Timur Tengah: Persiapan, Budaya, dan Jalan‑Jalan Menyusuri pasar rempah di Marrakech, menatap siluet Masjid Al‑Azhar yang megah di..."
+excerpt: "# Tips Traveling ke Timur Tengah: Persiapan, Budaya, dan Jalan‑Jalan Menyusuri pasar rempah di Marrakech, menatap siluet Masjid Al‑Azhar yang megah di..."
+keywords: "tips traveling ke timur tengah, tips traveling timur tengah, travel, wisata tips traveling timur, panduan tips traveling timur, tips tips traveling timur"
+image_alt: "Tips Traveling ke Timur Tengah"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-ke-timur-tengah.jpg" | relative_url }}" alt="Tips Traveling ke Timur Tengah" loading="lazy" decoding="async">

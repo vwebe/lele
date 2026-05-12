@@ -4,6 +4,13 @@ title: "Trip ke Hungaria untuk Pemula"
 date: 2026-04-14 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-ke-hungaria-untuk-pemula.jpg"
+seo_title: "Trip ke Hungaria untuk Pemula"
+description: "# Trip ke Hungaria untuk Pemula Budapest duluan masuk daftar “must‑visit” di Eropa, tapi banyak yang masih bingung harus mulai dari mana. Saya pertama kali..."
+excerpt: "# Trip ke Hungaria untuk Pemula Budapest duluan masuk daftar “must‑visit” di Eropa, tapi banyak yang masih bingung harus mulai dari mana. Saya pertama kali..."
+keywords: "trip ke hungaria untuk pemula, trip hungaria pemula, travel, wisata trip hungaria pemula, panduan trip hungaria pemula, tips trip hungaria pemula"
+image_alt: "Trip ke Hungaria untuk Pemula"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-hungaria-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Hungaria untuk Pemula" loading="lazy" decoding="async">

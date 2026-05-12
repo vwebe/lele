@@ -4,6 +4,13 @@ title: "Tempat Wisata di Portugal"
 date: 2026-04-11 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-di-portugal.jpg"
+seo_title: "Tempat Wisata di Portugal"
+description: "## Lisbon: Kota Tua yang Menyatu dengan Modernitas Langkah pertama di Lisbon selalu terasa seperti melangkah ke dalam film berwarna pastel. Jalan berbatu di..."
+excerpt: "## Lisbon: Kota Tua yang Menyatu dengan Modernitas Langkah pertama di Lisbon selalu terasa seperti melangkah ke dalam film berwarna pastel. Jalan berbatu di..."
+keywords: "tempat wisata di portugal, tempat wisata portugal, travel, wisata tempat wisata portugal, panduan tempat wisata portugal, tips tempat wisata portugal"
+image_alt: "Tempat Wisata di Portugal"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-portugal.jpg" | relative_url }}" alt="Tempat Wisata di Portugal" loading="lazy" decoding="async">

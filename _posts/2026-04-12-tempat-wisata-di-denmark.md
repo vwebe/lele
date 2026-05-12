@@ -4,6 +4,13 @@ title: "Tempat Wisata di Denmark"
 date: 2026-04-12 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-di-denmark.jpg"
+seo_title: "Tempat Wisata di Denmark"
+description: "## Menyusuri Jejak‑Jejak Denmark yang Tak Terduga Udara sejuk menempel di kulit ketika aku melangkah keluar dari bandara Kopenhagen, dan seketika pandangan..."
+excerpt: "## Menyusuri Jejak‑Jejak Denmark yang Tak Terduga Udara sejuk menempel di kulit ketika aku melangkah keluar dari bandara Kopenhagen, dan seketika pandangan..."
+keywords: "tempat wisata di denmark, tempat wisata denmark, travel, wisata tempat wisata denmark, panduan tempat wisata denmark, tips tempat wisata denmark"
+image_alt: "Tempat Wisata di Denmark"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-denmark.jpg" | relative_url }}" alt="Tempat Wisata di Denmark" loading="lazy" decoding="async">

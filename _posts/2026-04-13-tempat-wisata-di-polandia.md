@@ -4,6 +4,13 @@ title: "Tempat Wisata di Polandia"
 date: 2026-04-13 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-di-polandia.jpg"
+seo_title: "Tempat Wisata di Polandia"
+description: "# [Tempat [Wisata](#REF!)](#REF!) di Polandia yang Wajib Kamu Kunjungi Polandia tak sekadar tanah bersejarah; ia adalah campuran arsitektur klasik..."
+excerpt: "# [Tempat [Wisata](#REF!)](#REF!) di Polandia yang Wajib Kamu Kunjungi Polandia tak sekadar tanah bersejarah; ia adalah campuran arsitektur klasik..."
+keywords: "tempat wisata di polandia, tempat wisata polandia, travel, wisata tempat wisata polandia, panduan tempat wisata polandia, tips tempat wisata polandia"
+image_alt: "Tempat Wisata di Polandia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-polandia.jpg" | relative_url }}" alt="Tempat Wisata di Polandia" loading="lazy" decoding="async">

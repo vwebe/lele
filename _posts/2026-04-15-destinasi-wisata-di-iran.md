@@ -4,6 +4,13 @@ title: "Destinasi Wisata di Iran"
 date: 2026-04-15 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-di-iran.jpg"
+seo_title: "Destinasi Wisata di Iran"
+description: "# Menyelami Keindahan Iran: Dari Kota Bersejarah hingga Gurun Pasir yang Menakjubkan Setibanya di Bandara Imam Khomeini, saya langsung disambut oleh aroma..."
+excerpt: "# Menyelami Keindahan Iran: Dari Kota Bersejarah hingga Gurun Pasir yang Menakjubkan Setibanya di Bandara Imam Khomeini, saya langsung disambut oleh aroma..."
+keywords: "destinasi wisata di iran, destinasi wisata iran, travel, wisata destinasi wisata iran, panduan destinasi wisata iran, tips destinasi wisata iran"
+image_alt: "Destinasi Wisata di Iran"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-iran.jpg" | relative_url }}" alt="Destinasi Wisata di Iran" loading="lazy" decoding="async">

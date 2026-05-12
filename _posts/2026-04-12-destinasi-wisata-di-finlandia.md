@@ -4,6 +4,13 @@ title: "Destinasi Wisata di Finlandia"
 date: 2026-04-12 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-di-finlandia.jpg"
+seo_title: "Destinasi Wisata di Finlandia"
+description: "## Menyusuri Jejak Cahaya di Negeri Seribu Danau Sampai kini, Finlandia masih terasa seperti halaman buku cerita yang belum banyak dibuka oleh wisatawan..."
+excerpt: "## Menyusuri Jejak Cahaya di Negeri Seribu Danau Sampai kini, Finlandia masih terasa seperti halaman buku cerita yang belum banyak dibuka oleh wisatawan..."
+keywords: "destinasi wisata di finlandia, destinasi wisata finlandia, travel, wisata destinasi wisata finlandia, panduan destinasi wisata finlandia, tips destinasi wisata finlandia"
+image_alt: "Destinasi Wisata di Finlandia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-finlandia.jpg" | relative_url }}" alt="Destinasi Wisata di Finlandia" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Panduan Liburan ke Yunani"
 date: 2026-04-11 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-yunani.jpg"
+seo_title: "Panduan Liburan ke Yunani"
+description: "## Menyambut Mediterania dengan Langkah Pertama Setibanya di Bandara Eleftherios Venizelos, Athena, saya langsung disapa oleh aroma kopi kuat dan suara..."
+excerpt: "## Menyambut Mediterania dengan Langkah Pertama Setibanya di Bandara Eleftherios Venizelos, Athena, saya langsung disapa oleh aroma kopi kuat dan suara..."
+keywords: "panduan liburan ke yunani, panduan liburan yunani, travel, wisata panduan liburan yunani, panduan panduan liburan yunani, tips panduan liburan yunani"
+image_alt: "Panduan Liburan ke Yunani"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-yunani.jpg" | relative_url }}" alt="Panduan Liburan ke Yunani" loading="lazy" decoding="async">

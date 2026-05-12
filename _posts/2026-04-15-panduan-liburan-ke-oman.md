@@ -4,6 +4,13 @@ title: "Panduan Liburan ke Oman"
 date: 2026-04-15 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-oman.jpg"
+seo_title: "Panduan Liburan ke Oman"
+description: "## Menginjak Jejak Pasir Emas di Oman: Dari Muscat Sampai Puncak Jebel Shams Saat matahari terbenam di atas Teluk Oman, langit berubah menjadi kanvas..."
+excerpt: "## Menginjak Jejak Pasir Emas di Oman: Dari Muscat Sampai Puncak Jebel Shams Saat matahari terbenam di atas Teluk Oman, langit berubah menjadi kanvas..."
+keywords: "panduan liburan ke oman, panduan liburan oman, travel, wisata panduan liburan oman, panduan panduan liburan oman, tips panduan liburan oman"
+image_alt: "Panduan Liburan ke Oman"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-oman.jpg" | relative_url }}" alt="Panduan Liburan ke Oman" loading="lazy" decoding="async">

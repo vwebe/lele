@@ -4,6 +4,13 @@ title: "Panduan Liburan ke Ceko"
 date: 2026-04-14 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-ceko.jpg"
+seo_title: "Panduan Liburan ke Ceko"
+description: "# Panduan [Liburan](#REF!) ke Ceko Setiap kali aku menelusuri peta Eropa, jejak hijau tua yang menandai Ceko selalu mengundang rasa penasaran. Bukan sekadar..."
+excerpt: "# Panduan [Liburan](#REF!) ke Ceko Setiap kali aku menelusuri peta Eropa, jejak hijau tua yang menandai Ceko selalu mengundang rasa penasaran. Bukan sekadar..."
+keywords: "panduan liburan ke ceko, panduan liburan ceko, travel, wisata panduan liburan ceko, panduan panduan liburan ceko, tips panduan liburan ceko"
+image_alt: "Panduan Liburan ke Ceko"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-ceko.jpg" | relative_url }}" alt="Panduan Liburan ke Ceko" loading="lazy" decoding="async">
