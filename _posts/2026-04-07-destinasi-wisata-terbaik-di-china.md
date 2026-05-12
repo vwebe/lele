@@ -4,6 +4,13 @@ title: "Destinasi Wisata Terbaik di China"
 date: 2026-04-07 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-terbaik-di-china.jpg"
+seo_title: "Destinasi Wisata Terbaik di China"
+description: "## Menyusuri Jejak Keajaiban di Negeri Naga Pagi di Beijing, kabut tipis menyelimuti alun-alun Tiananmen sebelum matahari mengintip dari balik pagoda kuno..."
+excerpt: "## Menyusuri Jejak Keajaiban di Negeri Naga Pagi di Beijing, kabut tipis menyelimuti alun-alun Tiananmen sebelum matahari mengintip dari balik pagoda kuno..."
+keywords: "destinasi wisata terbaik di china, destinasi wisata terbaik china, travel, wisata destinasi wisata terbaik, panduan destinasi wisata terbaik, tips destinasi wisata terbaik"
+image_alt: "Destinasi Wisata Terbaik di China"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-terbaik-di-china.jpg" | relative_url }}" alt="Destinasi Wisata Terbaik di China" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Trip ke Turki untuk Pemula"
 date: 2026-04-05 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-ke-turki-untuk-pemula.jpg"
+seo_title: "Trip ke Turki untuk Pemula"
+description: "# Trip ke Turki untuk Pemula: Dari Istanbul yang Megah Hingga Cappadocia yang Ajaib Turki. Dengar namanya saja sudah terbayang siluet masjid-masjid megah..."
+excerpt: "# Trip ke Turki untuk Pemula: Dari Istanbul yang Megah Hingga Cappadocia yang Ajaib Turki. Dengar namanya saja sudah terbayang siluet masjid-masjid megah..."
+keywords: "trip ke turki untuk pemula, trip turki pemula, travel, wisata trip turki pemula, panduan trip turki pemula, tips trip turki pemula"
+image_alt: "Trip ke Turki untuk Pemula"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-turki-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Turki untuk Pemula" loading="lazy" decoding="async">

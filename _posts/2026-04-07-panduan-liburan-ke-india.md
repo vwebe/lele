@@ -4,6 +4,13 @@ title: "Panduan Liburan ke India"
 date: 2026-04-07 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-india.jpg"
+seo_title: "Panduan Liburan ke India"
+description: "# Panduan [Liburan](https://lelenime.blogspot.com/2026/04/panduan-lengkap-urutan-nonton-naruto.html) ke India: Dari Visa Sampai Jalan-Jalan di Jalan Pasar..."
+excerpt: "# Panduan [Liburan](https://lelenime.blogspot.com/2026/04/panduan-lengkap-urutan-nonton-naruto.html) ke India: Dari Visa Sampai Jalan-Jalan di Jalan Pasar..."
+keywords: "panduan liburan ke india, panduan liburan india, travel, wisata panduan liburan india, panduan panduan liburan india, tips panduan liburan india"
+image_alt: "Panduan Liburan ke India"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-india.jpg" | relative_url }}" alt="Panduan Liburan ke India" loading="lazy" decoding="async">

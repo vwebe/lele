@@ -4,6 +4,13 @@ title: "Tips Menghindari Scam Saat Traveling"
 date: 2026-04-06 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tips-menghindari-scam-saat-traveling.jpg"
+seo_title: "Tips Menghindari Scam Saat Traveling"
+description: "# Waspada! Jangan Sampai Liburanmu Berakhir Jadi Mimpi Buruk Gara-gara Kena Scam Siapa sih yang nggak suka liburan? Saya juga sama, rasanya pengen banget..."
+excerpt: "# Waspada! Jangan Sampai Liburanmu Berakhir Jadi Mimpi Buruk Gara-gara Kena Scam Siapa sih yang nggak suka liburan? Saya juga sama, rasanya pengen banget..."
+keywords: "tips menghindari scam saat traveling, tips menghindari scam saat, travel, wisata tips menghindari scam, panduan tips menghindari scam, tips tips menghindari scam"
+image_alt: "Tips Menghindari Scam Saat Traveling"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tips-menghindari-scam-saat-traveling.jpg" | relative_url }}" alt="Tips Menghindari Scam Saat Traveling" loading="lazy" decoding="async">

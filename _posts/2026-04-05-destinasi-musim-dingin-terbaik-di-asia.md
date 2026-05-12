@@ -4,6 +4,13 @@ title: "Destinasi Musim Dingin Terbaik di Asia"
 date: 2026-04-05 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-musim-dingin-terbaik-di-asia.jpg"
+seo_title: "Destinasi Musim Dingin Terbaik di Asia"
+description: "# Merasakan Musim Dingin Magis di Asia..."
+excerpt: "# Merasakan Musim Dingin Magis di Asia..."
+keywords: "destinasi musim dingin terbaik di asia, destinasi musim dingin terbaik, travel, wisata destinasi musim dingin, panduan destinasi musim dingin, tips destinasi musim dingin"
+image_alt: "Destinasi Musim Dingin Terbaik di Asia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-musim-dingin-terbaik-di-asia.jpg" | relative_url }}" alt="Destinasi Musim Dingin Terbaik di Asia" loading="lazy" decoding="async">

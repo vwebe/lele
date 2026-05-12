@@ -4,6 +4,13 @@ title: "Destinasi Wisata di Argentina"
 date: 2026-04-09 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-di-argentina.jpg"
+seo_title: "Destinasi Wisata di Argentina"
+description: "# Menyelami Keindahan Argentina: Dari Tango di Buenos Ayres sampai Es di Patagonia Berjalan di trotoar Buenos Ayres sambil menuruti ritme bandoneon yang..."
+excerpt: "# Menyelami Keindahan Argentina: Dari Tango di Buenos Ayres sampai Es di Patagonia Berjalan di trotoar Buenos Ayres sambil menuruti ritme bandoneon yang..."
+keywords: "destinasi wisata di argentina, destinasi wisata argentina, travel, wisata destinasi wisata argentina, panduan destinasi wisata argentina, tips destinasi wisata argentina"
+image_alt: "Destinasi Wisata di Argentina"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-di-argentina.jpg" | relative_url }}" alt="Destinasi Wisata di Argentina" loading="lazy" decoding="async">

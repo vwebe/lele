@@ -4,6 +4,13 @@ title: "Tempat Wisata di Jepang Saat Sakura"
 date: 2026-04-07 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-di-jepang-saat-sakura.jpg"
+seo_title: "Tempat Wisata di Jepang Saat Sakura"
+description: "# [Tempat..."
+excerpt: "# [Tempat..."
+keywords: "tempat wisata di jepang saat sakura, tempat wisata jepang saat, travel, wisata tempat wisata jepang, panduan tempat wisata jepang, tips tempat wisata jepang"
+image_alt: "Tempat Wisata di Jepang Saat Sakura"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-jepang-saat-sakura.jpg" | relative_url }}" alt="Tempat Wisata di Jepang Saat Sakura" loading="lazy" decoding="async">

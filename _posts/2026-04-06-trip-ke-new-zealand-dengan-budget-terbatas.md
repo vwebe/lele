@@ -4,6 +4,13 @@ title: "Trip ke New Zealand dengan Budget Terbatas"
 date: 2026-04-06 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-ke-new-zealand-dengan-budget-terbatas.jpg"
+seo_title: "Trip ke New Zealand dengan Budget Terbatas"
+description: "**New Zealand memang jadi impian banyak orang, tapi anggaran terbatas sering bikin ragu.** Aku pernah menjejakkan kaki di tanah Kiwi dengan budget yang jauh..."
+excerpt: "**New Zealand memang jadi impian banyak orang, tapi anggaran terbatas sering bikin ragu.** Aku pernah menjejakkan kaki di tanah Kiwi dengan budget yang jauh..."
+keywords: "trip ke new zealand dengan budget terbatas, trip new zealand budget, travel, wisata trip new zealand, panduan trip new zealand, tips trip new zealand"
+image_alt: "Trip ke New Zealand dengan Budget Terbatas"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-new-zealand-dengan-budget-terbatas.jpg" | relative_url }}" alt="Trip ke New Zealand dengan Budget Terbatas" loading="lazy" decoding="async">

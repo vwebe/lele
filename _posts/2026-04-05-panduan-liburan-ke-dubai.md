@@ -4,6 +4,13 @@ title: "Panduan Liburan ke Dubai"
 date: 2026-04-05 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-dubai.jpg"
+seo_title: "Panduan Liburan ke Dubai"
+description: "# Dubai: Bukan Cuma Soal Gemerlap, Tapi Juga Pengalaman yang Bikin Ketagihan Jujur saja, sebelum benar-benar menginjakkan kaki di Dubai, bayangan saya..."
+excerpt: "# Dubai: Bukan Cuma Soal Gemerlap, Tapi Juga Pengalaman yang Bikin Ketagihan Jujur saja, sebelum benar-benar menginjakkan kaki di Dubai, bayangan saya..."
+keywords: "panduan liburan ke dubai, panduan liburan dubai, travel, wisata panduan liburan dubai, panduan panduan liburan dubai, tips panduan liburan dubai"
+image_alt: "Panduan Liburan ke Dubai"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-dubai.jpg" | relative_url }}" alt="Panduan Liburan ke Dubai" loading="lazy" decoding="async">

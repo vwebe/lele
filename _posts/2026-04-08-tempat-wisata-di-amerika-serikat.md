@@ -4,6 +4,13 @@ title: "Tempat Wisata di Amerika Serikat"
 date: 2026-04-08 20:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-di-amerika-serikat.jpg"
+seo_title: "Tempat Wisata di Amerika Serikat"
+description: "## Menelusuri Keajaiban Amerika Serikat: Dari Kota Megah hingga Gurun Sunyi Udara sejuk di pagi Seattle, deru ombak di pantai Miami, serta cahaya senja yang..."
+excerpt: "## Menelusuri Keajaiban Amerika Serikat: Dari Kota Megah hingga Gurun Sunyi Udara sejuk di pagi Seattle, deru ombak di pantai Miami, serta cahaya senja yang..."
+keywords: "tempat wisata di amerika serikat, tempat wisata amerika serikat, travel, wisata tempat wisata amerika, panduan tempat wisata amerika, tips tempat wisata amerika"
+image_alt: "Tempat Wisata di Amerika Serikat"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-amerika-serikat.jpg" | relative_url }}" alt="Tempat Wisata di Amerika Serikat" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Tempat Wisata di Bali untuk Honeymoon"
 date: 2026-04-05 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/tempat-wisata-di-bali-untuk-honeymoon.jpg"
+seo_title: "Tempat Wisata di Bali untuk Honeymoon"
+description: "# Bali untuk Dua Jiwa: Destinasi Honeymoon yang Tak Terlupakan Memilih Bali sebagai destinasi bulan madu adalah keputusan yang manis, tapi dengan begitu..."
+excerpt: "# Bali untuk Dua Jiwa: Destinasi Honeymoon yang Tak Terlupakan Memilih Bali sebagai destinasi bulan madu adalah keputusan yang manis, tapi dengan begitu..."
+keywords: "tempat wisata di bali untuk honeymoon, tempat wisata bali honeymoon, travel, wisata tempat wisata bali, panduan tempat wisata bali, tips tempat wisata bali"
+image_alt: "Tempat Wisata di Bali untuk Honeymoon"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-bali-untuk-honeymoon.jpg" | relative_url }}" alt="Tempat Wisata di Bali untuk Honeymoon" loading="lazy" decoding="async">

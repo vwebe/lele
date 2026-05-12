@@ -4,6 +4,13 @@ title: "Trip ke Raja Ampat Budget Minimal"
 date: 2026-04-04 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-ke-raja-ampat-budget-minimal.jpg"
+seo_title: "Trip ke Raja Ampat Budget Minimal"
+description: "# Raja Ampat Sehemat Mungkin: Mitos atau Fakta? Siapa yang tidak kenal Raja Ampat? Surga bawah lautnya Indonesia, impian para penyelam dan penikmat..."
+excerpt: "# Raja Ampat Sehemat Mungkin: Mitos atau Fakta? Siapa yang tidak kenal Raja Ampat? Surga bawah lautnya Indonesia, impian para penyelam dan penikmat..."
+keywords: "trip ke raja ampat budget minimal, trip raja ampat budget, travel, wisata trip raja ampat, panduan trip raja ampat, tips trip raja ampat"
+image_alt: "Trip ke Raja Ampat Budget Minimal"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-raja-ampat-budget-minimal.jpg" | relative_url }}" alt="Trip ke Raja Ampat Budget Minimal" loading="lazy" decoding="async">

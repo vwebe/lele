@@ -4,6 +4,13 @@ title: "Trip ke Nepal untuk Pemula"
 date: 2026-04-08 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/trip-ke-nepal-untuk-pemula.jpg"
+seo_title: "Trip ke Nepal untuk Pemula"
+description: "# Trip ke Nepal untuk Pemula Pernah bermimpi menyusuri jalan setapak yang memotong pegunungan Himalaya, sambil menghirup udara tipis yang masih menyimpan..."
+excerpt: "# Trip ke Nepal untuk Pemula Pernah bermimpi menyusuri jalan setapak yang memotong pegunungan Himalaya, sambil menghirup udara tipis yang masih menyimpan..."
+keywords: "trip ke nepal untuk pemula, trip nepal pemula, travel, wisata trip nepal pemula, panduan trip nepal pemula, tips trip nepal pemula"
+image_alt: "Trip ke Nepal untuk Pemula"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/trip-ke-nepal-untuk-pemula.jpg" | relative_url }}" alt="Trip ke Nepal untuk Pemula" loading="lazy" decoding="async">

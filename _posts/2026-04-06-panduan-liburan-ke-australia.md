@@ -4,6 +4,13 @@ title: "Panduan Liburan ke Australia"
 date: 2026-04-06 16:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-australia.jpg"
+seo_title: "Panduan Liburan ke Australia"
+description: "# Panduan [Liburan](https://vwebe.github.io/lele/2026/04/03/tips-cari-tiket-murah-internasional.html) ke Australia: Dari Persiapan Sampai Jalan‑Jalan..."
+excerpt: "# Panduan [Liburan](https://vwebe.github.io/lele/2026/04/03/tips-cari-tiket-murah-internasional.html) ke Australia: Dari Persiapan Sampai Jalan‑Jalan..."
+keywords: "panduan liburan ke australia, panduan liburan australia, travel, wisata panduan liburan australia, panduan panduan liburan australia, tips panduan liburan australia"
+image_alt: "Panduan Liburan ke Australia"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-australia.jpg" | relative_url }}" alt="Panduan Liburan ke Australia" loading="lazy" decoding="async">

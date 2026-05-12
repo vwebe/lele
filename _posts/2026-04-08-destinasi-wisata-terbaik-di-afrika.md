@@ -4,6 +4,13 @@ title: "Destinasi Wisata Terbaik di Afrika"
 date: 2026-04-08 12:30:00 +0700
 categories: [travel]
 image: "/assets/images/auto/destinasi-wisata-terbaik-di-afrika.jpg"
+seo_title: "Destinasi Wisata Terbaik di Afrika"
+description: "## Safari di Serengeti, Tanzania: Lebih dari Sekadar Lihat Gajah Pagi pertama di Serengeti dimulai dengan kabut tipis yang menari di antara rumput tinggi..."
+excerpt: "## Safari di Serengeti, Tanzania: Lebih dari Sekadar Lihat Gajah Pagi pertama di Serengeti dimulai dengan kabut tipis yang menari di antara rumput tinggi..."
+keywords: "destinasi wisata terbaik di afrika, destinasi wisata terbaik afrika, travel, wisata destinasi wisata terbaik, panduan destinasi wisata terbaik, tips destinasi wisata terbaik"
+image_alt: "Destinasi Wisata Terbaik di Afrika"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/destinasi-wisata-terbaik-di-afrika.jpg" | relative_url }}" alt="Destinasi Wisata Terbaik di Afrika" loading="lazy" decoding="async">

@@ -4,6 +4,13 @@ title: "Panduan Liburan ke Kanada"
 date: 2026-04-09 07:00:00 +0700
 categories: [travel]
 image: "/assets/images/auto/panduan-liburan-ke-kanada.jpg"
+seo_title: "Panduan Liburan ke Kanada"
+description: "# Panduan Liburan ke Kanada Kebanyakan orang menganggap Kanada hanya sekadar “es dan salju”, tapi di sana ada pulau-pulau berwarna-warni, kota-kota..."
+excerpt: "# Panduan Liburan ke Kanada Kebanyakan orang menganggap Kanada hanya sekadar “es dan salju”, tapi di sana ada pulau-pulau berwarna-warni, kota-kota..."
+keywords: "panduan liburan ke kanada, panduan liburan kanada, travel, wisata panduan liburan kanada, panduan panduan liburan kanada, tips panduan liburan kanada"
+image_alt: "Panduan Liburan ke Kanada"
+robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 ---
 
 <img src="{{ "assets/images/auto/panduan-liburan-ke-kanada.jpg" | relative_url }}" alt="Panduan Liburan ke Kanada" loading="lazy" decoding="async">
