@@ -1,17 +1,21 @@
 ---
 layout: post
 title: "Menikmati Keindahan Cheonggyecheon Stream di Seoul: Panduan Lengkap untuk Wisatawan Indonesia"
-date: 2026-05-07 19:22:19 +0700
-categories: ["cheonggyecheon"]
-tags: ["cheonggyecheon", "seoul", "korea-selatan", "wisata-kota", "sungai", "hidden-gem", "travel-guide"]
-image: "https://images.pexels.com/photos/32211612/pexels-photo-32211612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 seo_title: "Menikmati Keindahan Cheonggyecheon Stream di Seoul: Panduan Lengkap untuk Wisatawan Indonesia"
-description: "Seoul, ibu kota Korea Selatan, tak hanya dikenal dengan teknologi canggih dan budaya K‑pop yang mendunia. Di tengah hiruk‑pikuk kota, terdapat sebuah oase..."
-excerpt: "Seoul, ibu kota Korea Selatan, tak hanya dikenal dengan teknologi canggih dan budaya K‑pop yang mendunia. Di tengah hiruk‑pikuk kota, terdapat sebuah oase..."
-keywords: "menikmati keindahan cheonggyecheon stream di seoul panduan lengkap untuk wisatawan indonesia, menikmati keindahan cheonggyecheon stream, cheonggyecheon, seoul, korea selatan, wisata kota, sungai, hidden gem, travel guide, wisata menikmati keindahan cheonggyecheon, panduan menikmati keindahan cheonggyecheon, tips menikmati keindahan cheonggyecheon"
-image_alt: "Menikmati Keindahan Cheonggyecheon Stream di Seoul: Panduan Lengkap untuk Wisatawan Indonesia"
+keyword: "menikmati keindahan cheonggyecheon stream di seoul panduan l"
+date: 2026-05-07 19:22:19 +0700
+last_modified_at: 2026-05-12 17:46:02 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["cheonggyecheon"]
+tags: ["cheonggyecheon", "seoul", "korea-selatan", "wisata-kota", "sungai", "hidden-gem", "travel-guide"]
+description: "Cheonggyecheon dulu merupakan aliran sungai alami yang mengalir di tengah kota sejak abad ke‑14. Pada era modern, sungai ini sempat ditutup oleh jalan raya..."
+excerpt: "Cheonggyecheon dulu merupakan aliran sungai alami yang mengalir di tengah kota sejak abad ke‑14. Pada era modern, sungai ini sempat ditutup oleh jalan raya..."
+keywords: "cheonggyecheon, seoul, korea selatan, wisata kota, sungai, hidden gem, travel guide, menikmati, keindahan, stream, wisata menikmati keindahan cheonggyecheon, panduan menikmati keindahan cheonggyecheon"
+image: "https://images.pexels.com/photos/32211612/pexels-photo-32211612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Menikmati Keindahan Cheonggyecheon Stream di Seoul: Panduan Lengkap untuk Wisatawan Indonesia"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <figure style="margin:0 0 24px 0;"><img src="https://images.pexels.com/photos/32211612/pexels-photo-32211612.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Menikmati Keindahan Cheonggyecheon Stream di Seoul: Panduan Lengkap untuk Wisatawan Indonesia" style="width:100%;height:auto;border-radius:12px;" /></figure>
