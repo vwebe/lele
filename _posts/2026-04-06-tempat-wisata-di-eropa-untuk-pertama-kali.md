@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata di Eropa untuk Pertama Kali"
-date: 2026-04-06 12:30:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-di-eropa-untuk-pertama-kali.jpg"
 seo_title: "Tempat Wisata di Eropa untuk Pertama Kali"
-description: "# Eropa Pertama Kali: Jangan Sampai Salah Pilih [Destinasi](https://leletainment.blogspot.com/2026/03/menjelajahi-batu-caves-malaysia.html)! Mimpi..."
-excerpt: "# Eropa Pertama Kali: Jangan Sampai Salah Pilih [Destinasi](https://leletainment.blogspot.com/2026/03/menjelajahi-batu-caves-malaysia.html)! Mimpi..."
-keywords: "tempat wisata di eropa untuk pertama kali, tempat wisata eropa pertama, travel, wisata tempat wisata eropa, panduan tempat wisata eropa, tips tempat wisata eropa"
-image_alt: "Tempat Wisata di Eropa untuk Pertama Kali"
+keyword: "tempat wisata di eropa untuk pertama kali"
+date: 2026-04-06 12:30:00 +0700
+last_modified_at: 2026-05-12 17:35:27 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@rain-photography-384729126)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@rain-photography-384729126)"
+keywords: "travel, tempat, eropa, pertama, kali, wisata tempat eropa pertama, panduan tempat eropa pertama, tips tempat eropa pertama"
+image: "/assets/images/auto/tempat-wisata-di-eropa-untuk-pertama-kali.jpg"
+image_alt: "Tempat Wisata di Eropa untuk Pertama Kali"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-di-eropa-untuk-pertama-kali.jpg" | relative_url }}" alt="Tempat Wisata di Eropa untuk Pertama Kali" loading="lazy" decoding="async">
@@ -86,4 +91,3 @@ Yang terpenting, jangan terlalu membebani diri dengan ingin melihat semuanya dal
 ---
 
 Perjalanan Anda belum berakhir di sini. Temukan juga [berbagai inspirasi wisata](https://dgxximovie.com/) dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
