@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tempat Wisata Alam di Kalimantan"
-date: 2026-04-04 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tempat-wisata-alam-di-kalimantan.jpg"
 seo_title: "Tempat Wisata Alam di Kalimantan"
-description: "# Menyusuri Jantung Borneo: Pesona [Wisata](https://lelefilm.blogspot.com/2026/03/avengers-endgame-2019-tinjauan-lengkap.html) Alam Kalimantan yang Tak..."
-excerpt: "# Menyusuri Jantung Borneo: Pesona [Wisata](https://lelefilm.blogspot.com/2026/03/avengers-endgame-2019-tinjauan-lengkap.html) Alam Kalimantan yang Tak..."
-keywords: "tempat wisata alam di kalimantan, tempat wisata alam kalimantan, travel, wisata tempat wisata alam, panduan tempat wisata alam, tips tempat wisata alam"
-image_alt: "Tempat Wisata Alam di Kalimantan"
+keyword: "tempat wisata alam di kalimantan"
+date: 2026-04-04 07:00:00 +0700
+last_modified_at: 2026-05-12 17:34:45 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@magda-ehlers-pexels)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@magda-ehlers-pexels)"
+keywords: "travel, tempat, alam, kalimantan, wisata tempat alam kalimantan, panduan tempat alam kalimantan, tips tempat alam kalimantan"
+image: "/assets/images/auto/tempat-wisata-alam-di-kalimantan.jpg"
+image_alt: "Tempat Wisata Alam di Kalimantan"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tempat-wisata-alam-di-kalimantan.jpg" | relative_url }}" alt="Tempat Wisata Alam di Kalimantan" loading="lazy" decoding="async">
@@ -111,4 +116,3 @@ Menjelajahi Kalimantan adalah sebuah kehormatan. Keindahan alamnya yang luar bia
 ---
 
 Perjalanan [Anda belum](https://dgxximovie.com/) berakhir di sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
