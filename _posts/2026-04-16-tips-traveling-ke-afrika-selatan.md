@@ -1,16 +1,21 @@
 ---
 layout: post
 title: "Tips Traveling ke Afrika Selatan"
-date: 2026-04-16 07:00:00 +0700
-categories: [travel]
-image: "/assets/images/auto/tips-traveling-ke-afrika-selatan.jpg"
 seo_title: "Tips Traveling ke Afrika Selatan"
-description: "# Tips Traveling ke Afrika Selatan Udara kering, savana yang memanjang, dan kota-kota yang penuh warna—Afrika Selatan memang tak pernah kehabisan cerita..."
-excerpt: "# Tips Traveling ke Afrika Selatan Udara kering, savana yang memanjang, dan kota-kota yang penuh warna—Afrika Selatan memang tak pernah kehabisan cerita..."
-keywords: "tips traveling ke afrika selatan, tips traveling afrika selatan, travel, wisata tips traveling afrika, panduan tips traveling afrika, tips tips traveling afrika"
-image_alt: "Tips Traveling ke Afrika Selatan"
+keyword: "tips traveling ke afrika selatan"
+date: 2026-04-16 07:00:00 +0700
+last_modified_at: 2026-05-12 17:38:43 +0700
+sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+categories: ["travel"]
+tags: ["travel"]
+description: "Image source: Pexels (https://www.pexels.com/@ruben-verla-178201471)"
+excerpt: "Image source: Pexels (https://www.pexels.com/@ruben-verla-178201471)"
+keywords: "travel, tips, traveling, afrika, selatan, wisata tips traveling afrika, panduan tips traveling afrika, tips tips traveling afrika"
+image: "/assets/images/auto/tips-traveling-ke-afrika-selatan.jpg"
+image_alt: "Tips Traveling ke Afrika Selatan"
+seo_fixed_source: "sheet_keyword_h2p_v1"
 ---
 
 <img src="{{ "assets/images/auto/tips-traveling-ke-afrika-selatan.jpg" | relative_url }}" alt="Tips Traveling ke Afrika Selatan" loading="lazy" decoding="async">
@@ -91,4 +96,3 @@ Berjalan melintasi ragam lanskap Afrika Selatan—dari puncak gunung berwarna bi
 ---
 
 Perjalanan [Anda belum berakhir di](https://dgxximovie.com/) sini. Temukan juga berbagai inspirasi wisata dan hiburan menarik lainnya untuk mengisi waktu santai Anda.
-
