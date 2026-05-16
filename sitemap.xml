@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://travel.zynelion.com/</loc>
-    <lastmod>2026-05-16T19:56:53+07:00</lastmod>
+    <lastmod>2026-05-16T20:00:34+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://travel.zynelion.com/about.html</loc>
-    <lastmod>2026-05-16T19:56:53+07:00</lastmod>
+    <lastmod>2026-05-16T20:00:34+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -93,6 +93,12 @@
   <url>
     <loc>https://travel.zynelion.com/2026/05/13/thung-bua-tong-mae-hong-son-thailand.html</loc>
     <lastmod>2026-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://travel.zynelion.com/2026/05/16/nanjing-road-pedestrian-street-shanghai-china.html</loc>
+    <lastmod>2026-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
