@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://travel.zynelion.com/</loc>
-    <lastmod>2026-05-16T20:20:59+07:00</lastmod>
+    <lastmod>2026-05-16T21:29:10+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://travel.zynelion.com/about.html</loc>
-    <lastmod>2026-05-16T20:20:59+07:00</lastmod>
+    <lastmod>2026-05-16T21:29:10+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -110,6 +110,12 @@
   </url>
   <url>
     <loc>https://travel.zynelion.com/2026/05/16/niagara-falls-ontario-canada.html</loc>
+    <lastmod>2026-05-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://travel.zynelion.com/2026/05/16/passeig-de-gracia-barcelona-spain.html</loc>
     <lastmod>2026-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
