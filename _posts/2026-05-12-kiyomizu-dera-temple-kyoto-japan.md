@@ -4,7 +4,7 @@ title: "Kiyomizu-dera Temple: Pesona Kuil Legendaris Kyoto yang Wajib Dikunjungi
 seo_title: "Kiyomizu-dera Kyoto: Kuil Bersejarah di Higashiyama"
 keyword: "kiyomizu dera temple kyoto japan"
 date: 2026-05-12 20:32:20 +0700
-last_modified_at: 2026-07-12 15:32:35 +0700
+last_modified_at: 2026-07-12 15:42:12 +0700
 sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
