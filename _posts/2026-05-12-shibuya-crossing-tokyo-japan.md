@@ -4,7 +4,7 @@ title: "Shibuya Crossing Tokyo: Rasakan Jantung Kota Tokyo yang Berdenyut"
 seo_title: "Shibuya Crossing Tokyo: Persimpangan Ikonik Jepang"
 keyword: "shibuya crossing tokyo japan"
 date: 2026-05-12 20:32:10 +0700
-last_modified_at: 2026-07-12 15:32:33 +0700
+last_modified_at: 2026-07-12 15:42:10 +0700
 sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
