@@ -4,7 +4,7 @@ title: "Jelajahi Rue de Rivoli Paris: Surga Belanja & Sejarah di Jantung Kota Mo
 seo_title: "Rue de Rivoli Paris: Jalan Kota dekat Louvre"
 keyword: "rue de rivoli paris france"
 date: 2026-05-12 20:33:08 +0700
-last_modified_at: 2026-07-12 15:32:40 +0700
+last_modified_at: 2026-07-12 15:42:18 +0700
 sitemap: true
 robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 googlebot: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
