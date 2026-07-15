@@ -9,10 +9,10 @@ layout: default
   <div class="wrap">
     <div class="slider-wrap">
       <div class="slider-track" id="sliderTrack">
-        {% assign slider_count = 0 %}
-        {% for post in site.posts %}
-          {% if post.image and slider_count < 6 %}
-            {% assign slider_count = slider_count | plus: 1 %}
+        {%- assign slider_count = 0 -%}
+        {%- for post in site.posts -%}
+          {%- if post.image and slider_count < 6 -%}
+            {%- assign slider_count = slider_count | plus: 1 -%}
         <div class="slide {% if slider_count == 1 %}active{% endif %}">
           <div class="slide-bg" style="background-image: url('{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}')"></div>
           <div class="slide-overlay"></div>
@@ -23,20 +23,20 @@ layout: default
             <a class="slide-btn" href="{{ post.url | relative_url }}">Baca Artikel</a>
           </div>
         </div>
-          {% endif %}
-        {% endfor %}
+          {%- endif -%}
+        {%- endfor -%}
       </div>
       <button class="slider-arrow slider-prev" id="sliderPrev" aria-label="Previous">&#8592;</button>
       <button class="slider-arrow slider-next" id="sliderNext" aria-label="Next">&#8594;</button>
       <div class="slider-dots" id="sliderDots">
-        {% assign dot_count = 0 %}
-        {% for post in site.posts %}
-          {% if post.image and dot_count < 6 %}
-            {% assign dot_index = dot_count %}
-            {% assign dot_count = dot_count | plus: 1 %}
+        {%- assign dot_count = 0 -%}
+        {%- for post in site.posts -%}
+          {%- if post.image and dot_count < 6 -%}
+            {%- assign dot_index = dot_count -%}
+            {%- assign dot_count = dot_count | plus: 1 -%}
         <button class="dot {% if dot_count == 1 %}active{% endif %}" data-index="{{ dot_index }}" aria-label="Slide {{ dot_count }}"></button>
-          {% endif %}
-        {% endfor %}
+          {%- endif -%}
+        {%- endfor -%}
       </div>
     </div>
   </div>
@@ -56,16 +56,16 @@ layout: default
     </div>
 
     <div class="post-grid">
-      {% if paginator and paginator.posts %}
-        {% for post in paginator.posts %}
+      {%- if paginator and paginator.posts -%}
+        {%- for post in paginator.posts -%}
       <article class="post-card anim">
-        {% if post.image %}
+        {%- if post.image -%}
         <a href="{{ post.url | relative_url }}" class="post-card-thumb">
           <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
                alt="{{ post.title }}" width="800" height="500" loading="lazy" decoding="async">
           <div class="post-card-thumb-overlay"></div>
         </a>
-        {% endif %}
+        {%- endif -%}
         <div class="post-card-body">
           <div class="post-card-meta">
             <span class="post-card-cat">{{ post.categories | first | default: "Travel" }}</span>
@@ -76,17 +76,17 @@ layout: default
           <a class="post-card-readmore" href="{{ post.url | relative_url }}">Baca Selengkapnya <span>&rarr;</span></a>
         </div>
       </article>
-        {% endfor %}
-      {% else %}
-        {% for post in site.posts limit: 9 %}
+        {%- endfor -%}
+      {%- else -%}
+        {%- for post in site.posts limit: 9 -%}
       <article class="post-card anim">
-        {% if post.image %}
+        {%- if post.image -%}
         <a href="{{ post.url | relative_url }}" class="post-card-thumb">
           <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
                alt="{{ post.title }}" width="800" height="500" loading="lazy" decoding="async">
           <div class="post-card-thumb-overlay"></div>
         </a>
-        {% endif %}
+        {%- endif -%}
         <div class="post-card-body">
           <div class="post-card-meta">
             <span class="post-card-cat">{{ post.categories | first | default: "Travel" }}</span>
@@ -97,27 +97,27 @@ layout: default
           <a class="post-card-readmore" href="{{ post.url | relative_url }}">Baca Selengkapnya <span>&rarr;</span></a>
         </div>
       </article>
-        {% endfor %}
-      {% endif %}
+        {%- endfor -%}
+      {%- endif -%}
     </div>
 
-    {% if paginator and paginator.total_pages > 1 %}
+    {%- if paginator and paginator.total_pages > 1 -%}
     <nav class="home-pagination anim" aria-label="Navigasi artikel terbaru">
-      {% if paginator.previous_page %}
+      {%- if paginator.previous_page -%}
       <a class="home-page-btn" href="{{ paginator.previous_page_path | relative_url }}">&larr; Sebelumnya</a>
-      {% else %}
+      {%- else -%}
       <span class="home-page-btn is-disabled">&larr; Sebelumnya</span>
-      {% endif %}
+      {%- endif -%}
 
       <span class="home-page-info">Halaman {{ paginator.page }} dari {{ paginator.total_pages }}</span>
 
-      {% if paginator.next_page %}
+      {%- if paginator.next_page -%}
       <a class="home-page-btn" href="{{ paginator.next_page_path | relative_url }}">Berikutnya &rarr;</a>
-      {% else %}
+      {%- else -%}
       <span class="home-page-btn is-disabled">Berikutnya &rarr;</span>
-      {% endif %}
+      {%- endif -%}
     </nav>
-    {% endif %}
+    {%- endif -%}
 
   </div><!-- .content-area -->
 
@@ -138,39 +138,39 @@ layout: default
         <h3 class="widget-title">Artikel Populer</h3>
       </div>
       <ul class="popular-list">
-        {% assign popular_count = 0 %}
+        {%- assign popular_count = 0 -%}
 
-        {% comment %}
+        {%- comment -%}
           Real static-site popular logic:
           1) show posts manually marked popular: true or featured: true
           2) if none are marked, fallback to older image posts after the latest 9
           Hard max: 5 items. No full site.posts dump.
-        {% endcomment %}
-        {% for post in site.posts %}
-          {% if popular_count < 5 %}
-            {% if post.popular == true or post.featured == true %}
-              {% assign popular_count = popular_count | plus: 1 %}
+        {%- endcomment -%}
+        {%- for post in site.posts -%}
+          {%- if popular_count < 5 -%}
+            {%- if post.popular == true or post.featured == true -%}
+              {%- assign popular_count = popular_count | plus: 1 -%}
               <li class="popular-item">
-                {% if post.image %}
+                {%- if post.image -%}
                 <a href="{{ post.url | relative_url }}" class="popular-thumb">
                   <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
                        alt="{{ post.title }}" width="70" height="70" loading="lazy">
                 </a>
-                {% endif %}
+                {%- endif -%}
                 <div class="popular-info">
                   <a href="{{ post.url | relative_url }}" class="popular-title">{{ post.title | truncate: 55 }}</a>
                   <span class="popular-date">{{ post.date | date: "%d %b %Y" }}</span>
                 </div>
               </li>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor -%}
 
-        {% if popular_count == 0 %}
-          {% assign fallback_index = 0 %}
-          {% for post in site.posts %}
-            {% if forloop.index > 9 and post.image and fallback_index < 5 %}
-              {% assign fallback_index = fallback_index | plus: 1 %}
+        {%- if popular_count == 0 -%}
+          {%- assign fallback_index = 0 -%}
+          {%- for post in site.posts -%}
+            {%- if forloop.index > 9 and post.image and fallback_index < 5 -%}
+              {%- assign fallback_index = fallback_index | plus: 1 -%}
               <li class="popular-item">
                 <a href="{{ post.url | relative_url }}" class="popular-thumb">
                   <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
@@ -181,9 +181,9 @@ layout: default
                   <span class="popular-date">{{ post.date | date: "%d %b %Y" }}</span>
                 </div>
               </li>
-            {% endif %}
-          {% endfor %}
-        {% endif %}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
       </ul>
     </div>
 
@@ -193,12 +193,12 @@ layout: default
         <h3 class="widget-title">Label / Kategori</h3>
       </div>
       <div class="label-cloud">
-        {% assign all_cats = site.posts | map: "categories" | join: "," | split: "," | uniq | sort %}
-        {% for cat in all_cats limit: 20 %}
-          {% unless cat == "" %}
+        {%- assign all_cats = site.posts | map: "categories" | join: "," | split: "," | uniq | sort -%}
+        {%- for cat in all_cats limit: 20 -%}
+          {%- unless cat == "" -%}
           <a href="{{ '/' | relative_url }}" class="label-tag">{{ cat | strip }}</a>
-          {% endunless %}
-        {% endfor %}
+          {%- endunless -%}
+        {%- endfor -%}
         <a href="{{ '/' | relative_url }}" class="label-tag">Itinerary</a>
         <a href="{{ '/' | relative_url }}" class="label-tag">Budget Travel</a>
         <a href="{{ '/' | relative_url }}" class="label-tag">Asia</a>
@@ -213,12 +213,12 @@ layout: default
         <h3 class="widget-title">Artikel Terbaru</h3>
       </div>
       <ul class="recent-list">
-        {% for post in site.posts limit: 5 %}
+        {%- for post in site.posts limit: 5 -%}
         <li class="recent-item">
           <span class="recent-date">{{ post.date | date: "%d %b" }}</span>
           <a href="{{ post.url | relative_url }}" class="recent-title">{{ post.title | truncate: 50 }}</a>
         </li>
-        {% endfor %}
+        {%- endfor -%}
       </ul>
     </div>
 
@@ -228,15 +228,15 @@ layout: default
         <h3 class="widget-title">Arsip</h3>
       </div>
       <ul class="archive-list">
-        {% assign posts_by_month = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
-        {% for month in posts_by_month limit: 8 %}
+        {%- assign posts_by_month = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" -%}
+        {%- for month in posts_by_month limit: 8 -%}
         <li class="archive-item">
           <a href="{{ '/' | relative_url }}" class="archive-link">
             <span class="archive-month">{{ month.name }}</span>
             <span class="archive-count">{{ month.items | size }}</span>
           </a>
         </li>
-        {% endfor %}
+        {%- endfor -%}
       </ul>
     </div>
 
